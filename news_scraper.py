@@ -12,6 +12,7 @@ from tqdm import tqdm
 import re
 import json
 
+# NLTK downloads
 nltk.download('punkt', quiet=True)
 nltk.download('stopwords', quiet=True)
 nltk.download('wordnet', quiet=True)
@@ -23,18 +24,15 @@ def truncate_text_for_summarization(text, max_tokens=800):
     return ' '.join(tokens)
 
 def clean_article_text(text):
-    # Remove known filler lines that degrade summary quality
-    # For example, lines like "Advertisement · Scroll to continue"
+    # Remove known filler lines and advertisements
     lines = text.split('\n')
     cleaned_lines = []
     for line in lines:
         line = line.strip()
-        # Filter out lines that contain "Advertisement", "Scroll to continue", or similar patterns
         if "Advertisement" in line or "Scroll to continue" in line:
             continue
         cleaned_lines.append(line)
     cleaned_text = ' '.join(cleaned_lines)
-    # Normalize spacing
     cleaned_text = re.sub(r'\s+', ' ', cleaned_text).strip()
     return cleaned_text
 
@@ -58,8 +56,7 @@ def clean_text(text):
     return text
 
 def summarize_with_nlp(text, min_length=80, max_length=150):
-    # Add an instruction prompt for better summarization
-    instruction = "Summarize the following news article focusing on the global conflict details:\n\n"
+    instruction = "Summarize the following news article focusing on global conflict details:\n\n"
     text = instruction + text
     text = truncate_text_for_summarization(text, max_tokens=800)
     try:
@@ -84,34 +81,17 @@ def is_conflict_related(title, text, keywords):
 
 def is_us_domestic_only(title, text):
     combined_text = (title + " " + text).lower()
-
-    us_markers = [
-        "america ", "american ", " united states ", " u.s.", "usa", "washington", "white house", "pentagon",
-        "congress", "senate", "donald trump", "trump", "trump administration", "biden administration", "us president", "american politics"
-    ]
-
-    global_markers = [
-        "syria", "ukraine", "russia", "afghanistan", "iraq", "iran", "yemen", "libya", "somalia",
-        "mali", "congo", "pakistan", "india", "kashmir", "kurd", "palestine", "israel", "lebanon",
-        "taiwan", "china", "myanmar", "eritrea", "south sudan", "colombia", "venezuela",
-        "international", "global", "cross-border"
-    ]
-
+    us_markers = ["america ", "american ", "united states ", "u.s.", "usa", "washington", "white house", "pentagon", "congress"]
+    global_markers = ["syria", "ukraine", "russia", "afghanistan", "iraq", "iran", "yemen", "libya", "somalia"]
     has_us = any(um in combined_text for um in us_markers)
     has_global = any(gm in combined_text for gm in global_markers)
-
     if has_us and not has_global:
         return True
     return False
 
 def is_global_conflict(title, text):
     combined_text = (title + " " + text).lower()
-    global_markers = [
-        "syria", "ukraine", "russia", "afghanistan", "iraq", "iran", "yemen", "libya", "somalia",
-        "mali", "congo", "pakistan", "india", "kashmir", "kurd", "palestine", "israel", "lebanon",
-        "taiwan", "china", "myanmar", "eritrea", "south sudan", "colombia", "venezuela",
-        "international", "global", "cross-border"
-    ]
+    global_markers = ["syria", "ukraine", "russia", "afghanistan", "iraq", "iran", "yemen", "libya", "somalia"]
     return any(gm in combined_text for gm in global_markers)
 
 def parse_date(published_str):
@@ -133,27 +113,21 @@ def get_region(title, text):
         "Latin America": ["colombia", "venezuela"],
         "Global": ["international", "global", "cross-border"]
     }
-
     for region_name, markers in regions.items():
         if any(m in combined_text for m in markers):
             return region_name
     return None
 
-lowercase_words = {"a", "an", "the", "and", "but", "or", "nor", "for", "in", "on", "at", "to", "from", "by", "of"}
-
 def headline_style(title):
     words = title.strip().split()
     if not words:
         return title
-
     words[0] = words[0].capitalize()
-
     for i in range(1, len(words)):
         w = words[i].lower()
-        if w not in lowercase_words or w == "i":
+        if w not in {"a", "an", "the", "and", "but", "or", "nor", "for", "in", "on", "at", "to", "from", "by", "of"}:
             w = w.capitalize()
         words[i] = w
-
     return ' '.join(words)
 
 def create_news_snippet(entry, source, summarizer, conflict_keywords):
@@ -167,7 +141,6 @@ def create_news_snippet(entry, source, summarizer, conflict_keywords):
     if dt is None:
         dt = date_parser.parse(time.strftime('%Y-%m-%d'))
 
-    # Filter checks
     if not is_conflict_related(raw_title, article_text, conflict_keywords):
         return None
     if not is_global_conflict(raw_title, article_text):
@@ -179,10 +152,8 @@ def create_news_snippet(entry, source, summarizer, conflict_keywords):
     if not region:
         return None
 
-    cleaned_title = clean_text(raw_title)
-    styled_title = headline_style(cleaned_title)
+    styled_title = headline_style(raw_title)
     date_str = dt.strftime('%B %d, %Y')
-
     summary = summarize_with_nlp(article_text)
 
     snippet = {
@@ -199,10 +170,9 @@ def create_news_snippet(entry, source, summarizer, conflict_keywords):
 def monitor_rss_feeds(feeds, keywords, summarizer, interval=1800):
     print(f"Checking RSS feeds at {time.strftime('%Y-%m-%d %H:%M:%S')}")
     by_source = defaultdict(list)
-
     for source, url in feeds.items():
         feed = feedparser.parse(url)
-        entries = feed.entries[:20]  # Limit to first 20 entries for performance
+        entries = feed.entries[:10]
         if not entries:
             print(f"No entries found for {source} feed: {url}")
         for entry in tqdm(entries, desc=f"Processing {source}", unit="article"):
@@ -213,8 +183,7 @@ def monitor_rss_feeds(feeds, keywords, summarizer, interval=1800):
     selected_articles = []
     for source, articles in by_source.items():
         articles.sort(key=lambda x: x['date'], reverse=True)
-        top_ten = articles[:10]
-        selected_articles.extend(top_ten)
+        selected_articles.extend(articles[:5])
 
     with open("conflict_news.json", "w") as f:
         json.dump(selected_articles, f, indent=2)
@@ -233,11 +202,10 @@ conflict_keywords = [
     "explosion", "massacre", "atrocity"
 ]
 
-# Official feeds:
 rss_feeds = {
     "BBC": "http://feeds.bbci.co.uk/news/world/rss.xml",
-    "Reuters": "https://feeds.reuters.com/reuters/worldNews",
-    "AP": "https://feeds.apnews.com/apf-intl"
+    "Reuters": "https://openrss.org/www.reuters.com/world",
+    "AP": "https://openrss.org/apnews.com/apf-intl"
 }
 
 print("Initializing summarizer pipeline...")
