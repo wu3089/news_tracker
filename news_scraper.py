@@ -22,6 +22,22 @@ def truncate_text_for_summarization(text, max_tokens=800):
         tokens = tokens[:max_tokens]
     return ' '.join(tokens)
 
+def clean_article_text(text):
+    # Remove known filler lines that degrade summary quality
+    # For example, lines like "Advertisement · Scroll to continue"
+    lines = text.split('\n')
+    cleaned_lines = []
+    for line in lines:
+        line = line.strip()
+        # Filter out lines that contain "Advertisement", "Scroll to continue", or similar patterns
+        if "Advertisement" in line or "Scroll to continue" in line:
+            continue
+        cleaned_lines.append(line)
+    cleaned_text = ' '.join(cleaned_lines)
+    # Normalize spacing
+    cleaned_text = re.sub(r'\s+', ' ', cleaned_text).strip()
+    return cleaned_text
+
 def get_article_content(url):
     try:
         response = requests.get(url, timeout=10)
@@ -29,6 +45,7 @@ def get_article_content(url):
         soup = BeautifulSoup(response.content, 'html.parser')
         paragraphs = soup.find_all('p')
         article_text = ' '.join([p.get_text().replace('\xa0', ' ') for p in paragraphs if p])
+        article_text = clean_article_text(article_text)
         if not article_text.strip():
             raise ValueError("No article content found.")
         return article_text
@@ -40,7 +57,10 @@ def clean_text(text):
     text = re.sub(r'\s+', ' ', text).strip()
     return text
 
-def summarize_with_nlp(text, min_length=50, max_length=200):
+def summarize_with_nlp(text, min_length=80, max_length=150):
+    # Add an instruction prompt for better summarization
+    instruction = "Summarize the following news article focusing on the global conflict details:\n\n"
+    text = instruction + text
     text = truncate_text_for_summarization(text, max_tokens=800)
     try:
         summary = summarizer(text, max_length=max_length, min_length=min_length, do_sample=False)[0]['summary_text']
@@ -147,6 +167,7 @@ def create_news_snippet(entry, source, summarizer, conflict_keywords):
     if dt is None:
         dt = date_parser.parse(time.strftime('%Y-%m-%d'))
 
+    # Filter checks
     if not is_conflict_related(raw_title, article_text, conflict_keywords):
         return None
     if not is_global_conflict(raw_title, article_text):
@@ -175,17 +196,13 @@ def create_news_snippet(entry, source, summarizer, conflict_keywords):
     }
     return snippet
 
-def monitor_rss_feeds(feeds, keywords, summarizer, interval=3600):
-    # Instead of looping forever, let's just run once.
-    # If you want it to run forever, revert to while True.
-    # For GitHub Actions, one run is enough per trigger.
-    
+def monitor_rss_feeds(feeds, keywords, summarizer, interval=1800):
     print(f"Checking RSS feeds at {time.strftime('%Y-%m-%d %H:%M:%S')}")
     by_source = defaultdict(list)
 
     for source, url in feeds.items():
         feed = feedparser.parse(url)
-        entries = feed.entries[:20]  # Only consider first 20 entries per source
+        entries = feed.entries[:20]  # Limit to first 20 entries for performance
         if not entries:
             print(f"No entries found for {source} feed: {url}")
         for entry in tqdm(entries, desc=f"Processing {source}", unit="article"):
@@ -199,7 +216,6 @@ def monitor_rss_feeds(feeds, keywords, summarizer, interval=3600):
         top_ten = articles[:10]
         selected_articles.extend(top_ten)
 
-    # Save selected_articles to conflict_news.json
     with open("conflict_news.json", "w") as f:
         json.dump(selected_articles, f, indent=2)
 
@@ -207,7 +223,6 @@ def monitor_rss_feeds(feeds, keywords, summarizer, interval=3600):
         print("No matching articles found.")
     else:
         print(f"Generated conflict_news.json with {len(selected_articles)} articles.")
-
 
 conflict_keywords = [
     "war", "conflict", "battle", "attack", "military", "rebel", "bombing", "airstrike",
@@ -218,10 +233,11 @@ conflict_keywords = [
     "explosion", "massacre", "atrocity"
 ]
 
+# Official feeds:
 rss_feeds = {
     "BBC": "http://feeds.bbci.co.uk/news/world/rss.xml",
-    "Reuters": "https://feeds.feedburner.com/reuters/worldNews",
-    "AP": "https://feeds.apnews.com/apf-world"
+    "Reuters": "https://feeds.reuters.com/reuters/worldNews",
+    "AP": "https://feeds.apnews.com/apf-intl"
 }
 
 print("Initializing summarizer pipeline...")
