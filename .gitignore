@@ -1,0 +1,26 @@
+# Ignore the virtual environment
+venv/
+
+# Ignore Python bytecode files
+__pycache__/
+*.py[cod]
+
+# Ignore temporary files
+*.swp
+*.tmp
+
+# Ignore logs and databases
+*.log
+*.sqlite3
+
+# Ignore operating system files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE files
+.vscode/
+.idea/
+*.iml
+
+# Ignore output files
+conflict_news.json
