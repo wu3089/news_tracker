@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Global Conflict News Tracker</title>
+</head>
+<body>
+  <h1>Global Conflict News</h1>
+  <div id="articles"></div>
+  <script>
+    fetch('conflict_news.json')
+      .then(response => response.json())
+      .then(data => {
+        const container = document.getElementById('articles');
+        if (data.length === 0) {
+          container.innerHTML = '<p>No matching articles found.</p>';
+          return;
+        }
+        data.forEach(article => {
+          const articleDiv = document.createElement('div');
+          articleDiv.innerHTML = `
+            <h2>${article.title}</h2>
+            <p><strong>${article.date_str}</strong></p>
+            <p>${article.summary} (${article.source})</p>
+            <p><a href="${article.link}" target="_blank">Read more</a></p>
+            <hr/>
+          `;
+          container.appendChild(articleDiv);
+        });
+      })
+      .catch(err => {
+        document.getElementById('articles').innerHTML = '<p>Error loading articles.</p>';
+      });
+  </script>
+</body>
+</html>
