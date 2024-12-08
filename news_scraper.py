@@ -212,4 +212,12 @@ print("Initializing summarizer pipeline...")
 summarizer = pipeline("summarization", model="facebook/bart-large-cnn")
 print("Summarizer initialized.")
 
+# Initialize a text generation pipeline for paraphrasing
+paraphraser = pipeline("text2text-generation", model="t5-small")
+
+def paraphrase_title(title):
+    # Use the paraphraser to generate a paraphrased version of the title
+    paraphrased = paraphraser(f"paraphrase: {title}", max_length=50, num_return_sequences=1)
+    return paraphrased[0]['generated_text']
+
 monitor_rss_feeds(rss_feeds, conflict_keywords, summarizer, interval=1800)
