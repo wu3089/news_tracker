@@ -87,7 +87,7 @@ def is_us_domestic_only(title, text):
 
     us_markers = [
         "america ", "american ", " united states ", " u.s.", "usa", "washington", "white house", "pentagon",
-        "congress", "senate", "donald trump", "trump administration", "biden administration", "us president", "american politics"
+        "congress", "senate", "donald trump", "trump", "trump administration", "biden administration", "us president", "american politics"
     ]
 
     global_markers = [
