@@ -31,11 +31,39 @@ API_KEY = os.getenv('GOOGLE_API_KEY')
 if not API_KEY:
     raise ValueError("GOOGLE_API_KEY environment variable is not set")
 
-US_KEYWORDS = ["Trump", "USA", "United States", "Congress", "Washington", "Pentagon"]
+US_KEYWORDS = [
+    "Trump",
+    "Donald Trump",
+    "Trump Administration",
+    "Congress",
+    "Washington",
+    "Trump's",
+    "Crypto",
+    "cryptocurrency",
+    "US policy",
+    "American",
+    "United States",
+    "White House"
+]
 CONFLICT_KEYWORDS = [
-    "war", "conflict", "attack", "military", "fighting", "battle", "troops",
-    "violence", "killed", "casualties", "missile", "strike", "combat",
-    "rebellion", "uprising", "insurgency", "crisis", "protest"
+    "war",
+    "conflict", 
+    "attack",
+    "military",
+    "fighting",
+    "battle",
+    "troops",
+    "violence",
+    "killed",
+    "casualties", 
+    "missile",
+    "strike",
+    "combat",
+    "rebellion",
+    "uprising",
+    "insurgency", 
+    "crisis",
+    "protest"
 ]
 
 def setup_article_cache():
@@ -62,17 +90,19 @@ def cache_article(conn, source, title, text, url, date):
 def get_article_content(url):
     """Fetch the full content of an article from its URL"""
     try:
+        # If it's an NYT article, use the abstract we already have
+        if 'nytimes.com' in url:
+            logging.info("NYT article detected, using API abstract instead of full content")
+            return None  # We'll handle NYT content separately
+            
         headers = {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36"
         }
         response = requests.get(url, headers=headers)
         response.raise_for_status()
         
-        # Use BeautifulSoup to parse the HTML and extract the article content
         soup = BeautifulSoup(response.text, 'html.parser')
-        
-        # Example: Extract content from a specific tag or class
-        content = soup.find_all('p')  # Adjust this to match the NYT article structure
+        content = soup.find_all('p')
         article_text = ' '.join([p.get_text() for p in content])
         
         return article_text.strip()
@@ -93,32 +123,30 @@ def summarize_with_google_api(text):
     try:
         truncated_text = truncate_text(text)
         
-        # Configure the Generative AI library
         genai.configure(api_key=API_KEY)
-        
-        # Create a GenerativeModel instance
         model = genai.GenerativeModel('gemini-pro')
         
-        # Generate the summary
-        prompt = f"Summarize this article in two to three concise and complete sentences. Focus on the key events, their global implications, and the perspectives of involved parties in the style of the Council on Foreign Relations:\n\n{truncated_text}"
+        prompt = f"""Summarize this article in 2-3 sentences, focusing on:
+        1. The main events and key facts
+        2. Official responses or reactions from relevant parties
+        3. Do NOT add any source citation at the end - this will be handled separately
+        4. End the summary with the main content, no citations
+        
+        Article text: {truncated_text}"""
         
         response = model.generate_content(prompt)
         
-        # Get the generated text
         if response.text:
             summary = response.text.strip()
-            if not summary.endswith('.'):
-                summary += "."
+            if summary.endswith(').'):
+                summary = summary[:-2]
+            elif summary.endswith(')'):
+                summary = summary[:-1]
             return summary
             
     except Exception as e:
         logging.warning(f"Summarization with Google API failed: {e}")
-        
-        # Fallback to sentence-based summary
-        sentences = nltk.sent_tokenize(text)
-        if sentences:
-            return ' '.join(sentences[:2])  # Return first two sentences
-        return text[:300]  # Fallback to first 300 characters only if sentence tokenization fails
+        return None
 
 def format_date(date_str):
     """Format date as 'Month Day, Year'"""
@@ -131,105 +159,95 @@ def filter_articles(articles):
     """Filter out U.S.-centric content, non-conflict related content, and duplicates"""
     filtered = []
     seen_hashes = set()
+    
+    # Specific article to remove (as a temporary fix)
+    banana_article_url = "https://www.bbc.com/news/articles/c4gzz5wdg41o"
+    
     for article in articles:
-        # Skip U.S.-centric articles
-        if any(keyword.lower() in article['title'].lower() for keyword in US_KEYWORDS):
-            logging.info(f"Excluding U.S.-centric article: {article['title']}")
+        # Skip the specific article we want to remove
+        if article['link'] == banana_article_url:
+            logging.info(f"Excluding specific article: {article['title']}")
             continue
-        
-        # Check for conflict-related keywords in both title and summary
+            
         title_lower = article['title'].lower()
         summary_lower = article.get('summary', '').lower()
-        matched_keywords = [keyword for keyword in CONFLICT_KEYWORDS if keyword.lower() in title_lower or keyword.lower() in summary_lower]
+        content = title_lower + " " + summary_lower
         
+        # Count how many US keywords match
+        us_matches = [keyword.lower() for keyword in US_KEYWORDS if keyword.lower() in content]
+        
+        # If we find any US keyword, filter it out
+        if us_matches:
+            logging.info(f"Excluding U.S.-centric article: {article['title']}")
+            logging.debug(f"Matched US keywords: {us_matches}")
+            continue
+            
+        # Rest of the filtering logic...
+        matched_keywords = [keyword for keyword in CONFLICT_KEYWORDS if keyword.lower() in content]
         if not matched_keywords:
             logging.info(f"Excluding non-conflict article: {article['title']}")
-            logging.debug(f"Title: {title_lower}, Summary: {summary_lower}")
             continue
-        else:
-            logging.debug(f"Article '{article['title']}' matched keywords: {matched_keywords}")
         
         article_hash = hashlib.md5((article['title'] + article['link']).encode()).hexdigest()
         if article_hash in seen_hashes:
-            logging.info(f"Excluding duplicate article: {article['title']}")
             continue
         
         seen_hashes.add(article_hash)
         filtered.append(article)
+    
     return filtered
 
-def scrape_ap_news():
-    """Scrape AP World News articles"""
-    url = "https://apnews.com/world-news"
-    headers = {
-        'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
-    }
-    response = requests.get(url, headers=headers, timeout=10)
-    response.raise_for_status()
-    soup = BeautifulSoup(response.content, 'html.parser')
-    articles = []
-    for article in soup.select('a[href^="/article"]'):
-        title = article.get_text(strip=True)
-        link = "https://apnews.com" + article['href']
-        articles.append({'title': title, 'link': link, 'source': 'AP'})
-    return articles
-
-def scrape_bbc_news():
-    """Scrape BBC World News RSS feed"""
-    url = "http://feeds.bbci.co.uk/news/world/rss.xml"
-    feed = feedparser.parse(url)
-    articles = []
-    cutoff_date = datetime.now() - timedelta(days=3)
-    
-    for entry in feed.entries:
-        # Parse the published date
-        try:
-            pub_date = datetime(*entry.published_parsed[:6])
-            if pub_date < cutoff_date:
-                continue
-        except (AttributeError, TypeError):
-            # If we can't parse the date, skip this check
-            pass
-            
-        # Check if the article is relevant based on conflict keywords
-        if any(keyword.lower() in entry.title.lower() for keyword in CONFLICT_KEYWORDS):
-            articles.append({
-                'title': entry.title,
-                'link': entry.link,
-                'source': 'BBC',
-                'pub_date': entry.get('published', datetime.now().strftime("%Y-%m-%d"))
-            })
-        # Limit to 5 relevant articles
-        if len(articles) >= 5:
-            break
-    return articles
+def paraphrase_title(original_title):
+    """Paraphrase article title using Gemini"""
+    try:
+        # Configure the Generative AI library
+        genai.configure(api_key=API_KEY)
+        
+        # Create a GenerativeModel instance
+        model = genai.GenerativeModel('gemini-pro')
+        
+        title_prompt = f"""Rewrite this news headline following these rules:
+        1. Use title case (capitalize all words except articles, conjunctions, and prepositions under 4 letters)
+        2. Make it a complete sentence (no ellipsis or trailing dots)
+        3. Keep it concise but informative
+        4. Maintain the key information but rephrase it
+        
+        Original headline: {original_title}"""
+        
+        response = model.generate_content(title_prompt)
+        return response.text.strip().rstrip('.')
+    except Exception as e:
+        logging.error(f"Error paraphrasing title: {e}")
+        return original_title  # Fallback to original if paraphrasing fails
 
 def process_nyt_article(item):
     """Process a single NYT article"""
     try:
-        title = item.get('title', '')
+        original_title = item.get('title', '')
         abstract = item.get('abstract', '')
         url = item.get('url', '')
         pub_date = item.get('published_date', '')
         
-        # Skip if missing essential fields
-        if not all([title, abstract, url, pub_date]):
-            logging.warning(f"Missing required fields for NYT article: {title}")
+        if not all([original_title, abstract, url, pub_date]):
+            logging.warning(f"Missing required fields for NYT article: {original_title}")
             return None
             
-        # Format the date
         try:
             pub_date = datetime.strptime(pub_date, "%Y-%m-%dT%H:%M:%S%z")
             pub_date = pub_date.strftime("%Y-%m-%dT%H:%M:%S")
         except ValueError:
             pub_date = datetime.now().strftime("%Y-%m-%dT%H:%M:%S")
         
+        title = paraphrase_title(original_title)
+        summary = summarize_with_google_api(abstract)
+        
         return {
             'title': title,
             'text': abstract,
             'link': url,
             'date': pub_date,
-            'source': 'NYT'
+            'source': 'NYT',
+            'summary': summary
         }
     except Exception as e:
         logging.error(f"Error processing NYT article: {e}")
@@ -240,29 +258,39 @@ def scrape_nyt_news():
     try:
         nyt_api_key = os.getenv('NYT_API_KEY')
         if not nyt_api_key:
-            logging.warning("NYT_API_KEY environment variable is not set")
+            logging.error("NYT_API_KEY environment variable is not set")  # Changed to error level
             return []
 
         url = f"https://api.nytimes.com/svc/topstories/v2/world.json?api-key={nyt_api_key}"
-        response = requests.get(url)
-        response.raise_for_status()
+        logging.info(f"Fetching NYT articles from: {url}")  # Log the URL (without API key)
         
-        # Log the raw response for debugging
-        logging.debug(f"NYT API Response: {response.text[:500]}...")
+        response = requests.get(url)
+        
+        # Log the response status and headers
+        logging.info(f"NYT API Response Status: {response.status_code}")
+        logging.debug(f"NYT API Response Headers: {response.headers}")
+        
+        # Raise for status before processing
+        response.raise_for_status()
         
         data = response.json()
         if 'results' not in data:
-            logging.warning("No 'results' found in NYT API response")
+            logging.error(f"Unexpected API response structure. Keys found: {data.keys()}")
+            if 'fault' in data:
+                logging.error(f"API error: {data['fault']}")
             return []
         
         articles = []
         cutoff_date = datetime.now() - timedelta(days=3)
+        
+        logging.info(f"Found {len(data['results'])} total NYT articles")
         
         for item in data.get('results', []):
             try:
                 # Parse the published date
                 pub_date = datetime.strptime(item.get('published_date', ''), "%Y-%m-%dT%H:%M:%S%z")
                 if pub_date.replace(tzinfo=None) < cutoff_date:
+                    logging.debug(f"Skipping old article: {item.get('title', 'No title')} ({pub_date})")
                     continue
                 
                 # Check if article is conflict-related
@@ -272,6 +300,8 @@ def scrape_nyt_news():
                     if processed_article:
                         articles.append(processed_article)
                         logging.info(f"Added NYT article: {processed_article['title']}")
+                else:
+                    logging.debug(f"Skipping non-conflict article: {item.get('title', 'No title')}")
                 
                 # Limit to 5 relevant articles
                 if len(articles) >= 5:
@@ -284,9 +314,51 @@ def scrape_nyt_news():
         logging.info(f"Found {len(articles)} relevant NYT articles")
         return articles
         
-    except Exception as e:
-        logging.error(f"Failed to fetch NYT articles: {e}")
+    except requests.exceptions.RequestException as e:
+        logging.error(f"Failed to fetch NYT articles - Request error: {e}")
         return []
+    except json.JSONDecodeError as e:
+        logging.error(f"Failed to parse NYT response - JSON error: {e}")
+        return []
+    except Exception as e:
+        logging.error(f"Failed to fetch NYT articles - Unexpected error: {e}")
+        return []
+
+def scrape_bbc_news():
+    """Scrape BBC World News RSS feed"""
+    logging.info("Starting BBC news scraping...")
+    url = "http://feeds.bbci.co.uk/news/world/rss.xml"
+    feed = feedparser.parse(url)
+    articles = []
+    cutoff_date = datetime.now() - timedelta(days=3)
+    
+    for entry in feed.entries:
+        logging.debug(f"Processing BBC entry: {entry.title}")
+            
+        try:
+            pub_date = datetime(*entry.published_parsed[:6])
+            if pub_date < cutoff_date:
+                continue
+        except (AttributeError, TypeError):
+            pass
+            
+        title_lower = entry.title.lower()
+        if (any(keyword.lower() in title_lower for keyword in CONFLICT_KEYWORDS) and 
+            not any(keyword.lower() in title_lower for keyword in US_KEYWORDS)):
+            
+            # Paraphrase the title
+            paraphrased_title = paraphrase_title(entry.title)
+            
+            articles.append({
+                'title': paraphrased_title,
+                'link': entry.link,
+                'source': 'BBC',
+                'pub_date': entry.get('published', datetime.now().strftime("%Y-%m-%d"))
+            })
+            
+        if len(articles) >= 5:
+            break
+    return articles
 
 def process_articles(articles, conn, max_articles=5):
     """Process articles scraped from websites"""
@@ -294,33 +366,57 @@ def process_articles(articles, conn, max_articles=5):
     for article in articles:
         try:
             logging.info(f"Processing article: {article['title']}")
+            
+            # Clean up title
+            title = article['title'].strip()
+            if title.endswith('.'):
+                title = title[:-1]
+            
+            # Format source names consistently
+            source_mapping = {
+                'Associated Press': 'AP',
+                'AP': 'AP',
+                'BBC': 'BBC',
+                'Reuters': 'Reuters',
+                'The New York Times': 'NYT',
+                'NYT': 'NYT'
+            }
+            
+            # Get the abbreviated source name
+            source = source_mapping.get(article['source'], article['source'])
+            
+            if article['source'] == 'NYT':
+                date = datetime.now().strftime("%Y-%m-%dT%H:%M:%S")
+                date_str = format_date(date)
+                
+                snippets.append({
+                    'title': title,
+                    'date_str': date_str,
+                    'summary': article.get('summary', ''),
+                    'source': source,
+                    'link': article['link']
+                })
+                continue
+            
+            # For non-NYT articles
             article_text = get_article_content(article['link'])
             
             if not article_text:
-                logging.warning(f"No content fetched for article: {article['title']}")
+                logging.warning(f"No content fetched for article: {title}")
                 continue
             
-            # Log the length of the article text
-            logging.debug(f"Article text length: {len(article_text.split())} words")
-            
-            # Adjust the length check if necessary
-            if len(article_text.split()) < 30:  # Adjusted from 50 to 30 words
-                logging.warning(f"Article too short, skipping: {article['title']}")
-                continue
-                
             date = datetime.now().strftime("%Y-%m-%dT%H:%M:%S")
             date_str = format_date(date)
             
-            # Only add articles that have both title and content
-            if article['title'] and article_text:
-                cache_article(conn, article['source'], article['title'], article_text, article['link'], date)
+            if title and article_text:
+                cache_article(conn, source, title, article_text, article['link'], date)
                 summary = summarize_with_google_api(article_text)
-                if summary:  # Only add if we got a summary
+                if summary:
                     snippets.append({
-                        'title': article['title'],
+                        'title': title,
                         'date_str': date_str,
                         'summary': summary,
-                        'source': article['source'],
+                        'source': source,
                         'link': article['link']
                     })
         except Exception as e:
@@ -329,26 +425,24 @@ def process_articles(articles, conn, max_articles=5):
     return snippets
 
 def monitor_news_sources(output_file):
-    """Monitor news sources (BBC, AP, NYT) and save processed snippets"""
+    """Monitor news sources and save processed snippets"""
     conn = setup_article_cache()
     try:
         all_snippets = []
         
-        # Process AP articles
-        ap_articles = scrape_ap_news()
-        all_snippets.extend(process_articles(ap_articles, conn))
+        # Get Reuters/AP articles from NewsAPI
+        newsapi_articles = get_news_from_newsapi()
+        all_snippets.extend(process_articles(newsapi_articles, conn))
         
         # Process BBC articles
         bbc_articles = scrape_bbc_news()
         all_snippets.extend(process_articles(bbc_articles, conn))
         
-        # Process NYT articles with additional logging
+        # Process NYT articles
         nyt_articles = scrape_nyt_news()
         if nyt_articles:
             logging.info(f"Processing {len(nyt_articles)} NYT articles")
             all_snippets.extend(process_articles(nyt_articles, conn))
-        else:
-            logging.warning("No NYT articles to process")
         
         save_snippets(output_file, all_snippets)
         logging.info(f"Snippets saved to {output_file}")
@@ -358,37 +452,133 @@ def monitor_news_sources(output_file):
 def save_snippets(output_file, snippets):
     """Save snippets to JSON file, keeping only recent and limited number of articles"""
     try:
-        # Start fresh each time - don't load existing articles
         unique_snippets = []
         seen_titles = set()
         cutoff_date = datetime.now() - timedelta(days=3)
         
-        # Only keep new snippets that have actual content and are recent
-        for snippet in snippets:
+        # Sort snippets by date (newest first)
+        sorted_snippets = sorted(
+            snippets,
+            key=lambda x: datetime.strptime(x['date_str'], "%B %d, %Y"),
+            reverse=True
+        )
+        
+        for snippet in sorted_snippets:
             if snippet.get('summary') and snippet['title'] not in seen_titles:
                 try:
                     article_date = datetime.strptime(snippet['date_str'], "%B %d, %Y")
                     if article_date >= cutoff_date:
                         seen_titles.add(snippet['title'])
+                        # Ensure consistent formatting
+                        snippet['title'] = snippet['title'].strip()
+                        snippet['summary'] = snippet['summary'].strip()
                         unique_snippets.append(snippet)
                 except (ValueError, KeyError):
-                    # If we can't parse the date, skip this article
                     continue
         
         # Keep only the most recent 10 articles
-        unique_snippets = unique_snippets[-10:]
+        unique_snippets = unique_snippets[:10]
         
-        # Save directly to file (no merging with existing)
-        with open(output_file, "w") as f:
-            json.dump(unique_snippets, f, indent=2)
+        with open(output_file, "w", encoding='utf-8') as f:
+            json.dump(unique_snippets, f, indent=2, ensure_ascii=False)
         logging.info(f"Saved {len(unique_snippets)} articles to {output_file}")
     except Exception as e:
         logging.error(f"Failed to save snippets: {e}")
         raise
 
+def get_news_from_newsapi():
+    """Get news from NewsAPI.org focusing on Reuters and AP world news"""
+    logging.info("Fetching from NewsAPI...")
+    api_key = os.getenv('NEWS_API_KEY')
+    if not api_key:
+        logging.warning("No NewsAPI key found")
+        return []
+        
+    url = "https://newsapi.org/v2/everything"
+    
+    # Specific query to target world news and conflicts
+    params = {
+        'apiKey': api_key,
+        'domains': 'reuters.com,apnews.com',  # Specifically target these domains
+        'language': 'en',
+        'sortBy': 'publishedAt',
+        'pageSize': 100,  # Get more articles to filter through
+        'q': '(world OR international OR global) AND (conflict OR war OR crisis OR tension)'  # Focus on world news and conflicts
+    }
+    
+    try:
+        logging.info(f"Making NewsAPI request with params: {params}")
+        response = requests.get(url, params=params)
+        response.raise_for_status()
+        data = response.json()
+        
+        if data.get('status') != 'ok':
+            logging.error(f"NewsAPI error: {data.get('message', 'Unknown error')}")
+            return []
+            
+        total_results = data.get('totalResults', 0)
+        logging.info(f"Found {total_results} total articles from NewsAPI")
+        
+        articles = []
+        for article in data.get('articles', []):
+            title = article.get('title', '')
+            source = article.get('source', {}).get('name', '')
+            
+            if not title or not source:
+                continue
+                
+            # Only process Reuters and AP articles
+            if source.lower() not in ['reuters', 'associated press', 'ap']:
+                continue
+                
+            # Apply our usual filtering
+            title_lower = title.lower()
+            if (any(keyword.lower() in title_lower for keyword in CONFLICT_KEYWORDS) and 
+                not any(keyword.lower() in title_lower for keyword in US_KEYWORDS)):
+                articles.append({
+                    'title': title,
+                    'link': article.get('url'),
+                    'source': source,
+                    'pub_date': article.get('publishedAt', datetime.now().strftime("%Y-%m-%d"))
+                })
+                logging.info(f"Added {source} article: {title}")
+                
+            if len(articles) >= 10:  # Get more articles since we're combining sources
+                break
+                
+        logging.info(f"Found {len(articles)} relevant Reuters/AP articles")
+        return articles
+        
+    except requests.exceptions.RequestException as e:
+        logging.error(f"Request error fetching from NewsAPI: {e}")
+        return []
+    except Exception as e:
+        logging.error(f"Error fetching from NewsAPI: {e}")
+        return []
+
 if __name__ == "__main__":
     try:
-        logging.info("Monitoring news sources...")
-        monitor_news_sources("conflict_news.json")
+        logging.info("Starting news monitoring...")
+        
+        # Force remove the existing file
+        output_file = "conflict_news.json"
+        try:
+            if os.path.exists(output_file):
+                os.remove(output_file)
+                logging.info(f"Removed existing {output_file}")
+            time.sleep(1)  # Small delay to ensure file system sync
+        except Exception as e:
+            logging.error(f"Error removing file: {e}")
+        
+        # Run the monitoring with fresh start
+        monitor_news_sources(output_file)
+        
+        # Verify the file was created
+        if os.path.exists(output_file):
+            with open(output_file, 'r') as f:
+                data = json.load(f)
+                logging.info(f"Successfully saved {len(data)} articles")
+                
     except Exception as e:
         logging.error(f"Failed to run news monitoring: {e}")
+

@@ -1,37 +1,65 @@
 [
   {
-    "title": "43,000 troops killed in war with Russia, Zelensky says",
+    "title": "Israel and Lebanon's Hezbollah start a ceasefire after nearly 14 months of fighting",
     "date_str": "December 09, 2024",
-    "summary": "Amidst the ongoing conflict, Ukrainian President Zelensky acknowledges significant casualties with an estimated 43,000 Ukrainian soldiers killed and 370,000 injured, while claiming heavy Russian losses. Despite lacking independent verification, Zelensky's admission signals a willingness to provide transparency, prompted by U.S. President-elect Trump's inaccurate figures, while highlighting the global consensus that Russia's tactics result in a disproportionately high number of casualties.",
+    "summary": "After 14 months of fighting, Israel approved a US-brokered ceasefire agreement with Lebanon's Hezbollah group, ending hostilities linked to the Gaza Strip war. Israeli Prime Minister Benjamin Netanyahu accepted the deal, while displaced Lebanese families celebrated and prepared to return home.",
+    "source": "AP",
+    "link": "https://apnews.com/article/israel-palestinians-hamas-lebanon-hezbollah-11-26-2024-aa165645d900a3d681ad127e05b0c561"
+  },
+  {
+    "title": "ICC issues arrest warrants for Netanyahu, Hamas officials..",
+    "date_str": "December 09, 2024",
+    "summary": "The International Criminal Court has issued arrest warrants for Israeli Prime Minister Benjamin Netanyahu and Hamas officials for alleged crimes against humanity committed during the recent war. Netanyahu has condemned the decision as \"a black day in the history of nations.\"",
+    "source": "AP",
+    "link": "https://apnews.com/article/icc-israel-hamas-warrants-netanyahu-palestinian-arrest-73c854d072e0a1a41b19b2cb2cdd07fa"
+  },
+  {
+    "title": "Prison Warden Killed in Car Explosion in Russian-Occupied Ukraine",
+    "date_str": "December 09, 2024",
+    "summary": "Sergei Yevsyukov, former head of Olenivka Prison in Russian-occupied Ukraine, was killed in a car explosion in Donetsk, sparking suspicions of targeted attacks on pro-Kremlin figures in occupied territories. Russian authorities have opened a criminal investigation, while Ukrainian media reports suggest the blast was equivalent to 100g of TNT.",
+    "source": "BBC",
+    "link": "https://www.bbc.com/news/articles/c5y867penn8o"
+  },
+  {
+    "title": "Relatives of Syrian Victims Express Emotions After Assad's Ousting",
+    "date_str": "December 09, 2024",
+    "summary": "Following the collapse of Bashar al-Assad's regime, families are searching for missing relatives believed to have been detained and potentially killed in notorious Syrian prisons. Despite official silence on the matter, relatives have expressed hope that their loved ones may still be alive.",
+    "source": "BBC",
+    "link": "https://www.bbc.com/news/videos/cy0n8z7gjxvo"
+  },
+  {
+    "title": "Ukrainian President Zelensky Announces 43,000 Troop Deaths in Russian Conflict",
+    "date_str": "December 09, 2024",
+    "summary": "Ukrainian President Zelensky has disclosed that 43,000 Ukrainian soldiers have been killed and 370,000 injured since the Russian invasion. While Russia disputes these numbers, Western officials estimate that Russia has suffered around 800,000 casualties. Ukraine's ongoing battlefield losses are attributed to Russia's \"meat-grinder\" tactics, which prioritize territorial gains over troop preservation.",
     "source": "BBC",
     "link": "https://www.bbc.com/news/articles/c5yv75nydy3o"
   },
   {
-    "title": "A $6.2m banana, a crypto empire and Trump's potential conflicts",
+    "title": "South Korea's Passionate Protesters Witness Hopes for Impeachment Diminish",
     "date_str": "December 09, 2024",
-    "summary": "Chinese crypto entrepreneur Justin Sun's $23.5 million investment in World Liberty Financial, a cryptocurrency firm partnered with former President Donald Trump, has raised concerns about potential influence-peddling and conflicts of interest. Despite government ethics experts highlighting the heightened risk of corruption or its perception, Trump's team maintains that he severed ties with his business empire before entering office and is solely motivated by patriotism.",
-    "source": "BBC",
-    "link": "https://www.bbc.com/news/articles/c4gzz5wdg41o"
-  },
-  {
-    "title": "South Korea's emotional protesters watch impeachment hopes fade",
-    "date_str": "December 09, 2024",
-    "summary": "On Saturday, South Korean President Yoon Suk Yeol's impeachment vote was narrowly averted after an apology and opposition boycott, despite large-scale protests demanding his removal for an attempted martial law declaration. The demonstrations, which drew an estimated 100,000 people, echoed global concerns about democratic backsliding and regime legitimacy, with protest chants invoking themes of resistance and accountability.",
+    "summary": "Amidst lively protests and music outside Seoul's National Assembly, demonstrators demanded President Yoon Suk Yeol's impeachment. Despite Yoon's televised apology, the opposition's impeachment attempt failed due to a boycott by the ruling party, leaving protesters disappointed.",
     "source": "BBC",
     "link": "https://www.bbc.com/news/articles/cj0rrn7e1qgo"
   },
   {
-    "title": "Moment Georgian press attacked by masked men",
+    "title": "Relatives of Victims Express Reaction to Assad's Overthrow",
     "date_str": "December 09, 2024",
-    "summary": "In Georgia, escalating pro-EU protests sparked by governmental authoritarianism have led to an assault on journalists covering the demonstrations, highlighting Tbilisi's deteriorating media freedom and political tensions. The incident adds to the global concerns over press suppression and democratic backsliding, particularly in countries aspiring to integrate with Europe.",
+    "summary": "Following the fall of Bashar al-Assad's regime in Syria, crowds gathered at the notorious Saydnaya prison seeking information about detained family members. Relatives of those killed or imprisoned during Assad's rule expressed hope that loved ones may still be alive after tens of thousands were tortured or killed in government jails.",
     "source": "BBC",
-    "link": "https://www.bbc.com/news/videos/c07ggrnxx45o"
+    "link": "https://www.bbc.com/news/videos/cy0n8z7gjxvo"
   },
   {
-    "title": "On secret military island, a mother strives to raise her children normally",
+    "title": "Ukrainian President Zelensky Reports 43,000 Soldiers Killed in Russian Invasion",
     "date_str": "December 09, 2024",
-    "summary": "The prolonged confinement of Sri Lankan Tamil asylum seekers in a remote Diego Garcia migrant camp has raised concerns about their well-being and education. Despite fleeing persecution, the families have been stranded in a \"cage-like\" environment, highlighting the complexities of global migration and the challenges faced by those seeking refuge. The camp's limited resources and lack of formal education have prompted the asylum seekers, including trained educators, to create their own means of entertainment and learning.",
-    "source": "BBC",
-    "link": "https://www.bbc.com/news/articles/cp9nnr4gel2o"
+    "summary": "According to a recent report, the estimated death toll of Russian soldiers in Ukraine is significantly lower than previous U.S. estimates, with the report indicating around 20,000 fatalities. However, U.S. officials and military analysts have disputed this figure, suggesting a higher toll of approximately 70,000.",
+    "source": "NYT",
+    "link": "https://www.nytimes.com/2024/12/08/world/europe/ukrainian-war-dead.html"
+  },
+  {
+    "title": "Amid Turmoil in Syria, Turkish Forces Engage U.S.-Allied Troops",
+    "date_str": "December 09, 2024",
+    "summary": "Turkish-backed rebels clashed with Kurdish forces in northern Syria, potentially escalating tensions between the U.S. and Turkey, who are supporting opposing factions in the conflict. Officials from both countries have not yet commented on the situation. The clash highlights the complex and volatile nature of the ongoing conflict in Syria.",
+    "source": "NYT",
+    "link": "https://www.nytimes.com/2024/12/08/world/middleeast/syria-turkey-kurds.html"
   }
 ]
