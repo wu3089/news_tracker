@@ -24,3 +24,7 @@ Thumbs.db
 
 # Ignore output files
 conflict_news.json
+
+# Ignore environment variables
+.env
+.env.test
