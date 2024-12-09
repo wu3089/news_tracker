@@ -10,6 +10,7 @@ from datetime import datetime
 import hashlib
 import os
 import feedparser
+from dotenv import load_dotenv
 
 # Setup logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -17,8 +18,8 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 # NLTK setup
 nltk.download('punkt', quiet=True)
 
-# Your API key
-API_KEY = " "
+# Get API key from environment variable
+API_KEY = os.getenv('GOOGLE_API_KEY')
 if not API_KEY:
     raise ValueError("GOOGLE_API_KEY environment variable is not set")
 
@@ -218,6 +219,7 @@ def save_snippets(output_file, snippets):
 if __name__ == "__main__":
     try:
         logging.info("Monitoring news sources...")
+        load_dotenv()
         monitor_news_sources("conflict_news.json")
     except Exception as e:
         logging.error(f"Failed to run news monitoring: {e}")
