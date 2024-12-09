@@ -136,10 +136,24 @@ def filter_articles(articles):
         if any(keyword.lower() in article['title'].lower() for keyword in US_KEYWORDS):
             logging.info(f"Excluding U.S.-centric article: {article['title']}")
             continue
+        
+        # Check for conflict-related keywords in both title and summary
+        title_lower = article['title'].lower()
+        summary_lower = article.get('summary', '').lower()
+        matched_keywords = [keyword for keyword in CONFLICT_KEYWORDS if keyword.lower() in title_lower or keyword.lower() in summary_lower]
+        
+        if not matched_keywords:
+            logging.info(f"Excluding non-conflict article: {article['title']}")
+            logging.debug(f"Title: {title_lower}, Summary: {summary_lower}")
+            continue
+        else:
+            logging.debug(f"Article '{article['title']}' matched keywords: {matched_keywords}")
+        
         article_hash = hashlib.md5((article['title'] + article['link']).encode()).hexdigest()
         if article_hash in seen_hashes:
             logging.info(f"Excluding duplicate article: {article['title']}")
             continue
+        
         seen_hashes.add(article_hash)
         filtered.append(article)
     return filtered
