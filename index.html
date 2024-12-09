@@ -256,7 +256,7 @@
                     <h2>${article.title}</h2>
                     <div class="date">${article.date_str}</div>
                     <div class="summary">
-                        ${article.summary} ${article.link ? 
+                        ${article.summary.replace(/\.$/, '')} ${article.link ? 
                             `<a href="${article.link}" target="_blank">(${article.source})</a>.` : 
                             `(${article.source}).`}
                     </div>
