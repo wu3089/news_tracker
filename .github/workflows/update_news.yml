@@ -37,6 +37,13 @@ jobs:
           pwd
           ls -la
 
+      - name: Setup NLTK Data
+        run: |
+          mkdir -p /usr/local/share/nltk_data
+          python -c "import nltk; nltk.download('punkt', download_dir='/usr/local/share/nltk_data')"
+          python -c "import nltk; nltk.download('words', download_dir='/usr/local/share/nltk_data')"
+          python -c "import nltk; nltk.data.path.append('/usr/local/share/nltk_data')"
+
       - name: Run script with debug
         env:
           GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}

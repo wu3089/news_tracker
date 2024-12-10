@@ -26,12 +26,22 @@ logging.basicConfig(
 # NLTK setup
 def setup_nltk():
     try:
+        # Only download what we actually use
         nltk.download('punkt', quiet=True)
-        nltk.download('punkt_tab', quiet=True)
-        nltk.download('averaged_perceptron_tagger', quiet=True)
+        nltk.download('words', quiet=True)
+        
         # Create NLTK data directory if it doesn't exist
         nltk_data_dir = os.path.expanduser('~/nltk_data')
         os.makedirs(nltk_data_dir, exist_ok=True)
+        
+        # Verify downloads
+        try:
+            nltk.data.find('tokenizers/punkt')
+            nltk.data.find('corpora/words')
+            logging.info("NLTK resources verified successfully")
+        except LookupError as e:
+            logging.error(f"NLTK resource verification failed: {e}")
+            
     except Exception as e:
         logging.warning(f"NLTK setup warning: {e}")
 
@@ -117,8 +127,16 @@ def get_article_content(url):
 
 def truncate_text(text, max_tokens=500):
     """Truncate text to a safe length for summarization"""
-    tokens = nltk.word_tokenize(text)
-    return ' '.join(tokens[:max_tokens])
+    try:
+        # Use basic string splitting as fallback if NLTK fails
+        words = text.split()
+        if len(words) > max_tokens:
+            return ' '.join(words[:max_tokens])
+        return text
+    except Exception as e:
+        logging.warning(f"Error in truncate_text: {e}")
+        # Super safe fallback - just truncate the string
+        return text[:2000]
 
 def summarize_with_google_api(text):
     """Summarize text using Google's Generative AI with error handling"""
