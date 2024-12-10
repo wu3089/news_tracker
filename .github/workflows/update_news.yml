@@ -32,18 +32,15 @@ jobs:
           GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
           NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
           NYT_API_KEY: ${{ secrets.NYT_API_KEY }}
-        run: python news_scraper.py
-
-      - name: Check for changes
-        id: check_changes
         run: |
-          git diff --quiet conflict_news.json || echo "changes=true" >> $GITHUB_OUTPUT
+          python -u news_scraper.py
+          echo "Content of conflict_news.json after script:"
+          cat conflict_news.json
 
-      - name: Commit and push if changed
-        if: steps.check_changes.outputs.changes == 'true'
+      - name: Commit and push changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add conflict_news.json
-          git commit -m "Update conflict news [skip ci]"
-          git push
+          git commit -m "Update conflict news [skip ci]" || echo "No changes to commit"
+          git push origin main || echo "No changes to push"
