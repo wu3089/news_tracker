@@ -24,9 +24,19 @@ logging.basicConfig(
 )
 
 # NLTK setup
-nltk.download('punkt')
-nltk.download('punkt_tab')
-nltk.download('averaged_perceptron_tagger')
+def setup_nltk():
+    try:
+        nltk.download('punkt', quiet=True)
+        nltk.download('punkt_tab', quiet=True)
+        nltk.download('averaged_perceptron_tagger', quiet=True)
+        # Create NLTK data directory if it doesn't exist
+        nltk_data_dir = os.path.expanduser('~/nltk_data')
+        os.makedirs(nltk_data_dir, exist_ok=True)
+    except Exception as e:
+        logging.warning(f"NLTK setup warning: {e}")
+
+# Call setup at start
+setup_nltk()
 
 # Get API keys from environment variables
 API_KEY = os.getenv('GOOGLE_API_KEY')
@@ -542,6 +552,27 @@ def get_news_from_newsapi():
     except Exception as e:
         logging.error(f"Error fetching from NewsAPI: {e}")
         return []
+
+def save_to_json(articles, output_file='conflict_news.json'):
+    try:
+        if not articles:
+            logging.error("No articles to save!")
+            # Create minimal valid JSON with error message
+            articles = [{
+                "title": "Error: No articles found",
+                "url": "",
+                "source": "system",
+                "published": datetime.now().isoformat(),
+                "summary": "The news scraper encountered issues. Please check the logs."
+            }]
+        
+        with open(output_file, 'w', encoding='utf-8') as f:
+            json.dump(articles, f, indent=2, ensure_ascii=False)
+            logging.info(f"Saved {len(articles)} articles to {output_file}")
+            
+    except Exception as e:
+        logging.error(f"Failed to save articles: {e}")
+        raise
 
 if __name__ == "__main__":
     try:
