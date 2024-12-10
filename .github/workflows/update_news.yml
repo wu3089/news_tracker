@@ -2,7 +2,7 @@ name: Update News
 
 on:
   schedule:
-    - cron: '0 12 * * *'  # runs daily at 12:00 UTC
+    - cron: '0 12 * * *'
   workflow_dispatch:
 
 jobs:
@@ -27,42 +27,54 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Run script and verify output
+      - name: Debug Environment
+        run: |
+          echo "==== ENVIRONMENT CHECK ===="
+          if [ -n "$GOOGLE_API_KEY" ]; then echo "✓ GOOGLE_API_KEY is set"; else echo "✗ GOOGLE_API_KEY is missing"; fi
+          if [ -n "$NEWS_API_KEY" ]; then echo "✓ NEWS_API_KEY is set"; else echo "✗ NEWS_API_KEY is missing"; fi
+          if [ -n "$NYT_API_KEY" ]; then echo "✓ NYT_API_KEY is set"; else echo "✗ NYT_API_KEY is missing"; fi
+          echo "Current directory:"
+          pwd
+          ls -la
+
+      - name: Run script with debug
         env:
           GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
           NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
           NYT_API_KEY: ${{ secrets.NYT_API_KEY }}
         run: |
-          # Backup existing file
-          if [ -f conflict_news.json ]; then
-            cp conflict_news.json conflict_news.backup.json
-          fi
-          
-          # Run the script
-          python -u news_scraper.py
-          
-          # Verify the new file
-          if [ ! -f conflict_news.json ]; then
-            echo "Error: conflict_news.json was not created"
-            if [ -f conflict_news.backup.json ]; then
-              cp conflict_news.backup.json conflict_news.json
-            fi
+          echo "==== RUNNING SCRIPT ===="
+          python -u news_scraper.py || {
+            echo "Script failed with exit code $?"
             exit 1
-          fi
-          
-          # Check if file is valid JSON and has content
-          if ! jq empty conflict_news.json 2>/dev/null || [ ! -s conflict_news.json ]; then
-            echo "Error: conflict_news.json is empty or invalid"
-            if [ -f conflict_news.backup.json ]; then
-              cp conflict_news.backup.json conflict_news.json
+          }
+
+      - name: Verify JSON Output
+        run: |
+          echo "==== VERIFYING JSON ===="
+          if [ -f conflict_news.json ]; then
+            echo "JSON file exists"
+            echo "File size: $(wc -c < conflict_news.json) bytes"
+            echo "File contents:"
+            cat conflict_news.json
+            if [ ! -s conflict_news.json ]; then
+              echo "ERROR: JSON file is empty"
+              exit 1
             fi
+          else
+            echo "ERROR: JSON file not found"
             exit 1
           fi
 
-      - name: Commit and push changes
+      - name: Commit and push if changed
         run: |
+          echo "==== COMMITTING CHANGES ===="
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add conflict_news.json
-          git commit -m "Update conflict news [skip ci]" || echo "No changes to commit"
-          git push origin main || echo "No changes to push"
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update conflict news [skip ci]"
+            git push origin main
+          fi
