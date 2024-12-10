@@ -24,7 +24,9 @@ logging.basicConfig(
 )
 
 # NLTK setup
-nltk.download('punkt', quiet=True)
+nltk.download('punkt')
+nltk.download('punkt_tab')
+nltk.download('averaged_perceptron_tagger')
 
 # Get API keys from environment variables
 API_KEY = os.getenv('GOOGLE_API_KEY')
@@ -88,29 +90,19 @@ def cache_article(conn, source, title, text, url, date):
     conn.commit()
 
 def get_article_content(url):
-    """Fetch the full content of an article from its URL"""
+    """Get article content with proper headers"""
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
+        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+        'Accept-Language': 'en-US,en;q=0.5',
+        'Connection': 'keep-alive',
+    }
     try:
-        # If it's an NYT article, use the abstract we already have
-        if 'nytimes.com' in url:
-            logging.info("NYT article detected, using API abstract instead of full content")
-            return None  # We'll handle NYT content separately
-            
-        headers = {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36"
-        }
-        response = requests.get(url, headers=headers)
+        response = requests.get(url, headers=headers, timeout=10)
         response.raise_for_status()
-        
-        soup = BeautifulSoup(response.text, 'html.parser')
-        content = soup.find_all('p')
-        article_text = ' '.join([p.get_text() for p in content])
-        
-        return article_text.strip()
-    except requests.exceptions.HTTPError as e:
-        logging.warning(f"Failed to process content for {url}: {e}")
-        return None
+        return response.text
     except Exception as e:
-        logging.error(f"Error fetching article content: {e}")
+        logging.warning(f"Failed to process content for {url}: {e}")
         return None
 
 def truncate_text(text, max_tokens=500):
@@ -119,33 +111,28 @@ def truncate_text(text, max_tokens=500):
     return ' '.join(tokens[:max_tokens])
 
 def summarize_with_google_api(text):
-    """Summarize text using Google's Generative AI"""
+    """Summarize text using Google's Generative AI with error handling"""
     try:
         truncated_text = truncate_text(text)
         
         genai.configure(api_key=API_KEY)
         model = genai.GenerativeModel('gemini-pro')
         
-        prompt = f"""Summarize this article in 2-3 sentences, focusing on:
-        1. The main events and key facts
-        2. Official responses or reactions from relevant parties
-        3. Do NOT add any source citation at the end - this will be handled separately
-        4. End the summary with the main content, no citations
-        
+        prompt = f"""Summarize this news article in 2-3 sentences, focusing on key facts and events only.
         Article text: {truncated_text}"""
         
-        response = model.generate_content(prompt)
+        response = model.generate_content(prompt, safety_settings={
+            "HARM_CATEGORY_DANGEROUS_CONTENT": "BLOCK_NONE",
+            "HARM_CATEGORY_HATE_SPEECH": "BLOCK_NONE",
+            "HARM_CATEGORY_HARASSMENT": "BLOCK_NONE",
+            "HARM_CATEGORY_SEXUALLY_EXPLICIT": "BLOCK_NONE"
+        })
         
-        if response.text:
-            summary = response.text.strip()
-            if summary.endswith(').'):
-                summary = summary[:-2]
-            elif summary.endswith(')'):
-                summary = summary[:-1]
-            return summary
+        if response and response.text:
+            return response.text.strip()
             
     except Exception as e:
-        logging.warning(f"Summarization with Google API failed: {e}")
+        logging.warning(f"Summarization failed: {e}")
         return None
 
 def format_date(date_str):
