@@ -22,9 +22,6 @@ Thumbs.db
 .idea/
 *.iml
 
-# Ignore output files
-conflict_news.json
-
 # Ignore environment variables
 .env
 .env.test
