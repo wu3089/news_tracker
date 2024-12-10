@@ -443,7 +443,7 @@ def monitor_news_sources(output_file):
     all_articles = []
     
     # Fetch from each source
-    newsapi_articles = fetch_newsapi_articles()
+    newsapi_articles = get_news_from_newsapi()
     bbc_articles = scrape_bbc_news()
     nyt_articles = scrape_nyt_news()
     
