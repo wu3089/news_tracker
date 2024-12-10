@@ -37,13 +37,6 @@ jobs:
           pwd
           ls -la
 
-      - name: Setup NLTK Data
-        run: |
-          mkdir -p /usr/local/share/nltk_data
-          python -c "import nltk; nltk.download('punkt', download_dir='/usr/local/share/nltk_data')"
-          python -c "import nltk; nltk.download('words', download_dir='/usr/local/share/nltk_data')"
-          python -c "import nltk; nltk.data.path.append('/usr/local/share/nltk_data')"
-
       - name: Run script with debug
         env:
           GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
@@ -51,10 +44,7 @@ jobs:
           NYT_API_KEY: ${{ secrets.NYT_API_KEY }}
         run: |
           echo "==== RUNNING SCRIPT ===="
-          python -u news_scraper.py || {
-            echo "Script failed with exit code $?"
-            exit 1
-          }
+          python -u news_scraper.py
 
       - name: Verify JSON Output
         run: |

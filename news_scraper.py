@@ -128,15 +128,14 @@ def get_article_content(url):
 def truncate_text(text, max_tokens=500):
     """Truncate text to a safe length for summarization"""
     try:
-        # Use basic string splitting as fallback if NLTK fails
+        # Simple word-based truncation
         words = text.split()
         if len(words) > max_tokens:
             return ' '.join(words[:max_tokens])
         return text
     except Exception as e:
         logging.warning(f"Error in truncate_text: {e}")
-        # Super safe fallback - just truncate the string
-        return text[:2000]
+        return text[:2000]  # Fallback to character-based truncation
 
 def summarize_with_google_api(text):
     """Summarize text using Google's Generative AI with error handling"""
@@ -464,42 +463,52 @@ def monitor_news_sources(output_file):
     finally:
         conn.close()
 
-def save_snippets(output_file, snippets):
-    """Save snippets to JSON file, keeping only recent and limited number of articles"""
+def save_snippets(snippets, output_file='conflict_news.json'):
     try:
-        unique_snippets = []
-        seen_titles = set()
-        cutoff_date = datetime.now() - timedelta(days=3)
+        if not snippets:
+            logging.warning("No snippets to save, creating fallback content")
+            snippets = [{
+                "title": "No Recent Articles Found",
+                "summary": "No conflict-related articles were found in the past 3 days.",
+                "source": "system",
+                "url": "",
+                "date_str": datetime.now().strftime("%B %d, %Y")
+            }]
         
-        # Sort snippets by date (newest first)
-        sorted_snippets = sorted(
-            snippets,
-            key=lambda x: datetime.strptime(x['date_str'], "%B %d, %Y"),
-            reverse=True
-        )
+        # Ensure all required fields exist
+        for snippet in snippets:
+            if 'date_str' not in snippet:
+                snippet['date_str'] = datetime.now().strftime("%B %d, %Y")
+            if 'summary' not in snippet:
+                snippet['summary'] = "No summary available"
+            if 'url' not in snippet:
+                snippet['url'] = ""
+            if 'source' not in snippet:
+                snippet['source'] = "unknown"
+
+        with open(output_file, 'w', encoding='utf-8') as f:
+            json.dump(snippets, f, indent=2, ensure_ascii=False)
         
-        for snippet in sorted_snippets:
-            if snippet.get('summary') and snippet['title'] not in seen_titles:
-                try:
-                    article_date = datetime.strptime(snippet['date_str'], "%B %d, %Y")
-                    if article_date >= cutoff_date:
-                        seen_titles.add(snippet['title'])
-                        # Ensure consistent formatting
-                        snippet['title'] = snippet['title'].strip()
-                        snippet['summary'] = snippet['summary'].strip()
-                        unique_snippets.append(snippet)
-                except (ValueError, KeyError):
-                    continue
+        # Verify the file was written correctly
+        with open(output_file, 'r', encoding='utf-8') as f:
+            verification = json.load(f)
+            if not verification:
+                raise ValueError("JSON file was written but is empty")
+            
+        logging.info(f"Successfully saved {len(snippets)} snippets to {output_file}")
         
-        # Keep only the most recent 10 articles
-        unique_snippets = unique_snippets[:10]
-        
-        with open(output_file, "w", encoding='utf-8') as f:
-            json.dump(unique_snippets, f, indent=2, ensure_ascii=False)
-        logging.info(f"Saved {len(unique_snippets)} articles to {output_file}")
     except Exception as e:
-        logging.error(f"Failed to save snippets: {e}")
-        raise
+        logging.error(f"Error saving snippets: {e}")
+        # Create emergency fallback content
+        fallback = [{
+            "title": "Error Saving Articles",
+            "summary": f"An error occurred while saving articles: {str(e)}",
+            "source": "system",
+            "url": "",
+            "date_str": datetime.now().strftime("%B %d, %Y")
+        }]
+        with open(output_file, 'w', encoding='utf-8') as f:
+            json.dump(fallback, f, indent=2, ensure_ascii=False)
 
 def get_news_from_newsapi():
     """Get news from NewsAPI.org focusing on Reuters and AP world news"""
@@ -570,28 +579,7 @@ def get_news_from_newsapi():
     except Exception as e:
         logging.error(f"Error fetching from NewsAPI: {e}")
         return []
-
-def save_to_json(articles, output_file='conflict_news.json'):
-    try:
-        if not articles:
-            logging.error("No articles to save!")
-            # Create minimal valid JSON with error message
-            articles = [{
-                "title": "Error: No articles found",
-                "url": "",
-                "source": "system",
-                "published": datetime.now().isoformat(),
-                "summary": "The news scraper encountered issues. Please check the logs."
-            }]
-        
-        with open(output_file, 'w', encoding='utf-8') as f:
-            json.dump(articles, f, indent=2, ensure_ascii=False)
-            logging.info(f"Saved {len(articles)} articles to {output_file}")
-            
-    except Exception as e:
-        logging.error(f"Failed to save articles: {e}")
-        raise
-
+    
 if __name__ == "__main__":
     try:
         logging.info("Starting news monitoring...")
@@ -611,8 +599,10 @@ if __name__ == "__main__":
         
         # Verify the file was created
         if os.path.exists(output_file):
-            with open(output_file, 'r') as f:
+            with open(output_file, 'r', encoding='utf-8') as f:
                 data = json.load(f)
+                if not data:
+                    raise ValueError("JSON file exists but is empty")
                 logging.info(f"Successfully saved {len(data)} articles")
                 
     except Exception as e:
