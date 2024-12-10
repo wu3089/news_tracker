@@ -60,6 +60,7 @@ US_KEYWORDS = [
     "Congress",
     "Washington",
     "Trump's",
+    "Murdoch",
     "Crypto",
     "cryptocurrency",
     "US policy",
@@ -67,25 +68,57 @@ US_KEYWORDS = [
     "United States",
     "White House"
 ]
+CONFLICT_REGIONS = [
+    # Major Active Conflicts
+    "Ukraine", "Russia", "Kyiv", "Moscow", "Donbas", "Crimea",
+    "Syria", "Damascus", "Assad", "Aleppo",
+    "Yemen", "Houthi", "Sanaa", "Red Sea",
+    "Israel", "Gaza", "Palestine", "Hamas", "West Bank", "Netanyahu",
+    "Sudan", "Khartoum", "RSF", "Darfur",
+    
+    # Regional Conflicts
+    "Libya", "Tripoli", "Benghazi",
+    "Afghanistan", "Taliban", "Kabul",
+    "Nagorno-Karabakh", "Armenia", "Azerbaijan",
+    "Somalia", "Al-Shabaab", "Mogadishu",
+    "Congo", "DRC", "Kinshasa",
+    "Central African Republic", "CAR", "Bangui",
+    
+    # Strategic Tensions
+    "South China Sea", "Taiwan Strait", "Beijing", "Taipei",
+    "Iran", "Tehran", "IRGC", "Strait of Hormuz",
+    "North Korea", "Pyongyang", "DPRK",
+    "Kashmir", "India Pakistan border",
+    
+    # Regional Instability
+    "Sahel", "Mali", "Burkina Faso", "Niger",
+    "Ethiopia", "Tigray", "Amhara", "Oromia",
+    "Haiti", "Port-au-Prince",
+    "Venezuela", "Caracas", "Maduro",
+    "Myanmar", "Burma", "Rohingya",
+]
+
 CONFLICT_KEYWORDS = [
-    "war",
-    "conflict", 
-    "attack",
-    "military",
-    "fighting",
-    "battle",
-    "troops",
-    "violence",
-    "killed",
-    "casualties", 
-    "missile",
-    "strike",
-    "combat",
-    "rebellion",
-    "uprising",
-    "insurgency", 
-    "crisis",
-    "protest"
+    # Military Actions
+    "war", "invasion", "offensive", "counteroffensive",
+    "airstrike", "bombardment", "missile", "drone attack",
+    "military operation", "combat", "fighting",
+    
+    # Political Violence
+    "conflict", "crisis", "uprising", "insurgency",
+    "rebellion", "coup", "civil war", "unrest",
+    
+    # Security Issues
+    "terrorism", "extremist", "militant", "insurgent",
+    "armed group", "militia", "paramilitary",
+    
+    # Humanitarian Impact
+    "refugee", "displaced", "humanitarian crisis",
+    "civilian casualties", "war crimes", "genocide",
+    
+    # Peace Process
+    "ceasefire", "peace talks", "negotiation",
+    "diplomatic crisis", "sanctions", "resolution"
 ]
 
 def setup_article_cache():
@@ -319,6 +352,7 @@ def scrape_nyt_news():
                 title = item.get('title', '').lower()
                 if any(keyword.lower() in title for keyword in CONFLICT_KEYWORDS):
                     processed_article = process_nyt_article(item)
+                    
                     if processed_article:
                         articles.append(processed_article)
                         logging.info(f"Added NYT article: {processed_article['title']}")
@@ -538,14 +572,13 @@ def get_news_from_newsapi():
         
     url = "https://newsapi.org/v2/everything"
     
-    # Specific query to target world news and conflicts
     params = {
         'apiKey': api_key,
-        'domains': 'reuters.com,apnews.com',  # Specifically target these domains
+        'domains': 'reuters.com,apnews.com',
         'language': 'en',
         'sortBy': 'publishedAt',
-        'pageSize': 100,  # Get more articles to filter through
-        'q': '(world OR international OR global) AND (conflict OR war OR crisis OR tension)'  # Focus on world news and conflicts
+        'pageSize': 100,
+        'q': '(world OR international OR global) AND (conflict OR war OR crisis OR tension)'
     }
     
     try:
@@ -558,44 +591,27 @@ def get_news_from_newsapi():
             logging.error(f"NewsAPI error: {data.get('message', 'Unknown error')}")
             return []
             
-        total_results = data.get('totalResults', 0)
-        logging.info(f"Found {total_results} total articles from NewsAPI")
-        
         articles = []
         for article in data.get('articles', []):
             title = article.get('title', '')
             source = article.get('source', {}).get('name', '')
             
-            if not title or not source:
-                continue
+            if source.lower() in ['reuters', 'associated press', 'ap']:
+                # Paraphrase the title like we do for NYT
+                paraphrased_title = paraphrase_title(title)
                 
-            # Only process Reuters and AP articles
-            if source.lower() not in ['reuters', 'associated press', 'ap']:
-                continue
-                
-            # Apply our usual filtering
-            title_lower = title.lower()
-            if (any(keyword.lower() in title_lower for keyword in CONFLICT_KEYWORDS) and 
-                not any(keyword.lower() in title_lower for keyword in US_KEYWORDS)):
                 articles.append({
-                    'title': title,
-                    'link': article.get('url'),
-                    'source': source,
-                    'pub_date': article.get('publishedAt', datetime.now().strftime("%Y-%m-%d"))
+                    'title': paraphrased_title,
+                    'link': article.get('url', ''),
+                    'source': source
                 })
-                logging.info(f"Added {source} article: {title}")
-                
-            if len(articles) >= 10:  # Get more articles since we're combining sources
-                break
+                logging.info(f"Added {source} article: {paraphrased_title}")
                 
         logging.info(f"Found {len(articles)} relevant Reuters/AP articles")
         return articles
         
-    except requests.exceptions.RequestException as e:
-        logging.error(f"Request error fetching from NewsAPI: {e}")
-        return []
     except Exception as e:
-        logging.error(f"Error fetching from NewsAPI: {e}")
+        logging.error(f"Failed to fetch from NewsAPI: {e}")
         return []
     
 if __name__ == "__main__":
