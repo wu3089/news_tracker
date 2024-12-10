@@ -27,15 +27,37 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Run script
+      - name: Run script and verify output
         env:
           GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
           NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
           NYT_API_KEY: ${{ secrets.NYT_API_KEY }}
         run: |
+          # Backup existing file
+          if [ -f conflict_news.json ]; then
+            cp conflict_news.json conflict_news.backup.json
+          fi
+          
+          # Run the script
           python -u news_scraper.py
-          echo "Content of conflict_news.json after script:"
-          cat conflict_news.json
+          
+          # Verify the new file
+          if [ ! -f conflict_news.json ]; then
+            echo "Error: conflict_news.json was not created"
+            if [ -f conflict_news.backup.json ]; then
+              cp conflict_news.backup.json conflict_news.json
+            fi
+            exit 1
+          fi
+          
+          # Check if file is valid JSON and has content
+          if ! jq empty conflict_news.json 2>/dev/null || [ ! -s conflict_news.json ]; then
+            echo "Error: conflict_news.json is empty or invalid"
+            if [ -f conflict_news.backup.json ]; then
+              cp conflict_news.backup.json conflict_news.json
+            fi
+            exit 1
+          fi
 
       - name: Commit and push changes
         run: |

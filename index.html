@@ -332,11 +332,24 @@
 
         // Initial load
         fetch('conflict_news.json')
-            .then(response => response.json())
-            .then(data => displayArticles(data))
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status}`);
+                }
+                return response.json();
+            })
+            .then(data => {
+                if (!data || data.length === 0) {
+                    throw new Error('No articles found in JSON file');
+                }
+                displayArticles(data);
+            })
             .catch(err => {
                 document.getElementById('articles').innerHTML = 
-                    '<div class="error">Error loading articles. Please try again later.</div>';
+                    `<div class="error">
+                        Error loading articles: ${err.message}<br>
+                        Please check the GitHub Actions logs for details.
+                    </div>`;
                 console.error('Error:', err);
             });
     </script>
