@@ -145,21 +145,29 @@ def summarize_with_google_api(text):
         genai.configure(api_key=API_KEY)
         model = genai.GenerativeModel('gemini-pro')
         
-        prompt = f"""Summarize this news article in 2-3 sentences, focusing on key facts and events only.
-        Article text: {truncated_text}"""
+        prompt = f"""Please provide a comprehensive summary in active voice of this news article in 3-5 sentences in the style of the Council on Foreign Relations. Include:
+        - Main events and their significance
+        - Key players involved
+        - Important context or background
+        - Any notable geopolitical implications
+        
+        Article text: {truncated_text}
+        
+        Format the summary as a single paragraph focusing on factual information."""
         
         response = model.generate_content(prompt, safety_settings={
             "HARM_CATEGORY_DANGEROUS_CONTENT": "BLOCK_NONE",
             "HARM_CATEGORY_HATE_SPEECH": "BLOCK_NONE",
             "HARM_CATEGORY_HARASSMENT": "BLOCK_NONE",
-            "HARM_CATEGORY_SEXUALLY_EXPLICIT": "BLOCK_NONE"
+            "HARM_CATEGORY_SEXUALLY_EXPLICIT": "BLOCK_NONE",
         })
         
-        if response and response.text:
+        if response.text:
             return response.text.strip()
-            
+        return None
+        
     except Exception as e:
-        logging.warning(f"Summarization failed: {e}")
+        logging.error(f"Summarization failed: {e}")
         return None
 
 def format_date(date_str):
@@ -455,7 +463,13 @@ def monitor_news_sources(output_file):
     # Process and save
     try:
         if all_articles:
-            save_snippets(output_file, all_articles)
+            # Create a connection for article caching
+            conn = sqlite3.connect('article_cache.db')
+            # Process the articles to get summaries
+            processed_articles = process_articles(all_articles, conn)
+            conn.close()
+            # Save the processed articles
+            save_snippets(output_file, processed_articles)
         else:
             logging.warning("No articles found from any source")
             save_snippets(output_file, [])
