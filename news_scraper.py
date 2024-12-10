@@ -439,34 +439,38 @@ def process_articles(articles, conn, max_articles=5):
     return snippets
 
 def monitor_news_sources(output_file):
-    """Monitor news sources and save processed snippets"""
-    conn = setup_article_cache()
+    """Monitor all news sources and save results"""
+    all_articles = []
+    
+    # Fetch from each source
+    newsapi_articles = fetch_newsapi_articles()
+    bbc_articles = scrape_bbc_news()
+    nyt_articles = scrape_nyt_news()
+    
+    # Combine all articles
+    all_articles.extend(newsapi_articles)
+    all_articles.extend(bbc_articles)
+    all_articles.extend(nyt_articles)
+    
+    # Process and save
     try:
-        all_snippets = []
-        
-        # Get Reuters/AP articles from NewsAPI
-        newsapi_articles = get_news_from_newsapi()
-        all_snippets.extend(process_articles(newsapi_articles, conn))
-        
-        # Process BBC articles
-        bbc_articles = scrape_bbc_news()
-        all_snippets.extend(process_articles(bbc_articles, conn))
-        
-        # Process NYT articles
-        nyt_articles = scrape_nyt_news()
-        if nyt_articles:
-            logging.info(f"Processing {len(nyt_articles)} NYT articles")
-            all_snippets.extend(process_articles(nyt_articles, conn))
-        
-        save_snippets(output_file, all_snippets)
-        logging.info(f"Snippets saved to {output_file}")
-    finally:
-        conn.close()
+        if all_articles:
+            save_snippets(output_file, all_articles)
+        else:
+            logging.warning("No articles found from any source")
+            save_snippets(output_file, [])
+    except Exception as e:
+        logging.error(f"Error in monitor_news_sources: {e}")
+        save_snippets(output_file, [])
 
-def save_snippets(snippets, output_file='conflict_news.json'):
+def save_snippets(output_file, snippets):
+    """Save news snippets to JSON file"""
     try:
+        if not isinstance(snippets, list):
+            logging.error(f"Expected list of snippets, got {type(snippets)}")
+            snippets = []
+            
         if not snippets:
-            logging.warning("No snippets to save, creating fallback content")
             snippets = [{
                 "title": "No Recent Articles Found",
                 "summary": "No conflict-related articles were found in the past 3 days.",
@@ -475,17 +479,17 @@ def save_snippets(snippets, output_file='conflict_news.json'):
                 "date_str": datetime.now().strftime("%B %d, %Y")
             }]
         
-        # Ensure all required fields exist
+        # Ensure all required fields exist and are strings
         for snippet in snippets:
-            if 'date_str' not in snippet:
-                snippet['date_str'] = datetime.now().strftime("%B %d, %Y")
-            if 'summary' not in snippet:
-                snippet['summary'] = "No summary available"
-            if 'url' not in snippet:
-                snippet['url'] = ""
-            if 'source' not in snippet:
-                snippet['source'] = "unknown"
+            if not isinstance(snippet, dict):
+                continue
+            snippet['date_str'] = str(snippet.get('date_str', datetime.now().strftime("%B %d, %Y")))
+            snippet['summary'] = str(snippet.get('summary', "No summary available"))
+            snippet['url'] = str(snippet.get('url', ""))
+            snippet['source'] = str(snippet.get('source', "unknown"))
+            snippet['title'] = str(snippet.get('title', "Untitled Article"))
 
+        # Write to file
         with open(output_file, 'w', encoding='utf-8') as f:
             json.dump(snippets, f, indent=2, ensure_ascii=False)
         
