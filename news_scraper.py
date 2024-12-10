@@ -54,19 +54,25 @@ if not API_KEY:
     raise ValueError("GOOGLE_API_KEY environment variable is not set")
 
 US_KEYWORDS = [
-    "Trump",
-    "Donald Trump",
-    "Trump Administration",
-    "Congress",
-    "Washington",
-    "Trump's",
-    "Murdoch",
-    "Crypto",
-    "cryptocurrency",
-    "US policy",
-    "American",
-    "United States",
-    "White House"
+    # Domestic Politics
+    "Congress debate",
+    "Senate hearing",
+    "House Republicans",
+    "House Democrats",
+    "domestic policy",
+    "state legislature",
+    
+    # US Internal Affairs
+    "Supreme Court ruling",
+    "federal court",
+    "gubernatorial",
+    "state election",
+    
+    # US Business/Economy (when purely domestic)
+    "Wall Street",
+    "Federal Reserve",
+    "US housing market",
+    "US inflation",
 ]
 CONFLICT_REGIONS = [
     # Major Active Conflicts
@@ -211,19 +217,11 @@ def format_date(date_str):
         return datetime.now().strftime("%B %d, %Y")
 
 def filter_articles(articles):
-    """Filter out U.S.-centric content, non-conflict related content, and duplicates"""
+    """Filter out purely domestic U.S. content while keeping international stories"""
     filtered = []
     seen_hashes = set()
     
-    # Specific article to remove (as a temporary fix)
-    banana_article_url = "https://www.bbc.com/news/articles/c4gzz5wdg41o"
-    
     for article in articles:
-        # Skip the specific article we want to remove
-        if article['link'] == banana_article_url:
-            logging.info(f"Excluding specific article: {article['title']}")
-            continue
-            
         title_lower = article['title'].lower()
         summary_lower = article.get('summary', '').lower()
         content = title_lower + " " + summary_lower
@@ -231,13 +229,13 @@ def filter_articles(articles):
         # Count how many US keywords match
         us_matches = [keyword.lower() for keyword in US_KEYWORDS if keyword.lower() in content]
         
-        # If we find any US keyword, filter it out
-        if us_matches:
+        # Only filter out if multiple domestic keywords are found
+        if len(us_matches) > 2:  # Allow some US mentions before filtering
             logging.info(f"Excluding U.S.-centric article: {article['title']}")
             logging.debug(f"Matched US keywords: {us_matches}")
             continue
             
-        # Rest of the filtering logic...
+        # Rest of the filtering logic remains the same...
         matched_keywords = [keyword for keyword in CONFLICT_KEYWORDS if keyword.lower() in content]
         if not matched_keywords:
             logging.info(f"Excluding non-conflict article: {article['title']}")
@@ -296,11 +294,15 @@ def process_nyt_article(item):
         title = paraphrase_title(original_title)
         summary = summarize_with_google_api(abstract)
         
+        # Parse the actual publication date from the NYT article
+        pub_date = item.get('published_date', '')
+        date_str = datetime.strptime(pub_date, "%Y-%m-%dT%H:%M:%S%z").strftime("%B %d, %Y")
+        
         return {
             'title': title,
             'text': abstract,
             'link': url,
-            'date': pub_date,
+            'date_str': date_str,  # Use the actual formatted date
             'source': 'NYT',
             'summary': summary
         }
@@ -336,7 +338,7 @@ def scrape_nyt_news():
             return []
         
         articles = []
-        cutoff_date = datetime.now() - timedelta(days=3)
+        cutoff_date = datetime.now() - timedelta(days=7)
         
         logging.info(f"Found {len(data['results'])} total NYT articles")
         
@@ -386,7 +388,7 @@ def scrape_bbc_news():
     url = "http://feeds.bbci.co.uk/news/world/rss.xml"
     feed = feedparser.parse(url)
     articles = []
-    cutoff_date = datetime.now() - timedelta(days=3)
+    cutoff_date = datetime.now() - timedelta(days=7)
     
     for entry in feed.entries:
         logging.debug(f"Processing BBC entry: {entry.title}")
@@ -416,7 +418,7 @@ def scrape_bbc_news():
             break
     return articles
 
-def process_articles(articles, conn, max_articles=5):
+def process_articles(articles, conn, max_articles=20):
     """Process articles scraped from websites"""
     snippets = []
     for article in articles:
@@ -461,8 +463,15 @@ def process_articles(articles, conn, max_articles=5):
                 logging.warning(f"No content fetched for article: {title}")
                 continue
             
-            date = datetime.now().strftime("%Y-%m-%dT%H:%M:%S")
-            date_str = format_date(date)
+            # Get the article's publication date
+            pub_date = article.get('pub_date')
+            if pub_date:
+                try:
+                    date_str = datetime.strptime(pub_date, "%Y-%m-%d").strftime("%B %d, %Y")
+                except ValueError:
+                    date_str = datetime.now().strftime("%B %d, %Y")
+            else:
+                date_str = datetime.now().strftime("%B %d, %Y")
             
             if title and article_text:
                 cache_article(conn, source, title, article_text, article['link'], date)
@@ -578,7 +587,8 @@ def get_news_from_newsapi():
         'language': 'en',
         'sortBy': 'publishedAt',
         'pageSize': 100,
-        'q': '(world OR international OR global) AND (conflict OR war OR crisis OR tension)'
+        'q': '(world OR international OR global) AND (conflict OR war OR crisis OR tension)',
+        'from': (datetime.now() - timedelta(days=7)).strftime('%Y-%m-%d')
     }
     
     try:
@@ -603,7 +613,8 @@ def get_news_from_newsapi():
                 articles.append({
                     'title': paraphrased_title,
                     'link': article.get('url', ''),
-                    'source': source
+                    'source': source,
+                    'pub_date': article.get('publishedAt', '').split('T')[0]  # Get the date part of ISO format
                 })
                 logging.info(f"Added {source} article: {paraphrased_title}")
                 
