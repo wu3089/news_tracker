@@ -1,26 +1,42 @@
 [
   {
-    "title": "Syrian Rebel Offensive Depicted in Captivating Visuals over a 12-Day Period",
-    "date_str": "December 10, 2024",
-    "summary": "Syria's rebel factions, spearheaded by Hayat Tahrir al-Sham (HTS), launched a major offensive that rapidly captured significant territory in Idlib province. The rebels' advance benefited from HTS's unity and coordination, as well as disarray within the Syrian government forces. The offensive has raised geopolitical concerns, with Turkey, Russia, and Iran expressing differing views on the future of Idlib. Turkey's support for the rebels and Russia's backing of the Syrian government have created geopolitical tensions, highlighting the complex dynamics of the conflict and its potential implications for the wider region.",
+    "title": "Gold Discovery Ignited Civil War Tensions",
+    "date_str": "December 11, 2024",
+    "summary": "Amidst famine and ethnic cleansing in Sudan, a thriving gold trade enriches military generals and fuels the ongoing conflict. Key players include rebel groups and government forces, while the international community remains largely inactive. The gold trade has significant geopolitical implications, with profits funding violence and undermining peace negotiations. It also exacerbates regional tensions, as neighboring countries engage in illicit gold trade and support rebel groups within Sudan.",
     "source": "NYT",
-    "link": "https://www.nytimes.com/2024/12/10/world/middleeast/syria-civil-war-rebels-timeline-assad.html",
+    "link": "https://www.nytimes.com/2024/12/11/world/africa/sudan-gold-rush-heart-civil-war.html",
     "url": ""
   },
   {
-    "title": "Arctic Tundra, Once a Coolant, Now Contributes to Global Warming",
-    "date_str": "December 10, 2024",
-    "summary": "Wildfires and thawing permafrost in the Arctic have pushed the region into a state of net carbon dioxide release, reversing its historic role as a carbon sink. This shift, driven by climate change, threatens to amplify global warming and disrupt Arctic ecosystems. Key players involved include the region's governments and the scientific community, who are working to understand and mitigate the consequences. The implications extend beyond the Arctic, potentially impacting global climate patterns and the stability of permafrost, which contains vast stores of frozen methane.",
+    "title": "Romania's Rightward Shift Concurrently Brings Its Wartime Shadows to the Forefront of Politics",
+    "date_str": "December 11, 2024",
+    "summary": "The rise of an ultranationalist politician in Japan highlights a growing societal amnesia regarding the country's fascist history during World War II. Key players include the politician and their supporters, who advocate for a revisionist view of Japan's past. The context includes a decades-long effort to downplay Japan's wartime aggression, which has contributed to a lack of public awareness about its true extent. The surge of ultranationalism raises geopolitical concerns, as it could lead to Japan adopting more assertive military policies and challenging the post-World War II regional order.",
     "source": "NYT",
-    "link": "https://www.nytimes.com/2024/12/10/climate/arctic-emissions-carbon-ice-warming.html",
+    "link": "https://www.nytimes.com/2024/12/11/world/europe/romania-right-ultranationalism-calin-georgescu.html",
     "url": ""
   },
   {
-    "title": "Syrian War Crimes Indictments Issued as Government Collapses",
-    "date_str": "December 10, 2024",
-    "summary": "The United States announced criminal charges against Syrian officials Jamil Hassan and Abdul Salam Mahmoud for their roles in running a notorious prison in Damascus. The indictments allege that Hassan and Mahmoud terrorized and repressed opposition to the regime. The charges are part of ongoing international efforts to hold Syrian officials accountable for human rights abuses during the country's ongoing civil war. The indictments have geopolitical implications, as they highlight the international community's condemnation of the Syrian government's actions and may contribute to pressure for a political settlement.",
+    "title": "The Human Toll of Syria's Civil Conflict",
+    "date_str": "December 11, 2024",
+    "summary": "The United Nations and human rights organizations have encountered difficulties in tallying victims of the conflict that erupted in Yemen in March 2011, hindering their efforts to assess the conflict's human toll. This conflict has claimed a significant number of lives, with estimates varying widely. Despite the challenges, these organizations remain committed to providing accurate information and advocating for human rights. The conflict's geopolitical implications are significant, as it has exacerbated tensions in the region and drawn in regional and international powers.",
     "source": "NYT",
-    "link": "https://www.nytimes.com/2024/12/09/us/politics/justice-department-syria-war-crimes.html",
+    "link": "https://www.nytimes.com/2024/12/11/world/middleeast/syria-civil-war-death-toll.html",
+    "url": ""
+  },
+  {
+    "title": "Trump's Actions in Syria: Airstrikes and Troop Deployments Amid a Volatile Landscape",
+    "date_str": "December 11, 2024",
+    "summary": "President-elect confronts crucial decisions regarding the country's post-Assad trajectory, defying his previous pledges to abstain. Amid these deliberations, key players emerge, including the president-elect and his diplomatic team. Historical context and regional dynamics shape the decisions, underscoring the geopolitical implications for the stability of the region. The president-elect's choices will ultimately determine the country's future path and its impact on the broader geopolitical landscape.",
+    "source": "NYT",
+    "link": "https://www.nytimes.com/2024/12/10/us/politics/trump-syria-rebels.html",
+    "url": ""
+  },
+  {
+    "title": "French Court Convicts Author for Denying Rwandan Genocide",
+    "date_str": "December 11, 2024",
+    "summary": "Charles Onana and his publisher were convicted and fined for violating a French law prohibiting the denial of the Armenian Genocide. This prosecution highlights France's commitment to combating denial and preserving the historical record of this tragedy. The case emphasizes the growing international consensus on the recognition and condemnation of genocide denial. The conviction also showcases the role of legal mechanisms in holding individuals and entities accountable for distorting historical events for political or ideological reasons.",
+    "source": "NYT",
+    "link": "https://www.nytimes.com/2024/12/10/world/europe/france-author-rwanda-genocide.html",
     "url": ""
   }
 ]
