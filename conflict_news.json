@@ -1,34 +1,42 @@
 [
   {
-    "title": "Rahm Emanuel's Impatience Propelled Japan's Progress as Ambassador",
-    "date_str": "December 15, 2024",
-    "summary": "Japan has significantly revised its defense policy, marking a departure from its traditional consensus-building approach. Amid heightened regional tensions, Prime Minister Kishida Fumio and his cabinet played key roles in this policy shift. The revisions include increased defense spending, acquisition of counterstrike capabilities, and closer cooperation with allies like the United States. This move is viewed as a substantial geopolitical shift that could reshape the Asia-Pacific balance of power.",
+    "title": "Mayotte Faces Humanitarian Crisis Aftermath of Devastating Cyclone",
+    "date_str": "December 16, 2024",
+    "summary": "Tropical Cyclone Chido ravages the French territory, leaving a trail of devastation with a confirmed death toll of 14. Authorities speculate that the true number of casualties may rise significantly. The storm has left a lasting impact on the region, highlighting the vulnerability of coastal communities to extreme weather events. Geopolitically, the catastrophe underscores the importance of international cooperation in disaster relief efforts and climate change mitigation.",
+    "source": "NYT",
+    "link": "https://www.nytimes.com/2024/12/16/world/africa/mayotte-cyclone-chido-deaths.html",
+    "url": ""
+  },
+  {
+    "title": "Myanmar’s War Has Forced Doctors and Nurses Into Prostitution",
+    "date_str": "December 16, 2024",
+    "summary": "The ongoing civil conflict in an unspecified country has persisted for nearly four years, resulting in a devastated economy and widespread desperation among its citizens, including educated professionals. Key players in the conflict remain unnamed, and the geopolitical implications of the crisis extend beyond the country's borders. The conflict has led to economic collapse, shattered infrastructure, and a dire humanitarian situation, with even professionals struggling to meet basic needs. The conflict's origins and the efforts to resolve it require further clarification in the absence of specific context or background information.",
+    "source": "NYT",
+    "link": "https://www.nytimes.com/2024/12/16/world/asia/myanmar-war-women-prostitution.html",
+    "url": ""
+  },
+  {
+    "title": "Ambassador Rahm Emanuel's Impatience Catalyzed Japanese Progress",
+    "date_str": "December 16, 2024",
+    "summary": "Tokyo has overhauled its defense policy, marking a significant departure from its traditional preference for consensus-building. The move, driven by Japan's concerns about regional security, involves acquiring capabilities to counter potential threats from North Korea and China. Prime Minister Fumio Kishida and Defense Minister Yasukazu Hamada are key players in this shift, which has geopolitical implications for the region, particularly in light of Beijing's growing military presence and Pyongyang's nuclear program.",
     "source": "NYT",
     "link": "https://www.nytimes.com/2024/12/15/world/asia/rahm-emanuel-ambassador-japan.html",
     "url": ""
   },
   {
-    "title": "Cheap Militia Recruitment Strategy Fails in Africa",
-    "date_str": "December 15, 2024",
-    "summary": "In Burkina Faso, the military's arming of poorly trained civilians has escalated tensions, bringing the nation to the brink of civil war. This reckless decision has heightened human rights concerns, with the civilians demonstrating disregard for those rights. Key players include the military and the armed civilians. The move has geopolitical implications, potentially destabilizing the region and undermining efforts to address extremism. The situation reflects the challenges of governance and security in West Africa, where state authority is often weak.",
+    "title": "Security Strategy of Recruiting Cheap Militiamen Backfires in Africa",
+    "date_str": "December 16, 2024",
+    "summary": "Burkina Faso's military's provision of arms to poorly trained civilians with questionable human rights records has exacerbated the conflict and brought the nation closer to civil war. This action has raised concerns among international observers as it provides a dangerous precedent, potentially enabling armed groups to proliferate and escalate violence in the region. Key players involved include the Burkina Faso military and armed civilian groups. Against a backdrop of ongoing political instability, geopolitical implications exist, as neighboring countries could be impacted by the conflict's spread, posing a threat to regional stability.",
     "source": "NYT",
     "link": "https://www.nytimes.com/2024/12/15/world/africa/africa-burkina-faso-militia-violence.html",
     "url": ""
   },
   {
-    "title": "Palestinian Authority Deploys Security Forces to Quell Militant Activity in West Bank",
-    "date_str": "December 15, 2024",
-    "summary": "Amidst challenges in pacifying armed groups, US pressure has prompted the Democratic Republic of Congo (DRC) to intensify law enforcement efforts. This move stems from longstanding difficulties in maintaining order in the region. Key players include the DRC government and the United States. Geopolitical implications are significant, as the escalating security operations could potentially impact regional stability and governance.",
+    "title": "Israel's Military Conducts Strikes in Northern Gaza Amid Ongoing Bombardment",
+    "date_str": "December 16, 2024",
+    "summary": "In response to recent deadly attacks, Israel's military launched airstrikes and raids against Hamas targets in northern Gaza, marking an escalation in tensions. The Israeli Defense Forces claim these actions targeted Hamas facilities and weaponry. The military operation followed days of heightened violence, including rocket attacks from Gaza into Israel. This recent round of conflict raises concerns about a further deterioration of the already strained relations between Israel and Hamas, with potential geopolitical implications for the broader region.",
     "source": "NYT",
-    "link": "https://www.nytimes.com/2024/12/14/world/middleeast/palestinian-authority-west-bank-israel.html",
-    "url": ""
-  },
-  {
-    "title": "South Korean President Impeached Amid Martial Law Controversy",
-    "date_str": "December 15, 2024",
-    "summary": "President Yoon Suk Yeol's own party members initiated the removal of his authority, leading to political instability. The move underscores deep divisions within Yoon's party, which has been plagued by infighting and allegations of corruption. Yoon's removal has geopolitical implications, as it weakens South Korea's standing in negotiations with North Korea and complicates relations with the United States. Key players include the National Assembly, which voted to remove Yoon's authority, and Yoon himself, who is seeking to maintain his grip on power.",
-    "source": "NYT",
-    "link": "https://www.nytimes.com/2024/12/14/world/asia/south-korea-president-impeached-martial-law.html",
+    "link": "https://www.nytimes.com/2024/12/15/world/middleeast/15-gaza-strikes-news.html",
     "url": ""
   }
 ]
