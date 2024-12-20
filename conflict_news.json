@@ -1,26 +1,18 @@
 [
   {
-    "title": "Israel Launches Airstrikes Against Houthis in Yemen",
-    "date_str": "December 19, 2024",
-    "summary": "The Houthis, a Yemeni rebel group, have intensified attacks against shipping vessels in the Red Sea in a year-long campaign expressing solidarity with Palestinians in Gaza. The attacks have been spearheaded by the Houthi leadership, particularly Abdul Malik al-Houthi, and have drawn condemnation from the international community. The ongoing conflict in Yemen provides the backdrop for these attacks, which underscore the volatile geopolitical landscape of the region. The Houthis' actions have raised concerns over the safety of maritime navigation in the Red Sea, a critical waterway connecting the Middle East and North Africa.",
+    "title": "Senior US Diplomats Visit Syria to Engage with Governing Authorities",
+    "date_str": "December 20, 2024",
+    "summary": "U.S. officials are initiating efforts to locate missing American journalist, Austin Tice, and other U.S. citizens, exploring potential signs of their whereabouts. Key players involved include the U.S. government and the Syrian government, which holds Tice captive. The search underscores the ongoing diplomatic efforts and geopolitical tensions surrounding the Syrian conflict, with implications for the well-being of American citizens and the resolution of the conflict.",
+    "source": "NYT",
+    "link": "https://www.nytimes.com/2024/12/20/us/politics/us-diplomats-syria.html",
+    "url": ""
+  },
+  {
+    "title": "Israel Carries Out Airstrikes in Yemen, Netanyahu Delivers Stern Warning",
+    "date_str": "December 20, 2024",
+    "summary": "For over a year, the Houthis have targeted vessels in the Red Sea, citing support for Palestinians in Gaza. In response, the US Navy has conducted a series of exercises alongside Saudi-led coalition forces to counter the threat. The attacks have raised concerns about the safety of international shipping and heightened tensions between Yemen's warring parties. The geopolitical implications include potential disruptions to global trade and the escalation of the ongoing conflict in Yemen.",
     "source": "NYT",
     "link": "https://www.nytimes.com/2024/12/19/world/middleeast/yemen-israel-houthis.html",
-    "url": ""
-  },
-  {
-    "title": "Russian General's Death Conveys a Message Without Altering the Conflict's Course",
-    "date_str": "December 19, 2024",
-    "summary": "Ukrainian forces are experiencing setbacks on the battlefield, resulting in territorial losses. Despite the assassination of a Russian general, analysts and Western officials believe this will not significantly impact Ukraine's war effort. The assassination highlights the internal tensions within Russia's military leadership, potentially complicating future strategic decisions. The conflict's geopolitical implications remain significant, as the West continues to support Ukraine while attempting to manage escalating tensions with Russia.",
-    "source": "NYT",
-    "link": "https://www.nytimes.com/2024/12/18/world/europe/russia-kirillov-ukraine-general.html",
-    "url": ""
-  },
-  {
-    "title": "Severe Humanitarian Crisis Intensifies in Syria Amid Aid Restrictions",
-    "date_str": "December 19, 2024",
-    "summary": "Syria's new leadership confronts significant challenges in establishing stability and enhancing living conditions. Key players include the Syrian government, opposition groups, and international actors providing humanitarian aid. The country's protracted civil war and ongoing geopolitical tensions hinder efforts to address urgent needs and pave the way for Syria's recovery. The situation has far-reaching implications for regional and international stability, with the potential to exacerbate humanitarian crises and prolong instability in the Middle East.",
-    "source": "NYT",
-    "link": "https://www.nytimes.com/2024/12/17/world/middleeast/syria-sanctions-aid-limits.html",
     "url": ""
   }
 ]
