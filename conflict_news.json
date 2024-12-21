@@ -1,18 +1,42 @@
 [
   {
-    "title": "Senior US Diplomats Visit Syria to Engage with Governing Authorities",
-    "date_str": "December 20, 2024",
-    "summary": "U.S. officials are initiating efforts to locate missing American journalist, Austin Tice, and other U.S. citizens, exploring potential signs of their whereabouts. Key players involved include the U.S. government and the Syrian government, which holds Tice captive. The search underscores the ongoing diplomatic efforts and geopolitical tensions surrounding the Syrian conflict, with implications for the well-being of American citizens and the resolution of the conflict.",
+    "title": "Houthi Missiles Target Tel Aviv Amidst Intensified Attacks",
+    "date_str": "December 21, 2024",
+    "summary": "Several individuals sustained minor injuries when an air defense system failure allowed a projectile to strike a playground in an Israeli city. The Israeli military acknowledged the incident, highlighting the failure of its interception system. The background of the attack and the key players involved remain under investigation, while the geopolitical implications of the incident are yet to be determined.",
     "source": "NYT",
-    "link": "https://www.nytimes.com/2024/12/20/us/politics/us-diplomats-syria.html",
+    "link": "https://www.nytimes.com/2024/12/20/world/middleeast/israel-tel-aviv-missile-yemen.html",
     "url": ""
   },
   {
-    "title": "Israel Carries Out Airstrikes in Yemen, Netanyahu Delivers Stern Warning",
-    "date_str": "December 20, 2024",
-    "summary": "For over a year, the Houthis have targeted vessels in the Red Sea, citing support for Palestinians in Gaza. In response, the US Navy has conducted a series of exercises alongside Saudi-led coalition forces to counter the threat. The attacks have raised concerns about the safety of international shipping and heightened tensions between Yemen's warring parties. The geopolitical implications include potential disruptions to global trade and the escalation of the ongoing conflict in Yemen.",
+    "title": "Pakistan Faces a Resurgence of Terrorism Decade After Anti-Terrorism Efforts",
+    "date_str": "December 21, 2024",
+    "summary": "Political instability, dwindling public support, and economic challenges undermine Pakistan's efforts to combat militancy. The country's gains since the horrific school attack in 2014 are being eroded. Key players in the region include Pakistan's military and political leadership, who face increasing pressure to maintain security and stability. The geopolitical implications are significant, with the potential for increased regional instability and the resurgence of extremist groups.",
     "source": "NYT",
-    "link": "https://www.nytimes.com/2024/12/19/world/middleeast/yemen-israel-houthis.html",
+    "link": "https://www.nytimes.com/2024/12/21/world/asia/pakistan-terrorism.html",
+    "url": ""
+  },
+  {
+    "title": "Easing Sanctions Key to Syria's Economic Recovery",
+    "date_str": "December 21, 2024",
+    "summary": "Years of conflict have devastated Libya's economy, particularly its energy sector, currency, and growth prospects. International experts are urging Western nations to relax financial restrictions to facilitate economic recovery. The involvement of various international players, including Libya's central bank, the United States, and the European Union, complicates the situation. The geopolitical implications are significant, as Libya's instability could potentially affect the broader region. The European Union has expressed concerns about migration and security threats posed by the ongoing conflict.",
+    "source": "NYT",
+    "link": "https://www.nytimes.com/2024/12/21/business/economy/syria-economy-sanctions.html",
+    "url": ""
+  },
+  {
+    "title": "Trudeau's Resignation of Top Minister Mirrors Previous Political Turmoil",
+    "date_str": "December 21, 2024",
+    "summary": "Chrystia Freeland's resignation follows the high-profile departure of Jody Wilson-Raybould in 2019 during the SNC-Lavalin affair. The resignations highlight tensions within Prime Minister Justin Trudeau's cabinet and potential challenges to his leadership. The context includes the SNC-Lavalin affair, a political scandal involving allegations of pressure on former Attorney General Wilson-Raybould to drop corruption charges against the engineering firm. The incident has geopolitical implications, raising concerns about the independence of Canada's justice system and its adherence to the rule of law.",
+    "source": "NYT",
+    "link": "https://www.nytimes.com/2024/12/21/world/canada/in-top-ministers-resignation-shades-of-an-earlier-political-crisis-for-trudeau.html",
+    "url": ""
+  },
+  {
+    "title": "Senior U.S. Diplomats Hold Talks with Governing Militias in Syria",
+    "date_str": "December 21, 2024",
+    "summary": "The U.S. presence in Damascus, Syria, is focused on monitoring the release of U.S. citizens held captive, including journalist Austin Tice and others yet to be identified. This effort is led by U.S. officials in coordination with their Syrian counterparts. The absence of detainees' names beyond Tice suggests the possibility of additional American citizens being held. The geopolitical implications remain unclear, as the U.S. continues to engage with Syria in limited and cautious ways.",
+    "source": "NYT",
+    "link": "https://www.nytimes.com/2024/12/20/us/politics/us-diplomats-syria.html",
     "url": ""
   }
 ]
