@@ -489,34 +489,108 @@ def process_articles(articles, conn, max_articles=20):
     return snippets
 
 def monitor_news_sources(output_file):
-    """Monitor all news sources and save results"""
+    """Monitor all news sources, process articles, and save results"""
     all_articles = []
-    
-    # Fetch from each source
-    newsapi_articles = get_news_from_newsapi()
-    bbc_articles = scrape_bbc_news()
-    nyt_articles = scrape_nyt_news()
-    
-    # Combine all articles
-    all_articles.extend(newsapi_articles)
-    all_articles.extend(bbc_articles)
-    all_articles.extend(nyt_articles)
-    
-    # Process and save
+
+    # Fetch articles from each source with detailed logging
+    logging.info("Starting to fetch articles from all sources...")
+
+    try:
+        newsapi_articles = get_news_from_newsapi()
+        logging.info(f"Successfully fetched {len(newsapi_articles)} articles from NewsAPI")
+        all_articles.extend(newsapi_articles)
+    except Exception as e:
+        logging.error(f"Failed to fetch articles from NewsAPI: {e}", exc_info=True)
+
+    try:
+        bbc_articles = scrape_bbc_news()
+        logging.info(f"Successfully fetched {len(bbc_articles)} articles from BBC")
+        all_articles.extend(bbc_articles)
+    except Exception as e:
+        logging.error(f"Failed to fetch articles from BBC: {e}", exc_info=True)
+
+    try:
+        nyt_articles = scrape_nyt_news()
+        logging.info(f"Successfully fetched {len(nyt_articles)} articles from NYT")
+        all_articles.extend(nyt_articles)
+    except Exception as e:
+        logging.error(f"Failed to fetch articles from NYT: {e}", exc_info=True)
+
+    logging.info(f"Total articles fetched: {len(all_articles)}")
+
+    # Process and save articles
     try:
         if all_articles:
-            # Create a connection for article caching
-            conn = sqlite3.connect('article_cache.db')
-            # Process the articles to get summaries
-            processed_articles = process_articles(all_articles, conn)
-            conn.close()
-            # Save the processed articles
-            save_snippets(output_file, processed_articles)
+            conn = setup_article_cache()  # Initialize article cache
+            processed_articles = []
+
+            for article in all_articles:
+                try:
+                    # Ensure required fields are present
+                    if not all(k in article for k in ['title', 'link', 'source']):
+                        logging.warning(f"Skipping article missing required fields: {article.get('title', 'Unknown')}")
+                        continue
+
+                    # Fetch article content if not already present
+                    if 'text' not in article:
+                        article_content = get_article_content(article['link'])
+                        if article_content:
+                            article['text'] = article_content
+                        else:
+                            logging.warning(f"Failed to fetch content for article: {article.get('title', 'Unknown')}")
+                            continue
+
+                    # Generate summary if not already present
+                    if 'summary' not in article:
+                        summary = summarize_with_google_api(article['text'])
+                        if summary:
+                            article['summary'] = summary
+                        else:
+                            logging.warning(f"Failed to generate summary for article: {article.get('title', 'Unknown')}")
+                            article['summary'] = "No summary available"  # Provide a default summary
+
+                    # Ensure date_str is present and properly formatted
+                    if 'date_str' not in article:
+                        if 'pub_date' in article:
+                            try:
+                                date_obj = datetime.strptime(article['pub_date'], "%Y-%m-%d")
+                                article['date_str'] = date_obj.strftime("%B %d, %Y")
+                            except ValueError:
+                                article['date_str'] = datetime.now().strftime("%B %d, %Y")
+                        else:
+                            article['date_str'] = datetime.now().strftime("%B %d, %Y")
+
+                    # Cache the article
+                    cache_article(conn, article['source'], article['title'], article['text'], article['link'], article['date_str'])
+
+                    # Prepare article for saving
+                    processed_articles.append({
+                        'title': article['title'],
+                        'date_str': article['date_str'],
+                        'summary': article['summary'],
+                        'source': article['source'],
+                        'link': article['link']
+                    })
+
+                    logging.info(f"Successfully processed article: {article['title']} from {article['source']}")
+
+                except Exception as e:
+                    logging.error(f"Failed to process article: {article.get('title', 'Unknown')}. Error: {e}", exc_info=True)
+
+            conn.close()  # Close database connection
+
+            if processed_articles:
+                logging.info(f"Saving {len(processed_articles)} processed articles to {output_file}")
+                save_snippets(output_file, processed_articles)
+            else:
+                logging.warning("No articles were successfully processed. Saving an empty list.")
+                save_snippets(output_file, [])
         else:
-            logging.warning("No articles found from any source")
+            logging.warning("No articles found from any source. Saving an empty list.")
             save_snippets(output_file, [])
+
     except Exception as e:
-        logging.error(f"Error in monitor_news_sources: {e}")
+        logging.error(f"An unexpected error occurred in monitor_news_sources: {e}", exc_info=True)
         save_snippets(output_file, [])
 
 def save_snippets(output_file, snippets):
