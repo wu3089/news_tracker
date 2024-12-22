@@ -188,7 +188,6 @@ def summarize_with_google_api(text):
         - Main events and their significance
         - Key players involved
         - Important context or background
-        - Any notable geopolitical implications
         
         Article text: {truncated_text}
         
