@@ -1,66 +1,50 @@
 [
   {
-    "title": "Boeing Faces Ongoing Crisis Challenges: Can the Company Recover?",
-    "date_str": "December 29, 2024",
-    "summary": "Boeing faced significant challenges in 2024, grappling with safety issues related to the 737 Max and massive employee strikes. These events led to a decline in the company's reputation, resulting in a loss of public trust and financial setbacks. Boeing must implement effective measures to restore confidence, including addressing the safety concerns of the 737 Max and improving its relationship with employees.",
+    "title": "Ukraine Faces the Prospect of Extended Conflict",
+    "date_str": "December 30, 2024",
+    "summary": "Ukraine faces another year of war in 2024 as Russian forces continue their invasion. The country's soldiers are exhausted after three years of fighting, leaving concerns about whether Ukraine can endure another extended period of conflict. This situation tests the resilience of Ukrainian society and the ongoing diplomatic efforts to end the war.",
     "source": "BBC",
-    "link": "https://www.bbc.com/news/articles/c4gxvkq109ko",
+    "link": "https://www.bbc.com/news/articles/c047x7gwdvzo",
     "url": ""
   },
   {
-    "title": "US Imposes Sanctions on Billionaire Founder of Georgian Dream Party",
-    "date_str": "December 29, 2024",
-    "summary": "The United States has imposed sanctions on Bidzina Ivanishvili, the billionaire founder of Georgia's ruling Georgia Dream party. Secretary of State Antony Blinken accused Ivanishvili of undermining democracy and acting against Georgian interests to benefit Russia. The move is significant as it represents the first sanctions imposed by the US on a Georgian politician, and it underscores growing concerns within the US government about Russian influence in Georgia.",
+    "title": "India's Food Crisis Enriches American Libraries with Rare Books",
+    "date_str": "December 30, 2024",
+    "summary": "In the wake of a severe food crisis in India, a books-for-grain program was initiated. The program provided India with crucial food aid, allowing them to import wheat from the United States. In return, the US Library of Congress acquired millions of books and manuscripts, expanding its collection of Eastern literature. This mutually beneficial arrangement strengthened diplomatic ties and preserved valuable literary works for posterity.",
     "source": "BBC",
-    "link": "https://www.bbc.com/news/articles/crk01xyd22eo",
+    "link": "https://www.bbc.com/news/articles/cevj80gld7do",
     "url": ""
   },
   {
-    "title": "Israeli War-Weary Reservists Seek an End to Ongoing Conflict",
-    "date_str": "December 29, 2024",
-    "summary": "No summary available",
-    "source": "BBC",
-    "link": "https://www.bbc.com/news/articles/c62jpzmreyqo",
+    "title": "Lebanon's Devastated Economy Struggles to Regain Footing",
+    "date_str": "December 30, 2024",
+    "summary": "The recent conflict between Israel and Hezbollah has left devastating consequences, with civilians and infrastructure suffering significant damage. Despite a ceasefire, tensions remain high with no clear resolution. Key players in the conflict include Israel and Hezbollah, whose clashes have led to widespread destruction and loss of life. The conflict's roots lie in long-standing tensions and unresolved border disputes between the two sides, exacerbating the humanitarian crisis in the region.",
+    "source": "NYT",
+    "link": "https://www.nytimes.com/2024/12/30/world/middleeast/lebanon-economy-hezbollah-israel-war.html",
     "url": ""
   },
   {
-    "title": "Sudan's Capital Receives Long-Awaited Aid Convoy Amid Wartime Crisis",
+    "title": "Tourists Defy Warnings and Flock to Afghanistan",
     "date_str": "December 29, 2024",
-    "summary": "In a major breakthrough, vital food supplies have arrived in the war-torn capital of Khartoum, Sudan. This first aid convoy represents a significant step towards alleviating the severe food shortages that have plagued the city. The delivery was facilitated by the efforts of international aid organizations and Sudanese authorities.",
-    "source": "BBC",
-    "link": "https://www.bbc.com/news/articles/cz0re4vm7mvo",
-    "url": ""
-  },
-  {
-    "title": "Tourists Defy Warnings, Traveling to Afghanistan in Increasing Numbers",
-    "date_str": "December 29, 2024",
-    "summary": "Despite government warnings advising against travel, the Taliban are now opening Afghanistan to foreign visitors, signaling a shift in policy since the end of the war. This move has sparked concerns among international observers, who question the stability and security of the country under Taliban rule.",
+    "summary": "Despite official advisories to avoid travel, the Taliban has extended an invitation to foreign travelers following the conclusion of the war. The move underscores the Taliban's desire to normalize relations with the international community, while Western governments remain cautious due to concerns about the group's human rights record and potential security risks.",
     "source": "NYT",
     "link": "https://www.nytimes.com/2024/12/29/world/asia/afghanistan-taliban-tourism.html",
     "url": ""
   },
   {
-    "title": "Russia's Shadow Fleet Suspected of Sabotage for Sanctions Evasion",
+    "title": "The Cold Claims Infant Lives in Gaza, Heightening Civilian Casualties of the Conflict",
+    "date_str": "December 30, 2024",
+    "summary": "In Gaza, the frigid weather has claimed the lives of at least five infants in recent days, exacerbating the plight of displaced families who lack adequate shelter. The Gazan health ministry has reported that these families, forcibly displaced, rely primarily on tents and tarps for protection against the harsh conditions. This tragic loss of life highlights the ongoing humanitarian crisis in Gaza, where vulnerable populations face immense challenges due to conflict, displacement, and limited access to essential services.",
+    "source": "NYT",
+    "link": "https://www.nytimes.com/2024/12/30/world/middleeast/gaza-baby-deaths-cold.html",
+    "url": ""
+  },
+  {
+    "title": "Russia's Shadow Fleet, Designed to Circumvent Sanctions, Expands Capabilities to Include Sabotage",
     "date_str": "December 28, 2024",
-    "summary": "Russia has deployed a large fleet of covert oil-shipping vessels, raising concerns about potential disruptions to global energy markets. The Kremlin's motive is uncertain, but speculation suggests that Russia may use the fleet to cause chaos in response to Western sanctions. Key players involved include the Russian government and the various shipping companies involved in the covert operations. This incident sheds light on the ongoing geopolitical tensions between Russia and the West, highlighting the potential for Russia to use its energy resources as a weapon.",
+    "summary": "Russia has amassed a fleet of vessels to clandestinely transport its oil, leading to concerns that the Kremlin may exploit this fleet's presence at sea to engage in disruptive activities. This move follows Western sanctions imposed on Russia's energy sector, which have disrupted its traditional export routes. The key players involved include Russia and Western nations monitoring the situation closely. The accumulation of hundreds of vessels under the guise of oil transportation has heightened geopolitical tensions and raised questions about Russia's potential maritime strategy.",
     "source": "NYT",
     "link": "https://www.nytimes.com/2024/12/28/world/europe/russia-ship-shadow-fleet-finland.html",
-    "url": ""
-  },
-  {
-    "title": "Life-Saving Aid Arrives in War-Ravaged Sudan's Capital Region",
-    "date_str": "December 27, 2024",
-    "summary": "The warring sides in the prolonged conflict reached an agreement after three months of negotiations, bringing much-needed relief to hundreds of thousands of famine-stricken civilians. Key players in the talks included representatives from the conflict's opposing factions and international mediators. This breakthrough marks a significant step toward mitigating the humanitarian crisis, which had been exacerbated by the war and had left a vast number of people in dire need of assistance.",
-    "source": "NYT",
-    "link": "https://www.nytimes.com/2024/12/27/world/africa/aid-trucks-sudan-capital-famine.html",
-    "url": ""
-  },
-  {
-    "title": "Ukraine Temporarily Halts Missile Attacks Amidst Trump Transition to Presidency",
-    "date_str": "December 27, 2024",
-    "summary": "Despite concerns about escalation, Kyiv has deployed long-range missiles furnished by the United States and Britain to attack Russian territory, depleting its available supply. The move marks a significant escalation in the conflict, as these missiles can potentially reach targets deep within Russia. The decision to use the missiles was made by Ukrainian President Volodymyr Zelenskyy, following consultation with his Western allies.",
-    "source": "NYT",
-    "link": "https://www.nytimes.com/2024/12/27/world/europe/ukraine-russia-missiles-trump.html",
     "url": ""
   }
 ]
