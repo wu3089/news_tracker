@@ -1,26 +1,50 @@
 [
   {
-    "title": "North Korea says new hypersonic missile will 'contain' rivals",
-    "date_str": "January 07, 2025",
-    "summary": "North Korea claims to have successfully launched a new hypersonic missile, asserting that its development will strengthen its defense capabilities in the Pacific region. This launch marks Pyongyang's first missile test in two months and was conducted while US Secretary of State Antony Blinken visited Seoul. North Korea insists that the missile's purpose is to \"contain\" its rivals, emphasizing its ability to deter external threats and ensure the security of the nation.",
+    "title": "US accuses Sudanese paramilitary of genocide and sanctions its leader",
+    "date_str": "January 08, 2025",
+    "summary": "The United States has accused Sudan's Rapid Support Forces (RSF) of committing genocide in the country's Darfur region. The US has imposed sanctions on RSF leader Mohamed Hamdan Dagalo, citing systematic murder of men and boys and brutal sexual violence. This marks a significant step in international pressure on Sudan, which has been facing scrutiny for human rights violations in Darfur for over two decades.",
     "source": "BBC",
-    "link": "https://www.bbc.com/news/articles/crrwyv75g5xo",
+    "link": "https://www.bbc.com/news/articles/c8j9j72lvdvo",
     "url": ""
   },
   {
-    "title": "Michael J. Fox, Bono, and Anna Wintour Receive Prestigious Medal of Freedom",
-    "date_str": "January 07, 2025",
-    "summary": "President Joe Biden awarded the Presidential Medal of Freedom, the nation's highest civilian honor, to 19 distinguished individuals including actors Michael J. Fox and Denzel Washington, singer Bono, fashion icon Anna Wintour, and former Secretary of State Hillary Clinton. The President praised the recipients for their extraordinary contributions to American society, highlighting their work in fields ranging from music and film to diplomacy and activism.",
+    "title": "President Honors Michael J. Fox, Bono, and Anna Wintour with Presidential Medal of Freedom",
+    "date_str": "January 08, 2025",
+    "summary": "President Joe Biden awarded the Presidential Medal of Freedom, the United States' highest civilian honor, to 19 individuals for their contributions to American society. The recipients included renowned actor Michael J. Fox, musician Bono, and fashion editor Anna Wintour. The ceremony was held at the White House and recognized individuals from diverse fields, including entertainment, philanthropy, and public service.",
     "source": "BBC",
     "link": "https://www.bbc.com/news/videos/c2dx6gd0k66o",
     "url": ""
   },
   {
-    "title": "Austria Faces Potential Far-Right Chancellorship for First Time Since World War II",
-    "date_str": "January 06, 2025",
-    "summary": "Following the failure of coalition talks among mainstream Austrian parties, Heinz-Christian Strache, leader of the right-wing Freedom Party, has been tasked with forming a government. The Freedom Party, known for its anti-immigration and pro-Russia stance, has been on the rise in Austria in recent years, capitalizing on public discontent with immigration and the European Union. Strache's potential appointment as Chancellor sparks concerns about the party's influence on Austrian foreign and domestic policy, particularly its ties to Russia and its opposition to EU integration.",
+    "title": "U.S. Accuses Sudanese Paramilitary of Genocide",
+    "date_str": "January 07, 2025",
+    "summary": "The Secretary of State has accused a rebel force fighting Sudan's army of committing genocide in the same region where genocide was previously found two decades ago. The force has reportedly carried out massacres and rape, solidifying the accusations. This finding has brought the issue of genocide back into the spotlight, calling for immediate action.",
     "source": "NYT",
-    "link": "https://www.nytimes.com/2025/01/06/world/europe/austria-coalition-far-right-chancellor.html",
+    "link": "https://www.nytimes.com/2025/01/07/world/africa/sudan-rsf-genocide-us-sanctions.html",
+    "url": ""
+  },
+  {
+    "title": "The Magnitude of the Sudanese Crisis: Quantifying the Catastrophe",
+    "date_str": "January 07, 2025",
+    "summary": "The United States has formally designated atrocities committed in Ethiopia's Tigray region as genocide, recognizing the systematic and deliberate killings that have occurred since 2020. The Biden administration made this declaration after extensive investigations and consultations with human rights organizations. The Ethiopian government has denied allegations of genocide, but witnesses and evidence have documented widespread atrocities, including massacres, sexual violence, and arbitrary detention. The ongoing conflict in Tigray has displaced millions of people and created a humanitarian crisis, with the Tigray People's Liberation Front (TPLF) and the Ethiopian government being the key players in the conflict.",
+    "source": "NYT",
+    "link": "https://www.nytimes.com/2025/01/07/world/africa/sudan-genocide-numbers.html",
+    "url": ""
+  },
+  {
+    "title": "Trump Issues Warning: 'Hostilities Will Escalate' If Gaza Hostages Not Released",
+    "date_str": "January 07, 2025",
+    "summary": "President-elect Biden has expressed concern over the continued captivity of Americans in Iran and Afghanistan. He has vowed to prioritize securing their release, signaling a shift in U.S. foreign policy towards a more proactive approach to hostage negotiations. Although he has not disclosed specific actions, his stance reflects the importance of addressing the plight of captive citizens and the need for cooperation with relevant countries.",
+    "source": "NYT",
+    "link": "https://www.nytimes.com/2025/01/07/us/politics/trump-hostages-hamas.html",
+    "url": ""
+  },
+  {
+    "title": "Ireland Joins South Africa in Supporting Case Against Israel for Alleged Genocide",
+    "date_str": "January 07, 2025",
+    "summary": "Ireland plans to intervene in the International Court of Justice to dispute Israel's actions in Gaza, which Ireland claims constitute collective punishment. This action follows a request from the United Nations General Assembly for the Court to provide an advisory opinion on the legality of Israel's prolonged occupation and settlement construction in the Palestinian territories. The case highlights international concerns about Israel's continued presence in the territories and its implications for Palestinian self-determination.",
+    "source": "NYT",
+    "link": "https://www.nytimes.com/2025/01/07/world/europe/ireland-icj-israel-genocide.html",
     "url": ""
   }
 ]
