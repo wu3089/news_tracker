@@ -1,58 +1,74 @@
 [
   {
-    "title": "Young Couple Preserves Memories with Old-School Photo Lab Driven by Passion and Nostalgia",
-    "date_str": "January 12, 2025",
-    "summary": "In Central America, a young couple, Fabriccio and Lucía, are dedicated to preserving film photography and the memories it captures. They operate the region's only fully equipped film lab, driven by their shared passion for the medium and the desire to counter the decline of film photography in the digital age.",
+    "title": "President Biden and Prime Minister Netanyahu Engage in Discussions on Gaza Ceasefire Amidst Growing Momentum",
+    "date_str": "January 13, 2025",
+    "summary": "U.S. President Joe Biden and Israeli Prime Minister Benjamin Netanyahu engaged in discussions regarding ongoing truce talks for the Gaza conflict. As momentum for a potential ceasefire grows, Israel and Hamas are reportedly making progress, although concerns about specific aspects of the deal remain. This exchange marked a significant step toward finding a peaceful resolution between the parties involved.",
+    "source": "BBC",
+    "link": "https://www.bbc.com/news/articles/cq6g4694vygo",
+    "url": ""
+  },
+  {
+    "title": "Biden's Presidency Marred by Internal Conflict, Insular Decision-Making",
+    "date_str": "January 13, 2025",
+    "summary": "No summary available",
+    "source": "BBC",
+    "link": "https://www.bbc.com/news/articles/c7vd5n3el6no",
+    "url": ""
+  },
+  {
+    "title": "Young Couple Revives Old-School Magic in Modern Photo Lab",
+    "date_str": "January 13, 2025",
+    "summary": "No summary available",
     "source": "BBC",
     "link": "https://www.bbc.com/news/articles/c77j7n4kyy5o",
     "url": ""
   },
   {
-    "title": "Female Inventor Creates Innovative Aidbot for Displaced Communities in Lebanon",
-    "date_str": "January 12, 2025",
+    "title": "Innovative Woman Creates AI-Powered Aid for Displaced People in Lebanon",
+    "date_str": "January 13, 2025",
     "summary": "No summary available",
     "source": "BBC",
     "link": "https://www.bbc.com/news/articles/cpwx870enjno",
     "url": ""
   },
   {
-    "title": "Ukraine's Cultural Heritage at Risk: A Battle for Painting and Photography",
-    "date_str": "January 11, 2025",
-    "summary": "In response to Kyiv's struggle for identity, an image of Ukrainian soldiers superimposed over a renowned 19th-century Cossack painting has gained widespread resonance. This artistic adaptation symbolizes Ukraine's historical ties to the Cossacks, a legendary group of warriors who defended Ukrainian lands for centuries. The image's significance underscores the ongoing efforts of key players, including Ukrainian soldiers and artists, to reinforce the country's national identity amidst the ongoing conflict.",
+    "title": "Eight Justices to Determine South Korean President's Destiny Amidst Crisis",
+    "date_str": "January 13, 2025",
+    "summary": "South Korea's Constitutional Court is set to rule on the impeachment of President Yoon Suk Yeol, who was accused of illegally declaring martial law. The impeachment, initiated by the opposition-controlled National Assembly, is a significant event in South Korea, where the court serves as an important arbiter in a politically divided nation. The court's decision will determine whether the impeachment was justified, with potential implications for President Yoon's presidency and the stability of South Korea's political landscape.",
     "source": "NYT",
-    "link": "https://www.nytimes.com/2025/01/11/world/europe/ukraine-photo-painting-culture-war.html",
+    "link": "https://www.nytimes.com/2025/01/13/world/asia/south-korea-yoon-court-impeachment.html",
     "url": ""
   },
   {
-    "title": "Sudan's Military Regains Control of Vital City from Accused Genocidal Paramilitary",
+    "title": "Sudan's Military Regains Control of City from Accused Paramilitary",
     "date_str": "January 11, 2025",
-    "summary": "Celebrations broke out in military-controlled regions of Sudan, raising optimism that the military's victory could mark a crucial turning point in the devastating civil war. The military's success was a significant event, as it gave them control over key areas and potentially paved the way for a peaceful resolution. The key players involved included the Sudanese military and rebel groups that had been fighting for years. The conflict had a lengthy and complex history, marked by ethnic and political tensions that had hindered stability in the region.",
+    "summary": "Celebrations erupted in military-controlled areas of Sudan following a significant victory against rebel forces, igniting hopes that the conflict could reach a turning point. The victory, achieved by government troops under the leadership of General Abdel Fattah al-Burhan, marks a potential breakthrough in the protracted civil war that has ravaged Sudan for decades. International observers and aid organizations are closely monitoring the situation, as the outcome of the conflict could have major implications for the stability of the region.",
     "source": "NYT",
     "link": "https://www.nytimes.com/2025/01/11/world/africa/sudan-military-recaptures-city.html",
     "url": ""
   },
   {
-    "title": "Ukraine Captures Two North Korean Soldiers Supporting Russian Forces",
+    "title": "Ukraine Claims to Have Captured North Korean Soldiers Aiding Russia's Invasion",
     "date_str": "January 11, 2025",
-    "summary": "In a significant development, President Volodymyr Zelensky announced the capture of Ukrainian soldiers in the Kursk region, which Ukraine had previously secured last summer. This event underscores the ongoing conflict between Ukraine and Russia, with both sides seeking to establish control over contested territories. The key player, President Zelensky, continues to play a pivotal role in Ukraine's defense efforts while Russia's position remains notably absent from the article. The capturing of Ukrainian soldiers serves as a reminder of the ongoing human cost of the conflict and the importance of finding a diplomatic resolution.",
+    "summary": "Ukrainian President Volodymyr Zelensky announced the capture of Ukrainian soldiers by Russian forces in the western Kursk region, an area where Ukraine has been engaged in ongoing battles to maintain control of territory acquired in the summer of 2022. This development underscores the continuing conflict between Ukraine and Russia, which has escalated following Russia's invasion in February 2022.",
     "source": "NYT",
     "link": "https://www.nytimes.com/2025/01/11/world/europe/ukraine-north-korea-kursk.html",
     "url": ""
   },
   {
-    "title": "United States Tightens Sanctions Against Russian Energy Sector",
-    "date_str": "January 10, 2025",
-    "summary": "The Biden administration intensifies its campaign against Russia by targeting its \"shadow fleet\" of oil tankers and implementing measures to restrict oil and gas production. This action aims to reduce Russia's revenue and its ability to finance its ongoing military operations in Ukraine. The administration collaborates with allies and partners to limit the illicit transportation of Russian oil, while simultaneously promoting energy independence and strengthening economic stability.",
+    "title": "Ukraine's Cultural Heritage Faces Threat Amidst Wartime Turmoil",
+    "date_str": "January 11, 2025",
+    "summary": "Amidst Ukraine's struggle for national identity, an image of Ukrainian soldiers superimposed onto a 19th-century painting of Cossacks has resonated deeply. The evocative image symbolizes Kyiv's efforts to connect with its historical legacy and bolster morale against Russian aggression. Key actors include the Ukrainian military and the Russian forces they are resisting. The broader context includes the ongoing conflict between Ukraine and Russia, where identity and cultural heritage play a significant role in shaping the dynamics.",
     "source": "NYT",
-    "link": "https://www.nytimes.com/2025/01/10/us/politics/us-russia-sanctions.html",
+    "link": "https://www.nytimes.com/2025/01/11/world/europe/ukraine-photo-painting-culture-war.html",
     "url": ""
   },
   {
-    "title": "The Year 2024 Marked a Critical Milestone in Global Warming",
-    "date_str": "January 09, 2025",
-    "summary": "In 2022, global temperatures exceeded a critical target, exacerbating concerns about the feasibility of achieving climate mitigation goals. The United Nations and other international organizations are closely monitoring the situation, while governments and scientists continue to implement adaptation and mitigation strategies. The rise in temperatures underscores the urgent need for collective action to address the climate crisis.",
+    "title": "United States Enforces Comprehensive Sanctions to Pressure Russia's Energy Industry",
+    "date_str": "January 10, 2025",
+    "summary": "The Biden administration is implementing sanctions on the Russian \"shadow fleet\" and imposing measures to limit oil and gas production in Russia. These efforts aim to disrupt Russian revenue streams and exert pressure on the Kremlin. The administration's actions target vessels used by Russia to circumvent international sanctions and hinder the flow of Russian energy exports. This response follows Russia's ongoing aggression in Ukraine, which has prompted global condemnation and cooperation to isolate Russia economically.",
     "source": "NYT",
-    "link": "https://www.nytimes.com/interactive/2025/01/09/climate/2024-heat-record-climate-goal.html",
+    "link": "https://www.nytimes.com/2025/01/10/us/politics/us-russia-sanctions.html",
     "url": ""
   }
 ]
