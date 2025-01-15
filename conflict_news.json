@@ -1,42 +1,58 @@
 [
   {
-    "title": "As Migrant Crisis Swirled, Mexico Found Someone to Blame: Its Immigration Chief",
-    "date_str": "January 14, 2025",
-    "summary": "Amidst escalating border crossings, the United States exerted pressure on Mexico. Mexican officials reprimanded their immigration chief and revoked his authority to address the crisis. This move highlights the ongoing efforts by the U.S. to manage the influx of migrants and its reliance on Mexico's cooperation in controlling border flows.",
+    "title": "Ukraine Executes Most Extensive Military Offensive to Date",
+    "date_str": "January 15, 2025",
+    "summary": "Ukraine launched a large-scale attack on Russian regions, marking the war's most significant offensive to date. The strikes targeted areas hundreds of kilometers from the border, prompting officials in affected regions to report explosions and damage to infrastructure. Ukraine's military claimed the attack was in retaliation for Russia's ongoing aggression, aiming to neutralize the enemy's air defenses and strategic assets. The attack's magnitude and targeting of areas deep within Russian territory mark a significant escalation in the ongoing conflict.",
+    "source": "BBC",
+    "link": "https://www.bbc.com/news/articles/cwypg2z780go",
+    "url": ""
+  },
+  {
+    "title": "Key Details of the Gaza Ceasefire Agreement Revealed",
+    "date_str": "January 15, 2025",
+    "summary": "In an effort to end hostilities, Israel and Hamas are negotiating a possible ceasefire deal that is currently being mediated by Egypt. Details of the agreement are yet to be finalized, but sources suggest that it would involve a halt to Israeli airstrikes and a Palestinian cessation of rocket attacks. The deal is expected to enable humanitarian aid to reach Gaza, and address the underlying causes of the conflict.",
+    "source": "BBC",
+    "link": "https://www.bbc.com/news/articles/cy5klgv5zv0o",
+    "url": ""
+  },
+  {
+    "title": "Ukrainian Emergency Power Interrupted Due to Missile Assault",
+    "date_str": "January 15, 2025",
+    "summary": "Ukrainian air defenses successfully intercepted 30 missiles launched by Russia against gas and energy infrastructure, bolstering the country's resistance against Russian aggression. President Zelensky, while overseeing the response, emphasized the resilience of Ukrainian forces. The barrage, part of Russia's ongoing assault on Ukrainian infrastructure, aimed to disrupt the country's energy supply and weaken its resolve. The coordinated defense efforts by Ukrainian forces and President Zelensky's leadership underscore the country's determination to protect its critical infrastructure and safeguard its energy security.",
     "source": "NYT",
-    "link": "https://www.nytimes.com/2025/01/14/world/americas/mexico-migrant-crisis-us.html",
+    "link": "https://www.nytimes.com/2025/01/15/world/europe/ukraine-russia-missile-attack-energy.html",
+    "url": ""
+  },
+  {
+    "title": "South Korea Detains Ex-President over Allegations of Corruption",
+    "date_str": "January 14, 2025",
+    "summary": "In a historic precedent, South Korea's President Yoon Suk Yeol submitted to interrogation by criminal investigators. The investigation stems from allegations made during his election campaign. The move follows a failed attempt by Yoon to impose martial law, a significant departure from the country's tradition of civilian control of the military. Key players include Yoon, the police, and the courts. The investigation has garnered attention as it potentially undermines Yoon's authority and sets a precedent for holding powerful figures accountable.",
+    "source": "NYT",
+    "link": "https://www.nytimes.com/2025/01/14/world/asia/south-korea-yoon-detain.html",
+    "url": ""
+  },
+  {
+    "title": "President Biden to Declassify Cuba from State Sponsors of Terrorism",
+    "date_str": "January 14, 2025",
+    "summary": "The United States has reversed its policy towards Cuba, reversing a decision taken under the previous administration. This decision highlights the ongoing inconsistencies in U.S.-Cuba relations, which have been marked by conflicting approaches from different administrations. Key players include the Biden administration, which has re-engaged with Cuba, and the Cuban government, which has sought to maintain its socialist system while engaging with the United States. This decision follows a history of significant shifts in U.S.-Cuba relations, including the normalization efforts undertaken by the Obama administration and the subsequent reversal of those policies under Trump.",
+    "source": "NYT",
+    "link": "https://www.nytimes.com/2025/01/14/us/politics/biden-cuba.html",
+    "url": ""
+  },
+  {
+    "title": "EPA Warns of Persistent Chemicals in Sludge Fertilizer",
+    "date_str": "January 14, 2025",
+    "summary": "The Environmental Protection Agency (EPA) recently highlighted the significant risks posed by the use of sewage sludge containing high levels of per- and polyfluoroalkyl substances (PFAS) as fertilizer. These risks may surpass safety thresholds by orders of magnitude, raising concerns about potential groundwater contamination and adverse health effects. The EPA's findings have implications for wastewater treatment facilities and farmers who rely on sludge for soil enrichment. Stakeholders, including the EPA, industry representatives, and environmental advocates, are actively involved in addressing the issue and developing strategies to mitigate the risks associated with PFAS in sewage sludge.",
+    "source": "NYT",
+    "link": "https://www.nytimes.com/2025/01/14/climate/epa-pfas-forever-chemicals-sludge-fertilizer.html",
     "url": ""
   },
   {
     "title": "Ukraine Launches ‘Massive’ Drone Attacks Inside Russia, Officials Say",
     "date_str": "January 14, 2025",
-    "summary": "Ukrainian forces launched a series of missile strikes against Russian military targets in its most significant offensive on Russian soil in recent times. This barrage aimed to disrupt Russia's war effort by damaging its military infrastructure. The attacks were carried out by Ukrainian forces, targeting key military sites belonging to the Russian armed forces. The missile strikes are seen as a major escalation in the conflict, as they extend the battle directly into Russian territory.",
+    "summary": "Ukraine launched a significant barrage on Russia, damaging its war machine in one of the largest recent assaults on Russian territory. The attack, which involved multiple targets, highlighted Ukraine's growing offensive capabilities and its determination to strike at Russian infrastructure. Key players involved include Ukrainian forces and the Russian military. The background context includes Russia's invasion of Ukraine and Ukraine's ongoing efforts to defend its territory and weaken Russia's military presence.",
     "source": "NYT",
     "link": "https://www.nytimes.com/2025/01/14/world/europe/ukraine-russia-massive-drone-strikes.html",
-    "url": ""
-  },
-  {
-    "title": "Biden Officials Cautioned Putin Regarding Russia's Subversive Activities Posing an Aerial Hazard",
-    "date_str": "January 13, 2025",
-    "summary": "In response to intelligence about a potential Russian plot to send explosives, the White House proactively contacted President Putin. Intelligence agencies had detected Russian military preparations to ship explosive packages via cargo planes, prompting the administration to take immediate action to mitigate the threat. The incident highlights the ongoing geopolitical tensions and the crucial role of intelligence in safeguarding national security.",
-    "source": "NYT",
-    "link": "https://www.nytimes.com/2025/01/13/us/politics/russia-putin-airplane-shadow-war.html",
-    "url": ""
-  },
-  {
-    "title": "Eight Supreme Court Justices Determine President's Destiny in South Korean Crisis",
-    "date_str": "January 13, 2025",
-    "summary": "The Constitutional Court of South Korea will deliberate on the impeachment of President Yoon Suk Yeol, who declared martial law following his election. The Court's decision will have a significant impact on the nation's political landscape, as it could lead to Yoon's removal from office. Key figures involved include Yoon and the Court justices, who are tasked with interpreting the constitutionality of his actions. The impeachment stems from allegations of corruption and abuse of power, reflecting the deep political divisions within South Korea.",
-    "source": "NYT",
-    "link": "https://www.nytimes.com/2025/01/13/world/asia/south-korea-yoon-court-impeachment.html",
-    "url": ""
-  },
-  {
-    "title": "Sudanese Military Regains Control of Key City After Paramilitary Accusations",
-    "date_str": "January 11, 2025",
-    "summary": "Celebrations marked military victories in Sudan, signaling potential progress in the protracted civil war. Key players include the military and rebel groups, with the war's devastating impact providing critical context. The victories have sparked hopes for a turning point in the conflict, raising expectations that the parties involved could move towards a negotiated settlement. The international community closely monitors the situation, recognizing the importance of stable governance and peace for Sudan and the region.",
-    "source": "NYT",
-    "link": "https://www.nytimes.com/2025/01/11/world/africa/sudan-military-recaptures-city.html",
     "url": ""
   }
 ]
