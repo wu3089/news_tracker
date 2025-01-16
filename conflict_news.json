@@ -1,58 +1,50 @@
 [
   {
-    "title": "Ukraine Executes Most Extensive Military Offensive to Date",
-    "date_str": "January 15, 2025",
-    "summary": "Ukraine launched a large-scale attack on Russian regions, marking the war's most significant offensive to date. The strikes targeted areas hundreds of kilometers from the border, prompting officials in affected regions to report explosions and damage to infrastructure. Ukraine's military claimed the attack was in retaliation for Russia's ongoing aggression, aiming to neutralize the enemy's air defenses and strategic assets. The attack's magnitude and targeting of areas deep within Russian territory mark a significant escalation in the ongoing conflict.",
+    "title": "Israeli Strikes Result in Multiple Fatalities Prior to Gaza Ceasefire",
+    "date_str": "January 16, 2025",
+    "summary": "Israeli airstrikes on the Gaza Strip continued unabated despite a ceasefire deal that was set to come into effect. According to reports, over 60 people were killed before the ceasefire was to begin. The attacks, which targeted Hamas, came after a period of intense rocket fire from Gaza into Israel. The airstrikes were a major setback to efforts to end the conflict, which has claimed hundreds of lives on both sides.",
     "source": "BBC",
-    "link": "https://www.bbc.com/news/articles/cwypg2z780go",
+    "link": "https://www.bbc.com/news/articles/crke088e27lo",
     "url": ""
   },
   {
-    "title": "Key Details of the Gaza Ceasefire Agreement Revealed",
-    "date_str": "January 15, 2025",
-    "summary": "In an effort to end hostilities, Israel and Hamas are negotiating a possible ceasefire deal that is currently being mediated by Egypt. Details of the agreement are yet to be finalized, but sources suggest that it would involve a halt to Israeli airstrikes and a Palestinian cessation of rocket attacks. The deal is expected to enable humanitarian aid to reach Gaza, and address the underlying causes of the conflict.",
+    "title": "Bowen: Ceasefire in Ukraine May Pause Violence, but Conflict Lingers",
+    "date_str": "January 16, 2025",
+    "summary": "A recent ceasefire agreement between Israel and Hamas has brought a halt to the ongoing conflict in Gaza. The truce enables the release of Israeli hostages and Palestinian prisoners. However, while the truce aims to reduce violence, the underlying conflict remains unresolved, leaving analysts unsure whether it will lead to a long-term solution.",
+    "source": "BBC",
+    "link": "https://www.bbc.com/news/articles/cy8p95x04z8o",
+    "url": ""
+  },
+  {
+    "title": "President Biden Expresses Concern Over the Rise of Oligarchy in America",
+    "date_str": "January 16, 2025",
+    "summary": "In his final televised address from the Oval Office, US President Joe Biden highlighted the emerging risks of an 'oligarchy' developing within the country. Biden emphasized the importance of preserving democracy and addressing growing inequality, stating that the nation must 'invest in our values' to avoid a plutocratic system where wealth concentrates power in the hands of the elite. The speech marked a significant moment as Biden completed his term, highlighting concerns about political and economic polarization in the US.",
+    "source": "BBC",
+    "link": "https://www.bbc.com/news/articles/c1weqzl3ydro",
+    "url": ""
+  },
+  {
+    "title": "South Korea Reels from Crisis as Yoon's Arrest Divides the Nation",
+    "date_str": "January 16, 2025",
+    "summary": "South Korean authorities arrested the country's former President Yoon Suk Yeol, triggering deep divisions. Yoon's attempt to impose martial law has polarized the country, with his supporters clashing with police during the arrest. Key figures involved include Yoon, the police, and protesters who support or oppose Yoon. This incident highlights the ongoing political instability in South Korea and its impact on society.",
+    "source": "BBC",
+    "link": "https://www.bbc.com/news/articles/c5yv4p95m6vo",
+    "url": ""
+  },
+  {
+    "title": "Details of the Gaza Ceasefire Agreement and Its Implications",
+    "date_str": "January 16, 2025",
+    "summary": "Following an escalation of hostilities in Gaza, Israel and Hamas agreed to a ceasefire on January 14, 2025. The deal, brokered by international mediators, includes a halt to all military operations and the provision of humanitarian aid to the Gaza Strip. The ceasefire represents a significant step towards reducing tensions and preventing further loss of life, ending a period marked by airstrikes, rocket attacks, and civilian casualties.",
     "source": "BBC",
     "link": "https://www.bbc.com/news/articles/cy5klgv5zv0o",
     "url": ""
   },
   {
-    "title": "Ukrainian Emergency Power Interrupted Due to Missile Assault",
-    "date_str": "January 15, 2025",
-    "summary": "Ukrainian air defenses successfully intercepted 30 missiles launched by Russia against gas and energy infrastructure, bolstering the country's resistance against Russian aggression. President Zelensky, while overseeing the response, emphasized the resilience of Ukrainian forces. The barrage, part of Russia's ongoing assault on Ukrainian infrastructure, aimed to disrupt the country's energy supply and weaken its resolve. The coordinated defense efforts by Ukrainian forces and President Zelensky's leadership underscore the country's determination to protect its critical infrastructure and safeguard its energy security.",
-    "source": "NYT",
-    "link": "https://www.nytimes.com/2025/01/15/world/europe/ukraine-russia-missile-attack-energy.html",
-    "url": ""
-  },
-  {
-    "title": "South Korea Detains Ex-President over Allegations of Corruption",
+    "title": "South Korea Detains President Park Geun-hye as Political Turmoil Continues",
     "date_str": "January 14, 2025",
-    "summary": "In a historic precedent, South Korea's President Yoon Suk Yeol submitted to interrogation by criminal investigators. The investigation stems from allegations made during his election campaign. The move follows a failed attempt by Yoon to impose martial law, a significant departure from the country's tradition of civilian control of the military. Key players include Yoon, the police, and the courts. The investigation has garnered attention as it potentially undermines Yoon's authority and sets a precedent for holding powerful figures accountable.",
+    "summary": "In a groundbreaking move, South Korean President Yoon Suk Yeol became the first head of state to undergo criminal investigation, ending an extensive standoff following his declaration of martial law. Police questioned Yoon over alleged election law violations, marking a significant escalation in the ongoing political crisis. The investigation stemmed from allegations of illegal campaign funding and the involvement of a conservative group with ties to Yoon's campaign. This marks a historic shift in South Korea's political landscape, as the country has traditionally respected the immunity of its leaders during their tenure.",
     "source": "NYT",
     "link": "https://www.nytimes.com/2025/01/14/world/asia/south-korea-yoon-detain.html",
-    "url": ""
-  },
-  {
-    "title": "President Biden to Declassify Cuba from State Sponsors of Terrorism",
-    "date_str": "January 14, 2025",
-    "summary": "The United States has reversed its policy towards Cuba, reversing a decision taken under the previous administration. This decision highlights the ongoing inconsistencies in U.S.-Cuba relations, which have been marked by conflicting approaches from different administrations. Key players include the Biden administration, which has re-engaged with Cuba, and the Cuban government, which has sought to maintain its socialist system while engaging with the United States. This decision follows a history of significant shifts in U.S.-Cuba relations, including the normalization efforts undertaken by the Obama administration and the subsequent reversal of those policies under Trump.",
-    "source": "NYT",
-    "link": "https://www.nytimes.com/2025/01/14/us/politics/biden-cuba.html",
-    "url": ""
-  },
-  {
-    "title": "EPA Warns of Persistent Chemicals in Sludge Fertilizer",
-    "date_str": "January 14, 2025",
-    "summary": "The Environmental Protection Agency (EPA) recently highlighted the significant risks posed by the use of sewage sludge containing high levels of per- and polyfluoroalkyl substances (PFAS) as fertilizer. These risks may surpass safety thresholds by orders of magnitude, raising concerns about potential groundwater contamination and adverse health effects. The EPA's findings have implications for wastewater treatment facilities and farmers who rely on sludge for soil enrichment. Stakeholders, including the EPA, industry representatives, and environmental advocates, are actively involved in addressing the issue and developing strategies to mitigate the risks associated with PFAS in sewage sludge.",
-    "source": "NYT",
-    "link": "https://www.nytimes.com/2025/01/14/climate/epa-pfas-forever-chemicals-sludge-fertilizer.html",
-    "url": ""
-  },
-  {
-    "title": "Ukraine Launches ‘Massive’ Drone Attacks Inside Russia, Officials Say",
-    "date_str": "January 14, 2025",
-    "summary": "Ukraine launched a significant barrage on Russia, damaging its war machine in one of the largest recent assaults on Russian territory. The attack, which involved multiple targets, highlighted Ukraine's growing offensive capabilities and its determination to strike at Russian infrastructure. Key players involved include Ukrainian forces and the Russian military. The background context includes Russia's invasion of Ukraine and Ukraine's ongoing efforts to defend its territory and weaken Russia's military presence.",
-    "source": "NYT",
-    "link": "https://www.nytimes.com/2025/01/14/world/europe/ukraine-russia-massive-drone-strikes.html",
     "url": ""
   }
 ]
