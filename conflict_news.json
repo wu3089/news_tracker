@@ -1,50 +1,82 @@
 [
   {
-    "title": "Former President Trump Expresses Doubt Over Israel-Gaza Ceasefire's Longevity",
-    "date_str": "January 21, 2025",
-    "summary": "On January 21, 2025, United States President Donald Trump expressed doubt about the stability of the recent ceasefire between Israel and Gaza. The three-day ceasefire was brokered by Egypt. Trump's comments come amid concerns about the ongoing conflict and the potential for further violence. International leaders hope the ceasefire will lead to a lasting peace agreement between the two sides.",
+    "title": "Amidst the Conflict, Ukrainian War Clinics Battle Surging Drug-Resistant Infections",
+    "date_str": "January 22, 2025",
+    "summary": "The ongoing conflict in Ukraine has been linked to a significant increase in the spread of dangerous drug-resistant bacteria. This trend is particularly concerning in war clinics, where frontline medical personnel report a sharp rise in infections caused by bacteria that have evolved to resist common antibiotics. The rapid spread of these pathogens poses a major threat to the health of soldiers and civilians alike, as the available treatment options become increasingly limited.",
+    "source": "BBC",
+    "link": "https://www.bbc.com/news/articles/c20k5wrgz13o",
+    "url": ""
+  },
+  {
+    "title": "Indian Court Orders Confiscation of Controversial Paintings by M.F. Husain",
+    "date_str": "January 22, 2025",
+    "summary": "In India, a court issued an order for the seizure of controversial paintings by renowned artist M.F. Husain. The order came after a complaint alleged that the paintings, depicting Hindu deities, \"hurt religious sentiments.\" Vishwa Hindu Parishad, a right-wing Hindu organization, filed the complaint against a private art gallery in Delhi where the works were displayed. The court's order aims to prevent the sale and distribution of the paintings until further proceedings are held.",
+    "source": "BBC",
+    "link": "https://www.bbc.com/news/articles/cg45vk9gnw6o",
+    "url": ""
+  },
+  {
+    "title": "Thailand Emerges as a Safe Haven for LGBTQ+ Couples After a Protracted Struggle",
+    "date_str": "January 22, 2025",
+    "summary": "Thailand has recently legalized same-sex marriage, becoming one of the few Asian countries to do so. This move has been hailed by LGBT+ rights advocates as a significant step forward for equality in the region. The legalization process began in 2020 when the Thai Parliament passed a bill allowing same-sex couples to legally register their partnerships. This was followed by a constitutional amendment in 2023 that extended the definition of marriage to include same-sex couples. The amendment was approved by a majority vote in both houses of Parliament, demonstrating the growing acceptance of LGBT+ rights in Thailand.",
+    "source": "BBC",
+    "link": "https://www.bbc.com/news/articles/cly92g14edro",
+    "url": ""
+  },
+  {
+    "title": "President Trump Expresses Lack of Confidence in Israel-Gaza Ceasefire Stability",
+    "date_str": "January 22, 2025",
+    "summary": "Newly sworn-in US President Donald Trump expressed doubt regarding the longevity of the ceasefire between Israel and Gaza, while the ceasefire entered its third day. This comes after an 11-day conflict that resulted in over 200 Palestinian deaths, including 60 children, and 12 Israeli deaths.",
     "source": "BBC",
     "link": "https://www.bbc.com/news/videos/ce9n25j375jo",
     "url": ""
   },
   {
-    "title": "Trump Greeted with Awkward Air Kiss and Applause Upon Entering Capitol",
-    "date_str": "January 21, 2025",
-    "summary": "Former President Donald Trump entered the Capitol to applause as his wife, Melania, attempted to kiss him on the cheek, but her hat allegedly interfered. The incident raised questions about the significance of the gesture and its potential implications for the couple's relationship.",
+    "title": "Awkward Air Kiss as President Trump Enters Capitol with Applause",
+    "date_str": "January 22, 2025",
+    "summary": "Upon entering the Capitol to applause, former President Donald Trump attempted to kiss his wife Melania; however, her hat blocked the kiss. This incident occurred during a joint session of Congress to certify the results of the 2020 presidential election.",
     "source": "BBC",
     "link": "https://www.bbc.com/news/videos/cz9e5y9vlwzo",
     "url": ""
   },
   {
-    "title": "Trump's Refugee Admission Ban Threatens Afghans, Warns Advocate",
+    "title": "North Korea Engages in Proxy War Alongside Russia's Invasion of Ukraine",
+    "date_str": "January 22, 2025",
+    "summary": "Ukrainian forces have encountered a formidable adversary, employing unorthodox tactics and limiting their options for retreat. This development highlights the evolving nature of the conflict in Ukraine, with new challenges for the Ukrainian military. Key players include the Ukrainian forces and an unspecified enemy force. The situation underscores the complexity of the conflict and the ongoing need for strategic adaptation by the Ukrainian military.",
+    "source": "NYT",
+    "link": "https://www.nytimes.com/2025/01/22/world/europe/north-korea-soldiers-ukraine.html",
+    "url": ""
+  },
+  {
+    "title": "Spanish Court Mandates Equal Paid Leave for Single and Coupled Parents",
+    "date_str": "January 22, 2025",
+    "summary": "Following a constitutional court ruling prohibiting discrimination against children born to single parents, Germany has implemented a new law that equalizes inheritance rights for these children. This landmark decision grants children born out of wedlock the same inheritance rights as those of married couples, thereby eliminating historical legal disparities faced by single-parent families.",
+    "source": "NYT",
+    "link": "https://www.nytimes.com/2025/01/22/world/europe/spain-single-parents-paid-leave.html",
+    "url": ""
+  },
+  {
+    "title": "UK Prime Minister Denounces Southport Killings as a Novel Form of Terrorism",
+    "date_str": "January 21, 2025",
+    "summary": "Following the admission of murder from a teenager at a dance class, Keir Starmer, the UK's Director of Public Prosecutions, raised concerns about the radicalization of individuals into acts of violence. The incident has prompted calls to amend terrorism laws to address the threat of violence perpetrated for its own sake. The case highlights ongoing challenges in preventing and addressing extremism in the United Kingdom.",
+    "source": "NYT",
+    "link": "https://www.nytimes.com/2025/01/21/world/europe/uk-terrorism-law-southport-attack-starmer.html",
+    "url": ""
+  },
+  {
+    "title": "Israel Launches Major Military Operation in West Bank",
+    "date_str": "January 21, 2025",
+    "summary": "The Biden administration announced sanctions against Israeli settlers, prompting President Trump to rescind Biden-era sanctions. Tensions in the Gaza Strip escalated as Jewish extremists raided Palestinian villages in response to a cease-fire, showcasing the Trump administration's support for Israeli settlers and the ongoing conflict between Israelis and Palestinians. The situation highlights the challenges faced by the Biden administration in navigating the complex Israeli-Palestinian conflict and the potential for further escalation in the region.",
+    "source": "NYT",
+    "link": "https://www.nytimes.com/2025/01/21/world/middleeast/israel-trump-settlers-west-bank-gaza.html",
+    "url": ""
+  },
+  {
+    "title": "Trump's Suspension of Refugee Admissions Imperils Afghan Lives, Advocate Warns",
     "date_str": "January 20, 2025",
-    "summary": "The head of a resettlement group expressed concern that an executive order from the Biden administration could abandon thousands of Afghan wartime allies who aided Americans during the Taliban takeover. The order has raised concerns among humanitarian organizations and Afghan communities, who fear that the allies facing imminent danger will be left behind. This issue highlights the ongoing challenges in resettling Afghan allies and the significance of international cooperation in providing support to vulnerable individuals displaced by conflict.",
+    "summary": "The head of a resettlement group has warned that an order from US forces could abandon thousands of Afghan allies who aided Americans before the Taliban regained control. This order has grave implications, potentially leaving these individuals vulnerable and violating the US's moral obligation to support those who risked their lives. Key players in this situation include the US forces, the resettlement group, and the Afghan allies whose safety is at stake.",
     "source": "NYT",
     "link": "https://www.nytimes.com/2025/01/20/world/asia/refugees-afghanistan-trump.html",
-    "url": ""
-  },
-  {
-    "title": "Latin American Leaders Extend Welcome While Issuing Cautions to Trump",
-    "date_str": "January 20, 2025",
-    "summary": "President Trump implemented controversial immigration policies that impacted multiple nations. He also declared his intent to impose tariffs on Mexico and Canada, leading to tension among these countries. The motivations behind these actions stemmed from perceived imbalances in immigration and trade, prompting international concerns and potential economic consequences.",
-    "source": "NYT",
-    "link": "https://www.nytimes.com/2025/01/20/world/americas/latin-america-trump-reaction.html",
-    "url": ""
-  },
-  {
-    "title": "Gaza Fighting Paused, but Conflict Persists",
-    "date_str": "January 20, 2025",
-    "summary": "The delayed start of the truce on Sunday was a minor setback in the ongoing negotiations to end the war. Key players, including the United States, exercised their leverage to facilitate the transition into the second phase, which has the potential to bring about a resolution to the conflict. The success of this critical juncture relies heavily on the parties' ability to navigate difficult choices and the active role played by the United States in mediating a lasting agreement.",
-    "source": "NYT",
-    "link": "https://www.nytimes.com/2025/01/20/world/europe/gaza-war-fighting-ceasefire-hamas-israel.html",
-    "url": ""
-  },
-  {
-    "title": "Trump's Pre-Election Promise to End Ukraine Conflict Remains Unfulfilled",
-    "date_str": "January 19, 2025",
-    "summary": "Former President Donald Trump's pledge to secure peace between Russia and Ukraine within 24 hours of taking office failed to materialize, despite his repeated assertions. Despite the absence of a peace agreement, key players, including Trump, Russian President Vladimir Putin, and Ukrainian President Volodymyr Zelenskyy, engaged in diplomatic efforts. The background of the conflict includes a history of Russian aggression in Ukraine, including the annexation of Crimea in 2014.",
-    "source": "NYT",
-    "link": "https://www.nytimes.com/2025/01/19/us/politics/trump-promise-ending-ukraine-war.html",
     "url": ""
   }
 ]
