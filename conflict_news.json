@@ -1,58 +1,34 @@
 [
   {
-    "title": "Rebels kill DR Congo governor as fighting intensifies",
-    "date_str": "January 25, 2025",
-    "summary": "M23 rebels in the Democratic Republic of Congo intensified their offensive, resulting in the assassination of Governor Peter Chirimwami, further escalating tensions in the conflict-ridden eastern region of the country. The United Nations has reported that four hundred thousand people have been displaced due to the ongoing violence, highlighting the severity of the humanitarian crisis in the region.",
+    "title": "David Lammy Expresses Horror After Encountering Sudanese War Victims",
+    "date_str": "January 26, 2025",
+    "summary": "After visiting Sudanese refugees in Chad, UK Foreign Secretary David Lammy expressed shock at the evidence of war crimes committed in Sudan. Witnesses shared accounts of atrocities, including extrajudicial killings, sexual violence, and the use of chemical weapons. Lammy condemned the ongoing violence and urged the international community to intervene, emphasizing the need to prevent further suffering and hold perpetrators accountable.",
     "source": "BBC",
-    "link": "https://www.bbc.com/news/articles/ckgy6qlv5kro",
+    "link": "https://www.bbc.com/news/articles/czxkw60q3p1o",
     "url": ""
   },
   {
-    "title": "Afghan Refugees Express Betrayal Over Presidential Order Blocking US Resettlement",
-    "date_str": "January 25, 2025",
-    "summary": "Afghan refugees express deep betrayal over former President Trump's order blocking their relocation to the United States. Despite collaborating with Americans in Afghanistan, they claim that the US has abandoned them. This order has drawn criticism from numerous Afghans who feel betrayed after years of service alongside American forces.",
-    "source": "BBC",
-    "link": "https://www.bbc.com/news/articles/cz0l97ee2xmo",
-    "url": ""
-  },
-  {
-    "title": "Thailand Legalizes Same-Sex Marriage, Couples Publicly Declare Their Love",
-    "date_str": "January 25, 2025",
-    "summary": "Thailand has become the first country in Southeast Asia to legalize same-sex marriage, marking a significant milestone for LGBTQ+ rights in the region. Several couples exchanged vows at a Bangkok mall after the law went into effect, expressing profound joy and a sense of validation. The move comes after years of advocacy and activism by LGBTQ+ organizations and individuals, demonstrating a shift in societal attitudes toward same-sex relationships. Thailand's Prime Minister Prayut Chan-o-cha signed the legislation into law, despite initial concerns from some conservative groups.",
+    "title": "Thai Couples Celebrate Same-Sex Marriage as Country Legalizes Unions",
+    "date_str": "January 26, 2025",
+    "summary": "On January 23, 2025, Thailand became the first country in Southeast Asia to legalize same-sex marriage. Couples were seen marrying at a Bangkok mall, expressing their joy and the significance of the legal change. The move is a major step forward for LGBT rights in the region and was celebrated by advocacy groups and individuals alike.",
     "source": "BBC",
     "link": "https://www.bbc.com/news/videos/cwypjle469zo",
     "url": ""
   },
   {
-    "title": "Trump tells Putin to end 'ridiculous war' in Ukraine or face new sanctions",
+    "title": "Israel's Welcome for Women Alerting Troops of Gaza Raid",
     "date_str": "January 25, 2025",
-    "summary": "Former US President Donald Trump advised Russian President Vladimir Putin to end the ongoing conflict in Ukraine, deeming it \"ridiculous.\" Trump stated that if Putin failed to comply, new sanctions would be imposed. The warning was delivered during a phone call between the two leaders, and Trump emphasized that acting to end the war would be a \"big favor\" to Russia.",
-    "source": "BBC",
-    "link": "https://www.bbc.com/news/articles/cjw4q7v7ez1o",
-    "url": ""
-  },
-  {
-    "title": "Thailand Emerges as a Sanctuary for LGBTQ+ Couples Amidst Challenges",
-    "date_str": "January 25, 2025",
-    "summary": "Thailand is poised to become one of the few Asian countries to legalize same-sex marriage, a significant milestone for the LGBTQ+ community. This move follows years of activism and support from the country's vibrant LGBTQ+ scene, which has contributed to a growing social acceptance of diverse sexual orientations and gender identities in Thailand. Key players in this advancement include LGBTQ+ rights groups, such as the Rainbow Coalition of Thailand, and prominent celebrities who have publicly expressed their support for same-sex marriage.",
-    "source": "BBC",
-    "link": "https://www.bbc.com/news/articles/cly92g14edro",
-    "url": ""
-  },
-  {
-    "title": "Israel Celebrates the Homecoming of Women Who Foiled Gaza Terrorist Attack",
-    "date_str": "January 25, 2025",
-    "summary": "Israeli military spotters, primarily young women, detected suspicious activity near the border, which prompted an attack by Hamas resulting in 15 casualties and the abduction of seven spotters. After negotiations, four of the abductees were released on Saturday. The incident highlights the crucial role of spotters in Israel's border security and the ongoing tensions between Israel and Hamas.",
+    "summary": "Following suspicious activity reports from young female spotters, Hamas launched an attack, resulting in the deaths of 15 spotters and the abduction of seven. Israel negotiated the release of four spotters on Saturday. The incident highlights the critical role of young women in providing information to the Israeli army and the ongoing tensions between Israel and Hamas.",
     "source": "NYT",
     "link": "https://www.nytimes.com/2025/01/25/world/middleeast/israel-spotters-hostages.html",
     "url": ""
   },
   {
-    "title": "Ukraine's Lower Soldier Casualties Do Not Compensate for Overall War Losses",
-    "date_str": "January 23, 2025",
-    "summary": "Russia has sustained approximately twice the casualties as Ukraine in the ongoing conflict, with significant losses in both fatalities and severe injuries. Despite Ukraine's initial battlefield successes, recent trends indicate a more advantageous position for the Kremlin. The war has intensified, pitting Ukraine against a larger and more powerful Russian military. As the conflict continues, the key players remain Russia and Ukraine, with international support and sanctions playing a crucial role in shaping the outcome.",
+    "title": "Hostage Dispute Between Israel and Hamas Leaves Palestinian Families in Limbo",
+    "date_str": "January 25, 2025",
+    "summary": "Israel has suspended movement to northern Gaza until plans are established for the release of Arbel Yehud, an Israeli civilian woman detained in the territory. The Israeli government's decision stems from concerns about the well-being and repatriation of Yehud, highlighting the ongoing tensions between Israel and Gaza. Key players in this situation include the Israeli government and Hamas, the governing body of Gaza, which holds Yehud captive. The incident underscores the complex and fraught nature of the Israeli-Palestinian conflict, particularly as it concerns the safety of civilians and the potential for humanitarian crises.",
     "source": "NYT",
-    "link": "https://www.nytimes.com/2025/01/23/world/europe/ukraine-russia-soldiers-loss.html",
+    "link": "https://www.nytimes.com/2025/01/25/world/middleeast/israel-hamas-gaza-hostage-yehud.html",
     "url": ""
   }
 ]
