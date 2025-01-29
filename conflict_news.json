@@ -1,82 +1,50 @@
 [
   {
-    "title": "Survivors of Auschwitz Share Urgent Message as Historical Memory Wanes",
-    "date_str": "January 28, 2025",
-    "summary": "On the 80th anniversary of the liberation of Auschwitz, 56 survivors, joined by world leaders, shared their recollections and sounded a warning against the horrors of the past. They highlighted that as memories fade, it is imperative to keep the lessons of the Holocaust alive. President Volodymyr Zelenskyy, Ukraine's President, issued a virtual address, while German President Frank-Walter Steinmeier urged vigilance against the rise of intolerance and hatred.",
+    "title": "Italian PM Under Investigation for Authorizing Release of Libyan War Crimes Suspect",
+    "date_str": "January 29, 2025",
+    "summary": "Italian Prime Minister Giorgia Meloni is being investigated for the release of a Libyan national wanted by the International Criminal Court (ICC) for war crimes. The investigation began after Italian authorities freed the suspect, who is accused of having commanded forces involved in the killing of civilians during the 2011 Libyan conflict. The incident has raised concerns about Italy's compliance with international law and its obligations to cooperate with the ICC.",
     "source": "BBC",
-    "link": "https://www.bbc.com/news/articles/c20p33pz3pzo",
+    "link": "https://www.bbc.com/news/articles/cvg8r2g59vyo",
     "url": ""
   },
   {
-    "title": "Democratic Republic of Congo Hospitals Strain Under Siege of Goma",
-    "date_str": "January 28, 2025",
-    "summary": "No summary available",
-    "source": "BBC",
-    "link": "https://www.bbc.com/news/articles/cyv4606y4jzo",
-    "url": ""
-  },
-  {
-    "title": "Poland warns against restarting Russia gas supplies",
-    "date_str": "January 28, 2025",
-    "summary": "No summary available",
-    "source": "BBC",
-    "link": "https://www.bbc.com/news/articles/c1m5p21pmy2o",
-    "url": ""
-  },
-  {
-    "title": "Colombia Agrees to Deportation Flights to Prevent Trade Dispute with US",
-    "date_str": "January 28, 2025",
-    "summary": "No summary available",
-    "source": "BBC",
-    "link": "https://www.bbc.com/news/articles/c20p36e62gyo",
-    "url": ""
-  },
-  {
-    "title": "Trump Warns World Leaders to Cooperate or Face Repercussions",
-    "date_str": "January 28, 2025",
-    "summary": "No summary available",
-    "source": "BBC",
-    "link": "https://www.bbc.com/news/articles/cglynrxjyl5o",
-    "url": ""
-  },
-  {
-    "title": "Lebanon Faces a Mammoth Disposal Challenge: Removing War-Torn Rubble",
-    "date_str": "January 28, 2025",
-    "summary": "None",
+    "title": "Gaza War Veteran Perishes as Ceasefire Approaches",
+    "date_str": "January 29, 2025",
+    "summary": "An intense conflict erupted between Israel and Hamas, resulting in fatalities until the implementation of a truce. The ceasefire's unexpected delay proved fatal for some. Both sides engaged in fierce fighting during the lead-up to the ceasefire, involving the Israeli military and Hamas militants. The conflict underscores the ongoing tensions between Israel and Palestinian factions in the Gaza Strip and highlights the challenges in achieving a lasting peace in the region.",
     "source": "NYT",
-    "link": "https://www.nytimes.com/2025/01/28/world/middleeast/lebanon-israel-hezbollah-war-debris.html",
+    "link": "https://www.nytimes.com/2025/01/29/world/middleeast/gaza-cease-fire-deaths.html",
     "url": ""
   },
   {
-    "title": "Kremlin Elevates Veterans, Learning from Past Wartime Experiences",
+    "title": "DeepSeek's AI Chatbot Faces Challenges Circumventing China's Censorship",
+    "date_str": "January 29, 2025",
+    "summary": "A chatbot trained by China's largest search engine Baidu exhibits a reluctance to answer potentially sensitive questions, prompting speculation about censorship. In response to inquiries about prominent figures like Chinese President Xi Jinping, the chatbot would initiate a response but abruptly delete it, indicating an internal filter. This behavior underscores the pervasive influence of censorship and control over information dissemination in China, where the government maintains strict control over media and online content.",
+    "source": "NYT",
+    "link": "https://www.nytimes.com/2025/01/29/world/asia/deepseek-china-censorship.html",
+    "url": ""
+  },
+  {
+    "title": "France Reclaims World's Top Culinary Honor",
     "date_str": "January 28, 2025",
-    "summary": "Russian veterans of the Chechnya and Afghanistan conflicts faced societal stigma and silence upon their return home. In light of the current conflict in Ukraine, there is now a significant public movement to change this situation, advocating for recognition and support for these veterans. This effort is being driven by key players such as veteran groups and government officials, who aim to break the cycle of silence and stigma surrounding Russian veterans. The initiative draws upon the historical context of past conflicts and their impact on the lives of those who fought in them.",
+    "summary": "Following a disappointing performance in 2023, France secured victory in the 2024 Bocuse d'Or, a prestigious culinary competition. Denmark, the previous title holder, placed in the top three. The competition showcased the culinary prowess of nations worldwide, with France reasserting its dominance in the field of fine dining.",
     "source": "NYT",
-    "link": "https://www.nytimes.com/2025/01/28/world/europe/russia-ukraine-veterans.html",
+    "link": "https://www.nytimes.com/2025/01/28/world/europe/france-bocuse-winner-gastronomy-food.html",
     "url": ""
   },
   {
-    "title": "Colombia Faces Crisis over Trump's Deportation Policies",
-    "date_str": "January 27, 2025",
-    "summary": "Colombian President Gustavo Petro's refusal to accept military planes carrying deportees from the United States, an action that angered President Donald Trump, has highlighted the heightened tensions surrounding the issue of deportations. The move reflects Petro's leftist stance and his opposition to the hardline immigration policies of the Trump administration. It has also put pressure on the Colombian government to find alternative solutions for deported individuals while preserving relations with the United States.",
+    "title": "Vatican Warns of Artificial Intelligence Risks, Citing Concerns of Malevolent Influence",
+    "date_str": "January 28, 2025",
+    "summary": "A recently published document emphasizes the need for ethical and moral considerations in the development and deployment of artificial intelligence (AI). It highlights the immense potential of AI for advancements in various sectors, while also recognizing the potential risks it poses. The document urges policymakers and stakeholders to establish guidelines to ensure AI is used responsibly and in a manner that aligns with societal values and norms. Key players involved in this effort include academics, policymakers, and industry leaders. The discussion stems from a growing awareness of the transformative impact AI is expected to have on society, necessitating proactive measures to mitigate potential negative consequences and harness its benefits optimally.",
     "source": "NYT",
-    "link": "https://www.nytimes.com/2025/01/27/world/americas/colombia-trump-deportation-flights-migrants.html",
+    "link": "https://www.nytimes.com/2025/01/28/world/europe/vatican-artificial-intelligence-warning.html",
     "url": ""
   },
   {
-    "title": "Palestinian Militant Group Releases Video of Civilian Hostage in Gaza",
-    "date_str": "January 27, 2025",
-    "summary": "Israel detained Arbel Yehud, a civilian, violating the cease-fire agreement reached on January 19. The Israeli authorities failed to release him as scheduled with the initial two groups of hostages, raising concerns about Israel's commitment to the deal. The cease-fire, brokered by Egypt, aimed to de-escalate tensions between Israel and Palestinian groups following cross-border attacks. Key players include Israel, with the Israeli authorities in charge of the detainee's release, and Egypt, which played a pivotal role in negotiating the agreement.",
+    "title": "Giorgia Meloni Faces Investigation over Release of Libyan War Crimes Suspect",
+    "date_str": "January 28, 2025",
+    "summary": "The Italian Prime Minister, in a social media post, announced an investigation into an alleged blackmail attempt against them. The investigation is significant as the Prime Minister claims the alleged attempt was made to blackmail them and that they will not tolerate such behavior. The Prime Minister, who is a key player in this investigation, has not yet revealed further details about the alleged blackmail attempt. The investigation will likely explore the role of any other key players and the context or background surrounding the alleged incident.",
     "source": "NYT",
-    "link": "https://www.nytimes.com/2025/01/27/world/middleeast/arbel-yehud-civilian-hostage-gaza.html",
-    "url": ""
-  },
-  {
-    "title": "European Union to Gradually Reduce Sanctions Imposed on Syria",
-    "date_str": "January 27, 2025",
-    "summary": "European foreign ministers have established a \"road map\" for gradually lifting financial constraints. This significant move aims to address the ongoing economic challenges faced by the region. Key players involved in this decision-making process include the foreign ministers of various European countries. The decision was made after careful consideration of the context and background of the situation, including the economic impact of financial restrictions on European nations. The staged approach to lifting restrictions will allow for a gradual return to financial stability while ensuring that necessary safeguards are in place.",
-    "source": "NYT",
-    "link": "https://www.nytimes.com/2025/01/27/world/europe/eu-syria-sanctions.html",
+    "link": "https://www.nytimes.com/2025/01/28/world/europe/italy-meloni-investigation-libya-war-crimes.html",
     "url": ""
   }
 ]
