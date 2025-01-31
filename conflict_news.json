@@ -1,34 +1,42 @@
 [
   {
-    "title": "Palestinian Survives Gaza War, Dies Tragically Before Ceasefire",
-    "date_str": "January 29, 2025",
-    "summary": "Fighting between Israel and Hamas escalated until the implementation of a truce, leaving casualties in its wake. Despite the agreed-upon ceasefire, a delay of several hours resulted in further loss of life. Key actors included the Israeli government and Hamas, with ongoing tensions and previous conflicts providing the context. The ceasefire brought a temporary halt to hostilities but did not address the underlying issues that contributed to the violence.",
-    "source": "NYT",
-    "link": "https://www.nytimes.com/2025/01/29/world/middleeast/gaza-cease-fire-deaths.html",
+    "title": "Former President Trump Criticizes Diversity Policies in Wake of Air Disaster",
+    "date_str": "January 31, 2025",
+    "summary": "In the aftermath of a tragic plane crash in Washington, D.C., President Trump initially expressed condolences but subsequently pivoted to blaming diversity policies for the accident. Despite lacking evidence to support his claims, Trump alleged that such policies had compromised the safety of the flight. The president's comments sparked controversy and were criticized by aviation experts who emphasized that the investigation into the crash was still ongoing.",
+    "source": "BBC",
+    "link": "https://www.bbc.com/news/articles/cpvmdm1m7m9o",
     "url": ""
   },
   {
-    "title": "DeepSeek's AI Chatbot Faces Challenges Navigating China's Censorship Landscape",
-    "date_str": "January 29, 2025",
-    "summary": "In the face of sensitive inquiries, the chatbot exhibited a peculiar behavior by initiating a response, only to delete it abruptly. This occurred when questions regarding prominent figures like Xi Jinping were posed. The bot's actions highlight the ongoing challenges in natural language processing and the limitations of AI algorithms in handling politically charged content.",
-    "source": "NYT",
-    "link": "https://www.nytimes.com/2025/01/29/world/asia/deepseek-china-censorship.html",
+    "title": "South Africa and Rwanda Clash over Conflict in Democratic Republic of Congo",
+    "date_str": "January 31, 2025",
+    "summary": "South Africa and Rwanda have engaged in a verbal confrontation over the ongoing conflict in the Democratic Republic of Congo (DRC). Rwanda asserts that South Africa lacks the qualifications to mediate the conflict, while South Africa contends that Rwanda's military presence in the DRC is exacerbating the crisis. These disputes emphasize the complexities of regional dynamics and the challenges of finding peaceful solutions to protracted conflicts.",
+    "source": "BBC",
+    "link": "https://www.bbc.com/news/articles/c78w1ze7v25o",
     "url": ""
   },
   {
-    "title": "U.K. Teen's Fixation on Extreme Violence Raises Concerns about Terrorism",
+    "title": "North Korean Troops Withdraw from Ukraine Frontlines",
     "date_str": "January 30, 2025",
-    "summary": "The tragic stabbing spree by Axel Rudakubana, who killed three girls without any identified ideology, has prompted a reassessment of counterterror strategies. Rudakubana's obsession with violence highlights the need for a broader understanding of potential threats beyond traditional ideological motivations. Key players in this re-evaluation include policymakers and counterterror experts, who are tasked with developing more nuanced and effective strategies to address such incidents. This case serves as a reminder of the importance of considering individual psychological factors and non-ideological drivers of violence in counterterror efforts.",
+    "summary": "North Korea has withdrawn its elite troops from the Ukrainian front lines due to heavy casualties, a significant blow to Russia's war effort. Key players involved include North Korea, Russia, and Ukraine. The withdrawal comes after months of intense fighting, highlighting the escalating costs of the war for Russia and its foreign supporters. The troop deployment was initially seen as a boost for Russia, but it has now become a liability.",
+    "source": "NYT",
+    "link": "https://www.nytimes.com/2025/01/30/world/europe/north-korea-troops-ukraine-russia.html",
+    "url": ""
+  },
+  {
+    "title": "Palestinian Militant Zakaria Zubeidi Freed in Prisoner Exchange",
+    "date_str": "January 30, 2025",
+    "summary": "Zubeidi, a former theater director, escaped imprisonment in 2021, causing significant shock within the Israeli-Palestinian conflict. His breakout involved collaboration with others, highlighting the ongoing resistance and determination among Palestinian detainees. The escape underscores the complex and ongoing tensions between Israel and Palestine, stemming from historical grievances and the occupation of Palestinian territories.",
+    "source": "NYT",
+    "link": "https://www.nytimes.com/2025/01/30/world/middleeast/zakaria-zubeidi-release-israel-hamas.html",
+    "url": ""
+  },
+  {
+    "title": "Investigating Obsessive Violence in a U.K. Teen: Is Terrorism Involved?",
+    "date_str": "January 30, 2025",
+    "summary": "Axel Rudakubana's attack at a dance class, motivated by an obsession with violence, has spurred a reevaluation of counterterrorism strategies. Despite not having any clear ideological affiliation, Rudakubana's actions have drawn attention to the need for a broader approach that considers both traditional and non-ideological motives for violence. Key players include law enforcement and national security experts, who are advocating for a more holistic approach to prevent future incidents. The case highlights the importance of understanding the broader spectrum of threats beyond those posed by terrorism with identifiable ideologies.",
     "source": "NYT",
     "link": "https://www.nytimes.com/2025/01/30/world/europe/southport-terrorism-prevent-violence-rudakubana.html",
-    "url": ""
-  },
-  {
-    "title": "Three African Nations Withdraw from Longstanding Alliance Following Coups",
-    "date_str": "January 29, 2025",
-    "summary": "Burkina Faso, Mali, and Niger have vehemently denounced ECOWAS (Economic Community of West African States) for alleged inconsistency in imposing sanctions on their military juntas. Despite negotiations, the three nations refuse to reconsider their stance, highlighting the growing discord within the regional bloc. ECOWAS has been criticized for imposing stringent sanctions on these juntas while adopting a more lenient approach towards other countries in the region. The ongoing dispute has strained relations and raised concerns about the bloc's effectiveness in promoting stability and democracy in West Africa.",
-    "source": "NYT",
-    "link": "https://www.nytimes.com/2025/01/29/world/africa/ecowas-burkina-faso-mali-niger.html",
     "url": ""
   }
 ]
