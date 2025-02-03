@@ -1,24 +1,40 @@
 [
   {
-    "title": "Determining African Representation at the Grammy Awards",
-    "date_str": "February 02, 2025",
-    "summary": "The controversy surrounding the Grammy Award for African music intensified with the nomination of Chris Brown, an American artist. The award, intended to recognize African musicians, sparked debates about eligibility criteria and cultural identity. Prominent figures in the music industry, including Nigerian singer Burna Boy, criticized the inclusion of non-Africans, arguing that it undermined the integrity of the category. Academy officials defended their decision, stating that Brown's inclusion was based on the global reach and influence of his music. Despite the controversy, the award ceremony proceeded, celebrating both African and non-African artists in the category.",
+    "title": "Beyoncé Triumphs with Historic Best Album Win at the 2025 Grammy Awards",
+    "date_str": "February 03, 2025",
+    "summary": "On February 3, 2025, Beyoncé received her first Grammy Award for Best Album, \"Renaissance,\" a prestigious honor that had eluded her for five previous attempts. The win came 25 years after her first Grammy nomination. The award serves as a notable achievement for Beyoncé's illustrious career and a recognition of her impact on the music industry.",
     "source": "BBC",
-    "link": "https://www.bbc.com/news/articles/c4gxe7xxjd0o",
+    "link": "https://www.bbc.com/news/articles/cwy18lpm7n2o",
     "url": ""
   },
   {
-    "title": "Rare Metal in Your Phone Fuels War in Democratic Republic of Congo",
-    "date_str": "February 02, 2025",
-    "summary": "In the Democratic Republic of Congo, smartphones and other electronic devices often contain coltan, a rare metal found in abundance in the country. The mining of coltan has played a significant role in the ongoing conflict, with rebels controlling mines and using the profits to fund their activities. This has resulted in human rights violations, environmental degradation, and the displacement of local communities. The situation remains complex and requires comprehensive solutions to address the underlying causes of the conflict and promote sustainable resource management.",
+    "title": "Rare Metal from Phones Fuels War in the Democratic Republic of Congo",
+    "date_str": "February 03, 2025",
+    "summary": "The Democratic Republic of Congo (DRC) conflict has fueled a demand for coltan, a rare metal used in electronic devices, leading to increased mining of coltan in rebel-controlled mines. Rebel groups engage in violence to control mining operations, exacerbating the humanitarian crisis in the region. The demand for coltan drives the conflict, as it is a valuable material for the production of mobile phones and other technological devices.",
     "source": "BBC",
     "link": "https://www.bbc.com/news/articles/cn01k8948v1o",
     "url": ""
   },
   {
-    "title": "FAA's Primary Air Traffic Alerting System Malfunctions",
+    "title": "Competing Governmental Models for Postwar Gaza Emerge",
+    "date_str": "February 03, 2025",
+    "summary": "Hamas remains the dominant force in Gaza, maintaining control of significant portions of the enclave, while Israel retains control of strategic areas. International monitoring could be expanded to address concerns, and the Palestinian Authority has emerged as a potential alternative to Hamas' rule. The Gaza Strip's governance is a complex issue with multiple actors playing key roles and ongoing tensions between Hamas and other factions, including Israel and the Palestinian Authority.",
+    "source": "NYT",
+    "link": "https://www.nytimes.com/2025/02/03/world/middleeast/gaza-post-war-israel-hamas-palestinian-authority.html",
+    "url": ""
+  },
+  {
+    "title": "Trump Imposes Tariffs, Canada Responds with Retaliatory Measures in Escalating Trade Dispute",
     "date_str": "February 02, 2025",
-    "summary": "The Federal Aviation Administration (FAA) has deployed a backup system due to a technical issue. Transportation Secretary Sean Duffy announced this measure as the FAA addresses the problem. This disruption stems from an underlying issue that has yet to be resolved. The situation highlights the importance of reliable aviation infrastructure and the FAA's ongoing efforts to ensure the safety and efficiency of air travel.",
+    "summary": "In response to concerns over increased prices, Canada implemented retaliatory measures, while China and Mexico announced their intention to enact countermeasures. These actions stem from ongoing trade disputes, highlighting the escalation of tensions between the involved nations. Canada's prompt retaliation and the pre-planned responses from China and Mexico indicate the increasing severity of the situation.",
+    "source": "NYT",
+    "link": "https://www.nytimes.com/2025/02/02/world/us-tariffs-canada-china-mexico.html",
+    "url": ""
+  },
+  {
+    "title": "FAA Restores Main Pilot Warning System After Technical Malfunction",
+    "date_str": "February 02, 2025",
+    "summary": "In response to a technical issue, the Federal Aviation Administration (FAA) implemented a backup system under the direction of Transportation Secretary Sean Duffy. This measure ensured continued air traffic operations while the issue was being resolved. The incident highlights the importance of robust backup systems in critical infrastructure, such as air transportation, for maintaining seamless operations in the face of disruptions.",
     "source": "NYT",
     "link": "https://www.nytimes.com/2025/02/02/us/notam-outage-faa-alerts.html",
     "url": ""
