@@ -1,42 +1,34 @@
 [
   {
-    "title": "Beyoncé Triumphs with Historic Best Album Win at the 2025 Grammy Awards",
-    "date_str": "February 03, 2025",
-    "summary": "On February 3, 2025, Beyoncé received her first Grammy Award for Best Album, \"Renaissance,\" a prestigious honor that had eluded her for five previous attempts. The win came 25 years after her first Grammy nomination. The award serves as a notable achievement for Beyoncé's illustrious career and a recognition of her impact on the music industry.",
+    "title": "Trump's Trade Delay with Neighboring Countries Yields Mutual Benefits",
+    "date_str": "February 04, 2025",
+    "summary": "In a significant development, US President Donald Trump has temporarily suspended trade tariffs against Canada and Mexico following negotiations. In exchange for the 30-day pause, Mexico has agreed to increase border enforcement, while Canada has committed to unspecified measures to stem illegal immigration. This move marks a departure from Trump's previous stance and has immediate implications for economic and political relations between the three nations.",
     "source": "BBC",
-    "link": "https://www.bbc.com/news/articles/cwy18lpm7n2o",
+    "link": "https://www.bbc.com/news/articles/c805jjk2klko",
     "url": ""
   },
   {
-    "title": "Rare Metal from Phones Fuels War in the Democratic Republic of Congo",
-    "date_str": "February 03, 2025",
-    "summary": "The Democratic Republic of Congo (DRC) conflict has fueled a demand for coltan, a rare metal used in electronic devices, leading to increased mining of coltan in rebel-controlled mines. Rebel groups engage in violence to control mining operations, exacerbating the humanitarian crisis in the region. The demand for coltan drives the conflict, as it is a valuable material for the production of mobile phones and other technological devices.",
+    "title": "Congolese Rebels Announce Ceasefire出于人道考虑",
+    "date_str": "February 04, 2025",
+    "summary": "M23 rebels in the Democratic Republic of Congo (DRC) have unilaterally declared a ceasefire for humanitarian reasons. The move comes after a recent outbreak of violence between M23 rebels and government forces in the eastern DRC. The ceasefire has been welcomed by the international community, including the United Nations and African Union, who have urged the rebels to disengage and withdraw from occupied territories. The ceasefire is significant as it could potentially pave the way for negotiations between the rebels and the DRC government, and bring an end to the ongoing conflict that has displaced thousands of people.",
     "source": "BBC",
-    "link": "https://www.bbc.com/news/articles/cn01k8948v1o",
+    "link": "https://www.bbc.com/news/articles/cjexnzl372wo",
     "url": ""
   },
   {
-    "title": "Competing Governmental Models for Postwar Gaza Emerge",
+    "title": "Four Models Emerge to Govern Postwar Gaza",
     "date_str": "February 03, 2025",
-    "summary": "Hamas remains the dominant force in Gaza, maintaining control of significant portions of the enclave, while Israel retains control of strategic areas. International monitoring could be expanded to address concerns, and the Palestinian Authority has emerged as a potential alternative to Hamas' rule. The Gaza Strip's governance is a complex issue with multiple actors playing key roles and ongoing tensions between Hamas and other factions, including Israel and the Palestinian Authority.",
+    "summary": "Despite losing control of some key areas to Israel, Hamas maintains its dominance in the Gaza Strip. The international community considers expanding its oversight, while the Palestinian Authority positions itself as an alternative governing body. These developments highlight the ongoing power struggle between Hamas and other parties, as well as the complex geopolitical landscape of the region.",
     "source": "NYT",
     "link": "https://www.nytimes.com/2025/02/03/world/middleeast/gaza-post-war-israel-hamas-palestinian-authority.html",
     "url": ""
   },
   {
-    "title": "Trump Imposes Tariffs, Canada Responds with Retaliatory Measures in Escalating Trade Dispute",
+    "title": "Trump Imposes Tariffs, Prompting Canadian Retaliation in Escalating Trade Dispute",
     "date_str": "February 02, 2025",
-    "summary": "In response to concerns over increased prices, Canada implemented retaliatory measures, while China and Mexico announced their intention to enact countermeasures. These actions stem from ongoing trade disputes, highlighting the escalation of tensions between the involved nations. Canada's prompt retaliation and the pre-planned responses from China and Mexico indicate the increasing severity of the situation.",
+    "summary": "Amid concerns over price increases, Canada imposed retaliatory measures, sparking China's preparation of countermeasures and Mexico's announcement of an imminent response. The move escalates tensions between the three countries, underscoring the importance of economic cooperation and the potential consequences of unilateral actions. Key players include Canadian officials, who implemented the retaliatory measures, and Chinese and Mexican officials, who have expressed their dissatisfaction and planned their own responses. The broader context involves ongoing negotiations and disputes over trade and economic policies among these nations.",
     "source": "NYT",
     "link": "https://www.nytimes.com/2025/02/02/world/us-tariffs-canada-china-mexico.html",
-    "url": ""
-  },
-  {
-    "title": "FAA Restores Main Pilot Warning System After Technical Malfunction",
-    "date_str": "February 02, 2025",
-    "summary": "In response to a technical issue, the Federal Aviation Administration (FAA) implemented a backup system under the direction of Transportation Secretary Sean Duffy. This measure ensured continued air traffic operations while the issue was being resolved. The incident highlights the importance of robust backup systems in critical infrastructure, such as air transportation, for maintaining seamless operations in the face of disruptions.",
-    "source": "NYT",
-    "link": "https://www.nytimes.com/2025/02/02/us/notam-outage-faa-alerts.html",
     "url": ""
   }
 ]
