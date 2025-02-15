@@ -1,74 +1,66 @@
 [
   {
-    "title": "Congolese Singer Fatally Shot While Filming in Conflict-Ridden City",
-    "date_str": "February 14, 2025",
+    "title": "British Couple's Death Prompts Fear and Military Presence in French Hamlet",
+    "date_str": "February 15, 2025",
+    "summary": "In a rural French hamlet, British couple Andrew and Dawn Searle were discovered deceased, sparking a criminal investigation. Locals are shocked by the incident and have provided statements to investigators. French authorities have deployed military vehicles to the area, creating a heightened sense of concern within the community.",
+    "source": "BBC",
+    "link": "https://www.bbc.com/news/articles/cj91kgv8v1lo",
+    "url": ""
+  },
+  {
+    "title": "Albufeira, Portugal Mandates Beach Cover-Ups or Fines",
+    "date_str": "February 15, 2025",
     "summary": "No summary available",
+    "source": "BBC",
+    "link": "https://www.bbc.com/news/articles/cn7g3nv34ejo",
+    "url": ""
+  },
+  {
+    "title": "DRC Singer Tragically Killed While Filming Music Video in Conflict-Stricken Goma",
+    "date_str": "February 15, 2025",
+    "summary": "Delcat Idengo, a highly regarded singer from the Democratic Republic of Congo known for his critical songs, was shot and killed while making a music video in the conflict-plagued city of Goma. His tragic death follows the release of a track condemning the city's rebel occupation.",
     "source": "BBC",
     "link": "https://www.bbc.com/news/articles/cr46ydpp3ddo",
     "url": ""
   },
   {
-    "title": "Confusion Hinders Efforts to Preserve Gaza Ceasefire",
+    "title": "Ukraine's President Zelensky Emphasizes Critical Need for United States Support to Avert Wartime Collapse",
     "date_str": "February 14, 2025",
-    "summary": "No summary available",
-    "source": "BBC",
-    "link": "https://www.bbc.com/news/articles/cd7d9p0j5qeo",
-    "url": ""
-  },
-  {
-    "title": "Austria's Political Crisis Exacerbates as Far-Right Party Struggles to Establish Government",
-    "date_str": "February 14, 2025",
-    "summary": "No summary available",
-    "source": "BBC",
-    "link": "https://www.bbc.com/news/articles/c78x3klx4rjo",
-    "url": ""
-  },
-  {
-    "title": "Germany's Car Industry Faces Crisis: Can it Regain its Former Glory?",
-    "date_str": "February 14, 2025",
-    "summary": "No summary available",
-    "source": "BBC",
-    "link": "https://www.bbc.com/news/articles/cz6pzwj6qq7o",
-    "url": ""
-  },
-  {
-    "title": "Trump Asserts Ukraine's Involvement in Russia Peace Negotiations",
-    "date_str": "February 13, 2025",
-    "summary": "The Ukrainian President reversed his stance on excluding Ukraine from ongoing peace negotiations with Russia, declaring their inclusion is \"of course\" necessary. This reversal follows his previous suggestion of concessions opposed by Ukraine. Key players involved in the negotiations include the President and representatives from Ukraine and Russia. The negotiations aim to resolve the ongoing conflict between the two countries.",
+    "summary": "At the Munich Security Conference, European officials sought clarity from the U.S. on its mediation efforts in peace talks, marking the commencement of the conference. These discussions aimed to address concerns among European leaders, who were eager to gain insights into the U.S.'s diplomatic strategy. Key players included European officials and U.S. officials who played a crucial role in shaping the agenda of the conference. The conference provided a platform for dialogue and the exchange of perspectives on pressing international security issues.",
     "source": "NYT",
-    "link": "https://www.nytimes.com/live/2025/02/13/world/russia-ukraine-war-trump",
+    "link": "https://www.nytimes.com/2025/02/14/world/europe/zelensky-nbc-meet-the-press.html",
     "url": ""
   },
   {
-    "title": "Deteriorating Relations Between the US and Russia Impact Ukraine's Future",
-    "date_str": "February 13, 2025",
-    "summary": "Amidst concerns about potential Russian influence, Ukrainian President Zelensky has raised concerns over President Trump's recent actions, including his undisclosed conversation with Russian President Putin and a request for information on Ukrainian mineral rights. These moves have sparked worries that Trump may be seeking to pressure Zelensky into compromising Ukrainian sovereignty. The implications of these interactions are significant, as Ukraine remains pivotal in the ongoing regional conflict and its future aligns closely with Western interests.",
-    "source": "NYT",
-    "link": "https://www.nytimes.com/2025/02/13/world/europe/ukraine-russia-us-diplomacy.html",
-    "url": ""
-  },
-  {
-    "title": "Russia May Witness the Most Intense Combat in the Ukraine War",
-    "date_str": "February 12, 2025",
-    "summary": "Russian soldiers face a fierce battle against determined Ukrainian forces to reclaim an occupied territory. The conflict has trapped civilians, raising concerns of a humanitarian catastrophe. The Times interviewed both sides of the conflict, highlighting the intense fighting and the desperation of those impacted.",
-    "source": "NYT",
-    "link": "https://www.nytimes.com/2025/02/12/world/europe/kursk-russia-war-ukraine.html",
-    "url": ""
-  },
-  {
-    "title": "Gazans Confront the Trauma of Recovering Their Lost Loved Ones in the Aftermath of Conflict",
+    "title": "Valentine's Day Brings Painful Memories for War Widows",
     "date_str": "February 14, 2025",
-    "summary": "Authorities in Gaza estimate that thousands of bodies may be recovered from the destruction, causing anguish for families searching for missing relatives. This discovery has compounded the horrors of the conflict, as key players seek to stabilize the region and address the dire humanitarian situation. The tragic loss of life serves as a stark reminder of the devastating consequences of ongoing violence.",
+    "summary": "Ukrainian civilians rely on cellphone messages to connect with deployed partners, but unanswered messages serve as poignant reminders of potential loss. The messages offer a lifeline amidst the conflict, providing comfort and hope. This reliance underscores the impact of war on families and the emotional toll on civilians. Key players include civilians and soldiers, while the broader context highlights the ongoing conflict in Ukraine and its profound human cost.",
+    "source": "NYT",
+    "link": "https://www.nytimes.com/2025/02/14/world/europe/ukrainian-war-widows-valentines-day.html",
+    "url": ""
+  },
+  {
+    "title": "Gazans Seek Closure Amidst Ceasefire, Desperately Searching for Deceased Loved Ones",
+    "date_str": "February 14, 2025",
+    "summary": "In Gaza, the uncovering of numerous bodies from devastated areas has left families of missing individuals with heightened distress. Amidst ongoing rescue operations, authorities anticipate that the grim task of retrieving the deceased will continue, further exacerbating the emotional toll on bereaved families. Key players in this tragedy include rescue workers and the families of the missing, who are navigating the complexities of a post-conflict zone and coping with the profound loss that has befallen them.",
     "source": "NYT",
     "link": "https://www.nytimes.com/2025/02/14/world/middleeast/gaza-rubble-missing-bodies.html",
     "url": ""
   },
   {
-    "title": "Vance Says All Options on Table to Pressure Russia to End Ukraine War",
+    "title": "Whiskey Illustrates the Agony Caused by Trade War",
+    "date_str": "February 14, 2025",
+    "summary": "As the threat of a transatlantic trade dispute looms, the European Union reimposed tariffs on American whiskey effective March 31st. These tariffs, originally imposed in 2018 as a response to US duties on steel and aluminum, have been a point of contention between the two economic powerhouses. Key players involved include the European Commission, representing the EU, and the US administration. The dispute stems from long-running disagreements over government subsidies for the aerospace industry, with both sides accusing each other of unfair practices. The re-imposition of tariffs raises concerns about the potential for further escalation and may hinder efforts to resolve the underlying issues.",
+    "source": "NYT",
+    "link": "https://www.nytimes.com/2025/02/14/business/economy/whiskey-tariffs.html",
+    "url": ""
+  },
+  {
+    "title": "Syria: Tensions Intensify as New Leaders Clash with Kurdish Militia",
     "date_str": "February 14, 2025",
     "summary": "None",
     "source": "NYT",
-    "link": "https://www.nytimes.com/2025/02/14/world/europe/vance-russia-ukraine-war.html",
+    "link": "https://www.nytimes.com/2025/02/14/world/middleeast/syria-kurdish-militia.html",
     "url": ""
   }
 ]
