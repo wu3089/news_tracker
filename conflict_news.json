@@ -1,50 +1,58 @@
 [
   {
-    "title": "Russians Express Dismay Over Lack of Trump Administration's Plan in Three Years of Conflict",
-    "date_str": "February 22, 2025",
-    "summary": "A BBC team questioned Russians on the three-year anniversary of their invasion of Ukraine, prompting police attention and state TV coverage. The team's presence led to interactions with Anna, who expressed fear of arrest, and Igor, who questioned Russia's military strategy and suggested former US President Trump could mediate to end the conflict.",
+    "title": "Russia launches largest drone attack of war on Ukraine",
+    "date_str": "February 23, 2025",
+    "summary": "In the most significant drone attack of the ongoing war, Russia launched a barrage of drones on Ukraine, targeting several cities. While Ukrainian officials intercepted numerous drones, several hit civilian areas, causing casualties. Key players involved included Russian military forces and Ukrainian air defense systems, with the attack highlighting the escalation of conflict and Russia's ongoing aggression. The incident sparked concerns about civilian safety and the need for further international support for Ukraine's defense.",
+    "source": "BBC",
+    "link": "https://www.bbc.com/news/articles/cn9vx01evp9o",
+    "url": ""
+  },
+  {
+    "title": "Gaza Ceasefire Hanging in the Balance as Phase One Nears Conclusion",
+    "date_str": "February 23, 2025",
+    "summary": "Israeli Prime Minister Benjamin Netanyahu indefinitely delayed the release of a significant group of Palestinian prisoners, casting doubt on the stability of the first phase of the Gaza ceasefire. This move comes after Hamas, the militant group controlling Gaza, had been a primary recipient of the released prisoners in previous exchanges. The delay has raised concerns about the viability of the ceasefire's second phase, which is set to involve the reconstruction of Gaza and a broader discussion of underlying issues.",
+    "source": "BBC",
+    "link": "https://www.bbc.com/news/articles/c8x4pxwne1yo",
+    "url": ""
+  },
+  {
+    "title": "India Prohibits Opioids Associated with West Africa Crisis",
+    "date_str": "February 23, 2025",
+    "summary": "Following a BBC investigation exposing illegal drug exports, India has banned two drugs, tapentadol and tramadol, which have contributed to West Africa's ongoing opioid crisis. The ban aims to address the widespread use of these substances in the region, particularly in Nigeria and Ghana, and to reduce the negative health consequences and social disruption associated with opioid addiction.",
+    "source": "BBC",
+    "link": "https://www.bbc.com/news/articles/cdx2vwg8gq1o",
+    "url": ""
+  },
+  {
+    "title": "Russian Citizens Express Doubts About Trump's Three-Year War Plan",
+    "date_str": "February 23, 2025",
+    "summary": "A BBC team interviewing Russians about the three-year anniversary of the Ukraine invasion faced police and state TV interference. The interviews revealed varied opinions, with some acknowledging the invasion and others dismissing it as insignificant. Notable quotes included a woman expressing concern for loved ones and a man stating that former US President Donald Trump \"hasn't got any plan.\" The BBC team's efforts highlight the challenges faced by journalists reporting on sensitive issues in Russia.",
     "source": "BBC",
     "link": "https://www.bbc.com/news/articles/ckgd0vdg34qo",
     "url": ""
   },
   {
-    "title": "Trump Declares Western Leaders Ineffective in Resolving Ukraine Conflict",
-    "date_str": "February 22, 2025",
-    "summary": "Former US President Donald Trump criticized British Prime Minister Keir Starmer and French President Emmanuel Macron for failing to contribute to ending the Ukraine conflict in a recent statement. Ahead of their scheduled meeting at the White House, Trump made these remarks, which highlighted the diplomatic efforts of the UK and France. Other notable figures involved in this situation include Ukrainian President Volodymyr Zelensky, who has been at the center of the ongoing conflict with Russia.",
+    "title": "Former President Trump Blames Starmer and Macron for Inaction in Ending Ukraine Conflict",
+    "date_str": "February 23, 2025",
+    "summary": "No summary available",
     "source": "BBC",
     "link": "https://www.bbc.com/news/articles/c4g0mlm7zdlo",
     "url": ""
   },
   {
-    "title": "BBC Uncovers Indian Pharmaceutical Company's Role in Fueling the Opioid Crisis",
+    "title": "Pope Francis Hospitalized Due to Respiratory Distress",
     "date_str": "February 22, 2025",
-    "summary": "Indian pharmaceutical firm Maiden Pharmaceuticals faces scrutiny for manufacturing and distributing an addictive cocktail drug that has contributed to West Africa's opioid crisis. In a BBC investigation, the company acknowledged the drug's harmful effects but maintains its business operations. This revelation raises concerns about the widespread availability of the medication and its potential impact on public health in the region. Maiden Pharmaceuticals' actions highlight the urgency of addressing the opioid crisis and regulating the pharmaceutical industry to prevent the distribution of harmful drugs.",
-    "source": "BBC",
-    "link": "https://www.bbc.com/news/articles/cwyew21yyjzo",
+    "summary": "On Saturday evening, Pope Francis' medical condition worsened, prompting an announcement from the Vatican. This development has raised concerns among the Catholic faithful, as Francis' health has been a source of speculation in recent months. Key players involved include Francis, his doctors, and the Vatican, which has been providing updates on his condition. The announcement sparked a flurry of prayers and messages of support from around the world, reflecting the Pope's significant role as the spiritual leader of the Catholic Church.",
+    "source": "NYT",
+    "link": "https://www.nytimes.com/2025/02/22/world/europe/pope-francis-critical-condition.html",
     "url": ""
   },
   {
-    "title": "Live Fire Drills by Chinese Warships Cause Concern for Australia and New Zealand",
+    "title": "Australian and New Zealand Governments Express Concern Over Planned Chinese Warship Live-Fire Exercises",
     "date_str": "February 21, 2025",
-    "summary": "In the Tasman Sea, an announcement by vessels prompted commercial flights to divert course due to planned exercises in the area. This activity, involving key players, highlighted rising tensions between maritime stakeholders and the potential impact on marine traffic. Against a backdrop of heightened geopolitical dynamics, the exercises underscore the need for cooperation and de-escalation to prevent the disruption of vital economic and transportation corridors.",
+    "summary": "In the Tasman Sea, naval vessels announced plans for exercises, prompting commercial flights to alter their routes due to potential disruptions. The exercises underscore the role of the involved nations in maintaining security and stability in the region. The announcement comes amid heightened tensions between China and the region, as allies seek to strengthen their military presence in the area.",
     "source": "NYT",
     "link": "https://www.nytimes.com/2025/02/21/world/australia/chinese-warships-drills-new-zealand.html",
-    "url": ""
-  },
-  {
-    "title": "Israel Issues Terrorism Alert After Multiple Bus Explosions",
-    "date_str": "February 20, 2025",
-    "summary": "On Thursday, attempted attacks in Israel disrupted transportation services amidst ongoing West Bank raids and the impending expiration of a cease-fire with Hamas in Gaza. Key players include Israel and the militant group Hamas. The attacks, though causing no injuries, spurred security measures and heightened tensions in the region, which has a history of conflict and uneasy cease-fires.",
-    "source": "NYT",
-    "link": "https://www.nytimes.com/2025/02/20/world/middleeast/bus-explosions-israel-tel-aviv.html",
-    "url": ""
-  },
-  {
-    "title": "U.S. Objects to Including Label of \"Aggressor\" for Russia in G7 Invasion Statement",
-    "date_str": "February 20, 2025",
-    "summary": "The United States has expressed opposition to a draft G7 statement commemorating the anniversary of Russia's invasion of Ukraine. This stance reflects former President Trump's earlier accusation that Kyiv initiated the war. The disagreement highlights the ongoing debate over Russia's aggression and Ukraine's role in the conflict, with key players including the US, Russia, and Ukraine vying for influence within the G7 and beyond. This dispute underscores the geopolitical tensions surrounding the war and its potential impact on international relations.",
-    "source": "NYT",
-    "link": "https://www.nytimes.com/2025/02/20/world/europe/us-g7-russia-ukraine-war.html",
     "url": ""
   }
 ]
