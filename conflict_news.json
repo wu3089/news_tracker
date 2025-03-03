@@ -1,10 +1,34 @@
 [
   {
-    "title": "Kurdish group PKK declares ceasefire with Turkey",
-    "date_str": "March 02, 2025",
+    "title": "Hegseth orders pause in US cyber-offensive against Russia",
+    "date_str": "March 03, 2025",
     "summary": "No summary available",
     "source": "BBC",
-    "link": "https://www.bbc.com/news/articles/cgkmg3kmmero",
+    "link": "https://www.bbc.com/news/articles/c2er34w0jgdo",
+    "url": ""
+  },
+  {
+    "title": "Belfast factory to supply 5,000 missiles to Ukraine",
+    "date_str": "March 03, 2025",
+    "summary": "No summary available",
+    "source": "BBC",
+    "link": "https://www.bbc.com/news/articles/c74knzk9x8zo",
+    "url": ""
+  },
+  {
+    "title": "'Are you aware of truce reports?' - BBC's Laura Kuenssberg asks Zelensky",
+    "date_str": "March 03, 2025",
+    "summary": "No summary available",
+    "source": "BBC",
+    "link": "https://www.bbc.com/news/videos/c24199l47d2o",
+    "url": ""
+  },
+  {
+    "title": "A Thousand Snipers in the Sky: The New War in Ukraine",
+    "date_str": "March 03, 2025",
+    "summary": "None",
+    "source": "NYT",
+    "link": "https://www.nytimes.com/interactive/2025/03/03/world/europe/ukraine-russia-war-drones-deaths.html",
     "url": ""
   },
   {
@@ -16,11 +40,11 @@
     "url": ""
   },
   {
-    "title": "Trump’s Dressing Down of Zelensky Plays Into Putin’s War Aims",
-    "date_str": "March 01, 2025",
+    "title": "Israel Halts Aid to Gaza and Proposes New Framework for an End to the War",
+    "date_str": "March 02, 2025",
     "summary": "None",
     "source": "NYT",
-    "link": "https://www.nytimes.com/2025/03/01/world/europe/trump-zelensky-putin.html",
+    "link": "https://www.nytimes.com/2025/03/02/world/europe/israel-aid-gaza-cease-fire-proposal.html",
     "url": ""
   },
   {
@@ -32,19 +56,11 @@
     "url": ""
   },
   {
-    "title": "Kurdish Insurgent Group Declares Cease-Fire in Conflict With Turkey",
+    "title": "Trump’s Dressing Down of Zelensky Plays Into Putin’s War Aims",
     "date_str": "March 01, 2025",
     "summary": "None",
     "source": "NYT",
-    "link": "https://www.nytimes.com/2025/03/01/world/middleeast/pkk-kurdish-cease-fire-turkey.html",
-    "url": ""
-  },
-  {
-    "title": "‘Don’t Touch My Pan!’ France Bans Toxic PFAS, Except in Cookware",
-    "date_str": "February 28, 2025",
-    "summary": "None",
-    "source": "NYT",
-    "link": "https://www.nytimes.com/2025/02/28/climate/france-pfas-ban-tefal-cookware.html",
+    "link": "https://www.nytimes.com/2025/03/01/world/europe/trump-zelensky-putin.html",
     "url": ""
   }
 ]
