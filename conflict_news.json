@@ -1,18 +1,34 @@
 [
   {
+    "title": "They lost 52 soldiers fighting alongside the US. Now they feel threatened by Trump",
+    "date_str": "March 08, 2025",
+    "summary": "No summary available",
+    "source": "BBC",
+    "link": "https://www.bbc.com/news/articles/crmjewpkje9o",
+    "url": ""
+  },
+  {
     "title": "Creator of viral AI Trump Gaza video warns of possible dangers",
-    "date_str": "March 07, 2025",
+    "date_str": "March 08, 2025",
     "summary": "No summary available",
     "source": "BBC",
     "link": "https://www.bbc.com/news/videos/cdrxkm6r856o",
     "url": ""
   },
   {
-    "title": "Discovery of Unexploded World War II Bomb Halts Paris Trains and Eurostar",
-    "date_str": "March 07, 2025",
+    "title": "With Drones and North Korean Troops, Russia Pushes Back Ukraine’s Offensive",
+    "date_str": "March 08, 2025",
     "summary": "None",
     "source": "NYT",
-    "link": "https://www.nytimes.com/2025/03/07/world/europe/france-world-war-ii-bomb-gare-du-nord-eurostar.html",
+    "link": "https://www.nytimes.com/2025/03/08/world/europe/ukraine-russia-north-korea-kursk.html",
+    "url": ""
+  },
+  {
+    "title": "Gaza War Led to Deaths of More Than 3 Dozen Hostages, Officials Say",
+    "date_str": "March 08, 2025",
+    "summary": "None",
+    "source": "NYT",
+    "link": "https://www.nytimes.com/2025/03/08/world/middleeast/israel-hamas-gaza-hostages.html",
     "url": ""
   },
   {
@@ -24,27 +40,19 @@
     "url": ""
   },
   {
-    "title": "With Trump’s Tariff Reprieve, Mexico and Canada, Still Wary, Breathe Easier",
-    "date_str": "March 06, 2025",
+    "title": "What We Know About the Unrest in Syria",
+    "date_str": "March 07, 2025",
     "summary": "None",
     "source": "NYT",
-    "link": "https://www.nytimes.com/2025/03/06/world/americas/mexico-trump-tariffs.html",
+    "link": "https://www.nytimes.com/2025/03/07/world/europe/syria-coast-clashes-assad.html",
     "url": ""
   },
   {
-    "title": "U.S. and Ukrainian Officials to Meet Next Week About Path to End War",
-    "date_str": "March 06, 2025",
+    "title": "Days of Clashes in Syria Kill More Than 300 Civilians, War Monitor Reports",
+    "date_str": "March 08, 2025",
     "summary": "None",
     "source": "NYT",
-    "link": "https://www.nytimes.com/2025/03/06/us/politics/ukraine-zelensky-trump-russia.html",
-    "url": ""
-  },
-  {
-    "title": "Sudan Accuses U.A.E. of Being Complicit in Genocide",
-    "date_str": "March 06, 2025",
-    "summary": "None",
-    "source": "NYT",
-    "link": "https://www.nytimes.com/2025/03/06/world/africa/sudan-genocide-icj-uae.html",
+    "link": "https://www.nytimes.com/2025/03/08/world/middleeast/syria-clashes-assad.html",
     "url": ""
   }
 ]
