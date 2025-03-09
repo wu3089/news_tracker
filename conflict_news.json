@@ -1,7 +1,7 @@
 [
   {
     "title": "They lost 52 soldiers fighting alongside the US. Now they feel threatened by Trump",
-    "date_str": "March 08, 2025",
+    "date_str": "March 09, 2025",
     "summary": "No summary available",
     "source": "BBC",
     "link": "https://www.bbc.com/news/articles/crmjewpkje9o",
@@ -9,7 +9,7 @@
   },
   {
     "title": "Creator of viral AI Trump Gaza video warns of possible dangers",
-    "date_str": "March 08, 2025",
+    "date_str": "March 09, 2025",
     "summary": "No summary available",
     "source": "BBC",
     "link": "https://www.bbc.com/news/videos/cdrxkm6r856o",
@@ -32,27 +32,19 @@
     "url": ""
   },
   {
-    "title": "Will Canadians Warm Up to the Steely Banker Eyeing Trudeau’s Job?",
-    "date_str": "March 07, 2025",
-    "summary": "None",
-    "source": "NYT",
-    "link": "https://www.nytimes.com/2025/03/07/world/canada/mark-carney-trudeau-liberal-party-canada.html",
-    "url": ""
-  },
-  {
-    "title": "What We Know About the Unrest in Syria",
-    "date_str": "March 07, 2025",
-    "summary": "None",
-    "source": "NYT",
-    "link": "https://www.nytimes.com/2025/03/07/world/europe/syria-coast-clashes-assad.html",
-    "url": ""
-  },
-  {
-    "title": "Days of Clashes in Syria Kill More Than 300 Civilians, War Monitor Reports",
+    "title": "Hundreds of Civilians Killed by Government Forces in Syria, War Monitors Say",
     "date_str": "March 08, 2025",
     "summary": "None",
     "source": "NYT",
     "link": "https://www.nytimes.com/2025/03/08/world/middleeast/syria-clashes-assad.html",
+    "url": ""
+  },
+  {
+    "title": "Infighting in U.K.’s Anti-Immigration Party Now Involves the Police",
+    "date_str": "March 07, 2025",
+    "summary": "None",
+    "source": "NYT",
+    "link": "https://www.nytimes.com/2025/03/07/world/europe/nigel-farage-rupert-lowe-police.html",
     "url": ""
   }
 ]
