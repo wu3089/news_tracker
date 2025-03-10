@@ -1,18 +1,34 @@
 [
   {
+    "title": "US says Ukraine 'ready to move forward' on truce demand",
+    "date_str": "March 10, 2025",
+    "summary": "No summary available",
+    "source": "BBC",
+    "link": "https://www.bbc.com/news/articles/cy9dp5rr2x9o",
+    "url": ""
+  },
+  {
+    "title": "Trump says US economy in 'transition' as trade war escalates",
+    "date_str": "March 10, 2025",
+    "summary": "No summary available",
+    "source": "BBC",
+    "link": "https://www.bbc.com/news/articles/cz61nn99eg1o",
+    "url": ""
+  },
+  {
     "title": "They lost 52 soldiers fighting alongside the US. Now they feel threatened by Trump",
-    "date_str": "March 09, 2025",
+    "date_str": "March 10, 2025",
     "summary": "No summary available",
     "source": "BBC",
     "link": "https://www.bbc.com/news/articles/crmjewpkje9o",
     "url": ""
   },
   {
-    "title": "Creator of viral AI Trump Gaza video warns of possible dangers",
-    "date_str": "March 09, 2025",
-    "summary": "No summary available",
-    "source": "BBC",
-    "link": "https://www.bbc.com/news/videos/cdrxkm6r856o",
+    "title": "Enduring Images of a Global Crisis",
+    "date_str": "March 10, 2025",
+    "summary": "None",
+    "source": "NYT",
+    "link": "https://www.nytimes.com/2025/03/10/world/asia/covid-anniversary-photos.html",
     "url": ""
   },
   {
@@ -24,11 +40,11 @@
     "url": ""
   },
   {
-    "title": "Gaza War Led to Deaths of More Than 3 Dozen Hostages, Officials Say",
-    "date_str": "March 08, 2025",
+    "title": "Syria’s Interim President Calls for Unity Amid Fresh Fighting",
+    "date_str": "March 09, 2025",
     "summary": "None",
     "source": "NYT",
-    "link": "https://www.nytimes.com/2025/03/08/world/middleeast/israel-hamas-gaza-hostages.html",
+    "link": "https://www.nytimes.com/2025/03/09/world/middleeast/syria-latakia-clashes.html",
     "url": ""
   },
   {
@@ -40,11 +56,11 @@
     "url": ""
   },
   {
-    "title": "Infighting in U.K.’s Anti-Immigration Party Now Involves the Police",
-    "date_str": "March 07, 2025",
+    "title": "Gaza War Led to Deaths of More Than 3 Dozen Hostages, Officials Say",
+    "date_str": "March 08, 2025",
     "summary": "None",
     "source": "NYT",
-    "link": "https://www.nytimes.com/2025/03/07/world/europe/nigel-farage-rupert-lowe-police.html",
+    "link": "https://www.nytimes.com/2025/03/08/world/middleeast/israel-hamas-gaza-hostages.html",
     "url": ""
   }
 ]
