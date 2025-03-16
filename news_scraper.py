@@ -63,15 +63,36 @@ CONFLICT_REGIONS = [
     "Sudan", "Libya", "Afghanistan", "Somalia", "Congo", "Myanmar"
 ]
 
-CONFLICT_KEYWORDS = [
-    "war", "invasion", "offensive", "counteroffensive", "airstrike",
-    "bombardment", "missile", "drone attack", "military operation",
-    "combat", "fighting", "conflict", "crisis", "uprising", "insurgency",
-    "rebellion", "coup", "civil war", "unrest", "terrorism", "extremist",
-    "militant", "insurgent", "refugee", "displaced", "humanitarian crisis",
-    "civilian casualties", "war crimes", "genocide", "ceasefire",
-    "peace talks", "negotiation", "diplomatic crisis", "sanctions"
-]
+# Update the keywords section at the top of the file
+CONFLICT_CATEGORIES = {
+    "MILITARY_ACTIONS": [
+        "war", "invasion", "offensive", "counteroffensive", "airstrike",
+        "bombardment", "missile", "drone attack", "military operation",
+        "combat", "fighting", "troops", "forces", "military",
+        "artillery", "tank", "warplane", "warship", "army"
+    ],
+    "VIOLENCE_AND_CASUALTIES": [
+        "killed", "wounded", "casualties", "death toll", "civilian deaths",
+        "massacre", "attack", "bombing", "explosion", "strike",
+        "destroyed", "damage", "violent", "bloodshed"
+    ],
+    "POLITICAL_CONFLICT": [
+        "conflict", "crisis", "tension", "dispute", "clash",
+        "hostilities", "warfare", "insurgency", "rebellion",
+        "coup", "overthrow", "uprising", "unrest"
+    ],
+    "PEACE_AND_DIPLOMACY": [
+        "ceasefire", "peace talks", "negotiation", "diplomatic",
+        "mediation", "agreement", "treaty", "resolution",
+        "settlement", "accord", "truce"
+    ],
+    "WEAPONS_AND_SECURITY": [
+        "nuclear", "missile test", "weapons", "arms", "military aid",
+        "defense system", "ammunition", "arsenal", "armed forces",
+        "military base", "strategic", "tactical"
+    ]
+}
+
 
 def setup_article_cache():
     """Initialize SQLite database for caching articles"""
@@ -160,27 +181,71 @@ def format_date(date_str):
     except Exception:
         return datetime.now().strftime("%B %d, %Y")
 
+# Flatten CONFLICT_KEYWORDS for easy searching
+CONFLICT_KEYWORDS = [keyword for category in CONFLICT_CATEGORIES.values() for keyword in category]
+
+def is_conflict_related(title, summary=''):
+    """
+    Determine if an article is sufficiently conflict-related by checking for
+    keyword combinations and context.
+    """
+    text = (title + ' ' + summary).lower()
+    
+    # Check for region mentions
+    has_region = any(region.lower() in text for region in CONFLICT_REGIONS)
+    
+    # Count keywords by category
+    category_matches = {
+        category: sum(1 for keyword in keywords if keyword.lower() in text)
+        for category, keywords in CONFLICT_CATEGORIES.items()
+    }
+    
+    # Article must have:
+    # 1. At least one region mention AND
+    # 2. Either:
+    #    a. 2+ keywords from MILITARY_ACTIONS or VIOLENCE_AND_CASUALTIES
+    #    b. 1 keyword from those categories + 2 from other categories
+    military_violence_matches = (
+        category_matches['MILITARY_ACTIONS'] +
+        category_matches['VIOLENCE_AND_CASUALTIES']
+    )
+    other_matches = sum(
+        count for category, count in category_matches.items()
+        if category not in ['MILITARY_ACTIONS', 'VIOLENCE_AND_CASUALTIES']
+    )
+    
+    is_conflict = (
+        has_region and (
+            military_violence_matches >= 2 or
+            (military_violence_matches >= 1 and other_matches >= 2)
+        )
+    )
+    
+    return is_conflict
+
 def filter_articles(articles):
-    """Filter out purely domestic U.S. content while keeping international stories"""
+    """Filter out non-conflict articles and duplicates"""
     filtered = []
     seen_hashes = set()
     
     for article in articles:
-        title_lower = article['title'].lower()
-        summary_lower = article.get('summary', '').lower()
-        content = title_lower + " " + summary_lower
+        title = article['title']
+        summary = article.get('summary', '')
         
+        # Skip if not conflict-related
+        if not is_conflict_related(title, summary):
+            logging.info(f"Excluding non-conflict article: {title}")
+            continue
+        
+        # Skip if US-centric
+        content = (title + " " + summary).lower()
         us_matches = [keyword.lower() for keyword in US_KEYWORDS if keyword.lower() in content]
         if len(us_matches) > 2:
-            logging.info(f"Excluding U.S.-centric article: {article['title']}")
-            continue
-            
-        matched_keywords = [keyword for keyword in CONFLICT_KEYWORDS if keyword.lower() in content]
-        if not matched_keywords:
-            logging.info(f"Excluding non-conflict article: {article['title']}")
+            logging.info(f"Excluding U.S.-centric article: {title}")
             continue
         
-        article_hash = hashlib.md5((article['title'] + article['link']).encode()).hexdigest()
+        # Skip if duplicate
+        article_hash = hashlib.md5((title + article['link']).encode()).hexdigest()
         if article_hash in seen_hashes:
             continue
         
@@ -341,14 +406,21 @@ def get_news_from_newsapi():
         return []
         
     url = "https://newsapi.org/v2/everything"
-    
+    # Define the domains list
+    domains = [
+        'reuters.com',
+        'apnews.com',
+        'aljazeera.com',
+        'france24.com',
+        'theguardian.com'
+    ]
     params = {
         'apiKey': api_key,
-        'domains': 'reuters.com,apnews.com',
+        'domains': ','.join(domains),
         'language': 'en',
         'sortBy': 'publishedAt',
-        'pageSize': 100,
-        'q': '(world OR international OR global) AND (conflict OR war OR crisis OR tension)',
+        'pageSize': 50,
+        'q': '(war OR conflict OR military OR attack OR fighting OR troops OR forces OR killed OR casualties OR missile OR airstrike OR bombing) AND (Ukraine OR Russia OR Israel OR Gaza OR Hamas OR Syria OR Yemen OR Sudan OR Libya OR Myanmar)',
         'from': (datetime.now() - timedelta(days=7)).strftime('%Y-%m-%d')
     }
     
@@ -412,6 +484,9 @@ def monitor_news_sources(output_file):
         all_articles.extend(nyt_articles)
     except Exception as e:
         logging.error(f"Failed to fetch from NYT: {e}")
+    
+    # Add this line to filter all articles before saving
+    all_articles = filter_articles(all_articles)
     
     if all_articles:
         save_snippets(output_file, all_articles)
