@@ -1,6 +1,6 @@
 Global Conflict News Tracker
 
-A automated news aggregation and summarization system that automatically tracks, filters, and summarizes global conflict-related news.
+A automated news aggregation and summarization system that automatically tracks, filters, and summarizes global conflict-related news at https://wu3089.github.io/news_tracker/. 
 
 ## Features
 
