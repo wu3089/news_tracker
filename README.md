@@ -4,7 +4,7 @@ A automated news aggregation and summarization system that automatically tracks,
 
 ## Features
 
-- **Automated News Collection**: Aggregates news from multiple reliable sources:
+- **Automated News Collection**: Aggregates news from multiple sources:
   - BBC News
   - Reuters
   - Associated Press
@@ -13,24 +13,15 @@ A automated news aggregation and summarization system that automatically tracks,
   - The Guardian
   - France 24
 
-- **Smart Filtering**: 
-  - Focuses on conflict-related news using sophisticated keyword categorization
+- **Filter and Processing**: 
   - Filters out non-conflict and US-domestic news
-  - Removes duplicate stories across different sources
-  - Prioritizes primary news sources
+  - Removes duplicate stories across different sources, and prioritizes primary news sources
+  - Uses Google's Gemini 2.0 Flash-Lite model for article summarization and headline paraphrasing
 
-- **AI-Powered Processing**:
-  - Uses Google's Gemini 2.0 Flash-Lite model for:
-    - Article summarization
-    - Headline paraphrasing
-  - Maintains factual accuracy while improving readability
-
-- **Clean Web Interface**:
-  - Responsive design
+- **Web Interface**:
   - Article navigation minimap
   - Copy functionality for each article
   - Bulk copy option for all articles
-  - Mobile-friendly layout
 
 ## Setup
 
