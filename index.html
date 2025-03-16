@@ -12,20 +12,49 @@
             margin: 0 auto;
             padding: 20px;
             background-color: #f5f5f5;
+            background-image: url('https://upload.wikimedia.org/wikipedia/commons/1/17/World_map_blank_without_borders.svg');
+            background-repeat: no-repeat;
+            background-position: center;
+            background-size: cover;
+            background-attachment: fixed;
+            background-blend-mode: overlay;
+            position: relative;
+        }
+
+        .demo-banner {
+            background-color: rgba(255, 193, 7, 0.1);
+            border: 1px solid rgba(255, 193, 7, 0.3);
+            border-radius: 5px;
+            padding: 10px 15px;
+            margin-bottom: 20px;
+            font-size: 0.9em;
+            color: #856404;
+            text-align: center;
         }
 
         h1 {
             color: #333;
             border-bottom: 2px solid #333;
-            padding-bottom: 10px;
+            padding-bottom: 15px;
+            margin-bottom: 25px;
+            text-align: center;
+            font-size: 2.2em;
+            text-shadow: 1px 1px 2px rgba(0,0,0,0.1);
         }
 
         .article {
-            background: white;
-            padding: 20px;
-            margin-bottom: 20px;
-            border-radius: 5px;
-            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            background: rgba(255, 255, 255, 0.95);
+            padding: 25px;
+            margin-bottom: 25px;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+            border: 1px solid rgba(0,0,0,0.05);
+            transition: transform 0.2s ease;
+        }
+
+        .article:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 6px 12px rgba(0,0,0,0.1);
         }
 
         .article h2 {
@@ -130,9 +159,9 @@
         .copy-area {
             margin: 20px 0;
             padding: 20px;
-            background: #fff;
-            border-radius: 5px;
-            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            background: rgba(255, 255, 255, 0.95);
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
         }
 
         .copy-button {
@@ -143,6 +172,7 @@
             border-radius: 4px;
             cursor: pointer;
             margin-bottom: 10px;
+            transition: background-color 0.2s ease;
         }
 
         .copy-button:hover {
@@ -169,10 +199,6 @@
             cursor: pointer;
         }
 
-        .article .copy-button:hover {
-            background: #218838;
-        }
-
         .minimap {
             position: fixed;
             right: 20px;
@@ -188,7 +214,7 @@
             width: 12px;
             height: 12px;
             border-radius: 50%;
-            background: #ccc;
+            background: rgba(204, 204, 204, 0.8);
             cursor: pointer;
             transition: all 0.2s ease;
             position: relative;
@@ -223,13 +249,22 @@
 
         @media (max-width: 768px) {
             .minimap {
-                display: none; /* Hide on mobile */
+                display: none;
+            }
+            body {
+                padding: 10px;
+            }
+            .article {
+                padding: 15px;
             }
         }
     </style>
 </head>
 <body>
     <h1>Global Conflict News</h1>
+    <div class="demo-banner">
+        Demo Version: This is a demonstration of automated news summarization using Google Gemini AI.
+    </div>
     <div id="articles"></div>
     <div class="minimap" id="minimap"></div>
 
@@ -250,7 +285,6 @@
                 return;
             }
 
-            // HTML Display
             container.innerHTML = articles.map((article, index) => `
                 <div class="article" id="article-${index}">
                     <h2>${article.title}</h2>
@@ -264,7 +298,6 @@
                 </div>
             `).join('');
 
-            // Minimap Display
             minimap.innerHTML = articles.map((article, index) => `
                 <div class="minimap-dot" 
                      data-title="${article.title}"
@@ -273,10 +306,8 @@
                 </div>
             `).join('');
 
-            // Initialize scroll spy
             initScrollSpy();
 
-            // Plain Text Format for global copy
             copyText.value = articles.map(article => {
                 const summaryText = article.summary.replace(/\.\s*\(/, ' (');
                 return `${article.title}\n${article.date_str}\n${summaryText} (${article.source === 'Associated Press' ? 'AP' : article.source}).\n\n`;
@@ -298,7 +329,6 @@
                 });
             }, { threshold: 0.5 });
 
-            // Observe all articles
             document.querySelectorAll('.article').forEach(article => {
                 observer.observe(article);
             });
@@ -317,10 +347,8 @@
             const date = article.querySelector('.date').textContent;
             const summary = article.querySelector('.summary').textContent;
             
-            // Format the text without the period before citation
             const text = `${title}\n${date}\n${summary}\n\n`;
             
-            // Copy to clipboard
             navigator.clipboard.writeText(text).then(() => {
                 const originalText = button.textContent;
                 button.textContent = 'Copied!';
@@ -330,7 +358,18 @@
             });
         }
 
-        // Initial load
+        function copyToClipboard() {
+            const copyText = document.getElementById('copyText');
+            copyText.select();
+            navigator.clipboard.writeText(copyText.value).then(() => {
+                const button = document.querySelector('.copy-area .copy-button');
+                button.textContent = 'Copied!';
+                setTimeout(() => {
+                    button.textContent = 'Copy Formatted Text';
+                }, 2000);
+            });
+        }
+
         fetch('conflict_news.json')
             .then(response => {
                 if (!response.ok) {
