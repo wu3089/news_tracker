@@ -51,7 +51,7 @@ python -m http.server 8000
 ## Automated Updates
 
 The project includes GitHub Actions workflow that:
-- Runs every 12 hours to fetch fresh news
+- Runs every 12 hours to fetch news
 - Commits updated news to the repository
 - Maintains a consistent JSON format
 - Includes error logging and monitoring
