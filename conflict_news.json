@@ -1,42 +1,58 @@
 [
   {
-    "title": "Frank Gardner Reports Ukraine Is Optimistic While Russia Shows No Urgency in Saudi Talks",
-    "link": "https://www.bbc.com/news/articles/cly65gm5jp9o",
+    "title": "Rwanda's President Says They Are Planning to Attack Burundi, According to BBC",
+    "link": "https://www.bbc.com/news/articles/cq5znee2dxno",
     "source": "BBC",
-    "pub_date": "Sun, 23 Mar 2025 22:47:17 GMT",
-    "summary": "In a series of diplomatic moves, US negotiators engaged in separate talks in Saudi Arabia with Ukrainian and Russian officials. These meetings, which occurred on Sunday and Monday respectively, were held in the context of potential ceasefire discussions regarding the ongoing conflict in Ukraine. The significance of these discussions lies in the potential for laying the groundwork for a negotiated settlement and de-escalation of the war. While the exact content of the talks remains undisclosed, the US's involvement signals a commitment to facilitating dialogue between the warring parties and exploring avenues for peace. This initiative highlights the United States' continued role in international mediation efforts and its strategic interest in resolving the crisis.",
-    "date_str": "March 24, 2025"
+    "pub_date": "Tue, 25 Mar 2025 07:01:54 GMT",
+    "summary": "Burundi's President Évariste Ndayishimiye has informed the BBC that Rwanda is planning an attack against Burundi, escalating tensions between the two nations. This announcement highlights the ongoing animosity stemming from their opposing stances in the war within the Democratic Republic of Congo. The primary players are President Ndayishimiye of Burundi, who made the assertion, and the Rwandan government, which has yet to publicly respond.  This situation underscores the complex regional dynamics, particularly in the context of the DR Congo conflict.",
+    "date_str": "March 25, 2025"
   },
   {
-    "title": "Sudanese Military Advances in Capital, Seeking to Change War's Course",
+    "title": "Palestinian Oscar Winner Was Attacked by Settlers and Detained, Activists Report",
+    "link": "https://www.bbc.com/news/articles/c0eg04d152zo",
+    "source": "BBC",
+    "pub_date": "Tue, 25 Mar 2025 11:43:58 GMT",
+    "summary": "Following an attack by Israeli settlers, Palestinian Oscar winner Hamdan Ballal was reportedly detained by Israeli soldiers, according to activists. The incident, which occurred in the context of ongoing tensions in the West Bank, involved an assault on Ballal before his apprehension. While specific details of the charges remain unclear, the event highlights the volatile environment and the potential for escalation between Israeli settlers and Palestinians. The incident involving Ballal, a prominent figure in the Palestinian community, may exacerbate existing concerns regarding the treatment of Palestinians by Israeli authorities.",
+    "date_str": "March 25, 2025"
+  },
+  {
+    "title": "Russia Is Accused of Conducting Meaningless Peace Talks After a Strike Injures Many",
+    "link": "https://www.bbc.com/news/articles/cm2n7jzxy72o",
+    "source": "BBC",
+    "pub_date": "Tue, 25 Mar 2025 02:44:27 GMT",
+    "summary": "Russia's ongoing attacks on Ukraine, particularly in the Sumy region, are raising questions about the sincerity of its peace negotiations. While Russian and U.S. officials are holding discussions in Riyadh, the continued shelling underscores the perceived disparity between Moscow's actions and its diplomatic overtures. The strikes, which caused significant damage, highlight the ongoing conflict's brutality and fuel accusations that Russia is using \"hollow talks\" as a smokescreen. This pattern casts doubt on the prospects for a swift resolution to the war.",
+    "date_str": "March 25, 2025"
+  },
+  {
+    "title": "Israel Faces Conflicts Abroad and Internal Divisions",
+    "text": "For months, Israelis put aside their deep rifts to fight a common enemy. Now, amid a renewed government push for power, they are battling one another.",
+    "link": "https://www.nytimes.com/2025/03/24/world/middleeast/israel-turmoil-government.html",
+    "date_str": "March 24, 2025",
+    "source": "NYT",
+    "summary": "Following months of relative unity during the war with Hamas, Israeli society is fracturing as Prime Minister Benjamin Netanyahu's government intensifies efforts to consolidate power. This resurgence of internal conflict, with Israelis now clashing amongst themselves, poses a significant challenge to national cohesion and stability. The renewed power grab, likely driven by political maneuvers, threatens to undermine the sense of shared purpose that emerged during the conflict. The outcome of this internal struggle will have significant ramifications for Israel's future governance and its ability to address external threats, including the ongoing conflict with Hamas."
+  },
+  {
+    "title": "Sudanese Military Forces Advance in Capital, Aiming to Shift War's Momentum",
     "text": "A New York Times reporter and photographer were the first Western journalists to visit central Khartoum since the civil war broke out two years ago. The scale of how much has been lost was inescapable.",
     "link": "https://www.nytimes.com/2025/03/23/world/africa/sudan-civil-war-khartoum.html",
     "date_str": "March 23, 2025",
     "source": "NYT",
-    "summary": "A recent New York Times report detailed the first Western journalistic visit to central Khartoum since the eruption of civil war in Sudan two years prior, revealing the devastating extent of the conflict's impact. The report, featuring a reporter and photographer, documented the widespread destruction and loss within the city, signifying the ongoing humanitarian crisis and the limited access for international observers. This unprecedented access underscores the significance of the ongoing conflict between the Sudanese army and the Rapid Support Forces, highlighting the urgent need for international intervention and aid to mitigate the crisis's escalating consequences."
+    "summary": "A New York Times reporting team recently documented the extensive devastation in central Khartoum, the first Western journalists to access the area since the Sudanese civil war erupted two years prior. The visit revealed the immense scale of destruction, highlighting the profound impact of the ongoing conflict on the city's infrastructure and civilian life. This firsthand assessment underscores the devastating human cost and significant challenges Sudan faces amid the continuing power struggle. The journalists' findings contribute to a deeper understanding of the conflict's intensity and the urgent need for a resolution."
   },
   {
-    "title": "Israel Expanded Its Gaza Offensive While Issuing New Evacuation Orders",
-    "text": "Gaza’s health ministry said that the death toll in the enclave since the war started had passed 50,000 people.",
-    "link": "https://www.nytimes.com/2025/03/23/world/middleeast/gaza-israel-rafah.html",
-    "date_str": "March 23, 2025",
+    "title": "The United Nations Will Withdraw International Staff From Gaza Due to Israeli Strikes",
+    "text": "The United Nations is withdrawing about one-third of its international work force in Gaza, with the reduction coming after an Israeli tank shell hit a U.N. compound.",
+    "link": "https://www.nytimes.com/2025/03/24/world/middleeast/un-workers-gaza-israel.html",
+    "date_str": "March 24, 2025",
     "source": "NYT",
-    "summary": "The Gaza Health Ministry reports that the death toll in the Gaza Strip has surpassed 50,000 since the commencement of the current conflict. This grim milestone underscores the devastating impact of the ongoing war and highlights the immense humanitarian crisis. The key players are primarily the Gaza Health Ministry reporting and the unnamed actors involved in the ongoing hostilities that have produced such a high death count. This situation follows months of intense fighting and civilian displacement, creating a severe strain on resources and international efforts aimed at providing aid and support to those affected."
+    "summary": "The United Nations is significantly reducing its international staff presence in Gaza, withdrawing approximately one-third of its personnel following an Israeli tank shell strike on a UN facility. This decision, impacting humanitarian operations, highlights the increasingly dangerous operating environment for aid workers in the conflict zone. The withdrawal underscores the challenges the UN faces in maintaining a presence and delivering aid amidst ongoing hostilities, with key actors including the UN itself and the Israeli military. This action occurs against the backdrop of the continued Israel-Hamas conflict and growing international scrutiny of the protection of civilians and humanitarian access in Gaza."
   },
   {
-    "title": "Russian Drone Attack in Kyiv Claims Three Lives Before Cease-Fire Talks",
-    "text": "The assault underscored the deep mistrust between Russia and Ukraine as U.S.-mediated talks about a partial cease-fire began in Saudi Arabia.",
-    "link": "https://www.nytimes.com/2025/03/23/world/europe/kyiv-ukraine-attack.html",
-    "date_str": "March 23, 2025",
+    "title": "Witnesses Say a Palestinian Director of ‘No Other Land’ Was Attacked and Detained",
+    "text": "Hamdan Ballal was assaulted by masked attackers in his home village in the Israeli-occupied West Bank, witnesses said. The Israeli military said he had been detained for questioning.",
+    "link": "https://www.nytimes.com/2025/03/24/world/middleeast/no-other-land-director-attack.html",
+    "date_str": "March 24, 2025",
     "source": "NYT",
-    "summary": "An assault, the details of which are not provided in the source text, occurred amidst U.S.-mediated discussions in Saudi Arabia aimed at establishing a partial cease-fire between Russia and Ukraine. This attack further highlighted the existing, significant distrust between the two nations. While the specific perpetrators of the assault are not identified, the event complicates the already strained diplomatic efforts supported by the United States, thus potentially hindering the progress of ongoing negotiations towards de-escalation. The context suggests this occurred during a period of heightened tensions and active conflict."
-  },
-  {
-    "title": "Rockets Fired From Lebanon Led to Israeli Strikes",
-    "text": "The volley broke months of relative quiet in northern Israel after a U.S.-backed truce. Israel retaliated by attacking sites it said were linked to Hezbollah.",
-    "link": "https://www.nytimes.com/2025/03/22/world/middleeast/lebanon-israel-rockets-airstrikes-gaza.html",
-    "date_str": "March 22, 2025",
-    "source": "NYT",
-    "summary": "Following months of calm facilitated by a U.S.-backed truce, Hezbollah initiated a volley of attacks in northern Israel, prompting an immediate Israeli retaliation. This exchange marks a significant escalation, fracturing the recent period of quiet along the Israel-Lebanon border and raising concerns about the fragile balance between Israel and Hezbollah. While the specific details of the attacks and retaliatory measures are still emerging, the resumption of hostilities underscores the ongoing volatility of the region and the persistent threat posed by the Iran-backed Hezbollah. Both sides, led by Israel and Hezbollah respectively, remain key players in this dynamic."
+    "summary": "Masked assailants attacked Palestinian Hamdan Ballal in his West Bank home, an event likely to exacerbate tensions in the occupied territory. While witnesses reported the assault, the Israeli military subsequently stated they detained Ballal for questioning, a common practice during security operations in the West Bank. This incident follows a long-standing pattern of violence and military activity in the region, where Israeli forces regularly conduct operations and Palestinians face various forms of harassment and violence. The details surrounding the assault and detention remain unclear, potentially inflaming an already volatile situation between Palestinians and Israelis."
   }
 ]
