@@ -1,18 +1,26 @@
 [
   {
-    "title": "Kim Jong-un Inspects Artificial Intelligence Suicide Drone Test in North Korea",
-    "link": "https://www.bbc.com/news/articles/c4gmny262vzo",
+    "title": "Ukraine Says Four Were Killed in a Russian Drone Attack on Dnipro",
+    "link": "https://www.bbc.com/news/articles/ckgdgxql6vpo",
     "source": "BBC",
-    "pub_date": "Thu, 27 Mar 2025 18:12:29 GMT",
-    "summary": "In a recent development, North Korean leader Kim Jong Un inspected AI-powered \"suicide attack drones,\" indicating advancements in the country's autonomous weapons capabilities.  This inspection signals Pyongyang's continued investment in military technology, potentially raising tensions in the region.  The specific design and functionality of these drones were not detailed, but their use as \"suicide\" weapons suggests an offensive intent.  Analysts cited in the report suggest Russian assistance may have facilitated this development.  This move comes amidst increasing international concern over North Korea's ballistic missile and nuclear programs, underscoring the urgency of monitoring the country's ongoing military advancements.",
-    "date_str": "March 28, 2025"
+    "pub_date": "Sat, 29 Mar 2025 11:13:48 GMT",
+    "summary": "In Dnipro, Ukraine, a mass Russian drone attack resulted in the deaths of four people and injured 21 others, as a restaurant and several buildings were set ablaze. This attack, confirmed by Ukrainian officials, underscores the ongoing conflict dynamics.  While the specific targets remain undisclosed, the deliberate targeting of civilian infrastructure suggests a continued escalation of the conflict.  This incident follows a pattern of drone attacks by Russia targeting urban centers, reflecting the broader context of the war in Ukraine.",
+    "date_str": "March 29, 2025"
   },
   {
-    "title": "Ukraine's Front Line Features Drones, Mines, and Snipers, Distant from Peace Talks",
-    "text": "For soldiers and commanders on the edge of battle, any talk about a lasting cease-fire still feels like a dangerous fantasy.",
-    "link": "https://www.nytimes.com/2025/03/27/world/europe/ukraine-front-line-peace-talks.html",
-    "date_str": "March 27, 2025",
+    "title": "Israel Launched Initial Strike on Beirut After Hezbollah Ceasefire",
+    "link": "https://www.bbc.com/news/articles/cgr2rg8xyqzo",
+    "source": "BBC",
+    "pub_date": "Fri, 28 Mar 2025 14:51:15 GMT",
+    "summary": "Following a Hezbollah ceasefire, Israel conducted its first airstrike on Beirut, targeting a Hezbollah site, hours after rockets were fired from southern Lebanon towards northern Israel.  This escalation marks a significant departure from the established truce, with Israel's actions potentially signaling a shift in tactics or a response to perceived provocations.  Key players include Israel, who executed the strike, and Hezbollah, the target of the attack and the party believed to be responsible for the preceding rocket fire. The context involves a fragile ceasefire between Israel and Hezbollah, highlighting the ongoing tensions and the potential for renewed conflict along the Lebanon-Israel border.",
+    "date_str": "March 29, 2025"
+  },
+  {
+    "title": "Israel Conducted Airstrikes Near Beirut Following the Cease-fire",
+    "text": "The attack in the southern outskirts of the Lebanese capital, an area where Hezbollah holds sway, followed rocket fire toward northern Israel.",
+    "link": "https://www.nytimes.com/2025/03/28/world/middleeast/israel-beirut-evacuation-hezbollah.html",
+    "date_str": "March 28, 2025",
     "source": "NYT",
-    "summary": "Despite ongoing international efforts, the prospect of a lasting ceasefire remains distant and improbable for soldiers and commanders engaged in active combat. This sentiment highlights the challenges in resolving conflicts where parties are deeply entrenched and distrustful of negotiated settlements. The reported views suggest that while diplomatic discussions may be underway, the realities faced by frontline personnel underscore the persistent obstacles to achieving a sustainable peace. The absence of a shared vision for a ceasefire among those most directly affected threatens to undermine any potential agreements."
+    "summary": "Following rocket fire from Lebanon into northern Israel, an attack occurred in the southern suburbs of Beirut, a Hezbollah stronghold. The incident escalates existing tensions along the Israeli-Lebanese border and underscores the volatile security environment. Key players include Hezbollah, the Lebanese militant group, and Israel, with the potential for broader regional involvement. This event unfolds against the backdrop of ongoing instability in the Middle East and highlights the fragility of the existing status quo."
   }
 ]
