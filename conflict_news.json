@@ -1,26 +1,50 @@
 [
   {
-    "title": "Ukraine Says Four Were Killed in a Russian Drone Attack on Dnipro",
+    "title": "Myanmar Military Resumes Air Strikes Following Destructive Earthquake",
+    "link": "https://www.bbc.com/news/articles/cy7x7r8m3xlo",
+    "source": "BBC",
+    "pub_date": "Sat, 29 Mar 2025 17:04:50 GMT",
+    "summary": "Following a devastating earthquake in Myanmar, the ruling junta has continued its air strikes despite ongoing rescue efforts. A UN Special Rapporteur has condemned the military's actions, labeling them as \"incredible.\" The continued air strikes highlight the ongoing conflict between the junta and opposition forces in Myanmar, further exacerbating the humanitarian crisis in the wake of the natural disaster. This situation underscores the junta's disregard for civilian lives and complicates international efforts to provide aid and assistance to affected communities.",
+    "date_str": "March 30, 2025"
+  },
+  {
+    "title": "Israel and Hamas May Discuss a Ceasefire in New Negotiations",
+    "link": "https://www.bbc.com/news/articles/c4g9x0kd4gro",
+    "source": "BBC",
+    "pub_date": "Sun, 30 Mar 2025 01:02:02 GMT",
+    "summary": "Hamas has reportedly agreed to proposals put forth by mediators, while Israel has presented its counter-proposal, signaling a potential breakthrough in the ongoing conflict.  This development follows months of fighting and international efforts to broker a ceasefire.  Key players include Hamas and Israel, with mediators playing a crucial role in facilitating negotiations.  The context involves the devastating humanitarian situation in Gaza and the urgent need for a resolution to the conflict.  The success of these negotiations could lead to a significant de-escalation of violence and potentially pave the way for a lasting peace agreement.",
+    "date_str": "March 30, 2025"
+  },
+  {
+    "title": "Ukraine Says Four Died in Russian Drone Attack on Dnipro",
     "link": "https://www.bbc.com/news/articles/ckgdgxql6vpo",
     "source": "BBC",
     "pub_date": "Sat, 29 Mar 2025 11:13:48 GMT",
-    "summary": "In Dnipro, Ukraine, a mass Russian drone attack resulted in the deaths of four people and injured 21 others, as a restaurant and several buildings were set ablaze. This attack, confirmed by Ukrainian officials, underscores the ongoing conflict dynamics.  While the specific targets remain undisclosed, the deliberate targeting of civilian infrastructure suggests a continued escalation of the conflict.  This incident follows a pattern of drone attacks by Russia targeting urban centers, reflecting the broader context of the war in Ukraine.",
-    "date_str": "March 29, 2025"
+    "summary": "In Dnipro, Ukraine, a mass Russian drone attack resulted in the deaths of four people and injured an additional 21, with a restaurant and several buildings catching fire. Local officials have confirmed the casualties and damage from the attack, highlighting the ongoing conflict's impact on civilian populations. This attack is part of the wider context of the Russia-Ukraine war, demonstrating Russia's continued use of aerial strikes to target Ukrainian cities. The attacks are a direct result of the Russian invasion of Ukraine, as Moscow continues its war efforts.",
+    "date_str": "March 30, 2025"
   },
   {
-    "title": "Israel Launched Initial Strike on Beirut After Hezbollah Ceasefire",
-    "link": "https://www.bbc.com/news/articles/cgr2rg8xyqzo",
-    "source": "BBC",
-    "pub_date": "Fri, 28 Mar 2025 14:51:15 GMT",
-    "summary": "Following a Hezbollah ceasefire, Israel conducted its first airstrike on Beirut, targeting a Hezbollah site, hours after rockets were fired from southern Lebanon towards northern Israel.  This escalation marks a significant departure from the established truce, with Israel's actions potentially signaling a shift in tactics or a response to perceived provocations.  Key players include Israel, who executed the strike, and Hezbollah, the target of the attack and the party believed to be responsible for the preceding rocket fire. The context involves a fragile ceasefire between Israel and Hezbollah, highlighting the ongoing tensions and the potential for renewed conflict along the Lebanon-Israel border.",
-    "date_str": "March 29, 2025"
-  },
-  {
-    "title": "Israel Conducted Airstrikes Near Beirut Following the Cease-fire",
-    "text": "The attack in the southern outskirts of the Lebanese capital, an area where Hezbollah holds sway, followed rocket fire toward northern Israel.",
-    "link": "https://www.nytimes.com/2025/03/28/world/middleeast/israel-beirut-evacuation-hezbollah.html",
-    "date_str": "March 28, 2025",
+    "title": "Aftershocks and Military Airstrikes Continue to Terrorize Myanmar Residents",
+    "text": "New tremors rattled survivors of Friday’s earthquake, which killed more than 1,600 people, while the government continued its bombing campaign elsewhere in the country.",
+    "link": "https://www.nytimes.com/2025/03/30/world/asia/myanmar-earthquake-aftershocks-airstrikes.html",
+    "date_str": "March 30, 2025",
     "source": "NYT",
-    "summary": "Following rocket fire from Lebanon into northern Israel, an attack occurred in the southern suburbs of Beirut, a Hezbollah stronghold. The incident escalates existing tensions along the Israeli-Lebanese border and underscores the volatile security environment. Key players include Hezbollah, the Lebanese militant group, and Israel, with the potential for broader regional involvement. This event unfolds against the backdrop of ongoing instability in the Middle East and highlights the fragility of the existing status quo."
+    "summary": "In the aftermath of a devastating earthquake that claimed over 1,600 lives, ongoing aftershocks are hindering relief efforts. Simultaneously, the government is continuing its bombing campaign, exacerbating the humanitarian crisis. The key actors are the government, responsible for the military actions, and the affected civilian population. This situation unfolds against a backdrop of pre-existing instability and potentially reveals the government's priorities, which could have destabilizing effects and complicate international aid distribution."
+  },
+  {
+    "title": "The Secret History of the War in Ukraine Reveals Key Details",
+    "text": "This is the untold story of America’s hidden role in Ukrainian military operations against Russia’s invading armies.",
+    "link": "https://www.nytimes.com/interactive/2025/03/29/world/europe/us-ukraine-military-war-wiesbaden.html",
+    "date_str": "March 29, 2025",
+    "source": "NYT",
+    "summary": "While the provided text fragment lacks specifics, a Council on Foreign Relations-style summary would be constructed as follows:\n\nThe United States has played a previously undisclosed role in supporting Ukrainian military actions against Russia. This involvement, while not fully detailed in the fragment, suggests a deeper level of U.S. engagement than publicly acknowledged. Such actions are likely undertaken by various U.S. government agencies, possibly including the military and intelligence communities, with Ukrainian officials as key partners. This clandestine support adds a complex layer to the ongoing conflict, potentially impacting escalation dynamics and shaping future relations between the involved nations."
+  },
+  {
+    "title": "Key Takeaways Reveal America's Secret Military Partnership with Ukraine",
+    "text": "An investigation by The New York Times has revealed that America was woven into the war far more than previously known.",
+    "link": "https://www.nytimes.com/2025/03/30/world/europe/us-ukraine-military-war-takeaways.html",
+    "date_str": "March 30, 2025",
+    "source": "NYT",
+    "summary": "A *New York Times* investigation indicates significant, previously undisclosed U.S. involvement in a conflict, exceeding prior understandings of the war. This expanded role highlights the complex and often concealed nature of international interventions. Though specific actors are not delineated in the prompt, the narrative implies the U.S. government and its agencies, along with the involved parties in the war itself, are central. This revelation arrives amid heightened scrutiny of global conflicts and the extent of external influence, emphasizing the need for transparency and accountability in foreign policy decision-making."
   }
 ]
