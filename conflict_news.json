@@ -1,26 +1,50 @@
 [
   {
-    "title": "US Envoy Meets Putin While Trump Calls for Ukraine Ceasefire",
-    "link": "https://www.bbc.com/news/articles/crm3kxxx8x9o",
+    "title": "At Least 32 Killed in Russian Ballistic Missile Attack on Sumy",
+    "link": "https://www.bbc.com/news/articles/c4g4262x4x1o",
     "source": "BBC",
-    "pub_date": "Sat, 12 Apr 2025 05:00:54 GMT",
-    "summary": "In a noteworthy development, US special envoy Steve Witkoff met with Russian President Vladimir Putin, while former US President Trump urged Russia to expedite a ceasefire in Ukraine. Simultaneously, Moscow's ambassador to the UK asserted that the United States is not Russia's ally, underscoring the strained relations. These events highlight ongoing diplomatic efforts amid continued conflict and diverging perspectives on the war. The meetings and statements reflect the high-stakes maneuvering and the complex geopolitical dynamics surrounding the conflict in Ukraine.",
-    "date_str": "April 12, 2025"
+    "pub_date": "Sun, 13 Apr 2025 12:08:22 GMT",
+    "summary": "A recent Russian missile strike on an unnamed Ukrainian city has resulted in the deaths of at least 32 people, according to reports. The attack, marked by multiple missile impacts, has caused widespread devastation, with images depicting casualties in the streets. The incident underscores the ongoing conflict between Russia and Ukraine and is a stark example of the humanitarian toll of the war. While the specific Ukrainian city targeted is not explicitly named, the attack represents a significant escalation in the conflict, highlighting the continued vulnerability of Ukrainian civilians.",
+    "date_str": "April 13, 2025"
   },
   {
-    "title": "Ukraine's Allies Pledged €21 Billion in New Military Aid",
-    "link": "https://www.bbc.com/news/articles/ckg2q323lg3o",
+    "title": "Israeli Airstrike Damages Final Operational Hospital in Gaza City",
+    "link": "https://www.bbc.com/news/articles/cjr7l123zy5o",
     "source": "BBC",
-    "pub_date": "Fri, 11 Apr 2025 17:22:53 GMT",
-    "summary": "European defense ministers have pledged €21 billion in additional military aid to Ukraine, demonstrating continued support amid the ongoing conflict.  This commitment underscores the allies' collective resolve, with no indication of waning support despite the war's protracted nature. Key players in this development are the defense ministers of European countries, solidifying their role in providing crucial resources to Kyiv. This aid package follows previous commitments and reinforces the context of sustained international support for Ukraine's defense against Russia's ongoing invasion.",
-    "date_str": "April 12, 2025"
+    "pub_date": "Sun, 13 Apr 2025 10:08:48 GMT",
+    "summary": "An Israeli airstrike has destroyed a portion of Al Ahli Baptist Hospital in Gaza City, reportedly the last fully functional hospital in the area. The Israel Defense Forces (IDF) claimed the hospital contained a Hamas command and control center, justifying the attack. This event is significant due to the destruction of a crucial medical facility amidst the ongoing conflict. Key players include the IDF, responsible for the airstrike, and Hamas, which the IDF accuses of utilizing the hospital. This incident underscores the ongoing violence and the challenges faced by civilians in Gaza during the conflict.",
+    "date_str": "April 13, 2025"
   },
   {
-    "title": "Trump Envoy Met With Putin in Effort to Restart Ukraine War Negotiations",
-    "text": "Separately in Belgium, nations supporting Ukraine pledged billions more in military aid and raised doubts about Moscow’s desire for peace.",
-    "link": "https://www.nytimes.com/2025/04/11/world/europe/ukraine-trump-witkoff-talks.html",
-    "date_str": "April 11, 2025",
+    "title": "Sudan Camp Residents Seek Shelter Amidst Attacks Due to Widespread Death",
+    "link": "https://www.bbc.com/news/articles/cg41r3w0e19o",
+    "source": "BBC",
+    "pub_date": "Sun, 13 Apr 2025 11:42:30 GMT",
+    "summary": "In Sudan, attacks on famine-hit displacement camps in Darfur have resulted in dozens of deaths, with one source describing the situation as \"extremely catastrophic.\" The assaults, which have persisted for three days, have targeted areas like Zamzam. This violence exacerbates the ongoing humanitarian crisis in the region, where civilians are already struggling with food insecurity due to the larger conflict.",
+    "date_str": "April 13, 2025"
+  },
+  {
+    "title": "U.S.-Iran Nuclear Talks Progress Despite Potential Challenges",
+    "text": "In a first meeting, the United States and Iran show signs of pragmatism and limited aims, which would make success more likely. But hard-liners on both sides — and Israel — are bound to balk.",
+    "link": "https://www.nytimes.com/2025/04/13/world/europe/us-nuclear-talks-iran.html",
+    "date_str": "April 13, 2025",
     "source": "NYT",
-    "summary": "At a meeting in Belgium, allied nations reaffirmed their commitment to supporting Ukraine, pledging billions more in military aid, underscoring the ongoing international backing for Kyiv's defense. This commitment, involving key players from across Europe and beyond, follows continued Russian aggression and highlights the West's resolve. The increased aid, while critical for Ukraine's military capabilities, also reflects growing skepticism among supporting nations regarding Moscow's willingness to negotiate a peaceful resolution to the conflict. The context for this renewed support lies in the protracted war and the persistent failure of diplomatic efforts to achieve a ceasefire."
+    "summary": "In a significant development, the United States and Iran have signaled a willingness for pragmatism and limited goals in initial discussions, potentially increasing the likelihood of diplomatic progress. This nascent dialogue, though limited in scope, represents a shift from the previously antagonistic relationship between the two nations. Key players involved include representatives from the United States and Iran, though specifics on their identities and the issues discussed remain unconfirmed. However, this emerging détente faces opposition from hard-liners within both Iran and the United States, as well as from Israel, who could actively obstruct any progress towards a more stable relationship."
+  },
+  {
+    "title": "Russian Missile Strikes in Sumy, Ukraine, Killed at Least 32 People, Officials Report",
+    "text": "The strikes were the latest in a string of attacks on urban centers that have caused heavy civilian casualties even as the Trump administration pushes for a cease-fire.",
+    "link": "https://www.nytimes.com/2025/04/13/world/europe/sumy-ukraine-russia-strikes.html",
+    "date_str": "April 13, 2025",
+    "source": "NYT",
+    "summary": "Recent urban center attacks, resulting in significant civilian casualties, continue despite the Trump administration's efforts to secure a cease-fire. These strikes represent a concerning escalation in the ongoing conflict, particularly as the U.S. government actively seeks a diplomatic resolution. The attacks highlight the challenges in achieving a lasting peace, even as the U.S. attempts to mediate and mitigate the humanitarian impact. Further analysis is needed to determine the perpetrators of these attacks and their motivations, as well as the precise impact on the civilian population."
+  },
+  {
+    "title": "Israel Bombed a Hospital in Northern Gaza While Seizing a Strategic Southern Area",
+    "text": "No one was killed but the attack hit the Ahli Arab Hospital, a mainstay of Gaza’s decimated health care system. Separately, Israel said its troops had expanded their occupation of southern Gaza.",
+    "link": "https://www.nytimes.com/2025/04/13/world/middleeast/gaza-israel-hospital.html",
+    "date_str": "April 13, 2025",
+    "source": "NYT",
+    "summary": "Israeli forces expanded their presence in southern Gaza while an attack damaged the Ahli Arab Hospital, a critical healthcare provider in the war-torn region.  This attack, though not resulting in fatalities, further destabilizes the already weakened Gazan healthcare system, representing a setback for humanitarian efforts. Israel's actions are a continuation of its military operations in Gaza, a response to the October 7th Hamas attack. The expansion of Israeli occupation and the targeting of medical facilities highlight the ongoing conflict's impact on civilian infrastructure and underscore the complex dynamics between Israel and Palestinian factions."
   }
 ]
