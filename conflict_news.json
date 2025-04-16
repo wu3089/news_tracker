@@ -1,42 +1,34 @@
 [
   {
-    "title": "Trump Blames Zelensky for War Following Russia's Large-Scale Attack",
+    "title": "Hamas Rejects Israeli Ceasefire Proposal, According to Palestinian Official",
+    "link": "https://www.bbc.com/news/articles/cdxgy7vwxlxo",
+    "source": "BBC",
+    "pub_date": "Tue, 15 Apr 2025 18:16:48 GMT",
+    "summary": "Hamas has rejected an Israeli proposal for a truce that would involve the disarmament of the group. The proposal, according to a Palestinian official, offers no guarantee of ending the ongoing war in exchange for the release of hostages. This rejection by Hamas, a key player in the conflict, maintains the current stalemate, likely prolonging the hostilities in the Gaza Strip and impacting any future negotiations for a ceasefire. The context is the ongoing Israeli-Palestinian conflict, which escalated significantly following the October 7th attacks.",
+    "date_str": "April 16, 2025"
+  },
+  {
+    "title": "Trump Blames Zelensky for War Following Large Russian Attack",
     "link": "https://www.bbc.com/news/articles/cg5q0mev07lo",
     "source": "BBC",
-    "pub_date": "Tue, 15 Apr 2025 12:01:57 GMT",
-    "summary": "In the wake of a significant Russian attack on Ukraine, former U.S. President Donald Trump attributed blame for the conflict to Ukrainian President Volodymyr Zelensky.  Trump stated that Ukraine shouldn't have initiated hostilities against a country of Russia's size.  This statement comes amid the ongoing war, highlighting divisions in the West's support for Ukraine.  The remarks, made a day after a major Russian offensive, could potentially undermine international efforts to assist Ukraine.",
-    "date_str": "April 15, 2025"
+    "pub_date": "Tue, 15 Apr 2025 16:22:39 GMT",
+    "summary": "Following a major Russian attack on Ukraine, former US President Donald Trump controversially placed blame for the war on Ukrainian President Volodymyr Zelensky. Trump's remarks came shortly after a particularly deadly strike on civilians, raising questions about his stance on the conflict. This pronouncement, delivered by a prominent figure in American politics, has the potential to influence public perception of the war and impact future US policy towards Ukraine. His statements have also been criticized by some for potentially emboldening Russia and undermining international support for Ukraine.",
+    "date_str": "April 16, 2025"
   },
   {
-    "title": "World Health Organization Says Gaza Hospitals Face Unimaginable Conditions After Israeli Attacks",
-    "link": "https://www.bbc.com/news/articles/c89g0yn5yv5o",
-    "source": "BBC",
-    "pub_date": "Mon, 14 Apr 2025 16:26:25 GMT",
-    "summary": "The World Health Organization (WHO) reports that conditions in Gaza hospitals are \"beyond description\" following ongoing Israeli strikes and the resulting supply shortages.  This assessment comes after an Israeli air strike on al-Ahli hospital, highlighting the severe impact of the conflict on healthcare infrastructure and its ability to function.  The WHO's statements underscore the humanitarian crisis and the urgent need for improved access to medical supplies and safety for medical personnel.  These events occur against the backdrop of the continuing Israel-Gaza conflict, underscoring the challenges to providing essential services amid the ongoing violence.",
-    "date_str": "April 15, 2025"
+    "title": "Israel Warns of Potential Further Escalation in Gaza Conflict",
+    "text": "The United Nations warned that the humanitarian situation in Gaza was likely at its worst since the conflict began and that the population was again on the brink of famine.",
+    "link": "https://www.nytimes.com/2025/04/16/world/middleeast/israel-threatens-gaza-escalation.html",
+    "date_str": "April 16, 2025",
+    "source": "NYT",
+    "summary": "The United Nations has issued a stark warning that the humanitarian crisis in Gaza has deteriorated to its most critical point since the onset of the conflict, raising the imminent threat of famine for the population. This assessment underscores the severe challenges in delivering aid and ensuring basic survival needs are met. The UN's pronouncements highlight the ongoing impact of the conflict on civilians and the significant obstacles hindering humanitarian access, necessitating urgent international attention. The situation serves as a grim reminder of the war's devastating consequences and the pressing need for a sustainable resolution."
   },
   {
-    "title": "The UN Reports Hundreds Feared Dead in Recent Darfur Attacks",
-    "link": "https://www.bbc.com/news/articles/cy8e5kj5gmdo",
-    "source": "BBC",
-    "pub_date": "Tue, 15 Apr 2025 00:13:46 GMT",
-    "summary": "The United Nations reports that hundreds of people may have been killed in recent attacks on refugee camps in Darfur, Sudan, citing credible sources for the estimated death toll. These attacks are occurring amidst the ongoing civil conflict in Sudan, which has created a humanitarian crisis, displacing millions and exacerbating instability in the region. The situation is further complicated by the involvement of various armed groups, including the Sudanese army and the Rapid Support Forces, who are battling for control of the country, and the impact of these attacks on vulnerable populations.",
-    "date_str": "April 15, 2025"
-  },
-  {
-    "title": "Field Hospital Director in Southern Gaza Reports Israeli Strike Killed a Guard",
-    "text": "Israel’s military did not immediately comment on the report, which came two days after it attacked the Ahli Arab Hospital in Gaza City.",
-    "link": "https://www.nytimes.com/2025/04/15/world/middleeast/gaza-hospital-israel-military.html",
+    "title": "Autopsies Indicate Israeli Troops Shot Some Gaza Medics in the Head",
+    "text": "The New York Times obtained autopsy reports for 14 of the 15 people killed in a March 23 attack on an ambulance and fire truck.",
+    "link": "https://www.nytimes.com/2025/04/15/world/middleeast/gaza-medics-autopsies-israel.html",
     "date_str": "April 15, 2025",
     "source": "NYT",
-    "summary": "Following reports, which Israel did not immediately address, the Israeli military's actions are under scrutiny. This silence comes just two days after an attack on the Ahli Arab Hospital in Gaza City, suggesting a continued pattern of military operations in the region. The absence of comment from Israeli officials raises questions about the circumstances and justifications for the actions. This situation occurs amidst the ongoing conflict between Israel and Hamas, highlighting the complexities of the situation and the challenges in establishing accountability."
-  },
-  {
-    "title": "Trump Called Russia's Attack on Ukrainian City \"Horrible\"",
-    "text": "At least 35 people were killed in the attack on Sumy, which came as Ukraine’s leader urged President Trump to come witness the realities of war firsthand.",
-    "link": "https://www.nytimes.com/2025/04/14/world/europe/trump-ukraine-sumy-russia-attack.html",
-    "date_str": "April 14, 2025",
-    "source": "NYT",
-    "summary": "Ukrainian authorities report at least 35 deaths in a recent attack on Sumy, marking a significant escalation in the ongoing conflict. This strike, occurring amidst intense fighting across the country, underscores the devastating human cost of the war and Ukraine's urgent need for continued international support. Simultaneously, Ukrainian President Volodymyr Zelenskyy has directly appealed to former U.S. President Donald Trump to visit Ukraine and witness the impact of the war firsthand, highlighting the importance of international solidarity and potential for future aid. This attack, coupled with Zelenskyy’s request, comes as both the U.S. and other nations are grappling with decisions on continued financial and military assistance to Ukraine."
+    "summary": "The New York Times' acquisition of autopsy reports for 14 victims of the March 23 attack on an ambulance and fire truck sheds new light on the violence, offering detailed information about the casualties. The significance lies in potentially providing insights into the nature and perpetrators of the attack, though the specific actors responsible are not explicitly named in this reporting. This attack, which targeted first responders, comes against the backdrop of ongoing armed conflict and instability, highlighting the vulnerability of humanitarian efforts and the broader challenges facing civilian populations in the conflict zone. This development could influence international responses and shape perspectives on accountability for actions in the region."
   }
 ]
