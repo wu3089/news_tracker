@@ -1,34 +1,34 @@
 [
   {
-    "title": "Hamas Rejects Israeli Ceasefire Proposal, According to Palestinian Official",
-    "link": "https://www.bbc.com/news/articles/cdxgy7vwxlxo",
+    "title": "Israeli Troops Will Remain in Gaza Security Zones After the War, a Minister States",
+    "link": "https://www.bbc.com/news/articles/c4g2775v853o",
     "source": "BBC",
-    "pub_date": "Tue, 15 Apr 2025 18:16:48 GMT",
-    "summary": "Hamas has rejected an Israeli proposal for a truce that would involve the disarmament of the group. The proposal, according to a Palestinian official, offers no guarantee of ending the ongoing war in exchange for the release of hostages. This rejection by Hamas, a key player in the conflict, maintains the current stalemate, likely prolonging the hostilities in the Gaza Strip and impacting any future negotiations for a ceasefire. The context is the ongoing Israeli-Palestinian conflict, which escalated significantly following the October 7th attacks.",
-    "date_str": "April 16, 2025"
+    "pub_date": "Wed, 16 Apr 2025 18:23:49 GMT",
+    "summary": "Following the ongoing conflict, Israel plans to maintain \"security zones\" within Gaza, as stated by Israeli Minister Israel Katz, signifying a continued military presence in the territory. This decision, which includes a six-week blockade of all supplies to Gaza, disregards warnings from the United Nations regarding \"devastating\" humanitarian consequences. The move underscores Israel's commitment to controlling the area post-conflict and potentially intensifies the existing humanitarian crisis. The key players involved are Israel, represented by Minister Katz, and the UN, which has expressed concerns about the blockade's impact.",
+    "date_str": "April 17, 2025"
   },
   {
-    "title": "Trump Blames Zelensky for War Following Large Russian Attack",
-    "link": "https://www.bbc.com/news/articles/cg5q0mev07lo",
-    "source": "BBC",
-    "pub_date": "Tue, 15 Apr 2025 16:22:39 GMT",
-    "summary": "Following a major Russian attack on Ukraine, former US President Donald Trump controversially placed blame for the war on Ukrainian President Volodymyr Zelensky. Trump's remarks came shortly after a particularly deadly strike on civilians, raising questions about his stance on the conflict. This pronouncement, delivered by a prominent figure in American politics, has the potential to influence public perception of the war and impact future US policy towards Ukraine. His statements have also been criticized by some for potentially emboldening Russia and undermining international support for Ukraine.",
-    "date_str": "April 16, 2025"
-  },
-  {
-    "title": "Israel Warns of Potential Further Escalation in Gaza Conflict",
-    "text": "The United Nations warned that the humanitarian situation in Gaza was likely at its worst since the conflict began and that the population was again on the brink of famine.",
-    "link": "https://www.nytimes.com/2025/04/16/world/middleeast/israel-threatens-gaza-escalation.html",
+    "title": "Trump Rejected Israeli Strike After Administration Disputes Arose",
+    "text": "Israel developed plans for attacking Iranian nuclear facilities that would have required U.S. assistance. But some administration officials had doubts.",
+    "link": "https://www.nytimes.com/2025/04/16/us/politics/trump-israel-iran-nuclear.html",
     "date_str": "April 16, 2025",
     "source": "NYT",
-    "summary": "The United Nations has issued a stark warning that the humanitarian crisis in Gaza has deteriorated to its most critical point since the onset of the conflict, raising the imminent threat of famine for the population. This assessment underscores the severe challenges in delivering aid and ensuring basic survival needs are met. The UN's pronouncements highlight the ongoing impact of the conflict on civilians and the significant obstacles hindering humanitarian access, necessitating urgent international attention. The situation serves as a grim reminder of the war's devastating consequences and the pressing need for a sustainable resolution."
+    "summary": "Israeli officials drafted plans for potential strikes against Iranian nuclear sites, necessitating U.S. support for their execution. This development follows escalating tensions over Iran's nuclear program, reflecting concerns about its rapid advancement. Key players involved include Israeli government officials and, implicitly, members of the U.S. administration. Certain U.S. officials expressed reservations regarding the proposed attacks, highlighting the complexities of coordination and the potential for regional instability in the ongoing standoff over Iran's nuclear ambitions."
   },
   {
-    "title": "Autopsies Indicate Israeli Troops Shot Some Gaza Medics in the Head",
-    "text": "The New York Times obtained autopsy reports for 14 of the 15 people killed in a March 23 attack on an ambulance and fire truck.",
-    "link": "https://www.nytimes.com/2025/04/15/world/middleeast/gaza-medics-autopsies-israel.html",
-    "date_str": "April 15, 2025",
+    "title": "Sudanese Paramilitary Group Declares Parallel Government, Prompting 400,000 to Flee",
+    "text": "The United Nations said that at least 300 people were killed when the armed group, the Rapid Support Forces, stormed a camp in Darfur.",
+    "link": "https://www.nytimes.com/2025/04/16/world/africa/sudan-rsf-zamzam.html",
+    "date_str": "April 16, 2025",
     "source": "NYT",
-    "summary": "The New York Times' acquisition of autopsy reports for 14 victims of the March 23 attack on an ambulance and fire truck sheds new light on the violence, offering detailed information about the casualties. The significance lies in potentially providing insights into the nature and perpetrators of the attack, though the specific actors responsible are not explicitly named in this reporting. This attack, which targeted first responders, comes against the backdrop of ongoing armed conflict and instability, highlighting the vulnerability of humanitarian efforts and the broader challenges facing civilian populations in the conflict zone. This development could influence international responses and shape perspectives on accountability for actions in the region."
+    "summary": "The United Nations reports that the Rapid Support Forces (RSF) attacked a displacement camp in Darfur, resulting in the deaths of at least 300 people. This violence, attributed to the RSF, marks a significant escalation in the ongoing conflict within Sudan, particularly in the Darfur region, which has a long history of instability. This incident highlights the continued targeting of civilians and underscores the dire humanitarian situation in the country. The UN's reporting signals increased concern over the RSF's tactics and the protection of vulnerable populations amid the broader Sudanese civil war."
+  },
+  {
+    "title": "Israel Launched Airstrikes Near Gazan Displacement Camps",
+    "text": "The attack on the Mawasi area killed at least several people, including children, according to Gaza’s emergency rescue service. Israel did not confirm the location of the attack.",
+    "link": "https://www.nytimes.com/2025/04/17/world/middleeast/israel-gaza-strike-mawasi.html",
+    "date_str": "April 17, 2025",
+    "source": "NYT",
+    "summary": "Following the attack on the Mawasi area, which resulted in multiple casualties, including children, a significant event in the ongoing conflict has been confirmed. Gaza's emergency rescue service reported the deaths, while Israeli authorities have yet to officially acknowledge the location of the attack. This incident occurs amidst escalating tensions and military operations within the Gaza Strip. The attack underscores the volatile situation and raises questions about the protection of civilians in the region."
   }
 ]
