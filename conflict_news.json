@@ -1,58 +1,50 @@
 [
   {
-    "title": "Trump Says US Will Decline Ukraine Peace Talks Without Rapid Progress",
-    "link": "https://www.bbc.com/news/articles/c20x5xn1g92o",
+    "title": "Zelensky Says Attacks Persist Despite Putin's Easter Truce Promise",
+    "link": "https://www.bbc.com/news/articles/c787v5gxny7o",
     "source": "BBC",
-    "pub_date": "Sat, 19 Apr 2025 01:34:40 GMT",
-    "summary": "Former U.S. President Donald Trump stated the U.S. would \"pass\" on future peace talks regarding Ukraine if there is no significant progress soon, a shift that follows similar warnings from other U.S. officials. This pronouncement signals a potential change in Washington's approach to the ongoing conflict. Key players include Donald Trump and, implicitly, the current U.S. administration and other international actors involved in peace negotiations. The context of this statement comes amid the ongoing war in Ukraine and the U.S.'s role in supporting Kyiv, raising questions about the future of American involvement in seeking a resolution to the conflict.",
-    "date_str": "April 19, 2025"
+    "pub_date": "Sun, 20 Apr 2025 09:57:19 GMT",
+    "summary": "In a significant development, Ukrainian President Volodymyr Zelenskyy has reported the continuation of Russian attacks despite a declared \"Easter truce.\" This contrasts with the Russian Defense Ministry's assertion that its forces adhered to the truce and accused Ukraine of violating it. The ongoing conflict highlights the complex dynamics and lack of adherence to previously announced ceasefire agreements. This situation further escalates tensions in the region and undermines efforts for peaceful resolution of the war.",
+    "date_str": "April 20, 2025"
   },
   {
     "title": "US Strikes on Yemen Oil Terminal Reportedly Kill At Least 74, According to Houthis",
     "link": "https://www.bbc.com/news/articles/clywg335680o",
     "source": "BBC",
     "pub_date": "Sat, 19 Apr 2025 03:46:57 GMT",
-    "summary": "The United States launched strikes on a Yemeni oil terminal, resulting in at least 58 casualties, according to Houthi sources. Washington stated that the attacks aimed to disrupt the Houthis' supply lines and financial resources, while the Houthis have condemned the strikes as a war crime. This event highlights the ongoing conflict in Yemen, where the U.S. and the Houthi rebels have been clashing. The situation is significant due to its potential impact on the region and the humanitarian crisis within Yemen.",
-    "date_str": "April 19, 2025"
+    "summary": "The United States conducted airstrikes on an oil terminal in Yemen, resulting in at least 58 casualties, according to Houthi sources. The US stated the attacks aimed to curb supplies and funding for the Houthis, who condemned the strikes as a war crime. This incident occurs amidst the ongoing conflict in Yemen, with the Houthis controlling significant territory and the US actively involved in counterterrorism efforts. This escalation underscores the complex geopolitical dynamics within the region, with the US and the Houthis as the primary actors.",
+    "date_str": "April 20, 2025"
   },
   {
-    "title": "Fleeing Sudan Camp for Safety, I Carried a Child and Luggage",
+    "title": "Carrying a Child and Luggage, I Fled a Sudanese Camp Seeking Safety",
     "link": "https://www.bbc.com/news/articles/cn80v2d7elzo",
     "source": "BBC",
     "pub_date": "Fri, 18 Apr 2025 16:05:54 GMT",
-    "summary": "In Sudan, the ongoing civil war has once again displaced residents of Zamzam camp, the country's largest camp for internally displaced people, forcing them to flee for safety. This displacement underscores the dire humanitarian situation, impacting vulnerable populations and adding to the existing crisis. Key players, including civilians like Fathiya Mohammed and other displaced individuals, are caught in the crossfire of the conflict. This latest upheaval is set against the backdrop of a protracted civil war, highlighting the persistent instability and the devastating impact of the conflict on civilian lives.",
-    "date_str": "April 19, 2025"
+    "summary": "The ongoing civil war in Sudan has once again uprooted the lives of residents in Zamzam camp, the largest displacement camp in the country.  Fathiya Mohammed and other camp residents, displaced previously, were forced to flee due to the conflict, highlighting the continued instability. This renewed displacement underscores the humanitarian crisis exacerbated by the conflict between the Sudanese Armed Forces and the Rapid Support Forces.  The situation signifies a breakdown in the already fragile conditions in the region, leading to further hardship and instability for vulnerable populations.",
+    "date_str": "April 20, 2025"
   },
   {
-    "title": "Rubio Says the U.S. Will Soon Determine Ukraine War's Feasibility",
-    "text": "“If it is not possible to end the war in Ukraine, we need to move on,” Secretary of State Marco Rubio said as he departed meetings in Paris.",
-    "link": "https://www.nytimes.com/2025/04/18/world/europe/rubio-ukraine-russia-war-paris.html",
-    "date_str": "April 18, 2025",
+    "title": "Ukraine Claims Russia Violated Easter Truce Agreement",
+    "text": "President Zelensky of Ukraine said the front lines had seen artillery fire and drone attacks, and that his troops were responding in kind.",
+    "link": "https://www.nytimes.com/2025/04/20/world/europe/ukraine-russia-easter-truce.html",
+    "date_str": "April 20, 2025",
     "source": "NYT",
-    "summary": "Secretary of State Marco Rubio, concluding meetings in Paris, signaled a shift in strategy regarding the war in Ukraine, suggesting a potential move away from a focus on immediate conflict resolution. This statement implies a potential acknowledgment of the war's protracted nature, possibly reflecting evolving assessments within the US government regarding the conflict's durability. Rubio's position, representing the United States, underscores the growing need to consider long-term implications and potential adjustments to policy in the context of an ongoing conflict. The statement comes amid ongoing Western support for Ukraine and persistent efforts to diplomatically isolate Russia, highlighting a complex interplay of geopolitical interests and strategic considerations."
+    "summary": "Ukrainian President Volodymyr Zelensky announced intensified hostilities along the front lines, indicating a notable increase in artillery and drone attacks and Ukraine's retaliatory actions. This development signals a potential escalation of the ongoing conflict, with Zelensky's statements highlighting the precarious security situation. The exchange of fire underscores the continued instability in the region and reflects the persistent challenges Ukraine faces in defending its territory. The context emphasizes the need for continued international attention and support for Ukraine."
   },
   {
-    "title": "Syrians Describe Gas Attack Symptoms: Choking, Shaking, and Foaming",
-    "text": "Syria’s ousted dictator, Bashar al-Assad, unleashed a Sarin gas strike on the suburbs of Damascus in 2013, killing at least 1,500. Now, the survivors want justice.",
-    "link": "https://www.nytimes.com/2025/04/18/world/middleeast/syria-assad-chemical-attack.html",
-    "date_str": "April 18, 2025",
+    "title": "Putin Declared an Easter Truce, Which Ukraine Met With Skepticism",
+    "text": "President Vladimir V. Putin of Russia said that he had ordered his forces to “stop all military activity” from Saturday evening through Sunday. Ukraine’s leader said Putin was trying to “play with people’s lives.”",
+    "link": "https://www.nytimes.com/2025/04/19/world/europe/russia-ukraine-easter-truce.html",
+    "date_str": "April 19, 2025",
     "source": "NYT",
-    "summary": "In 2013, Syrian President Bashar al-Assad's regime deployed sarin gas in a deadly attack on the outskirts of Damascus, resulting in the deaths of a minimum of 1,500 civilians. This chemical weapons attack, a clear violation of international norms and treaties, occurred during the ongoing Syrian civil war. The survivors, seeking accountability, highlight the persistent challenge of prosecuting war crimes and holding perpetrators like Assad responsible for atrocities committed during the conflict, even years later. This event underscores the broader failure of international mechanisms to deter the use of chemical weapons and provide justice for victims of mass atrocities."
+    "summary": "President Vladimir Putin has announced a temporary cessation of military activities in Ukraine from Saturday evening through Sunday. This unilateral ceasefire, a move likely timed for the Orthodox Christmas holiday, presents a limited window of reduced hostilities. Ukrainian President Volodymyr Zelenskyy has criticized the pause, viewing it as a disingenuous attempt to manipulate public opinion. The declaration comes amidst protracted conflict and signals Russia's continued strategic efforts, even if temporarily, to control the narrative surrounding the ongoing war."
   },
   {
-    "title": "U.S. Strikes on a Yemeni Port Reportedly Killed Dozens, According to Houthis",
-    "text": "President Trump has vowed that the Iran-backed Houthi militia will be “completely annihilated.” But forceful American strikes do not seem to have deterred the Yemeni fighters.",
-    "link": "https://www.nytimes.com/2025/04/18/world/middleeast/us-yemen-houthis.html",
-    "date_str": "April 18, 2025",
-    "source": "NYT",
-    "summary": "President Trump has pledged to eradicate the Iran-backed Houthi militia in Yemen, highlighting escalating tensions in the ongoing conflict. Despite Trump's rhetoric, forceful American actions appear to have failed to dissuade the Houthis. This situation unfolds against the backdrop of a protracted civil war and regional power struggles, including the influence of Iran and Saudi Arabia. This ongoing dynamic underscores the complex challenges facing U.S. foreign policy in the Middle East."
-  },
-  {
-    "title": "Israeli Attacks in Gaza Have Killed Many, According to the Health Ministry",
+    "title": "Israeli Attacks in Gaza Have Killed Dozens, According to the Health Ministry",
     "text": "Israel was keeping up its intense bombing campaign in the enclave, which has exacted a heavy price on civilians struggling to find safe places to shelter.",
     "link": "https://www.nytimes.com/2025/04/19/world/middleeast/israel-gaza-strikes-death-toll.html",
     "date_str": "April 19, 2025",
     "source": "NYT",
-    "summary": "Israel continues its aerial bombardment of Gaza, intensifying the humanitarian crisis within the besieged enclave. This sustained military operation, with its significant civilian toll, underscores the ongoing conflict's devastating impact on the population. While the article does not name specific actors, the focus on the Israeli military actions indicates the primary player. This situation is occurring within the broader context of the Israeli-Palestinian conflict, characterized by a prolonged cycle of violence and displacement."
+    "summary": "Israel continues its intensive bombing campaign in the Gaza Strip, resulting in significant civilian casualties amid the ongoing conflict. This sustained aerial bombardment highlights the severity of the humanitarian crisis and the challenges in protecting non-combatants. The Israeli military's actions and their impact on civilians are central to the ongoing escalation. This context underscores the complex dynamics of the conflict, with civilian protection becoming a paramount concern in the face of continued hostilities."
   }
 ]
