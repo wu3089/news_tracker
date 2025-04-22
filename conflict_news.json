@@ -1,18 +1,42 @@
 [
   {
-    "title": "Syria's War Severely Damaged Palmyra After Surviving 2,000 Years",
-    "text": "During a visit to Palmyra, reporters found traces of the many forces that had fought over the city and ancient monuments reduced to rubble.",
-    "link": "https://www.nytimes.com/2025/04/21/world/middleeast/palmyra-syria-islamic-state.html",
-    "date_str": "April 21, 2025",
-    "source": "NYT",
-    "summary": "During a recent visit to Palmyra, journalists observed extensive damage inflicted upon the historic city and its ancient monuments. The destruction, a direct consequence of the multiple forces that have battled for control of Palmyra, underscores the devastating impact of the Syrian civil war on cultural heritage. This damage, likely caused by groups like ISIS, presents a significant challenge for future restoration efforts. The situation highlights the ongoing vulnerability of cultural sites in conflict zones and the urgent need for international protection of such areas."
+    "title": "Putin Suggests Russia Is Open to Direct Talks Despite Continued Strikes",
+    "link": "https://www.bbc.com/news/articles/cpq7ywvw1lzo",
+    "source": "BBC",
+    "pub_date": "Tue, 22 Apr 2025 12:01:13 GMT",
+    "summary": "In a significant development, Russian President Vladimir Putin has signaled a potential willingness to engage in direct talks with Ukrainian President Volodymyr Zelenskyy, marking the first such overture since the early stages of the ongoing war. This proposal, while not a concrete offer, suggests a possible shift in Russia's stance on negotiations. The context is the persistent conflict in Ukraine, where fighting continues. The key players involved are Putin and Zelenskyy, whose respective stances and willingness to negotiate will ultimately determine if any dialogue materializes.",
+    "date_str": "April 22, 2025"
   },
   {
-    "title": "Israeli Minister: Freeing Hostages Is Not The Primary War Goal",
+    "title": "A New Ceasefire Plan for Israel and Gaza Has Been Proposed, According to a Hamas Source",
+    "link": "https://www.bbc.com/news/articles/c62xnqlj11lo",
+    "source": "BBC",
+    "pub_date": "Tue, 22 Apr 2025 07:05:48 GMT",
+    "summary": "Egyptian and Qatari mediators have proposed a new ceasefire plan for the ongoing conflict between Israel and Hamas, according to a Hamas source.  The plan suggests a truce lasting up to seven years, aiming for a permanent cessation of the war.  This initiative comes amid sustained violence and international efforts to find a lasting resolution. The proposal's reception by both Israel and Hamas, and its potential impact on the broader geopolitical landscape, remain key areas of observation.",
+    "date_str": "April 22, 2025"
+  },
+  {
+    "title": "Years of Failed Attempts Have Plagued Ceasefire Efforts in Ukraine",
+    "link": "https://www.bbc.com/news/articles/c1wdllj8lwxo",
+    "source": "BBC",
+    "pub_date": "Mon, 21 Apr 2025 09:05:19 GMT",
+    "summary": "The article underscores the consistent failure of ceasefire attempts in the ongoing conflict in Ukraine, exemplified by the recent 30-hour \"Easter truce\" and its subsequent violations. This highlights the persistent challenges in achieving even temporary pauses in the fighting between Ukrainian and Russian forces.  Efforts to broker ceasefires have been repeatedly stymied due to complex geopolitical factors and the deep-seated mistrust between the involved parties. The consistent breakdown of these agreements reflects the significant obstacles to achieving a lasting peace settlement.",
+    "date_str": "April 22, 2025"
+  },
+  {
+    "title": "Israeli Minister Prioritizes War Objectives Over Hostage Release",
     "text": "The far-right finance minister, Bezalel Smotrich, said the more crucial goal was ensuring that Hamas no longer ruled the Gaza Strip.",
     "link": "https://www.nytimes.com/2025/04/21/world/middleeast/israel-finance-minister-hostages-bezalel-smotrich-gaza-hamas.html",
     "date_str": "April 21, 2025",
     "source": "NYT",
-    "summary": "Israeli Finance Minister Bezalel Smotrich has declared the elimination of Hamas's control over Gaza as the paramount objective, overshadowing other considerations. This statement, emanating from a prominent figure within Israel's far-right government, underscores the ongoing strategic prioritization of degrading Hamas's military and political capabilities following the October 7th attacks. Smotrich's stance reflects the broader Israeli perspective that eradicating Hamas's influence is essential for regional security and sets a clear political objective for any future actions in the Gaza Strip. His position is also a key aspect in the Israeli government's decision-making process."
+    "summary": "Israeli Finance Minister Bezalel Smotrich declared that dismantling Hamas's control over the Gaza Strip is now the primary objective. This statement indicates a shift in focus away from other potential goals in the ongoing conflict. Smotrich's position, as a prominent figure in Israel's far-right government, highlights the influence of hawkish viewpoints on policy decisions. The declaration comes amidst continued military operations in Gaza and underscores the complex political considerations driving Israel's actions."
+  },
+  {
+    "title": "Syria's War Severely Damaged Palmyra, Despite Surviving 2,000 Years",
+    "text": "During a visit to Palmyra, reporters found traces of the many forces that had fought over the city and ancient monuments reduced to rubble.",
+    "link": "https://www.nytimes.com/2025/04/21/world/middleeast/palmyra-syria-islamic-state.html",
+    "date_str": "April 21, 2025",
+    "source": "NYT",
+    "summary": "Following the recapture of Palmyra from ISIS, journalists documented extensive damage to the city and its historical treasures, revealing the destructive impact of the multi-sided conflict. The site, a UNESCO World Heritage location, bore the scars of battles involving ISIS, Syrian government forces, and other factions vying for control. This destruction underscores the broader conflict in Syria, where the preservation of cultural heritage has been severely jeopardized amidst a complex geopolitical struggle, highlighting the need for post-conflict preservation efforts."
   }
 ]
