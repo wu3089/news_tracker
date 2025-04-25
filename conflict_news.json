@@ -1,10 +1,42 @@
 [
   {
-    "title": "Russia Continued Bombardment Of Kyiv Despite U.S. Warning",
-    "text": "The attack, which killed at least eight people, was the deadliest on Ukraine’s capital in nearly a year. It came just hours after the Trump administration again threatened to walk away from the peace process.",
-    "link": "https://www.nytimes.com/2025/04/24/world/europe/ukraine-kyiv-russia-attack.html",
+    "title": "A Car Bomb in Moscow Killed a Senior Russian General",
+    "link": "https://www.bbc.com/news/articles/c8rg4mly3ygo",
+    "source": "BBC",
+    "pub_date": "Fri, 25 Apr 2025 11:27:46 GMT",
+    "summary": "A senior Russian general, Yaroslav Moskalik, was killed in Moscow by a car bomb, a significant event that has raised concerns about internal security. The general was a member of the Russian delegation involved in the 2015 Minsk agreements, adding further complexity to the circumstances. This incident underscores the persistent instability in the region and potential internal conflicts. The attack's timing and targeting suggest a deliberate act of violence, raising questions about potential perpetrators and their motivations.",
+    "date_str": "April 25, 2025"
+  },
+  {
+    "title": "A Senior Russian Officer Died in a Car Explosion Near Moscow",
+    "text": "The general’s death is the latest in a series of fatalities involving Ukraine’s opponents inside Russia. The authorities in Kyiv had no immediate comment.",
+    "link": "https://www.nytimes.com/2025/04/25/world/europe/russian-officer-explosion-moscow-ukraine.html",
+    "date_str": "April 25, 2025",
+    "source": "NYT",
+    "summary": "The death of a general, occurring within Russia, marks the most recent in a string of fatalities targeting individuals perceived as opponents of Ukraine. While the specific circumstances remain unclear, this event potentially escalates tensions amidst the ongoing conflict. Authorities in Kyiv have yet to issue any statement regarding the general's demise. This follows a period of heightened instability and suspected acts of sabotage within Russian territory, adding to the complex dynamics of the war."
+  },
+  {
+    "title": "The Gaza War Influenced Israel's Artificial Intelligence Research",
+    "text": "Israel developed new artificial intelligence tools to gain an advantage in the war. The technologies have sometimes led to fatal consequences.",
+    "link": "https://www.nytimes.com/2025/04/25/technology/israel-gaza-ai.html",
+    "date_str": "April 25, 2025",
+    "source": "NYT",
+    "summary": "Israel has employed novel artificial intelligence (AI) tools during its ongoing conflict, aiming for a strategic advantage. These AI-driven technologies, developed and utilized by Israeli military and intelligence agencies, have, however, resulted in unintended and lethal outcomes. The use of AI in warfare, a relatively new phenomenon, raises critical questions about the ethical implications of automation in conflict, demanding careful international scrutiny of its impact and application."
+  },
+  {
+    "title": "U.S. Attributes Yemen Blast to Houthi Missile, Disputing U.S. Strike Involvement",
+    "text": "An explosion near a UNESCO world heritage site in Yemen’s capital on Sunday killed 12 people, according to health authorities tied to the Houthi-led government.",
+    "link": "https://www.nytimes.com/2025/04/24/world/middleeast/us-yemen-houthi-misfire.html",
     "date_str": "April 24, 2025",
     "source": "NYT",
-    "summary": "Following renewed threats from the Trump administration to withdraw from the peace process, Kyiv experienced its deadliest attack in nearly a year, resulting in at least eight fatalities. This escalation in violence highlights the fragile state of the ongoing conflict in Ukraine and underscores the volatility surrounding international diplomatic efforts. The attack, occurring just hours after the US signaled potential disengagement, could be interpreted as a calculated attempt to undermine the peace process. The incident serves as a stark reminder of the devastating human cost of the conflict and the potential consequences of diminished US involvement."
+    "summary": "On Sunday, an explosion near a UNESCO World Heritage site in Yemen's capital resulted in 12 fatalities, according to health authorities aligned with the Houthi-led government. This incident underscores the ongoing instability in Yemen, highlighting the risks to cultural heritage sites amidst the protracted civil conflict. Key actors include the Houthi government, with whom the health authorities are affiliated, and potentially opposing forces in a conflict that continues to pose humanitarian challenges and impede efforts towards a political resolution. This event occurs within the context of Yemen's years-long civil war and the broader regional geopolitical dynamics."
+  },
+  {
+    "title": "Trump Demands Russia Cease Attacks Following Kyiv Violence",
+    "text": "President Trump also sought to divert blame should negotiations fall apart, a sign that he is perhaps more pessimistic about a deal than he was when he took office in January.",
+    "link": "https://www.nytimes.com/2025/04/24/us/politics/russia-trump-putin-ukraine.html",
+    "date_str": "April 24, 2025",
+    "source": "NYT",
+    "summary": "President Trump, signaling a potential shift in strategy, is attempting to deflect responsibility for the failure of ongoing negotiations, a move that suggests a growing pessimism about a successful outcome. This comes amid increasing uncertainty surrounding various diplomatic efforts, possibly involving trade or international agreements. The President's actions indicate a preparation to face setbacks, a notable contrast to the more optimistic tone he initially adopted. This preemptive effort highlights the complex political dynamics and the potential for significant policy shifts depending on the outcomes of the negotiations in question."
   }
 ]
