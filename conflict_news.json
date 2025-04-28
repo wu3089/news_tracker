@@ -1,18 +1,58 @@
 [
   {
-    "title": "Russia Detains Suspect Following Car Bomb Attack That Killed a General",
-    "link": "https://www.bbc.com/news/articles/cx201j555r1o",
+    "title": "Houthis Claim US Strike in Yemen Killed Numerous African Migrants",
+    "link": "https://www.bbc.com/news/articles/c9qw274w72vo",
     "source": "BBC",
-    "pub_date": "Sat, 26 Apr 2025 18:10:09 GMT",
-    "summary": "In Moscow, Russian authorities have detained a suspect identified as a \"Ukrainian special services agent\" in connection with a car bomb attack that killed a Russian general. The Federal Security Service (FSB) is the key player in this development, asserting responsibility for the detention.  Kyiv has not issued a public comment on the attack, leaving room for speculation amid the ongoing conflict in Ukraine and the existing tensions between the two countries. This incident highlights the potential for escalating proxy warfare and retaliatory actions between Russia and Ukraine.",
-    "date_str": "April 27, 2025"
+    "pub_date": "Mon, 28 Apr 2025 08:11:41 GMT",
+    "summary": "In Yemen, the Houthi-run media has reported that a US strike resulted in the deaths of dozens of African migrants held in a detention center in Saada. The Houthis claim that 68 bodies have been recovered from the site. The incident highlights the ongoing conflict in Yemen and the precarious situation of African migrants attempting to reach safety.  The US involvement and the alleged targeting of a migrant detention center raise serious concerns about the conduct of military operations and the protection of civilians in the war-torn country.",
+    "date_str": "April 28, 2025"
   },
   {
-    "title": "Aid Agency Warns Sudanese Are Consuming Charcoal and Leaves for Survival",
-    "link": "https://www.bbc.com/news/articles/cx2wryz4gw7o",
+    "title": "North Korea Confirms Troop Deployment to Fight Alongside Russia in Ukraine",
+    "link": "https://www.bbc.com/news/articles/ckg25wxvpy2o",
     "source": "BBC",
-    "pub_date": "Fri, 25 Apr 2025 17:01:44 GMT",
-    "summary": "The ongoing conflict in Sudan has created a dire humanitarian crisis, with reports from aid agencies revealing that civilians are resorting to eating charcoal and leaves to survive.  The BBC is reporting that people are enduring immense suffering, forced to trek long distances under extreme heat to escape the violence. The severity of the situation underscores the immense challenges faced by Sudanese civilians. The conflict, therefore, continues to cause widespread displacement, food insecurity, and a critical need for increased humanitarian assistance.",
-    "date_str": "April 27, 2025"
+    "pub_date": "Mon, 28 Apr 2025 03:37:19 GMT",
+    "summary": "North Korea has confirmed it is sending troops to fight for Russia in the ongoing war in Ukraine, a move that follows praise of North Korean troops by Russian General Valery Gerasimov. This confirmation highlights the deepening military cooperation between Pyongyang and Moscow, potentially providing Russia with additional manpower as its war effort continues. The implications of this alignment are significant, especially given the international sanctions and condemnation that both countries face. This collaboration underscores Russia's need for support and North Korea's willingness to provide it, further complicating the geopolitical landscape of the conflict.",
+    "date_str": "April 28, 2025"
+  },
+  {
+    "title": "Israel Launched Air Strikes Against Beirut",
+    "link": "https://www.bbc.com/news/articles/c9qw3z5xplro",
+    "source": "BBC",
+    "pub_date": "Sun, 27 Apr 2025 19:18:40 GMT",
+    "summary": "In a recent development, Israel launched an airstrike on the southern suburbs of Beirut, claiming to target a Hezbollah missile storage facility. The Lebanese presidency has subsequently urged the United States and France to pressure Israel to halt these attacks.  This action comes amid heightened tensions between Israel and Hezbollah, a significant non-state actor in Lebanon. The strike underscores the ongoing volatility in the region and the potential for further escalation, necessitating diplomatic intervention from international actors to prevent a wider conflict.",
+    "date_str": "April 28, 2025"
+  },
+  {
+    "title": "Putin Expresses Gratitude to Kim for North Korean Troops in Ukraine",
+    "text": "North Korea’s leader, Kim Jong-un, ordered a monument for the “heroic” soldiers killed in Russia’s war against Ukraine, as Moscow and Pyongyang make first comments on the joint operation.",
+    "link": "https://www.nytimes.com/2025/04/27/world/asia/north-korea-troops-russia-ukraine.html",
+    "date_str": "April 27, 2025",
+    "source": "NYT",
+    "summary": "North Korean leader Kim Jong-un has directed the construction of a monument honoring soldiers killed in Russia's war in Ukraine, marking the first official comments from both Pyongyang and Moscow regarding their collaboration. This move, reported amid increasing military cooperation between the two nations, underscores North Korea’s ongoing support for Russia’s invasion, potentially solidifying their alignment against Western interests. While specific details of the joint operation remain undisclosed, Kim's action demonstrates his commitment to supporting Russia, a key ally, against international condemnation. This further strains North Korea's relationships with the United States and its allies."
+  },
+  {
+    "title": "Israeli Military Targeted Hezbollah in Strikes Near Beirut",
+    "text": "The attack raised concerns that the cease-fire that ended a war between Israel and Lebanese militants might be in jeopardy.",
+    "link": "https://www.nytimes.com/2025/04/27/world/middleeast/israel-strike-beirut-hezbollah.html",
+    "date_str": "April 27, 2025",
+    "source": "NYT",
+    "summary": "An attack has sparked fears of renewed conflict in the region, potentially jeopardizing the fragile ceasefire that concluded the recent war between Israel and Lebanese militants. While the specific details of the attack remain unclear in the provided text, its occurrence signals a potential escalation of tensions between the two sides. The absence of identified actors involved underscores the instability that persists despite the existing peace agreement, and the incident highlights the ongoing volatility of the Israeli-Lebanese border. This situation warrants close monitoring as any resumption of hostilities could destabilize the broader Middle East."
+  },
+  {
+    "title": "Pakistan Reports Killing 54 Militants Attempting to Cross From Afghanistan",
+    "text": "The Pakistani military is under strain on several fronts as it also faces the possibility of armed conflict with India.",
+    "link": "https://www.nytimes.com/2025/04/27/world/asia/pakistan-afghanistan-militants.html",
+    "date_str": "April 27, 2025",
+    "source": "NYT",
+    "summary": "The Pakistani military currently confronts multiple internal challenges, including ongoing counterterrorism operations, as well as the looming possibility of escalating tensions with India. This predicament highlights the Pakistani military's complex security environment, demanding allocation of resources and strategic focus across diverse operational theaters. The potential for conflict with India intensifies existing pressures on the military, impacting its readiness and potentially influencing domestic stability. These combined factors underscore the strategic difficulties Pakistan's armed forces are navigating, particularly given the historical animosity and border disputes with India."
+  },
+  {
+    "title": "Rubio Says Trump Will Announce Ukraine War Talks Decision This Week",
+    "text": "Secretary of State Marco Rubio said there are reasons to be optimistic, but also asserted there are “other issues” on which the administration wants to spend its energy.",
+    "link": "https://www.nytimes.com/2025/04/27/us/politics/trump-ukraine-rubio-zelensky-putin.html",
+    "date_str": "April 27, 2025",
+    "source": "NYT",
+    "summary": "Secretary of State Marco Rubio expressed cautious optimism regarding ongoing diplomatic efforts, while signaling the administration's intention to shift focus to other pressing matters. The statement suggests a possible recalibration of priorities, as Rubio didn't specify what diplomatic efforts he was referencing. This announcement comes amid a period of shifting international dynamics, and the administration's strategic adjustments could reflect evolving challenges and opportunities on the global stage."
   }
 ]
