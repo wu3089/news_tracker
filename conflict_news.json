@@ -1,50 +1,26 @@
 [
   {
-    "title": "A Houthi Missile Strike Occurred Near Israel's Primary Airport",
-    "link": "https://www.bbc.com/news/articles/cyvqr00278no",
+    "title": "Accused Man Claims Syrian Security Forces Monitored Armed Civilians in Alawite Killings",
+    "link": "https://www.bbc.com/news/articles/cm2erkr1n15o",
     "source": "BBC",
-    "pub_date": "Sun, 04 May 2025 11:28:16 GMT",
-    "summary": "Houthi rebels launched a missile that struck near Israel's Ben Gurion Airport, with unverified footage depicting black smoke in the area. This incident, if confirmed, would represent a significant escalation given the airport's strategic importance. The Houthis, based in Yemen, are the key actors in this attack, while Israel is the target. The attack occurs amid heightened tensions in the Middle East, particularly related to the ongoing conflict in Gaza and the wider regional implications of the war.",
-    "date_str": "May 04, 2025"
+    "pub_date": "Sun, 04 May 2025 21:10:56 GMT",
+    "summary": "In a recent BBC interview, an accused individual has alleged that Syrian security forces monitored and advised armed civilians who committed acts of violence against Alawites during sectarian clashes. This claim underscores the complex dynamics of the Syrian civil war, specifically highlighting the role of state actors in fueling violence. The accused, who is implicated in the killing of an Alawite, suggests a level of government involvement that could reshape understandings of the conflict's trajectory. These accusations, if substantiated, potentially implicate the Syrian government in orchestrating or at least condoning violence against its own citizens along sectarian lines.",
+    "date_str": "May 05, 2025"
   },
   {
-    "title": "Paramilitaries Have Struck Port Sudan, According to the Army",
-    "link": "https://www.bbc.com/news/articles/c20xwyj843do",
-    "source": "BBC",
-    "pub_date": "Sun, 04 May 2025 10:05:08 GMT",
-    "summary": "For the first time since the outbreak of the Sudanese conflict, paramilitaries struck Port Sudan, a strategic city and de-facto capital of the army-led government. The Rapid Support Forces (RSF), a paramilitary group, launched the attacks, marking a significant escalation in the ongoing civil war. This offensive could be a pivotal moment in the conflict, as it challenges the army's control and expands the battlespace. The attacks also add urgency to the already dire humanitarian situation, as Port Sudan hosts displaced people from other conflict zones.",
-    "date_str": "May 04, 2025"
+    "title": "Sudan's Army Accuses Paramilitary Forces of Attacking Civilians",
+    "text": "The strikes targeted an airport, a warehouse and several civilian facilities in the eastern city of Port Sudan, the army said.",
+    "link": "https://www.nytimes.com/2025/05/04/world/africa/sudan-war-port-sudan.html",
+    "date_str": "May 04, 2025",
+    "source": "NYT",
+    "summary": "The Sudanese army reported recent airstrikes on Port Sudan, targeting an airport, a warehouse, and multiple civilian facilities, escalating tensions within the country. This development, occurring in the eastern city, represents a potential expansion of the ongoing conflict, particularly given the strategic importance of Port Sudan as the nation's primary port. While the specific actors behind the strikes remain unconfirmed, the Sudanese army is a key player in the country's volatile political landscape. This latest incident unfolds against a backdrop of persistent instability following the 2021 coup and the ongoing war between the army and the Rapid Support Forces, further complicating the already dire humanitarian situation."
   },
   {
     "title": "A Houthi Missile Strike Occurred Near Tel Aviv Airport",
-    "text": "At least four people were reported injured, and flights were temporarily suspended.",
+    "text": "Some international airlines suspended flights, and Israel’s prime minister, Benjamin Netanyahu, threatened to retaliate.",
     "link": "https://www.nytimes.com/2025/05/04/world/middleeast/houthi-missile-tel-aviv-israel.html",
     "date_str": "May 04, 2025",
     "source": "NYT",
-    "summary": "A security incident resulted in injuries and a temporary suspension of flights, though the exact nature of the event remains unclear. The incident, impacting air travel, likely highlights the vulnerability of transportation infrastructure to security threats. Authorities are investigating the situation, and the affected airport is the primary location. The disruption underscores the need for constant vigilance and robust security protocols within international travel hubs."
-  },
-  {
-    "title": "Israel Mobilizes Thousands of Reserves, Preparing to Broaden Gaza Offensive",
-    "text": "The mobilization could indicate that Israel is preparing to shift its tactics in its fight against Hamas.",
-    "link": "https://www.nytimes.com/2025/05/03/world/middleeast/israel-mobilizes-reservists-gaza.html",
-    "date_str": "May 03, 2025",
-    "source": "NYT",
-    "summary": "Israel's military mobilization suggests a potential escalation in its conflict with Hamas. While the specific nature of the shift remains undisclosed, the deployment of forces hints at a change in strategy, likely involving greater intensity of military actions. This development occurs against the backdrop of ongoing clashes and rising regional tensions, where the Israel-Hamas conflict is a major factor. Israel's government, and its military, will make further announcements."
-  },
-  {
-    "title": "The Russian Military Informed Families, \"We Lost Your Son.\"",
-    "text": "Russia lacks any formal, organized effort to account for legions of missing soldiers. That often leaves relatives in limbo, fending for themselves with scant government information.",
-    "link": "https://www.nytimes.com/2025/05/03/world/europe/russia-missing-soldiers-ukraine-war.html",
-    "date_str": "May 03, 2025",
-    "source": "NYT",
-    "summary": "The Russian government's failure to establish a formal system for accounting for missing soldiers has left countless families in the dark, hindering their ability to understand the fate of their loved ones. This absence of an organized effort, a notable deficiency in wartime, deprives families of critical information and support, forcing them to navigate the complex process of seeking answers independently. While the article does not specify key players beyond the Russian government, it highlights the widespread impact of this policy on the families of missing soldiers. This situation reveals a significant disconnect between the state and its citizens during the ongoing conflict, potentially undermining morale and fueling societal discontent."
-  },
-  {
-    "title": "Paramilitary Fighters Massacred Over 100 Civilians, According to Doctors",
-    "text": "The Sudan Doctors Network said that the Rapid Support Forces had killed at least  21 children on Thursday, the latest violent spasm in Sudan’s civil war.",
-    "link": "https://www.nytimes.com/2025/05/02/world/africa/sudan-war-atrocity.html",
-    "date_str": "May 02, 2025",
-    "source": "NYT",
-    "summary": "The Sudan Doctors Network reports that the Rapid Support Forces (RSF) killed at least 21 children on Thursday, representing a further escalation of violence in the ongoing Sudanese civil war. This incident highlights the RSF's continued disregard for civilian lives, exacerbating the humanitarian crisis and potentially impacting international efforts to mediate a ceasefire. The killings, amid a conflict that has displaced millions and destabilized the region, add another layer of complexity to the already fraught political landscape, particularly concerning accountability for war crimes. The RSF, led by Mohamed Hamdan Dagalo, is engaged in a conflict with the Sudanese Armed Forces, under the command of Abdel Fattah al-Burhan, with both sides accused of widespread human rights abuses."
+    "summary": "Following escalating tensions, several international airlines halted flights due to threats of retaliation. Israeli Prime Minister Benjamin Netanyahu has indicated a potential response, raising the stakes in an already volatile situation. This development follows a period of heightened regional instability, underscoring the fragility of existing diplomatic efforts. The actions taken by both airlines and Netanyahu are significant as they could further destabilize the region and impact international travel."
   }
 ]
