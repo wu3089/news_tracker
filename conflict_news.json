@@ -1,58 +1,42 @@
 [
   {
-    "title": "Hamas Rejects Truce Talks Amidst Israeli Plans to Seize Gaza",
-    "link": "https://www.bbc.com/news/articles/cvgq22lzn3no",
+    "title": "Sudan Severed Ties with the UAE Due to Alleged Paramilitary Support",
+    "link": "https://www.bbc.com/news/articles/cly1ygvxvq3o",
     "source": "BBC",
-    "pub_date": "Tue, 06 May 2025 08:49:25 GMT",
-    "summary": "Hamas has dismissed further talks with Israel, reflecting the deteriorating prospects for a ceasefire. This declaration comes as Israel prepares to expand its military offensive in Gaza, potentially involving indefinite control of the territory and aid restrictions. Key players are Hamas, which made the statement, and Israel, which is planning the escalation. This context follows months of conflict and negotiations that have failed to produce a lasting resolution, raising serious concerns from the UN about the humanitarian impact of the planned Israeli actions.",
-    "date_str": "May 06, 2025"
+    "pub_date": "Wed, 07 May 2025 08:15:58 GMT",
+    "summary": "In response to ongoing conflict and alleged support for the Rapid Support Forces (RSF), Sudan has severed ties with the United Arab Emirates (UAE).  The Sudanese army accuses the UAE of backing the RSF, while the UAE denies these allegations.  This diplomatic break follows continued drone strikes on Port Sudan, highlighting the ongoing instability within the country.  These events demonstrate the complex regional dynamics and the struggle for power in Sudan.",
+    "date_str": "May 07, 2025"
   },
   {
-    "title": "Russia Reports Ukraine Drone Attack Closed Moscow Airports",
-    "link": "https://www.bbc.com/news/articles/c20xqdn04g3o",
+    "title": "Israel Reportedly Attacked Sanaa's Main Airport in Yemen",
+    "link": "https://www.bbc.com/news/articles/c7050j07gedo",
     "source": "BBC",
-    "pub_date": "Tue, 06 May 2025 11:48:47 GMT",
-    "summary": "Russia has accused Ukraine of launching a drone attack on Moscow just days before the annual Victory Day celebrations. The Kremlin, led by Vladimir Putin, is the key player in this situation.  The incident occurred during a three-day ceasefire declared by Putin. This accusation raises tensions amid ongoing conflict and could potentially escalate the war further.",
-    "date_str": "May 06, 2025"
+    "pub_date": "Tue, 06 May 2025 18:25:13 GMT",
+    "summary": "Israel reportedly attacked Sanaa International Airport in Yemen, hitting three civilian planes, the departures hall, the runway, and a military air base. The attack, reported by the BBC, highlights the ongoing conflict and the involvement of Israel in the Yemeni civil war. The key players in this situation are Israel, which launched the attack, and the Houthis, who control Sanaa. This action takes place amidst a complex geopolitical landscape and the ongoing conflict between the Saudi-led coalition and the Houthi rebels.",
+    "date_str": "May 07, 2025"
   },
   {
-    "title": "Sudan Paramilitary Attacks Have Left a Key City Without Power",
-    "link": "https://www.bbc.com/news/articles/cx20x8g2nego",
-    "source": "BBC",
-    "pub_date": "Tue, 06 May 2025 10:55:29 GMT",
-    "summary": "In Port Sudan, the ongoing conflict in Sudan escalated as drones struck key infrastructure, including the airport, a fuel depot, and a major hotel, causing a widespread power blackout. The attacks were attributed to the Rapid Support Forces (RSF), highlighting their continued targeting of strategic locations. These actions exacerbate the humanitarian crisis and disrupt essential services in a city vital for aid distribution and trade, potentially impacting the broader stability of the region. This follows months of fighting between the RSF and the Sudanese Armed Forces, demonstrating the persistent instability.",
-    "date_str": "May 06, 2025"
-  },
-  {
-    "title": "Israel Conducted Strikes on Houthi Targets in Yemen Following a Missile Attack",
-    "link": "https://www.bbc.com/news/articles/c4g9njjrek2o",
-    "source": "BBC",
-    "pub_date": "Mon, 05 May 2025 21:16:19 GMT",
-    "summary": "Following a missile attack near an airport, Israel launched strikes against Houthi targets in Yemen, resulting in at least 21 injuries. This action is likely a response to a preceding incident near the airport. Key players include Israel and the Houthi movement, underscoring the ongoing tensions in the region. This event occurs amid a complex geopolitical backdrop, with regional powers vying for influence and amidst the ongoing conflict in the Middle East.",
-    "date_str": "May 06, 2025"
-  },
-  {
-    "title": "Netanyahu Warns of Intensified Escalation in Gaza Conflict",
-    "text": "Prime Minister Benjamin Netanyahu said that a new plan calls for a “forceful entry” into the territory and would involve Palestinians relocating to the south.",
-    "link": "https://www.nytimes.com/2025/05/05/world/europe/israel-buildup-soldiers-hamas-gaza.html",
-    "date_str": "May 05, 2025",
-    "source": "NYT",
-    "summary": "Israeli Prime Minister Benjamin Netanyahu announced a plan that would entail a \"forceful entry\" into a specific territory, a move that could drastically alter the existing power dynamics. This plan reportedly includes the relocation of Palestinians to the southern portion of the territory, an action that could have significant humanitarian and political repercussions. The announcement follows ongoing tensions and escalations within the region, highlighting the complex and contested nature of this particular geographical area. Netanyahu's remarks underscore the Israeli government's approach to the situation and signals a potential shift in its policies."
-  },
-  {
-    "title": "Israel Launched Airstrikes in Yemen Following Missile Attack Near Tel Aviv Airport",
-    "text": "On Sunday, a Houthi ballistic missile evaded Israel’s multilayered aerial defenses and landed near Ben-Gurion International Airport.",
-    "link": "https://www.nytimes.com/2025/05/05/world/middleeast/israel-yemen-houthis-tel-aviv.html",
-    "date_str": "May 05, 2025",
-    "source": "NYT",
-    "summary": "On Sunday, Houthi rebels launched a ballistic missile that successfully bypassed Israel's air defense systems, impacting near Ben-Gurion International Airport. This event marks a significant escalation in the regional conflict, demonstrating the Houthis' expanding capabilities and potential to disrupt Israeli airspace. The missile strike, though occurring outside the airport perimeter, highlights the vulnerability of Israeli infrastructure and the persistent threat posed by the Iran-backed Houthi movement. This incident underscores the ongoing tensions and proxy conflicts within the broader Middle East, where non-state actors continue to challenge state sovereignty and regional security."
-  },
-  {
-    "title": "Ukraine Drone Attack Prompts Flight Restrictions Near Moscow, According to Russia",
-    "text": "The volley comes just days before a planned parade in the capital to mark the 80th anniversary of the end of World War II in Europe.",
-    "link": "https://www.nytimes.com/2025/05/06/world/europe/ukraine-drones-moscow-airport.html",
+    "title": "Attacks on a Sudanese Civilian Haven Continue for a Third Day",
+    "text": "Drone strikes hit a fuel depot, airport and a hotel in Port Sudan, bringing violence to a city that had so far been spared in the devastating civil war.",
+    "link": "https://www.nytimes.com/2025/05/06/world/africa/port-sudan-attacks.html",
     "date_str": "May 06, 2025",
     "source": "NYT",
-    "summary": "The unspecified \"volley\" referenced in the article, occurring days prior to a planned parade commemorating the 80th anniversary of the end of World War II in Europe, signals heightened tensions in a currently unidentified geopolitical context. The significance lies in its potential to disrupt or overshadow the commemorative event, traditionally a moment for international diplomacy and remembrance. The key players involved and the specific nature of the \"volley\" remain undefined, limiting any concrete analysis. This situation is further complicated by the implied backdrop of historical memory and potentially sensitive international relations."
+    "summary": "Recent drone strikes in Port Sudan, impacting a fuel depot, airport, and hotel, mark a significant escalation of violence in the Sudanese civil war, extending the conflict's reach to a previously safe haven. This action underscores the ongoing instability and the potential for the war to expand, impacting critical infrastructure and potentially endangering civilians. The specific actors responsible for the attacks remain unclear, though the Sudanese Armed Forces (SAF) and the Rapid Support Forces (RSF) are the primary parties engaged in the conflict. These attacks demonstrate the devastating consequences of the ongoing civil war and further destabilize the country's fragile political and humanitarian situation."
+  },
+  {
+    "title": "Israel Responds to Houthi Attack by Bombing Yemen's Primary Airport",
+    "text": "The strikes came after the Houthis fired a missile that struck near Israel’s main airport. President Trump later said the U.S. would stop bombing the Houthis because they do not want to fight anymore.",
+    "link": "https://www.nytimes.com/2025/05/06/world/middleeast/israel-yemen-attack-sana-airport.html",
+    "date_str": "May 06, 2025",
+    "source": "NYT",
+    "summary": "Following a missile attack near Israel's primary airport by Yemen's Houthi rebels, the United States launched retaliatory strikes. This action, though not detailed in its scope, signals heightened tensions in the region and highlights the continued threat posed by the Houthis. Former President Trump subsequently announced the cessation of further U.S. bombing, suggesting a shift in U.S. strategy towards de-escalation, potentially driven by the assessment that the Houthis were no longer pursuing further conflict. The events reflect the complex dynamics of the conflict, involving the Houthis, the U.S., and, implicitly, Israel, underscoring the interwoven nature of regional security challenges."
+  },
+  {
+    "title": "Israel Intercepts Drone Amidst Houthi Pledge of Continued Strikes",
+    "text": "The Israeli military said it had intercepted an unmanned vehicle a day after President Trump said the U.S. would step back from conflict with the Iran-backed group.",
+    "link": "https://www.nytimes.com/2025/05/07/world/middleeast/israel-houthis.html",
+    "date_str": "May 07, 2025",
+    "source": "NYT",
+    "summary": "The Israeli military intercepted an unmanned aerial vehicle, a day after President Trump signaled a potential reduction in U.S. involvement with Iran-backed groups. This incident underscores the ongoing tensions in the region, particularly the proxy conflict between Israel and Iran, which are both key players. President Trump's statement, which implied a decreased U.S. presence, may embolden Iran-backed groups and complicate efforts to de-escalate the conflict. The interception highlights the persistent threats faced by Israel and the potential for further escalation despite Washington's shift in posture."
   }
 ]
