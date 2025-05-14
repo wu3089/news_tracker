@@ -1,26 +1,42 @@
 [
   {
-    "title": "UN Official Says Israel's Gaza Food Blockade Is a Weapon of War",
-    "link": "https://www.bbc.com/news/articles/cx27dzv7znpo",
+    "title": "Israeli Strikes in Northern Gaza Killed At Least 48, According to Hospital Reports",
+    "link": "https://www.bbc.com/news/articles/ceqglvlwzx5o",
     "source": "BBC",
-    "pub_date": "Tue, 13 May 2025 05:00:42 GMT",
-    "summary": "Two months after the blockage of humanitarian aid, UNRWA chief Philippe Lazzarini stated that Israel's denial of food to Gaza constitutes a \"weapon of war\" as starvation spreads throughout the region.  This statement highlights the dire humanitarian crisis in Gaza, where civilians are suffering from a lack of essential resources following the cessation of aid. The key players are Israel, whose actions are directly causing the food shortage, and the UNRWA, the primary UN agency providing aid to Palestinian refugees, whose head is speaking out about the severity of the situation. The context is the ongoing Israeli-Palestinian conflict and the devastating impact of the war on the civilian population of Gaza.",
-    "date_str": "May 13, 2025"
+    "pub_date": "Wed, 14 May 2025 09:01:03 GMT",
+    "summary": "Israeli military strikes in northern Gaza have resulted in the deaths of at least 48 people, including a significant number of women and children, according to hospital reports. The strikes, targeting homes in the Jabalia area, represent a significant escalation in the ongoing conflict.  The Israeli military is the primary actor in these attacks, while the casualties are primarily civilians.  These events occur amidst the wider context of the Israeli-Palestinian conflict, highlighting the ongoing humanitarian crisis and the devastating impact of the violence.",
+    "date_str": "May 14, 2025"
   },
   {
-    "title": "Poland Accuses Russia of Hiring Arsonists to Set Warsaw Fire Via Social Media",
-    "link": "https://www.bbc.com/news/articles/c8d1m86nzygo",
+    "title": "War Refugees in Poland Report Abuse and Demand Return to Ukraine",
+    "link": "https://www.bbc.com/news/articles/clygv2dj78zo",
     "source": "BBC",
-    "pub_date": "Mon, 12 May 2025 21:53:25 GMT",
-    "summary": "Poland's government alleges that Russia recruited arsonists via Telegram to set fire to a shopping center in Warsaw. Polish Minister Radek Sikorski has stated that there is evidence of Moscow's involvement in the incident, which the Kremlin has denied.  This accusation comes amidst heightened tensions between Poland and Russia, particularly regarding the ongoing conflict in Ukraine and Russia's broader geopolitical activities.  The alleged act of sabotage, if proven, could further exacerbate the already strained relations and raise concerns about Russia's willingness to conduct hostile actions within NATO member states.",
-    "date_str": "May 13, 2025"
+    "pub_date": "Wed, 14 May 2025 05:00:07 GMT",
+    "summary": "Following the influx of Ukrainian refugees into Poland, dozens of them have reported experiencing abuse, bullying, and the proliferation of online xenophobia. This issue underscores the complexities of managing a large-scale refugee crisis and highlights the potential for societal tensions. While the article doesn't name specific key players, the focus is on the experiences of Ukrainian refugees and the attitudes of some Polish citizens. This situation reflects the broader challenges faced by host countries and the need for social cohesion during times of international crisis.",
+    "date_str": "May 14, 2025"
   },
   {
-    "title": "Europeans Urge Russia to Accept Truce, While Trump Considers Joining Peace Talks",
-    "text": "European leaders threatened new sanctions unless Moscow accepted a cease-fire right away. President Trump seemed to endorse the idea of a meeting between Ukraine’s and Russia’s presidents, and said he might take part.",
-    "link": "https://www.nytimes.com/2025/05/12/world/europe/russia-ukraine-putin-ceasefire.html",
-    "date_str": "May 12, 2025",
+    "title": "Footage From Gaza Reveals Malnourished Children and the Aftermath of an Israeli Strike",
+    "link": "https://www.bbc.com/news/articles/cjdznz727z8o",
+    "source": "BBC",
+    "pub_date": "Wed, 14 May 2025 02:38:34 GMT",
+    "summary": "The article reports on a BBC cameraman injured in an Israeli strike in Gaza and highlights the dire conditions endured by Palestinian children. The strike, which Israel claims targeted Hamas militants hiding among civilians, occurred in the Khan Younis hospital. The article emphasizes the prevalence of malnutrition among children in Gaza, and the emotional toll this crisis takes on those documenting it. The primary players are the BBC cameraman, Israel, and Hamas, within the broader context of the ongoing Israeli-Palestinian conflict and the humanitarian crisis in Gaza.",
+    "date_str": "May 14, 2025"
+  },
+  {
+    "title": "Zelensky Invited Trump to Peace Talks While Putin's Strategy Is Uncertain",
+    "text": "President Volodymyr Zelensky of Ukraine said that if President Trump attended the talks, it would put pressure on Russia’s leader, Vladimir V. Putin, to meet face-to-face.",
+    "link": "https://www.nytimes.com/2025/05/13/world/europe/russia-ukraine-putin-zelensky.html",
+    "date_str": "May 13, 2025",
     "source": "NYT",
-    "summary": "European leaders are escalating pressure on Russia by threatening new sanctions if a ceasefire in the ongoing conflict is not immediately accepted, reflecting growing Western resolve. Simultaneously, President Trump signaled a willingness to facilitate a meeting between the Ukrainian and Russian presidents, with the possibility of his own participation, indicating a potential shift towards direct diplomatic engagement. This follows escalating violence and stalled peace talks between the two countries, highlighting the urgent need for a resolution and the international community's heightened involvement. These developments signal a complex interplay of pressure and potential negotiation aimed at de-escalating the crisis."
+    "summary": "Ukrainian President Volodymyr Zelensky has suggested that former U.S. President Donald Trump's potential participation in negotiations could compel Russian President Vladimir Putin to engage in direct talks regarding the ongoing conflict. Zelensky believes Trump's presence would increase pressure on Putin, emphasizing the significance of high-level international involvement in de-escalating the situation. This statement follows continued efforts to seek a peaceful resolution to the war in Ukraine, highlighting the importance of diplomatic leverage and the potential influence of prominent international figures in addressing the conflict."
+  },
+  {
+    "title": "Israeli Airstrikes Reportedly Killed Many in Northern Gaza Overnight, According to a Hospital Director",
+    "text": "Israel’s military did not immediately respond to a request for comment. A military spokesman had warned of an impending attack in northern Gaza.",
+    "link": "https://www.nytimes.com/2025/05/14/world/middleeast/gaza-israeli-strikes.html",
+    "date_str": "May 14, 2025",
+    "source": "NYT",
+    "summary": "An Israeli military spokesman signaled an impending attack in northern Gaza, although the military has not yet issued an official comment. This development follows heightened tensions in the region, hinting at a potential escalation in hostilities. While specific details of the planned operation remain undisclosed, the warning underscores the volatile security situation and could signify a significant shift in the ongoing conflict dynamics. The lack of immediate response from the Israeli military leaves open the possibility of a delayed or scaled-down operation."
   }
 ]
