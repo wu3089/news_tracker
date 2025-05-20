@@ -1,34 +1,42 @@
 [
   {
-    "title": "Ukraine Says Russia Launched Massive Drone Attack Before Putin-Trump Call",
-    "link": "https://www.bbc.com/news/articles/c1ldm42eyzmo",
+    "title": "Jeremy Bowen Reports Goodwill Is Diminishing Amid Demands for Israel to Halt Gaza Offensive",
+    "link": "https://www.bbc.com/news/articles/cn9j1052p2yo",
     "source": "BBC",
-    "pub_date": "Sun, 18 May 2025 17:19:03 GMT",
-    "summary": "Ukraine reports Russia launched its largest drone attack of the war, a significant escalation of hostilities.  This attack, the largest since the invasion began, occurred ahead of a planned phone call between Presidents Trump and Putin.  The United States is reportedly pushing for a ceasefire in the ongoing conflict.  This development suggests a potential shift in the dynamics of the war, as major powers explore avenues for de-escalation and a possible resolution.",
-    "date_str": "May 19, 2025"
+    "pub_date": "Tue, 20 May 2025 06:03:52 GMT",
+    "summary": "France, the UK, and Canada have escalated their criticism of Israel's ongoing ground offensive in Gaza, signaling waning international goodwill.  These nations are now directly demanding that Israel halt its military actions, highlighting the growing international concern over the conflict's impact. Key players include the governments of France, the United Kingdom, and Canada, as well as the Israeli government under Prime Minister Benjamin Netanyahu, which is the target of the criticism. This increased pressure comes against the backdrop of the continuing conflict in Gaza and escalating humanitarian crisis, reflecting a significant shift in the diplomatic stance of these traditionally supportive nations.",
+    "date_str": "May 20, 2025"
   },
   {
-    "title": "Nine Civilians Died After a Russian Strike Hit a Bus in Ukraine",
-    "link": "https://www.bbc.com/news/articles/cz0d31ydlg7o",
+    "title": "Medics Report At Least 38 Killed in Gaza During 30 Minutes of Israeli Strikes",
+    "link": "https://www.bbc.com/news/articles/cwy67y8834yo",
     "source": "BBC",
-    "pub_date": "Sat, 17 May 2025 13:39:51 GMT",
-    "summary": "In Ukraine's northeastern Sumy region, a Russian strike on a civilian bus resulted in the reported deaths of nine individuals, with an additional seven sustaining injuries. This attack, purportedly carried out by a drone, marks another instance of civilian casualties amid the ongoing conflict. While the exact details of the attack, including the specific weaponry used and the circumstances surrounding the bus's presence in the area, are still under investigation, the incident underscores the persistent risks faced by civilians in the war. This event is a further escalation of hostilities, highlighting the disregard for civilian safety as the conflict continues.",
-    "date_str": "May 19, 2025"
+    "pub_date": "Tue, 20 May 2025 08:04:36 GMT",
+    "summary": "In a significant escalation, Israeli fighter jets conducted strikes in Gaza, reportedly killing at least 38 people within a half-hour period, according to medics. The attacks hit various sites, including a school in Gaza City, as reported by the Hamas-run civil defense agency. These events occur against the backdrop of the ongoing Israel-Gaza conflict, highlighting the volatile security situation and its devastating impact on civilians. The intensity of the strikes underscores the persistent tensions and the potential for further escalation in the region.",
+    "date_str": "May 20, 2025"
   },
   {
-    "title": "Trump and Putin Will Discuss the Ukraine War During a High-Stakes Call",
-    "text": "A telephone call between the two leaders would be the latest chapter in a flurry of diplomatic maneuvering over ending the three-year conflict.",
-    "link": "https://www.nytimes.com/2025/05/19/world/europe/trump-putin-ukraine.html",
+    "title": "In a Call with Trump, Putin Achieved a Diplomatic Victory, Despite Economic Concerns",
+    "text": "The Kremlin has withstood pressure for an immediate cease-fire as a precondition for peace talks, but the Russian president’s push for normalizing relations with the United States appears in limbo.",
+    "link": "https://www.nytimes.com/2025/05/20/world/europe/putin-trump-call-russia-cease-fire.html",
+    "date_str": "May 20, 2025",
+    "source": "NYT",
+    "summary": "Despite international calls, Russia has resisted a cease-fire as a prerequisite for peace talks, highlighting its continued military objectives. The Kremlin's stance suggests a long-term strategy in the ongoing conflict. Simultaneously, Moscow's efforts to normalize relations with the United States remain stalled, demonstrating the impact of strained geopolitical relations. This dynamic underscores the complex interplay of military strategy and diplomatic maneuvering on the global stage, shaped by the ambitions of the Russian government."
+  },
+  {
+    "title": "Israel's Allies Have Denounced Its New Gaza Offensive",
+    "text": "Britain, France and Canada, all powerful supporters of Israel, called plans for an escalation of the Gaza war “disproportionate” and “egregious.”",
+    "link": "https://www.nytimes.com/2025/05/20/world/middleeast/israel-allies-denounce-gaza-offensive.html",
+    "date_str": "May 20, 2025",
+    "source": "NYT",
+    "summary": "Following escalating Israeli military actions in Gaza, Britain, France, and Canada have expressed strong concerns regarding the planned escalation of the conflict. These prominent allies of Israel, critical to its international support, characterized the proposed actions as \"disproportionate\" and \"egregious,\" signaling potential strain in their relationships with Israel. The statements highlight the growing international apprehension over the potential for further civilian casualties and humanitarian crisis in Gaza, as well as the strategic calculations of these key Western powers navigating the ongoing conflict. This development underscores the increasing difficulty in maintaining a unified international response to the war, as some allies begin to publicly distance themselves from certain Israeli actions."
+  },
+  {
+    "title": "Here's What You Need to Know About Israel's Growing Ground Offensive in Gaza",
+    "text": "The announcement of a renewed ground operation came after a particularly deadly week for Palestinians in Gaza.",
+    "link": "https://www.nytimes.com/2025/05/19/world/middleeast/israel-gaza-ground-offensive.html",
     "date_str": "May 19, 2025",
     "source": "NYT",
-    "summary": "Following a period of intense diplomatic activity, a telephone call between the leaders signals a crucial moment in efforts to resolve the ongoing three-year conflict. This high-level communication, the latest in a series of maneuvers, underscores the importance of direct engagement in seeking a cessation of hostilities. The involved leaders, whose identities remain unspecified in this brief report, are central to any potential peace negotiations. The call's outcome will likely determine the trajectory of the conflict and impact the wider regional stability."
-  },
-  {
-    "title": "Israel Announced a New Gaza Invasion, but Its Intent Remains Unclear",
-    "text": "After warning of a major ground operation, Israel has bombarded Gaza but has yet to start a big advance. The threat to do so may be an attempt to force Hamas to compromise in cease-fire talks.",
-    "link": "https://www.nytimes.com/2025/05/19/world/middleeast/israel-new-invasion-of-gaza.html",
-    "date_str": "May 19, 2025",
-    "source": "NYT",
-    "summary": "Following warnings of a large-scale ground offensive, Israel has intensified its bombardment of Gaza. This action comes amid ongoing negotiations for a ceasefire with Hamas, suggesting a strategic effort to pressure the militant group into concessions. Israeli military leaders are the key actors in this dynamic. This strategy is unfolding against the backdrop of escalating conflict, with the potential for significant escalation depending on Hamas's response and the progress of diplomatic efforts."
+    "summary": "Following a week of heightened violence, Israeli forces initiated a renewed ground operation in Gaza. This offensive, though not detailed in the provided text, signifies a potential escalation of the ongoing conflict between Israel and Palestinian factions, particularly Hamas. The decision, likely made by Israeli military and political leadership, is significant given the already high number of casualties, and further complicates any prospects for de-escalation or a lasting peace agreement. The background of this renewed activity is rooted in decades of unresolved political disputes and cyclical violence between Israelis and Palestinians in the region."
   }
 ]
