@@ -146,7 +146,7 @@ def summarize_with_google_api(text):
     """Summarize text using Google's Generative AI with error handling"""
     try:
         truncated_text = truncate_text(text)
-        model = genai.GenerativeModel('gemini-2.0-flash-lite')
+        model = genai.GenerativeModel('gemini-2.0-flash')
         
         prompt = f"""Please provide a comprehensive summary in active voice of this news article in 3-5 sentences in the style of the Council on Foreign Relations. Include:
         - Main events and their significance
