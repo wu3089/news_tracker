@@ -1,10 +1,33 @@
 [
   {
-    "title": "As Trump Demands Increased Military Spending, NATO Reconsiders Its Budget Criteria",
-    "text": "The president has long pressed European allies to pay more for their own security. So they may redefine what qualifies as security.",
-    "link": "https://www.nytimes.com/2025/05/23/world/europe/nato-spending-trump-5-percent.html",
+    "title": "Iran's Revolutionary Guards Warn Israel Against Potential Attacks",
+    "link": "https://apnews.com/article/iran-us-nuclear-talks-israel-hamas-war-tensions-e3a56cb2f47bb065f8b3861297a6ff3e",
+    "source": "Associated Press",
+    "date_str": "May 22, 2025",
+    "summary": "No summary available"
+  },
+  {
+    "title": "Russia Launched A Major Aerial Attack On Ukraine's Capital",
+    "link": "https://www.bbc.com/news/articles/cy908n4vr0jo",
+    "source": "BBC",
+    "pub_date": "Sat, 24 May 2025 11:16:21 GMT",
+    "summary": "Russia launched a major aerial assault on Kyiv, Ukraine, employing ballistic missiles and drones, resulting in injuries to at least fourteen people and marking a significant escalation in Moscow's targeting of the capital. The attack underscores the ongoing conflict between Russia and Ukraine, which began in 2022, and demonstrates Russia's continued capacity to strike deep within Ukrainian territory. This recent escalation follows a pattern of intensified Russian aerial attacks, raising concerns about the protection of civilian populations and the potential for further destabilization in the region, requiring international attention.",
+    "date_str": "May 24, 2025"
+  },
+  {
+    "title": "Israeli Strike Reportedly Kills Nine Children of Gaza Doctor, According to Hospital",
+    "link": "https://www.bbc.com/news/articles/c0eq9lq7xr1o",
+    "source": "BBC",
+    "pub_date": "Sat, 24 May 2025 10:53:50 GMT",
+    "summary": "Amidst the ongoing Israel-Gaza conflict, an Israeli strike in Gaza reportedly killed nine children of a Gazan doctor, according to hospital sources. The incident occurred in Khan Yunis, further exacerbating the already dire humanitarian situation. A British surgeon at Nasser Hospital treated one of the doctor's surviving children, an 11-year-old. This event underscores the devastating impact of the conflict on civilians, particularly children, and raises concerns about adherence to international humanitarian law by all parties involved in the fighting between Israel and Hamas.",
+    "date_str": "May 24, 2025"
+  },
+  {
+    "title": "Ukraine And Russia Initiate Their Largest Prisoner Exchange",
+    "text": "Each side reported that 390 of its people had been returned, and more swaps are expected this weekend.",
+    "link": "https://www.nytimes.com/2025/05/23/world/europe/ukraine-russia-prisoner-swap.html",
     "date_str": "May 23, 2025",
     "source": "NYT",
-    "summary": "Presidential pressure on European allies to increase defense spending has prompted a potential shift in how those nations define \"security.\" This re-evaluation, likely driven by budgetary considerations and a desire for greater strategic autonomy, could reshape the criteria for military preparedness and resource allocation within NATO. The primary players involved are European member states and, implicitly, the United States, which has historically shouldered a significant portion of the alliance's financial burden. This redefinition reflects broader transatlantic tensions concerning burden-sharing and the evolving geopolitical landscape, including the war in Ukraine and rising threats from Russia, China, and other actors."
+    "summary": "Ukraine and Russia conducted a prisoner exchange, each returning 390 individuals, signaling a potential continuation of negotiations amidst ongoing conflict. This exchange, confirmed by both sides, represents one of the largest prisoner swaps since the war's escalation and suggests a willingness to engage in limited cooperation despite deep-seated animosity. The governments of Ukraine and Russia are the primary actors in these negotiations, with potential international mediation playing a facilitative role behind the scenes. Prisoner exchanges offer a crucial lifeline for detained combatants and civilians while potentially fostering fragile trust between belligerents."
   }
 ]
