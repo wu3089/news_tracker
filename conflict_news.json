@@ -1,33 +1,49 @@
 [
   {
-    "title": "Iran's Revolutionary Guards Warn Israel Against Potential Attacks",
+    "title": "Iran's Revolutionary Guards Warn Israel to Avoid Attacks",
     "link": "https://apnews.com/article/iran-us-nuclear-talks-israel-hamas-war-tensions-e3a56cb2f47bb065f8b3861297a6ff3e",
     "source": "Associated Press",
     "date_str": "May 22, 2025",
     "summary": "No summary available"
   },
   {
-    "title": "Russia Launched A Major Aerial Attack On Ukraine's Capital",
-    "link": "https://www.bbc.com/news/articles/cy908n4vr0jo",
+    "title": "Russia Launched Its Largest Air Attack Against Ukraine",
+    "link": "https://www.bbc.com/news/articles/cx2rx8kxdm4o",
     "source": "BBC",
-    "pub_date": "Sat, 24 May 2025 11:16:21 GMT",
-    "summary": "Russia launched a major aerial assault on Kyiv, Ukraine, employing ballistic missiles and drones, resulting in injuries to at least fourteen people and marking a significant escalation in Moscow's targeting of the capital. The attack underscores the ongoing conflict between Russia and Ukraine, which began in 2022, and demonstrates Russia's continued capacity to strike deep within Ukrainian territory. This recent escalation follows a pattern of intensified Russian aerial attacks, raising concerns about the protection of civilian populations and the potential for further destabilization in the region, requiring international attention.",
-    "date_str": "May 24, 2025"
+    "pub_date": "Sun, 25 May 2025 10:49:31 GMT",
+    "summary": "Russia launched its largest drone attack yet on Ukraine, striking 22 locations and causing twelve reported deaths. The Ukrainian Air Force responded to the assault, which underscores the ongoing intensity of the conflict between the two nations. This escalation follows months of sustained fighting, marking a significant increase in the scale of Russia's aerial bombardment and raising concerns about civilian casualties. The attack highlights the continued reliance on drone warfare in the Russia-Ukraine conflict and its devastating impact on Ukrainian infrastructure and civilian populations.",
+    "date_str": "May 25, 2025"
   },
   {
     "title": "Israeli Strike Reportedly Kills Nine Children of Gaza Doctor, According to Hospital",
     "link": "https://www.bbc.com/news/articles/c0eq9lq7xr1o",
     "source": "BBC",
-    "pub_date": "Sat, 24 May 2025 10:53:50 GMT",
-    "summary": "Amidst the ongoing Israel-Gaza conflict, an Israeli strike in Gaza reportedly killed nine children of a Gazan doctor, according to hospital sources. The incident occurred in Khan Yunis, further exacerbating the already dire humanitarian situation. A British surgeon at Nasser Hospital treated one of the doctor's surviving children, an 11-year-old. This event underscores the devastating impact of the conflict on civilians, particularly children, and raises concerns about adherence to international humanitarian law by all parties involved in the fighting between Israel and Hamas.",
-    "date_str": "May 24, 2025"
+    "pub_date": "Sat, 24 May 2025 17:24:33 GMT",
+    "summary": "Amidst the ongoing Israeli-Palestinian conflict, an Israeli strike in Gaza reportedly killed nine children of a Gazan doctor, according to reports from Nasser Hospital on May 23, 2025. A British surgeon at the hospital operated on the doctor's surviving 11-year-old child. This incident occurred in the context of heightened tensions and continued military actions between Israel and Hamas, further exacerbating the humanitarian crisis in the Gaza Strip. The event underscores the dire civilian consequences of the conflict and raises concerns about adherence to international humanitarian law. The Israeli military has yet to comment on the specifics of this strike.",
+    "date_str": "May 25, 2025"
   },
   {
-    "title": "Ukraine And Russia Initiate Their Largest Prisoner Exchange",
-    "text": "Each side reported that 390 of its people had been returned, and more swaps are expected this weekend.",
-    "link": "https://www.nytimes.com/2025/05/23/world/europe/ukraine-russia-prisoner-swap.html",
-    "date_str": "May 23, 2025",
+    "title": "Superpowers Increase Tensions Amidst Arctic Competition",
+    "link": "https://www.bbc.com/news/articles/cjwqn7z02plo",
+    "source": "BBC",
+    "pub_date": "Fri, 23 May 2025 22:21:23 GMT",
+    "summary": "As Arctic ice melts, China, Russia, the United States, and European nations escalate their competition in the Arctic region. These global actors vie for access to newly available resources, including oil, and seek to establish faster trade routes and bolster their military presence. The scramble for the Arctic intensifies geopolitical tensions as nations maneuver to secure strategic advantages in this rapidly changing environment. Nations such as Russia and Norway are particularly key players due to their territorial claims.",
+    "date_str": "May 25, 2025"
+  },
+  {
+    "title": "Trump's Syria Shift May Complicate Israel's Military Planning",
+    "text": "Since Mr. Trump’s embrace of the new Syrian leader, Israeli airstrikes on the country have subsided.",
+    "link": "https://www.nytimes.com/2025/05/25/world/europe/syria-trump-israel-airstrikes.html",
+    "date_str": "May 25, 2025",
     "source": "NYT",
-    "summary": "Ukraine and Russia conducted a prisoner exchange, each returning 390 individuals, signaling a potential continuation of negotiations amidst ongoing conflict. This exchange, confirmed by both sides, represents one of the largest prisoner swaps since the war's escalation and suggests a willingness to engage in limited cooperation despite deep-seated animosity. The governments of Ukraine and Russia are the primary actors in these negotiations, with potential international mediation playing a facilitative role behind the scenes. Prisoner exchanges offer a crucial lifeline for detained combatants and civilians while potentially fostering fragile trust between belligerents."
+    "summary": "Former President Trump's endorsement of the new Syrian leader has correlated with a marked decrease in Israeli airstrikes within Syria, suggesting a potential shift in regional dynamics. This development, which signals a possible alteration in Israel's security calculations regarding threats emanating from Syria, involves key players like the new Syrian government and the state of Israel. This shift occurs against the backdrop of longstanding tensions between Israel and Syria, including concerns over Iranian influence and the presence of proxy forces within Syrian territory. Consequently, observers are watching to determine the durability and broader implications of this apparent de-escalation for regional stability."
+  },
+  {
+    "title": "Russia Launched a Major Air Assault Against Ukraine",
+    "text": "The attack involved nearly 370 missiles and drones, according to Ukraine’s Air Force. At least 12 people were killed.",
+    "link": "https://www.nytimes.com/2025/05/25/world/europe/russia-ukraine-kyiv.html",
+    "date_str": "May 25, 2025",
+    "source": "NYT",
+    "summary": "Russia launched a massive aerial assault against Ukraine, deploying approximately 370 missiles and drones in a coordinated attack. The strikes resulted in at least a dozen civilian fatalities, underscoring the escalating human cost of the conflict. This intensified offensive, carried out by the Russian military, demonstrates Moscow's continued strategy of targeting Ukrainian infrastructure and urban centers. The barrage follows months of incremental gains by Ukrainian forces and signals a potential shift towards a more aggressive phase in the war."
   }
 ]
