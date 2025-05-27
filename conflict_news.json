@@ -1,19 +1,27 @@
 [
   {
-    "title": "Israeli Strike on Gaza School Sheltering Displaced Palestinians Reportedly Kills Dozens",
-    "link": "https://www.bbc.com/news/articles/cz9yjj54v3xo",
+    "title": "BBC Gained Rare Access While Searching for Hezbollah Positions With UN Troops in Lebanon",
+    "link": "https://www.bbc.com/news/videos/cgj8vqng4vvo",
     "source": "BBC",
-    "pub_date": "Mon, 26 May 2025 11:52:40 GMT",
-    "summary": "Amidst the ongoing Israel-Gaza conflict, an Israeli strike killed dozens, including children, at a UN-run school in Gaza where families sought shelter. Israel claims the strike targeted a Hamas command center operating within the school. This incident occurs against the backdrop of intensified fighting between Israel and Hamas, exacerbating the humanitarian crisis and raising concerns about the protection of civilians in conflict zones. The strike will likely intensify international scrutiny and calls for a ceasefire.",
-    "date_str": "May 26, 2025"
+    "pub_date": "Tue, 27 May 2025 05:50:11 GMT",
+    "summary": "UNIFIL troops patrol Southern Lebanon, seeking to identify Hezbollah positions and ensure adherence to a ceasefire agreement. A UNIFIL spokesperson stated that the majority of ceasefire violations over the past six months originate from the Israeli side. These patrols occur amidst ongoing tensions between Israel and Hezbollah, a Lebanese Shia Islamist political party and militant group. The patrols aim to maintain stability in the region and prevent escalation, reflecting the UN's continued efforts to enforce Security Council resolutions. The BBC gained rare access to embed with UNIFIL forces during these operations.",
+    "date_str": "May 27, 2025"
   },
   {
-    "title": "A Russian Couple Who Informed for Ukraine Denied Seeing Their Actions as Treason",
-    "link": "https://www.bbc.com/news/articles/clyqq18evyko",
+    "title": "Far-Right Marchers Assaulted Palestinians During Jerusalem Day Celebrations",
+    "link": "https://www.bbc.com/news/articles/czelwkwn3y2o",
     "source": "BBC",
-    "pub_date": "Sun, 25 May 2025 23:04:21 GMT",
-    "summary": "Following Russia's invasion of Ukraine, a Russian couple residing in Ukraine, motivated by their opposition to the war, began sharing information about Russian troop movements and locations in their town with Ukrainian forces. This act of providing intelligence directly aided Kyiv's war efforts. The couple's actions highlight the complex and varied responses to the conflict, even among Russian citizens, and demonstrate how individual choices can impact the larger geopolitical landscape. While the article does not specify their motivations, it underscores the potential for internal dissent to undermine Russian operations.",
-    "date_str": "May 26, 2025"
+    "pub_date": "Mon, 26 May 2025 18:22:43 GMT",
+    "summary": "During Israel's commemoration of the capture of Jerusalem, far-right marchers attacked Palestinians, drawing condemnation from Israeli opposition leaders who decried the violence as racist and a disgrace. The events underscore the ongoing tensions surrounding Jerusalem, a city with deeply contested claims and significance for both Israelis and Palestinians. These incidents risk exacerbating existing conflicts and further destabilizing the region. The attacks highlight the fragility of the situation in Jerusalem and the challenges in managing the competing claims to the city.",
+    "date_str": "May 27, 2025"
+  },
+  {
+    "title": "Israeli Forces Claim to Have Killed a 14-Year-Old Identified as a Terrorist",
+    "text": "The death of Amer Rabee, a Palestinian American in the West Bank, has spurred anger over soldiers’ use of force and an apparent lack of accountability.",
+    "link": "https://www.nytimes.com/2025/05/27/world/middleeast/west-bank-israel-military-killing.html",
+    "date_str": "May 27, 2025",
+    "source": "NYT",
+    "summary": "The death of Palestinian American Amer Rabee in the West Bank ignited controversy surrounding Israeli soldiers' use of force against civilians and perceived impunity. Investigations into the incident are ongoing amidst calls for accountability, highlighting the tense security environment and legal challenges faced by Palestinian Americans in the occupied territories. The incident underscores the broader context of heightened Israeli-Palestinian tensions and the vulnerabilities of dual citizens in conflict zones. The US State Department is reportedly monitoring the investigation."
   },
   {
     "title": "Russia Intensifies Attacks on Ukraine While the U.S. Reduces Support",
@@ -21,30 +29,14 @@
     "link": "https://www.nytimes.com/2025/05/26/world/europe/russia-ukraine-war-new-phase.html",
     "date_str": "May 26, 2025",
     "source": "NYT",
-    "summary": "Russia escalates military operations in Ukraine, signaling a shift as diplomatic cease-fire prospects diminish. President Trump's apparent disengagement from negotiations grants Russia greater latitude in its actions. The intensifying conflict underscores the failure of international diplomacy to de-escalate the crisis. This escalation occurs amidst existing tensions between Russia and the West over Ukraine's sovereignty and security alignment. The United States and its allies grapple with how to respond effectively to Russia's intensified aggression."
+    "summary": "As diplomatic cease-fire efforts falter and the U.S., under President Trump, seemingly withdraws from mediation, Russia intensifies its military campaign against Ukrainian cities and forces, exacerbating the conflict. This escalation signals a potential shift in the war's trajectory, diminishing prospects for near-term de-escalation through negotiated settlements. Russia's intensified aggression occurs against the backdrop of stalled diplomatic negotiations, raising concerns about the future of Ukraine's sovereignty and regional stability. The diminished U.S. role further emboldens Russia and increases the vulnerability of Ukraine."
   },
   {
-    "title": "Israeli Airstrike in Gaza Reportedly Kills at Least Seven Children of a Doctor",
+    "title": "Israeli Airstrike Reportedly Kills at Least Seven Children of a Doctor, According to Gaza Officials",
     "text": "Two more children were missing, and the doctor’s husband and one other child were injured in the strike on Friday, the officials said. Israel said it was checking if it had harmed “uninvolved civilians.”",
     "link": "https://www.nytimes.com/2025/05/25/world/middleeast/israel-gaza-doctor-children.html",
     "date_str": "May 25, 2025",
     "source": "NYT",
-    "summary": "Following Friday's strike, reports emerged indicating two children are missing and others, including a doctor's husband, sustained injuries, prompting heightened concern. Israel launched an investigation to determine if the operation inadvertently harmed uninvolved civilians, raising questions about adherence to international humanitarian law. The incident occurs amidst escalating tensions and ongoing conflict in the region, further complicating diplomatic efforts to de-escalate hostilities. This investigation is a critical test for Israel's commitment to minimizing civilian casualties during military operations."
-  },
-  {
-    "title": "Russia Launched a Major Air Assault on Ukraine",
-    "text": "The attack involved nearly 370 missiles and drones, according to the Ukrainian Air Force. At least 12 people were killed.",
-    "link": "https://www.nytimes.com/2025/05/25/world/europe/russia-ukraine-kyiv.html",
-    "date_str": "May 25, 2025",
-    "source": "NYT",
-    "summary": "Russia launched a massive aerial assault against Ukraine, deploying approximately 370 missiles and drones, marking a significant escalation in the conflict and demonstrating Russia's continued capacity for large-scale strikes. The Ukrainian Air Force struggled to counter the onslaught, resulting in at least 12 fatalities and highlighting the ongoing vulnerability of Ukraine's infrastructure and civilian population. This intensified offensive underscores the Kremlin's determination to achieve its objectives through sustained military pressure, while also testing the limits of Western air defense support to Ukraine. The sustained attacks signal Russia's intent to degrade Ukraine's war-fighting capabilities and undermine national morale."
-  },
-  {
-    "title": "Trump's Shifting Stance on Syria Is Complicating Israel's Military Strategy",
-    "text": "Since President Trump’s embrace of the new Syrian leader, Israeli airstrikes on the country have subsided.",
-    "link": "https://www.nytimes.com/2025/05/25/world/europe/syria-trump-israel-airstrikes.html",
-    "date_str": "May 25, 2025",
-    "source": "NYT",
-    "summary": "Following President Trump's demonstrated support for the new Syrian leader, Israel has significantly reduced its airstrikes within Syria. This shift suggests a tacit understanding between the U.S., Israel, and Syria, potentially reshaping the regional security landscape. The altered dynamic arises from the Trump administration's repositioning of relations within the Middle East and demonstrates a degree of influence by Washington over Israeli military operations in the region. This development reflects a significant departure from previous patterns of Israeli intervention aimed at countering Iranian influence and Hezbollah activities within Syria."
+    "summary": "An Israeli strike in an unspecified location resulted in the disappearance of two children and the injury of a doctor's husband and another child, prompting Israeli officials to investigate potential harm to civilians. The incident occurred amid ongoing conflict, with Israel frequently conducting strikes in areas where civilian populations are present. Scrutiny from international organizations and calls for accountability will likely intensify as details of the event emerge. This event underscores the ongoing challenges in protecting civilians during armed conflict in the region."
   }
 ]
