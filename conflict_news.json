@@ -1,9 +1,34 @@
 [
   {
-    "title": "No Articles Found",
-    "summary": "No conflict-related articles were found.",
-    "source": "system",
-    "date_str": "June 03, 2025",
-    "link": ""
+    "title": "FBI Says Colorado Fire Attack Suspect Planned Assault for a Year",
+    "link": "https://www.bbc.com/news/articles/cy8ng0g4k2no",
+    "source": "BBC",
+    "pub_date": "Mon, 02 Jun 2025 23:30:57 GMT",
+    "summary": "The FBI reports that a suspect in Colorado planned a fire attack for a year. The suspect allegedly aimed to target Zionists, conducting online research for Molotov cocktails. Authorities investigate the suspect's motives and connections, focusing on the potential for ideological extremism driving the planned attack. This incident occurs amidst heightened tensions surrounding antisemitism and the ongoing Israel-Gaza conflict, raising concerns about domestic radicalization. Law enforcement agencies are now assessing the broader implications of this planned attack on community safety and intergroup relations.",
+    "date_str": "June 04, 2025"
+  },
+  {
+    "title": "Drone Attacks Represent a New Battlefield, and NATO Seeks to Adapt",
+    "text": "Assaults in Russia and Ukraine have shown major military powers that they are unprepared for evolving forms of warfare, and need to adapt.",
+    "link": "https://www.nytimes.com/2025/06/04/world/europe/ukraine-russia-drones-nato.html",
+    "date_str": "June 04, 2025",
+    "source": "NYT",
+    "summary": "Recent assaults in Russia and Ukraine underscore the critical need for major military powers to adapt to evolving warfare tactics. These conflicts exposed vulnerabilities and a lack of preparedness among established forces facing new strategies. Russia and Ukraine are key players in these military evolutions as they reveal gaps in current defense capabilities. The international community closely observes these events, as they signal a potential shift in global military strategies and highlight the importance of modernizing defense systems."
+  },
+  {
+    "title": "Ukraine Concealed Attack Drones in Russia, and Subsequent Videos Depict the Aftermath",
+    "text": "Videos and satellite imagery show how the attack unfolded and its aftermath.",
+    "link": "https://www.nytimes.com/interactive/2025/06/02/world/europe/ukraine-russia-drone-attacks.html",
+    "date_str": "June 02, 2025",
+    "source": "NYT",
+    "summary": "Based on available evidence, including videos and satellite imagery, a recent attack unfolded, leaving a significant aftermath. Details surrounding the attack remain unclear, but the availability of visual evidence allows for a more detailed understanding of the sequence of events and the extent of the damage inflicted. The analysis of this imagery will prove crucial for identifying those responsible and assessing the strategic implications of the attack within the broader geopolitical landscape. The international community likely will scrutinize this evidence to determine appropriate responses and strategies for conflict resolution."
+  },
+  {
+    "title": "Attack on Aid Convoy in Sudan Reportedly Kills Five People",
+    "text": "The delivery was supposed to be the first to arrive in the embattled city of El Fasher, the capital of North Darfur State, in more than a year.",
+    "link": "https://www.nytimes.com/2025/06/04/world/africa/sudan-united-nations-convoy-attack.html",
+    "date_str": "June 04, 2025",
+    "source": "NYT",
+    "summary": "Fighting in Sudan disrupts crucial aid deliveries, as the first convoy in over a year aiming to reach El Fasher, North Darfur, fails to arrive. The halted delivery underscores the dire humanitarian situation worsening in the conflict-ridden region, where civilians face starvation and limited access to essential resources. The Sudanese Armed Forces (SAF) and the Rapid Support Forces (RSF) continue to clash, impeding the efforts of international aid organizations like the UN World Food Programme and local actors. This latest setback amplifies concerns regarding a potential widespread famine, highlighting the urgent need for a ceasefire and secured humanitarian corridors to alleviate civilian suffering in Darfur."
   }
 ]
