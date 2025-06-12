@@ -1,18 +1,42 @@
 [
   {
-    "title": "Israeli Navy Targeted Hudaydah, a Houthi-Controlled Port City",
-    "link": "https://www.bbc.com/news/articles/c80k4kj9lyro",
+    "title": "A Malnourished Baby, Siwar, Was Evacuated from Gaza After Cries for Help",
+    "link": "https://www.bbc.com/news/articles/cn0g45z792do",
     "source": "BBC",
-    "pub_date": "Tue, 10 Jun 2025 09:29:24 GMT",
-    "summary": "The Israeli navy struck the Houthi-controlled port city of Hudaydah in Yemen, marking an escalation of the conflict. This action follows repeated missile launches by the Houthis targeting Israel in solidarity with Gaza. Israel views these Houthi attacks as a threat to its national security and maritime interests. The Houthis, a Zaidi Shia Muslim group, control much of Yemen and have been engaged in a civil war since 2014, further destabilizing the region.",
-    "date_str": "June 11, 2025"
+    "pub_date": "Wed, 11 Jun 2025 23:43:11 GMT",
+    "summary": "Amidst the ongoing conflict, the BBC facilitated the evacuation of malnourished baby Siwar and her family from Gaza to Amman, highlighting the dire humanitarian situation in the region. Fergal Keane of the BBC traveled with Siwar and her family, drawing attention to the critical need for medical assistance for vulnerable populations affected by the Israel-Gaza war. This evacuation underscores the broader challenges of providing adequate healthcare and nutrition to civilians caught in the crossfire, exacerbated by regional instability involving Israel and Jordan. The event highlights the urgent need for sustained humanitarian access and international cooperation to address the growing crisis facing civilians.",
+    "date_str": "June 12, 2025"
   },
   {
-    "title": "In Ukraine Amid Russian Strikes, a Remote Area Remains Appealing",
-    "text": "The region of Transcarpathia has seen hardly any Russian attacks over the past three years. “We don’t have the same experience of war,” a resident said.",
-    "link": "https://www.nytimes.com/2025/06/11/world/europe/russia-ukraine-transcarpathia.html",
+    "title": "Israeli Forces Recovered Two Hostages' Bodies in Gaza, According to the Prime Minister",
+    "link": "https://www.bbc.com/news/articles/cm263j1g2rmo",
+    "source": "BBC",
+    "pub_date": "Wed, 11 Jun 2025 21:11:28 GMT",
+    "summary": "Israeli forces recovered the bodies of two hostages in Gaza, according to Prime Minister Benjamin Netanyahu. One of the deceased, Yair Yaakov, was killed during the initial Hamas-led attack on October 7, 2023. This recovery occurs against the backdrop of ongoing conflict between Israel and Hamas, raising questions about the fate of other hostages and the potential for further escalation. The event underscores the complexities of the hostage situation and its impact on regional stability, influencing the Israeli government's approach to the conflict. The continued holding of hostages by Hamas remains a significant point of contention in the ongoing tensions.",
+    "date_str": "June 12, 2025"
+  },
+  {
+    "title": "Iran Violates Nuclear Agreement, According to U.N. Watchdog",
+    "text": "The decision comes as Israel appears to be preparing to launch a military attack on Iran, American and European officials believe. Tehran condemned the vote.",
+    "link": "https://www.nytimes.com/2025/06/12/world/middleeast/un-iaea-iran-nuclear-program.html",
+    "date_str": "June 12, 2025",
+    "source": "NYT",
+    "summary": "Amidst escalating tensions, the international community observes Israel's potential preparation for a military strike against Iran. This action occurs within a context of heightened regional instability and concerns about Iran's nuclear program. Western officials closely monitor developments as a potential Israeli attack could destabilize the region and prompt retaliation from Iran. This situation underscores the complex dynamics and the significant risks of further conflict involving key actors like Israel and Iran."
+  },
+  {
+    "title": "Israel Appears Prepared to Launch Attacks Against Iran, According to U.S. and European Officials",
+    "text": "Concern about a strike and the prospect of retaliation led the United States to withdraw diplomats from Iraq and authorize the voluntary departure of U.S. military family members from the Middle East.",
+    "link": "https://www.nytimes.com/2025/06/11/us/politics/iran-us-iraq-diplomats-middle-east.html",
     "date_str": "June 11, 2025",
     "source": "NYT",
-    "summary": "Transcarpathia, a region in western Ukraine, remains relatively untouched by the direct conflict with Russia, unlike many eastern regions of the country. This isolation from the war shapes local experiences and perspectives, differentiating them from Ukrainians directly impacted by Russian aggression. As such, the Ukrainian government faces the task of creating a unified national identity across regions with drastically different war experiences. The unique circumstances in Transcarpathia highlight the uneven impact of the conflict and complicate efforts to foster national cohesion amid the ongoing war."
+    "summary": "Amid heightened fears of an imminent attack by Iran or its proxies, the United States has pulled diplomats from Iraq and permitted voluntary departures for military families in the Middle East. Washington made these moves in response to growing apprehension about a potential strike targeting U.S. interests and the anticipated retaliatory actions that could follow. These precautions underscore the elevated tensions between the U.S. and Iran, rooted in ongoing regional conflicts and disagreements over Iran's nuclear program."
+  },
+  {
+    "title": "U.S. Embassy in Jerusalem Prepares for Potential Israeli Attack on Iran",
+    "text": "The diplomatic mission restricted the movement of employees and their families a day after the United States withdrew diplomats from Iraq.",
+    "link": "https://www.nytimes.com/2025/06/12/world/middleeast/israel-iran.html",
+    "date_str": "June 12, 2025",
+    "source": "NYT",
+    "summary": "Following the United States' withdrawal of diplomats from Iraq, a diplomatic mission, likely another embassy or consulate, restricted the movement of its staff and their families, signaling heightened security concerns and instability within Iraq. The restrictions underscore the escalating threat environment resulting from an increase in regional tensions. These actions suggest the situation in Iraq is deteriorating, prompting foreign governments to prioritize the safety of their personnel. The withdrawal and subsequent restrictions could impact international relations and diplomatic efforts in the region."
   }
 ]
