@@ -1,58 +1,34 @@
 [
   {
-    "title": "What Are the Potential Worst-Case Scenarios of Israel-Iran Strikes?",
-    "link": "https://www.bbc.com/news/articles/c74n23y1x48o",
-    "source": "BBC",
-    "pub_date": "Sat, 14 Jun 2025 07:01:12 GMT",
-    "summary": "Amidst escalating tensions, recent strikes between Israel and Iran raise concerns about a potential wider conflict in the Middle East, prompting international scrutiny of worst-case scenarios. James Landale of the BBC analyzes the possible ramifications of further escalation, focusing on the actions of key players, Israel and Iran, as they navigate a precarious security environment. These events unfold against a backdrop of long-standing animosity and proxy conflicts, highlighting the risk of miscalculation and the imperative for de-escalation to prevent a regional conflagration. The international community closely monitors the situation, recognizing the potential for significant geopolitical instability stemming from continued hostilities.",
-    "date_str": "June 14, 2025"
-  },
-  {
-    "title": "Iran Is Experiencing Aftermath of Unprecedented Israeli Attack, and Further Actions Are Expected",
-    "link": "https://www.bbc.com/news/articles/cvg72ny4xeyo",
-    "source": "BBC",
-    "pub_date": "Fri, 13 Jun 2025 15:59:59 GMT",
-    "summary": "Israel has launched Operation Rising Lion, a large-scale and unprecedented attack against Iran, causing significant disruption. Frank Gardner reports that this operation surpasses previous Israeli actions in scope and ambition, leaving Iran reeling. The conflict between Israel and Iran unfolds against a backdrop of escalating tensions in the Middle East, raising concerns about regional stability. Analysts suggest this is just the beginning of a prolonged period of heightened conflict between the two nations.",
-    "date_str": "June 14, 2025"
-  },
-  {
-    "title": "Israel's Attacks Targeted Iranian Nuclear Sites and Military Commanders",
-    "link": "https://www.bbc.com/news/articles/cdj9vj8glg2o",
-    "source": "BBC",
-    "pub_date": "Fri, 13 Jun 2025 12:05:09 GMT",
-    "summary": "Amidst escalating tensions, Israel reportedly conducted attacks targeting Iranian nuclear sites and military commanders. These attacks have allegedly resulted in the deaths of senior military figures and nuclear scientists, further destabilizing the region. This action occurs within a context of ongoing concerns about Iran's nuclear program and regional influence, with key players including Israel and Iran locked in a long-standing rivalry. The strikes risk escalating the conflict and prompting a response from Iran, potentially drawing in other regional and international actors.",
-    "date_str": "June 14, 2025"
-  },
-  {
-    "title": "Israel's Actions Have Inflicted Unprecedented Damage on Iran's Elite, Prompting Questions",
-    "link": "https://www.bbc.com/news/articles/c4g3nz1p9wdo",
-    "source": "BBC",
-    "pub_date": "Fri, 13 Jun 2025 09:32:18 GMT",
-    "summary": "Israel has reportedly inflicted unprecedented damage on Iranian elites, escalating tensions amidst longstanding concerns over Iran's nuclear ambitions. Prime Minister Benjamin Netanyahu has consistently argued that a nuclear-armed Iran poses an existential threat to Israel, shaping Israel's strategic calculus. This recent escalation occurs within the context of ongoing regional conflicts and stalled negotiations regarding Iran's nuclear program. The damage inflicted by Israel signals a potential shift towards more aggressive tactics aimed at deterring Iran's nuclear development and regional influence. The actions highlight the volatile dynamics between Israel and Iran, with implications for regional stability and international efforts to curb nuclear proliferation.",
-    "date_str": "June 14, 2025"
-  },
-  {
-    "title": "Israel and Iran Continue Attacks Despite Calls for De-Escalation",
-    "text": "It’s the most intense fighting in decades between the two countries, fueling fears of a wider conflict that could draw in the United States and other major powers.",
-    "link": "https://www.nytimes.com/live/2025/06/14/world/israel-iran-news",
-    "date_str": "June 14, 2025",
+    "title": "Israel And Iran Exchange Strikes Amid Escalating Violence",
+    "text": "Israel and Iran were assessing the damage on Sunday from a wave of attacks. Israeli fighter jets bombarded Tehran overnight, setting the sky ablaze with the flames of burning fuel reservoirs, while Iran launched volleys of ballistic missiles at Israel.",
+    "link": "https://www.nytimes.com/live/2025/06/15/world/iran-israel-nuclear",
+    "date_str": "June 15, 2025",
     "source": "NYT",
-    "summary": "Escalated fighting between two unnamed countries drives concerns about regional destabilization and broader international conflict. Major powers, including the United States, watch warily as the intense clashes threaten to draw in external actors. Decades of relative peace have been shattered, raising the stakes for diplomatic intervention and conflict resolution. The current hostilities underscore the fragility of peace in the region and the potential for significant geopolitical shifts. The international community weighs its options to prevent further escalation and mitigate the risk of a wider war."
+    "summary": "Following a period of heightened tensions, Israeli fighter jets struck Tehran overnight, targeting fuel reservoirs and escalating the ongoing conflict. Iran retaliated by launching ballistic missiles at Israel, signifying a dangerous expansion of hostilities between the two nations. These attacks represent a significant escalation in the long-standing rivalry between Israel and Iran, raising concerns about regional stability and the potential for broader international involvement. Both countries are currently evaluating the extent of the damage incurred, further complicating de-escalation efforts."
   },
   {
-    "title": "Russia's Summer Offensive in Ukraine Advances Using New Military Tactics",
+    "title": "Israel's Attack in Iran Mirrors Its Hezbollah Strategy",
+    "text": "Israel decimated the group’s leadership last fall and degraded its military capabilities. Can the same strategy work against a far more powerful foe?",
+    "link": "https://www.nytimes.com/2025/06/15/world/middleeast/iran-military-leaders-killed.html",
+    "date_str": "June 15, 2025",
+    "source": "NYT",
+    "summary": "Israel confronts a critical strategic question: whether its past success in degrading weaker adversaries through leadership decapitation and military attrition can be replicated against a more formidable opponent, particularly in light of escalating regional tensions. This inquiry arises after Israel effectively decimated a specific group's leadership and weakened its military power last fall, demonstrating its capacity for targeted operations. However, analysts debate the scalability of this strategy against a more powerful foe, considering factors such as the potential for asymmetric warfare, resource disparities, and the broader geopolitical ramifications. The effectiveness of Israel's approach hinges on a thorough evaluation of the target's capabilities, resilience, and regional support network."
+  },
+  {
+    "title": "Understanding Israel's Strikes and Iran's Retaliation Is Important",
+    "text": "The two powers have been exchanging barrages since Israel attacked Iran and killed many of the country’s top military leaders and scientists.",
+    "link": "https://www.nytimes.com/2025/06/12/world/middleeast/israel-iran-strikes.html",
+    "date_str": "June 12, 2025",
+    "source": "NYT",
+    "summary": "Following an Israeli strike that killed Iranian military leaders and scientists, Israel and Iran are currently engaged in escalating retaliatory attacks. This exchange signifies a dangerous escalation of the long-standing shadow war between the two nations, potentially destabilizing the already volatile Middle East. Israel's actions, rooted in its concerns over Iran's nuclear program and regional influence, prompted Iran to respond, seeking to deter further attacks and project strength. The ongoing cycle of violence highlights the urgent need for diplomatic intervention to prevent a wider conflict."
+  },
+  {
+    "title": "Russia's Summer Offensive in Ukraine Advances Using New Tactics",
     "text": "Russia is advancing around Kostyantynivka and in the Sumy region with small, fast-moving units as both sides try a new tactic of using motorcycles and civilian cars to quickly cross open terrain.",
     "link": "https://www.nytimes.com/2025/06/14/world/europe/ukraine-battlefield-russia-sumy-kostyantynivka.html",
     "date_str": "June 14, 2025",
     "source": "NYT",
-    "summary": "Russian forces are escalating advances near Kostyantynivka and within the Sumy region, signaling a shift in battlefield tactics. Both Russian and Ukrainian forces are deploying motorcycles and civilian vehicles, seeking to swiftly traverse open areas and gain tactical advantages. This adaptation underscores the ongoing evolution of combat strategies in the conflict, as each side aims to outmaneuver the other in contested territories. The deployment of unconventional transport highlights the resourcefulness of both armies as they seek to overcome logistical and mobility challenges."
-  },
-  {
-    "title": "Iran's Miscalculation Caused Extensive Israeli Strikes, Officials Report",
-    "text": "Interviews with half a dozen senior Iranian officials show that they were not expecting Israel to strike before another round of talks.",
-    "link": "https://www.nytimes.com/2025/06/13/world/middleeast/iran-israel-strikes-nuclear-talks.html",
-    "date_str": "June 13, 2025",
-    "source": "NYT",
-    "summary": "Unexpectedly, Iranian officials admitted they did not anticipate Israel's strike before the next negotiation round, revealing a miscalculation in Tehran's strategic assessment. This intelligence gap raises questions about Iran's preparedness and internal communication, potentially impacting future de-escalation efforts. The interviews, conducted with senior Iranian officials, suggest a critical underestimation of Israel's resolve and the timing of its operations, signaling a potential shift in the regional security dynamic. This misjudgment highlights the complexity of the ongoing tensions between Iran and Israel and casts doubt on future diplomatic efforts."
+    "summary": "Russia intensifies its offensive near Kostyantynivka and within the Sumy region, signaling a tactical shift in the conflict. Both Russian and Ukrainian forces now deploy mobile units using motorcycles and civilian vehicles to rapidly traverse exposed areas, indicating an adaptation to persistent battlefield challenges. This maneuver underscores the evolving nature of the war, as both sides seek novel methods to overcome static frontlines. Such developments reflect a broader pattern of innovation and counter-innovation shaping the conflict's trajectory."
   }
 ]
