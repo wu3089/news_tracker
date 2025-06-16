@@ -1,34 +1,58 @@
 [
   {
-    "title": "Israel And Iran Exchange Strikes Amid Escalating Violence",
-    "text": "Israel and Iran were assessing the damage on Sunday from a wave of attacks. Israeli fighter jets bombarded Tehran overnight, setting the sky ablaze with the flames of burning fuel reservoirs, while Iran launched volleys of ballistic missiles at Israel.",
-    "link": "https://www.nytimes.com/live/2025/06/15/world/iran-israel-nuclear",
+    "title": "Explosions and Damage Were Reported in Israel Following New Iranian Air Strikes",
+    "link": "https://www.bbc.com/news/videos/cre9e4y2n17o",
+    "source": "BBC",
+    "pub_date": "Mon, 16 Jun 2025 06:15:38 GMT",
+    "summary": "Iran launched fresh air strikes across Israel, resulting in explosions, damage, and casualties. According to Israel's national emergency service, the attacks killed five people and injured dozens more. These strikes heighten tensions between Iran and Israel, contributing to ongoing regional instability and raising concerns about further escalation. The attacks occur amidst a backdrop of already strained relations and proxy conflicts, potentially triggering broader international involvement.",
+    "date_str": "June 16, 2025"
+  },
+  {
+    "title": "Iranians Describe Life as Unsafe Amid Israeli Attacks",
+    "link": "https://www.bbc.com/news/articles/c8xgxdr01wro",
+    "source": "BBC",
+    "pub_date": "Sun, 15 Jun 2025 20:57:31 GMT",
+    "summary": "Following reported Israeli strikes on Iranian soil, Iranians express a widespread feeling of insecurity and vulnerability, according to the BBC. These attacks, attributed to the ongoing tensions between Israel and Iran, exacerbate existing anxieties among the Iranian populace. This development occurs against a backdrop of heightened regional instability and a shadow war between the two countries. The strikes and their impact on civilian sentiment underscore the potential for further escalation and broader conflict. The BBC Persian service reported on the escalating conflict between the two countries.",
+    "date_str": "June 16, 2025"
+  },
+  {
+    "title": "Satellite Imagery Shows Damage at Key Iranian Nuclear Sites",
+    "link": "https://www.bbc.com/news/articles/c7808xvv737o",
+    "source": "BBC",
+    "pub_date": "Sun, 15 Jun 2025 07:43:02 GMT",
+    "summary": "Satellite imagery reveals damage at key Iranian nuclear facilities, raising concerns about the state of Iran's nuclear program. Two separate imagery providers documented the damage. While the article does not explicitly state who is responsible for the damage, the incident occurs within the broader context of ongoing tensions between Iran, Israel, and the international community regarding Iran's nuclear ambitions and compliance with international agreements. The event could escalate regional instability and further complicate efforts to revive the Iran nuclear deal.",
+    "date_str": "June 16, 2025"
+  },
+  {
+    "title": "Israel Claims Attack on Iranian Military Unit Headquarters",
+    "text": "Israel’s military said it had struck the headquarters of the elite Quds Force. The claim, which could not be immediately confirmed, came as Iranian missiles struck several Israeli cities, killing at least eight.",
+    "link": "https://www.nytimes.com/live/2025/06/16/world/iran-israel-news",
+    "date_str": "June 16, 2025",
+    "source": "NYT",
+    "summary": "Israel's military claims to have struck the headquarters of Iran's Quds Force, a significant escalation amidst heightened tensions. This alleged strike follows Iranian missile attacks targeting several Israeli cities, resulting in at least eight fatalities. These events occur against a backdrop of increasing regional instability and ongoing proxy conflicts between Israel and Iran. The unconfirmed nature of the Israeli strike highlights the complexities and opacity surrounding this conflict."
+  },
+  {
+    "title": "Israel's War With Iran Could Last Weeks Due to the Lack of an Immediate Ceasefire",
+    "text": "Israel and Iran both have little incentive to stop and no obvious route to outright victory. Much depends on President Trump.",
+    "link": "https://www.nytimes.com/2025/06/16/world/middleeast/iran-israel-war-off-ramp.html",
+    "date_str": "June 16, 2025",
+    "source": "NYT",
+    "summary": "Rising tensions between Israel and Iran present a significant geopolitical challenge, as neither nation appears willing to de-escalate or capable of achieving a decisive victory. The escalating conflict threatens regional stability given Iran's increasing influence in surrounding countries and Israel's determination to contain it. The United States, under President Trump, wields considerable influence and may determine whether tensions de-escalate or spiral into wider conflict, given their close relationship with Israel and historical involvement in the region. Decades of animosity and proxy conflicts between Iran and Israel form the backdrop for this precarious situation."
+  },
+  {
+    "title": "Diplomacy With Iran Remains Damaged, But Is Not Over",
+    "text": "The push to do a deal on the country’s nuclear program could be revived, even after the Israeli strikes scuppered the latest round of talks.",
+    "link": "https://www.nytimes.com/2025/06/15/world/middleeast/diplomacy-with-iran-is-damaged-not-dead.html",
     "date_str": "June 15, 2025",
     "source": "NYT",
-    "summary": "Following a period of heightened tensions, Israeli fighter jets struck Tehran overnight, targeting fuel reservoirs and escalating the ongoing conflict. Iran retaliated by launching ballistic missiles at Israel, signifying a dangerous expansion of hostilities between the two nations. These attacks represent a significant escalation in the long-standing rivalry between Israel and Iran, raising concerns about regional stability and the potential for broader international involvement. Both countries are currently evaluating the extent of the damage incurred, further complicating de-escalation efforts."
+    "summary": "Efforts to revive negotiations regarding Iran's nuclear program may resume despite recent setbacks. Israeli military strikes disrupted the latest round of talks, highlighting ongoing regional tensions. These talks are crucial for preventing Iran from developing nuclear weapons, and involve key players like the United States, Iran, and the European Union as mediators. The backdrop includes years of stalled diplomacy following the U.S. withdrawal from the Joint Comprehensive Plan of Action (JCPOA), creating concerns about nuclear proliferation and regional security. Negotiators seek to restore the agreement and curb Iran's nuclear capabilities in exchange for sanctions relief."
   },
   {
-    "title": "Israel's Attack in Iran Mirrors Its Hezbollah Strategy",
-    "text": "Israel decimated the group’s leadership last fall and degraded its military capabilities. Can the same strategy work against a far more powerful foe?",
-    "link": "https://www.nytimes.com/2025/06/15/world/middleeast/iran-military-leaders-killed.html",
-    "date_str": "June 15, 2025",
+    "title": "Iranian Strikes Kill At Least Eight Israelis During Fourth Day of Conflict",
+    "text": "Dozens of others were injured overnight across Israel, the authorities said. Israel was striking military sites in Iran and the four-day-old conflict showed no sign of slowing.",
+    "link": "https://www.nytimes.com/2025/06/16/world/middleeast/petah-tikva-israel-iran-missile-strike.html",
+    "date_str": "June 16, 2025",
     "source": "NYT",
-    "summary": "Israel confronts a critical strategic question: whether its past success in degrading weaker adversaries through leadership decapitation and military attrition can be replicated against a more formidable opponent, particularly in light of escalating regional tensions. This inquiry arises after Israel effectively decimated a specific group's leadership and weakened its military power last fall, demonstrating its capacity for targeted operations. However, analysts debate the scalability of this strategy against a more powerful foe, considering factors such as the potential for asymmetric warfare, resource disparities, and the broader geopolitical ramifications. The effectiveness of Israel's approach hinges on a thorough evaluation of the target's capabilities, resilience, and regional support network."
-  },
-  {
-    "title": "Understanding Israel's Strikes and Iran's Retaliation Is Important",
-    "text": "The two powers have been exchanging barrages since Israel attacked Iran and killed many of the country’s top military leaders and scientists.",
-    "link": "https://www.nytimes.com/2025/06/12/world/middleeast/israel-iran-strikes.html",
-    "date_str": "June 12, 2025",
-    "source": "NYT",
-    "summary": "Following an Israeli strike that killed Iranian military leaders and scientists, Israel and Iran are currently engaged in escalating retaliatory attacks. This exchange signifies a dangerous escalation of the long-standing shadow war between the two nations, potentially destabilizing the already volatile Middle East. Israel's actions, rooted in its concerns over Iran's nuclear program and regional influence, prompted Iran to respond, seeking to deter further attacks and project strength. The ongoing cycle of violence highlights the urgent need for diplomatic intervention to prevent a wider conflict."
-  },
-  {
-    "title": "Russia's Summer Offensive in Ukraine Advances Using New Tactics",
-    "text": "Russia is advancing around Kostyantynivka and in the Sumy region with small, fast-moving units as both sides try a new tactic of using motorcycles and civilian cars to quickly cross open terrain.",
-    "link": "https://www.nytimes.com/2025/06/14/world/europe/ukraine-battlefield-russia-sumy-kostyantynivka.html",
-    "date_str": "June 14, 2025",
-    "source": "NYT",
-    "summary": "Russia intensifies its offensive near Kostyantynivka and within the Sumy region, signaling a tactical shift in the conflict. Both Russian and Ukrainian forces now deploy mobile units using motorcycles and civilian vehicles to rapidly traverse exposed areas, indicating an adaptation to persistent battlefield challenges. This maneuver underscores the evolving nature of the war, as both sides seek novel methods to overcome static frontlines. Such developments reflect a broader pattern of innovation and counter-innovation shaping the conflict's trajectory."
+    "summary": "Following overnight injuries across Israel, the escalating conflict continues as Israel strikes military sites in Iran. These actions signify a widening of the conflict, initially sparked four days prior. The Israeli authorities and Iranian military become central players as tensions rise with no immediate de-escalation in sight. This exchange occurs against a backdrop of already heightened regional instability, raising concerns about further escalation and broader implications for Middle Eastern security."
   }
 ]
