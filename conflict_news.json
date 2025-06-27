@@ -1,34 +1,26 @@
 [
   {
-    "title": "Three Palestinians Were Killed in an Israeli Settler Attack on a West Bank Village",
-    "link": "https://www.bbc.com/news/articles/cz9knl5w529o",
+    "title": "Israeli Missile Strike Hits BBC Inside Iranian State TV Building",
+    "link": "https://www.bbc.com/news/videos/cgmw8g782pro",
     "source": "BBC",
-    "pub_date": "Thu, 26 Jun 2025 11:11:27 GMT",
-    "summary": "Amidst escalating tensions in the West Bank, three Palestinians died during an attack in which the Palestinian foreign ministry accuses Israeli settlers of being perpetrators. The Israeli military claims its forces only returned fire after Palestinians shot at them, marking another point of contention in the ongoing conflict. This incident occurs against a backdrop of increasing violence and settlement expansion in the occupied territories, further complicating efforts to achieve a peaceful resolution between Israelis and Palestinians. The international community closely monitors these developments, as they have the potential to destabilize the region and undermine prospects for a two-state solution. These events highlight the urgent need for de-escalation and accountability from all actors involved.",
-    "date_str": "June 26, 2025"
+    "pub_date": "Thu, 26 Jun 2025 23:10:55 GMT",
+    "summary": "Amidst ongoing conflict between Israel and Iran, an Israeli missile struck an Iranian state television building. The BBC's Lyse Doucet reported from the damaged site in Tehran, highlighting the escalating tensions between the two nations. This event underscores the increasingly direct nature of the conflict, moving beyond proxy engagements and heightening concerns about regional stability. The strike against a state media outlet carries significant symbolic weight, potentially fueling further escalation in the already strained relationship between Israel and Iran.",
+    "date_str": "June 27, 2025"
   },
   {
-    "title": "Tense Diplomacy Led Iran and Israel to a Ceasefire After a Volatile Day",
-    "link": "https://www.bbc.com/news/articles/c3vdpeq606do",
-    "source": "BBC",
-    "pub_date": "Tue, 24 Jun 2025 17:57:35 GMT",
-    "summary": "In a volatile 24-hour period, Iran and Israel teetered on the brink of escalated conflict following an attack on a U.S. air base, ultimately leading to a fragile ceasefire. The rapid escalation highlights the precarious security environment in the Middle East and the potential for wider regional conflict. While the article mentions several countries, the primary actors involved are Iran and Israel, with the United States implicated due to the attack on their air base. The overnight developments underscore the ongoing tensions between Iran and Israel, and the persistent risk of direct confrontation despite attempts at de-escalation.",
-    "date_str": "June 26, 2025"
-  },
-  {
-    "title": "Israeli Town Reels After Deadly Strike, Saying \"We Thought It Was the End.\"",
-    "link": "https://www.bbc.com/news/articles/c0l4z2ejwk6o",
-    "source": "BBC",
-    "pub_date": "Tue, 24 Jun 2025 17:21:24 GMT",
-    "summary": "Amidst ongoing tensions, an Iranian missile struck Beersheba, Israel, resulting in the deaths of four people just before a ceasefire took effect. This attack marks a significant escalation, directly impacting Israeli civilians and highlighting the involvement of Iran in regional conflicts. The incident underscores the fragility of de-escalation efforts and raises concerns about continued instability in the Middle East, demanding attention from key international actors seeking to mediate a lasting resolution. Alice Cuddy reported on the event. This comes amid a history of conflict between Israel and Iran, and their various proxies.",
-    "date_str": "June 26, 2025"
-  },
-  {
-    "title": "They Fled Ukraine's War, Only to Face It Again in Israel",
+    "title": "Refugees From Ukraine Faced War Again in Israel",
     "text": "A family of five Ukrainians was killed by an Iranian missile strike in Israel, in a tragic intersection of two wars.",
     "link": "https://www.nytimes.com/2025/06/26/world/europe/ukrainian-family-israel-iran-war.html",
     "date_str": "June 26, 2025",
     "source": "NYT",
-    "summary": "An Iranian missile strike in Israel killed a Ukrainian family of five, underscoring the interconnectedness of global conflicts. This event highlights the expansion of Iran's destabilizing influence beyond its immediate region and the vulnerability of Ukrainian civilians already displaced by Russia's war. The tragedy occurs amidst ongoing tensions between Israel and Iran, adding another layer of complexity to the already fraught geopolitical landscape in the Middle East and Eastern Europe. International actors are now grappling with the implications of this intersection of conflicts and its potential to further escalate regional instability."
+    "summary": "An Iranian missile strike in Israel killed a Ukrainian family of five, underscoring the broadening impact of both the Russia-Ukraine war and the ongoing tensions in the Middle East. The incident highlights the interconnectedness of global conflicts as Iranian-supplied weaponry, often used in Ukraine, now claims civilian lives far from its origin. This tragic event exacerbates diplomatic challenges for Israel and Ukraine, forcing them to navigate complex relationships with actors involved in both conflicts. The deaths also further intensify global concerns about the proliferation of Iranian missile technology and its destabilizing effects beyond the immediate conflict zones."
+  },
+  {
+    "title": "Following Israeli and U.S. Strikes, Experts Assess Iran's Nuclear Program",
+    "text": "President Trump’s claimed Iran’s capabilities were “obliterated.” The full extent of the damage is still emerging.",
+    "link": "https://www.nytimes.com/2025/06/26/world/middleeast/iran-nuclear-program-israeli-us-attacks.html",
+    "date_str": "June 26, 2025",
+    "source": "NYT",
+    "summary": "President Trump asserted that Iranian capabilities suffered obliteration, though the degree of the impact remains unclear. The statement follows escalating tensions between the United States and Iran, rooted in disagreements over Iran's nuclear program and regional influence. This declaration comes amid ongoing efforts to assess the actual consequences of recent events. Further investigation is needed to confirm the scope and implications of any potential damage."
   }
 ]
