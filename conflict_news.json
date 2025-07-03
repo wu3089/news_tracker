@@ -1,50 +1,26 @@
 [
   {
-    "title": "Trump Claims Israel Accepted Ceasefire Terms in Gaza for 60 Days",
-    "link": "https://www.bbc.com/news/articles/cgkg4m0133po",
+    "title": "Gaza Hospital Director Reportedly Killed in Israeli Strike, Says Relative",
+    "link": "https://www.bbc.com/news/articles/c4gejed7wgeo",
     "source": "BBC",
-    "pub_date": "Wed, 02 Jul 2025 10:56:10 GMT",
-    "summary": "Donald Trump announced that Israel has agreed to conditions for a 60-day ceasefire in Gaza, aiming to de-escalate the ongoing conflict. A Hamas official stated the group is prepared to reach an agreement contingent on ending the war, signaling potential flexibility in their stance. These developments occur within the context of intense international pressure to halt hostilities and address the humanitarian crisis in Gaza, following months of conflict between Israel and Hamas. Achieving a lasting ceasefire remains challenging, requiring both parties to agree on terms for a sustained cessation of violence and address underlying issues. The implications of this potential ceasefire could significantly alter the trajectory of the conflict and regional stability.",
-    "date_str": "July 02, 2025"
+    "pub_date": "Thu, 03 Jul 2025 12:23:09 GMT",
+    "summary": "Amidst the ongoing conflict, an Israeli strike killed Dr. Marwan Sultan, a Gaza hospital director, along with several members of his family. This event underscores the heavy toll the conflict takes on civilian infrastructure and personnel in Gaza, potentially exacerbating the already dire humanitarian situation. The incident occurs within the broader context of heightened tensions and continued military actions between Israel and Palestinian factions, impacting healthcare access and stability in the region. The loss of a key medical leader further strains Gaza's capacity to respond to the healthcare needs of its population.",
+    "date_str": "July 03, 2025"
   },
   {
-    "title": "Ukraine Warns Halting US Weapons Will Encourage Russia",
-    "link": "https://www.bbc.com/news/articles/cgk33k204ddo",
-    "source": "BBC",
-    "pub_date": "Wed, 02 Jul 2025 11:30:56 GMT",
-    "summary": "Citing American interests, the White House halted some weapons deliveries to Ukraine, prompting warnings from Kyiv that this decision emboldens Russia. Ukraine's leaders suggest the reduction in military aid undermines their ability to defend against Russian aggression. The United States, under President Trump, previously faced scrutiny regarding its relationship with Ukraine, creating a complex backdrop for current aid considerations. This shift occurs amidst ongoing geopolitical tensions in the region as Russia continues its military actions within Ukraine. The decision's long-term impact on the conflict's trajectory and the broader security landscape remains uncertain.",
-    "date_str": "July 02, 2025"
-  },
-  {
-    "title": "Ugandan Military Helicopter Crashes and Ignites in Somalia",
-    "link": "https://www.bbc.com/news/articles/cwye0wggzzko",
-    "source": "BBC",
-    "pub_date": "Wed, 02 Jul 2025 12:11:10 GMT",
-    "summary": "A Ugandan military helicopter crashed and caught fire at Aden Adde International Airport in Mogadishu, Somalia. While three people escaped with burns, five remain unaccounted for, prompting immediate search efforts. The incident raises concerns about logistical and operational challenges facing the Ugandan military contingent in Somalia, which supports the African Union Transition Mission in Somalia (ATMIS) against al-Shabab militants. Uganda plays a crucial role in regional security by contributing troops to ATMIS, aiming to stabilize Somalia and counter violent extremism. This crash underscores the risks associated with military operations in a complex and volatile environment.",
-    "date_str": "July 02, 2025"
-  },
-  {
-    "title": "Israeli Settlers Set a Palestinian Village on Fire During a Sunset Attack",
-    "text": "The violence last week in Kafr Malik, in the West Bank, comes amid a surge in assaults by Israeli settlers. It also set off a chain of violence in the area.",
-    "link": "https://www.nytimes.com/2025/07/01/world/middleeast/israel-west-bank-palestinians-attack.html",
-    "date_str": "July 01, 2025",
-    "source": "NYT",
-    "summary": "Israeli settler violence in Kafr Malik, West Bank, ignited a chain of retaliatory actions, highlighting a recent escalation of such assaults in the region. The attacks, targeting Palestinian civilians and property, contribute to heightened tensions and instability within the occupied territories. This surge in settler violence is exacerbating the already fragile security environment between Israelis and Palestinians, undermining efforts to achieve a peaceful resolution. International actors monitor the situation closely, urging de-escalation and accountability for perpetrators on both sides."
-  },
-  {
-    "title": "Kim Jong-un Paid Respects to Slain Troops While Maintaining Public Image",
+    "title": "Kim Jong-un Paid Respects to Slain Troops, Maintaining Appearances",
     "text": "Through an event shown on North Korean state television, Mr. Kim also highlighted the sacrifices made for Moscow and the rewards he seeks.",
     "link": "https://www.nytimes.com/2025/07/02/world/asia/north-korea-troops-kim-jong-un.html",
     "date_str": "July 02, 2025",
     "source": "NYT",
-    "summary": "Kim Jong-un showcased on state television the purported sacrifices North Korea makes for Russia, signaling a desire for reciprocation and deeper bilateral ties amid international sanctions. This display emphasizes the growing alignment between Pyongyang and Moscow, offering North Korea a potential economic lifeline and diplomatic support on the global stage. Russia, facing isolation for its war in Ukraine, likely seeks North Korean munitions and labor, undermining international efforts to pressure both regimes. This deepening partnership complicates denuclearization efforts and challenges the existing international order in Northeast Asia."
+    "summary": "Kim Jong-un showcased on North Korean television the sacrifices Pyongyang is making for Moscow, signaling the deepening alliance between the two nations. This broadcast emphasized the military and economic support Kim is providing to Russia amidst its war in Ukraine, likely in exchange for advanced technology and economic assistance. The event underscores North Korea's strategic alignment with Russia to counter U.S. influence and circumvent international sanctions, revealing Kim's ambition to modernize his military and bolster North Korea’s struggling economy. These actions demonstrate a concerning shift in the geopolitical landscape, as North Korea actively aids Russia's war effort and seeks to strengthen its own position on the global stage."
   },
   {
-    "title": "Under a Drone-Swarmed Sky, People Struggle to Survive in Eastern Ukraine",
-    "text": "Towns and troops long accustomed to merciless bombardment are adjusting to an even denser pattern of attacks.",
-    "link": "https://www.nytimes.com/2025/07/01/world/europe/ukraine-russia-frontline.html",
-    "date_str": "July 01, 2025",
+    "title": "U.S. Weapons Delay Raises Ukrainian Worries Amid Escalating Russian Attacks",
+    "text": "The suspension includes air defense interceptors, and it will directly affect Ukraine’s ability to fend off escalating Russian air assaults.",
+    "link": "https://www.nytimes.com/2025/07/02/world/europe/ukraine-russia-war-trump-weapons.html",
+    "date_str": "July 02, 2025",
     "source": "NYT",
-    "summary": "Escalating attacks intensify pressure on already battered towns and troop positions in the conflict zone. Merciless bombardment, previously a routine occurrence, has increased in frequency and severity, signifying a potential shift in military strategy. While the article does not identify specific players, the intensification suggests a deliberate effort by at least one belligerent to overwhelm opposing forces. This escalation builds upon a history of sustained conflict characterized by heavy shelling and attrition warfare, raising concerns about humanitarian consequences and further destabilization."
+    "summary": "Washington halts the provision of critical air defense interceptors to Ukraine, significantly weakening Kyiv's capacity to counter intensifying Russian aerial attacks. This decision, impacting Ukraine's defensive capabilities, stems from shifting U.S. priorities and resource allocation. The United States' action comes amidst escalating conflict in Eastern Europe, pitting Ukraine against Russia's ongoing military operations. Consequently, Ukraine now faces a more vulnerable position against Russian air power."
   }
 ]
