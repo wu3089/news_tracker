@@ -1,26 +1,34 @@
 [
   {
-    "title": "Gaza Hospital Director Reportedly Killed in Israeli Strike, Says Relative",
-    "link": "https://www.bbc.com/news/articles/c4gejed7wgeo",
+    "title": "Kyiv Suffered Drone Strikes While Putin Dismissed Trump's Truce Offer",
+    "link": "https://www.bbc.com/news/articles/cx2g3qvz0pvo",
     "source": "BBC",
-    "pub_date": "Thu, 03 Jul 2025 12:23:09 GMT",
-    "summary": "Amidst the ongoing conflict, an Israeli strike killed Dr. Marwan Sultan, a Gaza hospital director, along with several members of his family. This event underscores the heavy toll the conflict takes on civilian infrastructure and personnel in Gaza, potentially exacerbating the already dire humanitarian situation. The incident occurs within the broader context of heightened tensions and continued military actions between Israel and Palestinian factions, impacting healthcare access and stability in the region. The loss of a key medical leader further strains Gaza's capacity to respond to the healthcare needs of its population.",
-    "date_str": "July 03, 2025"
+    "pub_date": "Fri, 04 Jul 2025 10:55:31 GMT",
+    "summary": "Russia launched a significant drone attack, deploying 550 drones and causing damage across nearly all districts of Kyiv. This escalation occurred as Vladimir Putin rejected a proposed truce from Donald Trump, signaling a continued commitment to military operations in Ukraine. The intensified attacks and rejection of potential de-escalation efforts highlight the ongoing and volatile nature of the conflict, underscoring the complex geopolitical dynamics between Russia, Ukraine, and the international community. As the war continues, Kyiv remains a key target in the conflict.",
+    "date_str": "July 04, 2025"
   },
   {
-    "title": "Kim Jong-un Paid Respects to Slain Troops, Maintaining Appearances",
-    "text": "Through an event shown on North Korean state television, Mr. Kim also highlighted the sacrifices made for Moscow and the rewards he seeks.",
-    "link": "https://www.nytimes.com/2025/07/02/world/asia/north-korea-troops-kim-jong-un.html",
-    "date_str": "July 02, 2025",
-    "source": "NYT",
-    "summary": "Kim Jong-un showcased on North Korean television the sacrifices Pyongyang is making for Moscow, signaling the deepening alliance between the two nations. This broadcast emphasized the military and economic support Kim is providing to Russia amidst its war in Ukraine, likely in exchange for advanced technology and economic assistance. The event underscores North Korea's strategic alignment with Russia to counter U.S. influence and circumvent international sanctions, revealing Kim's ambition to modernize his military and bolster North Korea’s struggling economy. These actions demonstrate a concerning shift in the geopolitical landscape, as North Korea actively aids Russia's war effort and seeks to strengthen its own position on the global stage."
+    "title": "Hamas Announces Consultation With Other Palestinian Groups Regarding Gaza Ceasefire",
+    "link": "https://www.bbc.com/news/articles/cnvmrmvp98go",
+    "source": "BBC",
+    "pub_date": "Fri, 04 Jul 2025 09:22:42 GMT",
+    "summary": "Hamas is currently consulting with other Palestinian groups regarding a proposed 60-day ceasefire plan in Gaza. U.S. President Biden anticipates a decision from Hamas soon regarding their agreement to the terms. This development occurs within the ongoing context of the Israel-Gaza conflict, where mediators seek to establish a pause in fighting. The outcome of these consultations could significantly impact the trajectory of the conflict and regional stability. A truce of this length has the potential to facilitate the delivery of humanitarian aid and de-escalate tensions between Israel and Hamas.",
+    "date_str": "July 04, 2025"
   },
   {
-    "title": "U.S. Weapons Delay Raises Ukrainian Worries Amid Escalating Russian Attacks",
-    "text": "The suspension includes air defense interceptors, and it will directly affect Ukraine’s ability to fend off escalating Russian air assaults.",
-    "link": "https://www.nytimes.com/2025/07/02/world/europe/ukraine-russia-war-trump-weapons.html",
-    "date_str": "July 02, 2025",
+    "title": "Negotiations Continue Regarding the Israel-Hamas Truce",
+    "text": "Hamas wants to ensure that the latest cease-fire proposal has sufficient guarantees that negotiations will lead to a permanent end to the Gaza war.",
+    "link": "https://www.nytimes.com/2025/07/03/world/middleeast/israel-hamas-ceasefire-negotiations.html",
+    "date_str": "July 03, 2025",
     "source": "NYT",
-    "summary": "Washington halts the provision of critical air defense interceptors to Ukraine, significantly weakening Kyiv's capacity to counter intensifying Russian aerial attacks. This decision, impacting Ukraine's defensive capabilities, stems from shifting U.S. priorities and resource allocation. The United States' action comes amidst escalating conflict in Eastern Europe, pitting Ukraine against Russia's ongoing military operations. Consequently, Ukraine now faces a more vulnerable position against Russian air power."
+    "summary": "Hamas is demanding concrete assurances that ongoing ceasefire negotiations will definitively end the Gaza conflict, highlighting the group's strategic interest in securing a permanent cessation of hostilities. This demand underscores the deep mistrust between Hamas and involved parties, including mediators like Qatar and Egypt, and signals a reluctance to accept temporary pauses without long-term security guarantees. The demand comes amidst international pressure to finalize a deal that would halt the fighting and facilitate the release of hostages, reflecting the complex dynamics and high stakes of the negotiations. The resolution of these negotiations will likely determine the future trajectory of the Israeli-Palestinian conflict and stability in the region."
+  },
+  {
+    "title": "Trump Envoy Says Israel and Syria Are in U.S.-Brokered Talks to Resolve Border Conflict",
+    "text": "Thomas J. Barrack Jr., the U.S. ambassador to Turkey, says Washington is facilitating the discussions and prioritizing economic development over nation-building in the Middle East.",
+    "link": "https://www.nytimes.com/2025/07/03/world/middleeast/israel-syria-border-us-barrack.html",
+    "date_str": "July 03, 2025",
+    "source": "NYT",
+    "summary": "As U.S. Ambassador to Turkey, Thomas J. Barrack Jr. asserts the U.S. government is actively facilitating discussions related to Middle Eastern affairs. Barrack emphasizes a strategic shift, indicating that Washington now prioritizes economic development within the region over traditional nation-building efforts. This approach signifies a potentially significant recalibration of U.S. foreign policy under the current administration, moving away from interventionist strategies toward fostering economic stability. These actions aim to strengthen regional partnerships and address underlying economic grievances contributing to instability."
   }
 ]
