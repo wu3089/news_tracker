@@ -1,42 +1,50 @@
 [
   {
-    "title": "Ukraine Endures Heaviest Attack While Trump Criticizes Putin",
-    "link": "https://www.bbc.com/news/articles/c2k19q4j07zo",
+    "title": "Hospital Reports Israeli Strike in Gaza Killed Children Waiting for Supplements",
+    "link": "https://www.bbc.com/news/articles/c4gd01g1gxro",
     "source": "BBC",
-    "pub_date": "Wed, 09 Jul 2025 11:51:47 GMT",
-    "summary": "Amidst escalating tensions, Ukraine endures a severe military assault, prompting a reversal in U.S. policy as the U.S. President lifts the suspension of weapon shipments to Kyiv. This shift occurs as the U.S. President publicly criticizes Russian President Vladimir Putin, signaling a hardening stance against Moscow. The move comes in the context of ongoing conflict between Ukraine and Russia, with the United States playing a key role in providing military aid to Ukraine. These events underscore the increasing international involvement in the conflict and the potential for further escalation between key global actors.",
-    "date_str": "July 09, 2025"
+    "pub_date": "Thu, 10 Jul 2025 11:00:16 GMT",
+    "summary": "Amidst the ongoing Israel-Gaza conflict, an Israeli strike in Deir al-Balah reportedly killed fifteen people, including eight children, according to hospital officials. The incident occurred as individuals queued for nutritional supplements, highlighting the dire humanitarian conditions and food insecurity prevalent in the Gaza Strip. This event raises concerns about the protection of civilians and the proportionality of military actions undertaken by the Israel Defense Forces in densely populated areas. The strike will likely intensify scrutiny from international organizations and further complicate efforts to achieve a ceasefire between Israel and Hamas. The incident underscores the urgent need for increased humanitarian access and a sustainable resolution to the Israeli-Palestinian conflict.",
+    "date_str": "July 10, 2025"
   },
   {
-    "title": "Gaza Truce Talks Reportedly Stall After Netanyahu and Trump Meet Again",
+    "title": "Deadly Russian Drone and Missile Attack Strikes Kyiv",
+    "link": "https://www.bbc.com/news/articles/cj3rvpe06rxo",
+    "source": "BBC",
+    "pub_date": "Thu, 10 Jul 2025 10:50:45 GMT",
+    "summary": "Russia launched a deadly drone and missile attack against Kyiv, resulting in casualties and significant damage. Ukrainian officials reported at least two fatalities and sixteen injuries as fires erupted across the capital. This attack underscores the ongoing conflict between Russia and Ukraine and the vulnerability of civilian areas. The continued targeting of Kyiv highlights Russia's strategic objectives in the region and its impact on the broader geopolitical landscape.",
+    "date_str": "July 10, 2025"
+  },
+  {
+    "title": "The US Sanctions UN Expert Francesca Albanese for Criticizing Israel's Gaza Offensive",
+    "link": "https://www.bbc.com/news/articles/c70rllxr0kyo",
+    "source": "BBC",
+    "pub_date": "Thu, 10 Jul 2025 00:36:34 GMT",
+    "summary": "The United States sanctioned Francesca Albanese, a UN expert critical of Israel's offensive in Gaza. Secretary of State Marco Rubio attributed the move to Albanese's support for the International Criminal Court (ICC). This action occurs against the backdrop of ongoing international scrutiny of Israel's military operations and the ICC's investigation into potential war crimes in Palestinian territories. The sanctions highlight the tensions between the U.S. and international bodies regarding the Israeli-Palestinian conflict. The move is likely to further strain relations between the U.S. and the UN Human Rights system, particularly concerning its approach to Israel.",
+    "date_str": "July 10, 2025"
+  },
+  {
+    "title": "Gaza Truce Negotiations Reportedly Stalled After Netanyahu-Trump Meeting",
     "link": "https://www.bbc.com/news/articles/ce3newwl1zeo",
     "source": "BBC",
-    "pub_date": "Wed, 09 Jul 2025 10:38:57 GMT",
-    "summary": "Indirect negotiations in Qatar between Israel and Hamas over a Gaza truce have reportedly stalled, despite a recent meeting between Israeli Prime Minister Benjamin Netanyahu and Donald Trump. Disagreements over the distribution of aid continue to impede progress, according to a Palestinian official. These talks occur against the backdrop of the ongoing Israel-Gaza war, further complicating efforts to reach a ceasefire agreement. The United States, under both the current and potentially a future Trump administration, attempts to mediate a resolution to the conflict.",
-    "date_str": "July 09, 2025"
+    "pub_date": "Wed, 09 Jul 2025 19:46:16 GMT",
+    "summary": "Despite a recent meeting between Benjamin Netanyahu and Donald Trump, indirect negotiations in Qatar between Israel and Hamas have reportedly stalled, hindering efforts to establish a truce in Gaza. A key point of contention, according to a Palestinian official, revolves around the logistics and mechanisms for distributing aid within Gaza, highlighting the complexities of reaching a consensus amid the ongoing conflict. This impasse underscores the persistent challenges facing mediators as they attempt to bridge the gaps between the warring parties, even with the involvement of key international figures. The failure to achieve a breakthrough threatens to prolong the humanitarian crisis and further destabilize the region.",
+    "date_str": "July 10, 2025"
   },
   {
-    "title": "Trump's Shift on Weapons for Ukraine Elicits Hopeful but Cautious Reactions",
-    "text": "After President Trump’s announcement that the United States would send more military aid, some were grateful, others were skeptical, mindful of his seesawing policy.",
-    "link": "https://www.nytimes.com/2025/07/08/world/europe/ukraine-russia-us-weapons-trump.html",
-    "date_str": "July 08, 2025",
+    "title": "Israel Initiates Ground Operation in Lebanon, Sparking Concerns About Ceasefire",
+    "text": "Israel has been conducting near-daily strikes against what it says are Hezbollah targets as the Iranian-backed group comes under pressure to disarm amid fears of a renewed war.",
+    "link": "https://www.nytimes.com/2025/07/09/world/middleeast/israel-lebanon.html",
+    "date_str": "July 09, 2025",
     "source": "NYT",
-    "summary": "President Trump authorized increased U.S. military aid, signaling a potential shift in policy toward an unspecified nation. This decision followed previous fluctuations in U.S. engagement, prompting both support and skepticism regarding the administration's long-term commitment. The Trump administration faces scrutiny regarding the consistency of its foreign policy approach, which impacts allies and adversaries alike."
+    "summary": "Amid rising tensions, Israel conducts frequent strikes against Hezbollah positions, citing the need to disarm the Iranian-backed group and prevent a wider conflict. This escalation occurs within the context of increased international pressure on Hezbollah to comply with existing UN resolutions related to its disarmament. The Israeli military defends its actions as necessary for national security, while Hezbollah, a key player in Lebanese politics, publicly condemns the strikes. The ongoing exchanges heighten the risk of miscalculation and a potential resurgence of large-scale hostilities between Israel and Hezbollah."
   },
   {
-    "title": "Two Brothers Fought Each Other in a Destructive Civil War",
-    "text": "Bloody conflict has splintered many families in Myanmar over the past four years. But for one set of siblings, a surprise reunion was joyful, if bittersweet.",
-    "link": "https://www.nytimes.com/2025/07/08/world/asia/myanmar-civil-war-brothers.html",
-    "date_str": "July 08, 2025",
+    "title": "Putin Continues War in Ukraine Despite Trump's Criticism",
+    "text": "The Russian leader is convinced that Moscow’s battlefield superiority is growing, and that Ukraine’s defenses may collapse in the coming months, according to people close to the Kremlin.",
+    "link": "https://www.nytimes.com/2025/07/09/world/europe/russia-ukraine-putin-trump.html",
+    "date_str": "July 09, 2025",
     "source": "NYT",
-    "summary": "The ongoing conflict in Myanmar has deeply affected families, with one recent reunion highlighting the war's personal toll. Siblings, separated by the four-year conflict, experienced a bittersweet reunion, showcasing both the joy of reconnection and the lingering impact of the violence. This event underscores the broader humanitarian crisis unfolding in Myanmar, where numerous families continue to face displacement and separation due to the actions of the Tatmadaw and resistance forces. Ultimately, this single family's experience represents the widespread suffering and resilience of the Burmese people amidst political instability."
-  },
-  {
-    "title": "Trump's Displeasure With Putin Came Before U.S. Resumed Weapons to Ukraine",
-    "text": "President Trump lashed out at the Russian leader on Tuesday, signaling a change in his posture toward the conflict.",
-    "link": "https://www.nytimes.com/2025/07/08/us/politics/trump-putin-ukraine.html",
-    "date_str": "July 08, 2025",
-    "source": "NYT",
-    "summary": "President Trump criticized Russian leadership on Tuesday, marking a potential shift in U.S. policy toward Russia. This rebuke, delivered by Trump himself, signals a possible hardening of the U.S. stance after sustained criticism that the administration had been too soft on Moscow. Previously, the Trump administration faced accusations of downplaying Russian aggression and interference in democratic processes, making this new posture notable. The implications of this shift remain unclear, but observers will keenly watch how it affects ongoing geopolitical tensions."
+    "summary": "Citing sources close to the Kremlin, this report indicates that Vladimir Putin believes Russia's military position in Ukraine is strengthening. He anticipates a potential collapse of Ukrainian defenses in the coming months, suggesting a pivotal shift in the trajectory of the conflict. Putin's assessment reflects a calculation regarding the battlefield dynamics and the resilience of Ukraine's forces, impacting Moscow's strategic decisions. This development occurs against the backdrop of ongoing military and economic aid from Western nations to Ukraine, as well as international efforts to mediate a resolution to the conflict."
   }
 ]
