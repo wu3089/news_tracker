@@ -1,50 +1,26 @@
 [
   {
-    "title": "Hospital Reports Israeli Strike in Gaza Killed Children Waiting for Supplements",
+    "title": "An Israeli Official Says Iran May Recover Uranium After US Strikes",
+    "link": "https://www.bbc.com/news/articles/cn0qzxvydz1o",
+    "source": "BBC",
+    "pub_date": "Fri, 11 Jul 2025 09:53:09 GMT",
+    "summary": "Following U.S. strikes in June, an Israeli official suggests Iran could still recover some enriched uranium from its nuclear facilities, despite U.S. claims of complete obliteration. This assessment raises questions about the long-term effectiveness of the strikes and Iran's nuclear capabilities. The U.S. government maintains that the strikes successfully destroyed Iran's nuclear facilities. This development underscores the ongoing tensions between the U.S., Israel, and Iran, particularly concerning Iran's nuclear program and regional security.",
+    "date_str": "July 11, 2025"
+  },
+  {
+    "title": "Hospital Says Israeli Strike in Gaza Killed Children Waiting for Supplements",
     "link": "https://www.bbc.com/news/articles/c4gd01g1gxro",
     "source": "BBC",
-    "pub_date": "Thu, 10 Jul 2025 11:00:16 GMT",
-    "summary": "Amidst the ongoing Israel-Gaza conflict, an Israeli strike in Deir al-Balah reportedly killed fifteen people, including eight children, according to hospital officials. The incident occurred as individuals queued for nutritional supplements, highlighting the dire humanitarian conditions and food insecurity prevalent in the Gaza Strip. This event raises concerns about the protection of civilians and the proportionality of military actions undertaken by the Israel Defense Forces in densely populated areas. The strike will likely intensify scrutiny from international organizations and further complicate efforts to achieve a ceasefire between Israel and Hamas. The incident underscores the urgent need for increased humanitarian access and a sustainable resolution to the Israeli-Palestinian conflict.",
-    "date_str": "July 10, 2025"
+    "pub_date": "Thu, 10 Jul 2025 21:09:56 GMT",
+    "summary": "Amidst the ongoing Israel-Gaza conflict, an Israeli strike in Deir al-Balah reportedly killed fifteen people, including eight children, as they queued for supplements outside a clinic. This incident highlights the dire humanitarian situation and the challenges of providing aid to civilians within the Gaza Strip. The event intensifies concerns regarding adherence to international humanitarian law and the protection of vulnerable populations during armed conflict. The Israeli government and Hamas continue to engage in hostilities, further exacerbating the crisis. This strike occurs within a context of escalating violence and underscores the urgent need for de-escalation and a sustainable resolution to the conflict.",
+    "date_str": "July 11, 2025"
   },
   {
-    "title": "Deadly Russian Drone and Missile Attack Strikes Kyiv",
-    "link": "https://www.bbc.com/news/articles/cj3rvpe06rxo",
-    "source": "BBC",
-    "pub_date": "Thu, 10 Jul 2025 10:50:45 GMT",
-    "summary": "Russia launched a deadly drone and missile attack against Kyiv, resulting in casualties and significant damage. Ukrainian officials reported at least two fatalities and sixteen injuries as fires erupted across the capital. This attack underscores the ongoing conflict between Russia and Ukraine and the vulnerability of civilian areas. The continued targeting of Kyiv highlights Russia's strategic objectives in the region and its impact on the broader geopolitical landscape.",
-    "date_str": "July 10, 2025"
-  },
-  {
-    "title": "The US Sanctions UN Expert Francesca Albanese for Criticizing Israel's Gaza Offensive",
-    "link": "https://www.bbc.com/news/articles/c70rllxr0kyo",
-    "source": "BBC",
-    "pub_date": "Thu, 10 Jul 2025 00:36:34 GMT",
-    "summary": "The United States sanctioned Francesca Albanese, a UN expert critical of Israel's offensive in Gaza. Secretary of State Marco Rubio attributed the move to Albanese's support for the International Criminal Court (ICC). This action occurs against the backdrop of ongoing international scrutiny of Israel's military operations and the ICC's investigation into potential war crimes in Palestinian territories. The sanctions highlight the tensions between the U.S. and international bodies regarding the Israeli-Palestinian conflict. The move is likely to further strain relations between the U.S. and the UN Human Rights system, particularly concerning its approach to Israel.",
-    "date_str": "July 10, 2025"
-  },
-  {
-    "title": "Gaza Truce Negotiations Reportedly Stalled After Netanyahu-Trump Meeting",
-    "link": "https://www.bbc.com/news/articles/ce3newwl1zeo",
-    "source": "BBC",
-    "pub_date": "Wed, 09 Jul 2025 19:46:16 GMT",
-    "summary": "Despite a recent meeting between Benjamin Netanyahu and Donald Trump, indirect negotiations in Qatar between Israel and Hamas have reportedly stalled, hindering efforts to establish a truce in Gaza. A key point of contention, according to a Palestinian official, revolves around the logistics and mechanisms for distributing aid within Gaza, highlighting the complexities of reaching a consensus amid the ongoing conflict. This impasse underscores the persistent challenges facing mediators as they attempt to bridge the gaps between the warring parties, even with the involvement of key international figures. The failure to achieve a breakthrough threatens to prolong the humanitarian crisis and further destabilize the region.",
-    "date_str": "July 10, 2025"
-  },
-  {
-    "title": "Israel Initiates Ground Operation in Lebanon, Sparking Concerns About Ceasefire",
-    "text": "Israel has been conducting near-daily strikes against what it says are Hezbollah targets as the Iranian-backed group comes under pressure to disarm amid fears of a renewed war.",
-    "link": "https://www.nytimes.com/2025/07/09/world/middleeast/israel-lebanon.html",
-    "date_str": "July 09, 2025",
+    "title": "The Wartime Mining Boom Exports Rare Earths While Releasing Toxins",
+    "text": "Unregulated activity led by Chinese enterprises in conflict-ravaged Myanmar is creating an environmental calamity in neighboring Thailand.",
+    "link": "https://www.nytimes.com/2025/07/11/world/asia/myanmar-mining-thailand-china.html",
+    "date_str": "July 11, 2025",
     "source": "NYT",
-    "summary": "Amid rising tensions, Israel conducts frequent strikes against Hezbollah positions, citing the need to disarm the Iranian-backed group and prevent a wider conflict. This escalation occurs within the context of increased international pressure on Hezbollah to comply with existing UN resolutions related to its disarmament. The Israeli military defends its actions as necessary for national security, while Hezbollah, a key player in Lebanese politics, publicly condemns the strikes. The ongoing exchanges heighten the risk of miscalculation and a potential resurgence of large-scale hostilities between Israel and Hezbollah."
-  },
-  {
-    "title": "Putin Continues War in Ukraine Despite Trump's Criticism",
-    "text": "The Russian leader is convinced that Moscow’s battlefield superiority is growing, and that Ukraine’s defenses may collapse in the coming months, according to people close to the Kremlin.",
-    "link": "https://www.nytimes.com/2025/07/09/world/europe/russia-ukraine-putin-trump.html",
-    "date_str": "July 09, 2025",
-    "source": "NYT",
-    "summary": "Citing sources close to the Kremlin, this report indicates that Vladimir Putin believes Russia's military position in Ukraine is strengthening. He anticipates a potential collapse of Ukrainian defenses in the coming months, suggesting a pivotal shift in the trajectory of the conflict. Putin's assessment reflects a calculation regarding the battlefield dynamics and the resilience of Ukraine's forces, impacting Moscow's strategic decisions. This development occurs against the backdrop of ongoing military and economic aid from Western nations to Ukraine, as well as international efforts to mediate a resolution to the conflict."
+    "summary": "Unregulated Chinese business activity in Myanmar is causing significant environmental damage in Thailand. Specifically, Chinese enterprises operating in Myanmar's conflict zones are driving deforestation, pollution, and resource depletion. This issue highlights the destabilizing effects of unchecked economic activity and the challenges of managing cross-border environmental impacts stemming from regions with weak governance. Ultimately, the environmental degradation could strain relations between Thailand and Myanmar, as well as intensify regional concerns about China's economic influence."
   }
 ]
