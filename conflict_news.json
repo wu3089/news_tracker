@@ -1,26 +1,58 @@
 [
   {
-    "title": "An Israeli Official Says Iran May Recover Uranium After US Strikes",
-    "link": "https://www.bbc.com/news/articles/cn0qzxvydz1o",
+    "title": "Palestinian Officials Report Gaza Ceasefire Talks Near Collapse",
+    "link": "https://www.bbc.com/news/articles/cqjq9p87vdvo",
     "source": "BBC",
-    "pub_date": "Fri, 11 Jul 2025 09:53:09 GMT",
-    "summary": "Following U.S. strikes in June, an Israeli official suggests Iran could still recover some enriched uranium from its nuclear facilities, despite U.S. claims of complete obliteration. This assessment raises questions about the long-term effectiveness of the strikes and Iran's nuclear capabilities. The U.S. government maintains that the strikes successfully destroyed Iran's nuclear facilities. This development underscores the ongoing tensions between the U.S., Israel, and Iran, particularly concerning Iran's nuclear program and regional security.",
-    "date_str": "July 11, 2025"
+    "pub_date": "Sat, 12 Jul 2025 04:20:41 GMT",
+    "summary": "Palestinian officials claim Israel is intentionally stalling ceasefire negotiations in Qatar amidst the ongoing Israel-Gaza war. These accusations surface as the Israeli Prime Minister visits the United States, adding a layer of diplomatic complexity to the already strained talks. The potential collapse of these negotiations threatens to prolong the conflict, exacerbating the humanitarian crisis in Gaza. Hamas and Israel have been engaged in conflict, mediated by various international actors, to reach a sustainable ceasefire agreement. The current impasse underscores the deep divisions and lack of trust between the key players.",
+    "date_str": "July 12, 2025"
   },
   {
-    "title": "Hospital Says Israeli Strike in Gaza Killed Children Waiting for Supplements",
-    "link": "https://www.bbc.com/news/articles/c4gd01g1gxro",
+    "title": "Mother Mourns Sons Killed in Israeli Strike While Awaiting Aid",
+    "link": "https://www.bbc.com/news/articles/cy9xgrrq54go",
     "source": "BBC",
-    "pub_date": "Thu, 10 Jul 2025 21:09:56 GMT",
-    "summary": "Amidst the ongoing Israel-Gaza conflict, an Israeli strike in Deir al-Balah reportedly killed fifteen people, including eight children, as they queued for supplements outside a clinic. This incident highlights the dire humanitarian situation and the challenges of providing aid to civilians within the Gaza Strip. The event intensifies concerns regarding adherence to international humanitarian law and the protection of vulnerable populations during armed conflict. The Israeli government and Hamas continue to engage in hostilities, further exacerbating the crisis. This strike occurs within a context of escalating violence and underscores the urgent need for de-escalation and a sustainable resolution to the conflict.",
-    "date_str": "July 11, 2025"
+    "pub_date": "Sat, 12 Jul 2025 01:12:57 GMT",
+    "summary": "Amid the ongoing Israel-Gaza conflict, an Israeli strike in Deir al-Balah killed two sons of Iman al-Nouri and severely wounded a third as they waited outside a clinic for aid. This incident underscores the dire humanitarian crisis and risks to civilian populations within the Gaza Strip, specifically regarding access to essential resources and safety during aid distribution. The deaths further fuel concerns about adherence to international humanitarian law by parties engaged in the conflict and amplify calls for a ceasefire to facilitate the delivery of aid and protect civilians. The incident adds to the mounting scrutiny of Israel's military operations in densely populated areas, raising questions about proportionality and distinction in targeting.",
+    "date_str": "July 12, 2025"
   },
   {
-    "title": "The Wartime Mining Boom Exports Rare Earths While Releasing Toxins",
+    "title": "Health Ministry Reports Two Palestinians Killed in West Bank Settler Attack",
+    "link": "https://www.bbc.com/news/articles/cm2mknzn99eo",
+    "source": "BBC",
+    "pub_date": "Sat, 12 Jul 2025 09:25:13 GMT",
+    "summary": "According to the Palestinian Health Ministry, Israeli settlers attacked the town of Sinjil in the West Bank, resulting in the deaths of two Palestinians, one of whom held dual US citizenship. This incident underscores the escalating tensions and violence between Israelis and Palestinians in the occupied West Bank, a contested territory and a key point of contention in the ongoing Israeli-Palestinian conflict. The attack further complicates efforts to achieve a lasting peace agreement, especially given the involvement of a US citizen, which may draw increased attention from the United States government. The incident occurs amidst a backdrop of increased Israeli settlement activity and heightened security concerns in the West Bank.",
+    "date_str": "July 12, 2025"
+  },
+  {
+    "title": "The United States Has Resumed Military Aid to Ukraine, According to Zelensky",
+    "link": "https://www.bbc.com/news/articles/crl04200dp4o",
+    "source": "BBC",
+    "pub_date": "Fri, 11 Jul 2025 22:56:32 GMT",
+    "summary": "Following an agreement brokered by U.S. President Donald Trump, the United States has resumed providing military supplies to Ukraine, according to Ukrainian President Zelensky. The renewed assistance includes air defense systems facilitated through NATO, aiming to bolster Ukraine's defense capabilities amid ongoing conflict. This resumption marks a notable development in U.S. foreign policy toward the region, as it reaffirms Washington's commitment to supporting Ukraine's sovereignty. The United States' involvement occurs within the broader context of the ongoing war, where Ukraine continues to defend itself against Russian aggression.",
+    "date_str": "July 12, 2025"
+  },
+  {
+    "title": "Ethiopian War Refugees Were Later Impacted by American Bombs",
+    "text": "In April, U.S.-made bombs destroyed a detention facility that held Ethiopian migrants in Yemen, crushing bodies and shredding limbs. Amid official silence, the survivors are left wondering why.",
+    "link": "https://www.nytimes.com/2025/07/12/world/middleeast/ethiopia-yemen-american-bombs.html",
+    "date_str": "July 12, 2025",
+    "source": "NYT",
+    "summary": "In April, U.S.-made bombs struck a detention center housing Ethiopian migrants in Yemen, causing widespread devastation and raising serious questions about the conflict's impact on vulnerable populations. The attack highlights the complex interplay of U.S. arms exports, the ongoing war in Yemen involving multiple factions, and the plight of migrants seeking passage through the region. Survivors now grapple with the aftermath amid a lack of official explanation for the incident, underscoring the need for greater transparency and accountability in armed conflicts. This event risks further destabilizing the region and damaging U.S. credibility on human rights issues."
+  },
+  {
+    "title": "Wartime Mining Boom Exports Rare Earths and Emits Toxins",
     "text": "Unregulated activity led by Chinese enterprises in conflict-ravaged Myanmar is creating an environmental calamity in neighboring Thailand.",
     "link": "https://www.nytimes.com/2025/07/11/world/asia/myanmar-mining-thailand-china.html",
     "date_str": "July 11, 2025",
     "source": "NYT",
-    "summary": "Unregulated Chinese business activity in Myanmar is causing significant environmental damage in Thailand. Specifically, Chinese enterprises operating in Myanmar's conflict zones are driving deforestation, pollution, and resource depletion. This issue highlights the destabilizing effects of unchecked economic activity and the challenges of managing cross-border environmental impacts stemming from regions with weak governance. Ultimately, the environmental degradation could strain relations between Thailand and Myanmar, as well as intensify regional concerns about China's economic influence."
+    "summary": "Chinese enterprises, operating largely unchecked in Myanmar's conflict zones, are driving a major environmental crisis that is spilling into Thailand. These unregulated activities, likely involving resource extraction, are causing significant ecological damage across borders. This situation underscores the challenges of enforcing environmental regulations in areas with weak governance and ongoing conflict. The increased involvement of Chinese companies in Myanmar's natural resource sector further exacerbates existing tensions between regional stability and economic development."
+  },
+  {
+    "title": "Netanyahu Concludes Washington Trip; Gaza Truce Remains Elusive",
+    "text": "Benjamin Netanyahu, the Israeli prime minister, met several times with President Trump, amid rising hopes of a cease-fire in Gaza, but there are still obstacles to a truce with Hamas.",
+    "link": "https://www.nytimes.com/2025/07/11/world/middleeast/netanyahu-washington-gaza-talks.html",
+    "date_str": "July 11, 2025",
+    "source": "NYT",
+    "summary": "Amid escalating tensions in Gaza, Israeli Prime Minister Benjamin Netanyahu engaged in multiple discussions with President Donald Trump, signaling a concerted effort toward brokering a cease-fire with Hamas. These high-level meetings represent significant diplomatic engagement by the United States, a key ally of Israel, to de-escalate the conflict. Despite these efforts, obstacles remain in achieving a lasting truce, highlighting the persistent challenges in negotiating with Hamas. The situation unfolds against a backdrop of ongoing violence and humanitarian concerns in the Gaza Strip."
   }
 ]
