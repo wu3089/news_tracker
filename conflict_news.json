@@ -1,66 +1,42 @@
 [
   {
-    "title": "Emergency Officials Report Israeli Strike in Gaza Killed Children Fetching Water",
+    "title": "Clashes in Southern Syria Result in At Least Thirty Deaths",
+    "link": "https://www.bbc.com/news/articles/cgmwp70pwmyo",
+    "source": "BBC",
+    "pub_date": "Mon, 14 Jul 2025 09:52:36 GMT",
+    "summary": "Clashes erupted between Druze and Bedouin groups in southern Syria, specifically in Suweida and its surrounding areas, resulting in at least 30 fatalities. In response, the Syrian interior ministry deployed forces to intervene and stabilize the region. This violence underscores the fragility of security in southern Syria, where pre-existing tensions between communities often exacerbate the instability caused by the ongoing Syrian conflict. The Syrian government's intervention highlights its continued efforts to assert control over a region marked by a complex mix of local and external influences. These events could further complicate the already precarious humanitarian and political landscape within the country.",
+    "date_str": "July 14, 2025"
+  },
+  {
+    "title": "Gaza Officials Report Children Killed in Strike, While Israeli Military Admits Error",
     "link": "https://www.bbc.com/news/articles/c0rvxjnvv71o",
     "source": "BBC",
-    "pub_date": "Sun, 13 Jul 2025 12:17:56 GMT",
-    "summary": "Amid ongoing conflict in Gaza, an Israeli strike killed children fetching water, prompting condemnation and raising concerns about adherence to international humanitarian law. The Israeli military acknowledged a \"technical error\" in the strike, which they claim targeted a \"terrorist,\" and have launched a review of the incident. This event occurs within the broader context of heightened tensions between Israel and Palestinian factions, exacerbating the already dire humanitarian situation in Gaza, particularly regarding access to essential resources like water. International actors are closely monitoring the investigation, as the incident fuels further scrutiny of Israeli military operations and the protection of civilians in conflict zones. The incident underscores the vulnerability of civilian populations and the urgent need for de-escalation and improved mechanisms to prevent civilian casualties.",
-    "date_str": "July 13, 2025"
+    "pub_date": "Sun, 13 Jul 2025 16:29:05 GMT",
+    "summary": "Amidst ongoing tensions, an Israeli military strike in Gaza killed six children who were waiting for water, prompting condemnation from Gaza officials. The Israeli military admitted the strike resulted from an \"error,\" a significant acknowledgment given the scrutiny of civilian casualties in the conflict. This incident occurs within the broader context of the ongoing Israel-Gaza conflict, where the targeting of civilians raises concerns about adherence to international law and further complicates efforts toward a lasting resolution. Rushdi Abualouf of BBC News reported on the incident.",
+    "date_str": "July 14, 2025"
   },
   {
-    "title": "Israeli Settlers Killed Palestinians in West Bank Attack, According to Health Ministry",
-    "link": "https://www.bbc.com/news/articles/cm2mknzn99eo",
+    "title": "Russians Shared Their Predictions With The BBC On How The Ukraine War Will Conclude",
+    "link": "https://www.bbc.com/news/videos/c1wp55wqq0lo",
     "source": "BBC",
-    "pub_date": "Sat, 12 Jul 2025 14:34:23 GMT",
-    "summary": "Israeli settlers attacked the Palestinian town of Sinjil in the West Bank, resulting in the deaths of two Palestinians, as reported by the Palestinian health ministry. The violence involved the beating to death of a U.S. citizen and the shooting of another Palestinian. This incident occurs against the backdrop of ongoing tensions and disputes over land between Israeli settlers and Palestinians in the occupied West Bank, further inflaming the already volatile situation. The event risks escalating regional instability and draws attention to the increasing violence perpetrated by settlers.",
-    "date_str": "July 13, 2025"
+    "pub_date": "Fri, 11 Jul 2025 16:24:19 GMT",
+    "summary": "At a \"Patriotic Festival\" near Moscow, Russia, the BBC gauged Russian sentiment on the war in Ukraine, finding that a key message promoted is the idea of Russian victory. The Russian government, along with media outlets, have consistently framed the conflict in this way, which likely influences public perception. This messaging occurs against the backdrop of ongoing military operations and international sanctions, and shapes how Russians perceive the war's potential outcomes and Russia's role in the conflict. Understanding these perspectives is crucial for analyzing the domestic implications of the war within Russia and its potential impact on the broader geopolitical landscape.",
+    "date_str": "July 14, 2025"
   },
   {
-    "title": "North Korea Reaffirms Its Support for Russia's War in Ukraine",
-    "link": "https://www.bbc.com/news/articles/czeyxrng6gro",
-    "source": "BBC",
-    "pub_date": "Sat, 12 Jul 2025 23:13:58 GMT",
-    "summary": "During a meeting in Wonsan, North Korea, Kim Jong Un reaffirmed North Korea's support for Russia's ongoing war in Ukraine to Russian Foreign Minister Sergei Lavrov. This pledge of support underscores the deepening relationship between North Korea and Russia amid increasing international isolation for both countries. Russia's need for military supplies and North Korea's desire for economic and technological assistance likely drive this alignment. This development raises concerns about the potential for North Korea to supply Russia with weapons, further escalating the conflict in Ukraine and violating international sanctions.",
-    "date_str": "July 13, 2025"
-  },
-  {
-    "title": "Gaza Hospital Reports Twenty-Four Deaths Near Aid Site, Witnesses Blame Israeli Forces",
-    "link": "https://www.bbc.com/news/articles/cp90v2ng70yo",
-    "source": "BBC",
-    "pub_date": "Sat, 12 Jul 2025 21:49:47 GMT",
-    "summary": "Amidst the ongoing conflict, a Gaza hospital reported that 24 people died near an aid distribution site, with witnesses alleging that Israeli troops opened fire on civilians seeking food. The Israel Defense Forces (IDF) refute these claims, stating they have no knowledge of injuries resulting from their operations. This incident occurs within the broader context of the Israel-Gaza war, exacerbating concerns over humanitarian aid access and civilian safety. The conflicting accounts highlight the difficulty in verifying events on the ground and the growing international pressure for a ceasefire. These circumstances, if confirmed, would likely intensify scrutiny of the IDF's rules of engagement and further complicate efforts to deliver crucial assistance to Palestinian civilians.",
-    "date_str": "July 13, 2025"
-  },
-  {
-    "title": "The United States Has Resumed Supplying Military Aid to Ukraine, According to Zelensky",
-    "link": "https://www.bbc.com/news/articles/crl04200dp4o",
-    "source": "BBC",
-    "pub_date": "Fri, 11 Jul 2025 22:56:32 GMT",
-    "summary": "Volodymyr Zelensky announced that the United States has resumed providing military supplies to Ukraine, marking a significant continuation of support amid ongoing conflict. This resumption follows an announcement by U.S. President Donald Trump regarding a new agreement to supply air defense systems to Ukraine through NATO. The renewed commitment from the U.S. aims to bolster Ukraine's defense capabilities as it continues to face Russian aggression, highlighting the crucial role of international alliances in the region. These supplies come after a period of uncertainty, suggesting a renewed focus on supporting Ukraine's sovereignty and territorial integrity. The continued provision of military aid signals ongoing geopolitical engagement by the United States in Eastern Europe.",
-    "date_str": "July 13, 2025"
-  },
-  {
-    "title": "Rusting Relics Once Guarded Against Nuclear War Remain in Canada's Northern Outposts",
-    "text": "Strings of radars stretching across Canada were built to give early warnings of Soviet bombers coming over the Arctic. The region now faces a new era of militarization.",
-    "link": "https://www.nytimes.com/2025/07/13/world/americas/canada-cold-war-golden-dome.html",
-    "date_str": "July 13, 2025",
+    "title": "Trump Is Expected to Reveal New Weapons Aid for Ukraine",
+    "text": "Under the plan, other NATO countries would buy U.S.-made arms, then give them to Ukraine to defend itself against Russia. NATO’s secretary general was set to meet Mr. Trump on Monday.",
+    "link": "https://www.nytimes.com/2025/07/14/world/europe/ukraine-weapons-nato-patriots.html",
+    "date_str": "July 14, 2025",
     "source": "NYT",
-    "summary": "As the Arctic undergoes renewed strategic significance, Canada confronts a new era of militarization in the region. Historically, Canada built radar systems to detect Soviet bombers, reflecting Cold War tensions in the Arctic. Now, geopolitical competition between Russia, China, and the United States drives increased military activity and technological advancement in the area. The shift necessitates reassessment and modernization of Canada's Arctic defense posture to address evolving threats and secure its sovereignty in this vital and increasingly contested domain."
+    "summary": "NATO allies are considering a plan to purchase U.S.-manufactured weapons and subsequently transfer them to Ukraine, aiming to bolster its defense capabilities against Russia; this initiative seeks to leverage American arms production to support Kyiv amid ongoing conflict. NATO Secretary General is scheduled to meet with Donald Trump to discuss this and related security matters. These discussions occur against the backdrop of continued Russian aggression in Ukraine and debates surrounding the level of Western military aid."
   },
   {
-    "title": "Israeli Strike in Gaza City Reportedly Kills At Least Eleven",
-    "text": "Gaza’s Civil Defense, an emergency rescue group, said that dozens were also wounded when Israel’s military struck a crowded downtown junction.",
+    "title": "Officials Say an Israeli Strike in Central Gaza Killed at Least Ten, Including Children",
+    "text": "Israel’s military said a “technical error” had caused munition to land dozens of meters from its target. The victims were gathered near a water distribution point, health workers said.",
     "link": "https://www.nytimes.com/2025/07/13/world/middleeast/gaza-israel-market.html",
     "date_str": "July 13, 2025",
     "source": "NYT",
-    "summary": "Israeli military forces struck a busy downtown intersection in Gaza, resulting in numerous casualties, according to Gaza's Civil Defense. This event underscores the escalating conflict between Israel and Hamas and highlights the dire humanitarian situation within the densely populated Gaza Strip. The increased civilian casualties exacerbate tensions and further complicate ongoing diplomatic efforts to achieve a ceasefire and de-escalate the crisis. Hamas has yet to release a statement on the matter."
-  },
-  {
-    "title": "Two Palestinians Were Killed During a West Bank Clash with Israeli Settlers",
-    "text": "Palestinian authorities and family members said Israeli settlers beat and killed a Palestinian-American man. Israel said the violence began when Palestinians threw stones at Israeli civilians.",
-    "link": "https://www.nytimes.com/2025/07/12/world/middleeast/palestinians-killed-by-israelis-in-west-bank.html",
-    "date_str": "July 12, 2025",
-    "source": "NYT",
-    "summary": "The death of a Palestinian-American man in the West Bank ignited tensions between Israelis and Palestinians amidst ongoing conflict in the region. Palestinian sources claim Israeli settlers beat and killed the man, while Israel asserts the incident stemmed from Palestinians hurling stones at Israeli civilians. This event further inflames already heightened tensions between Israelis and Palestinians in the West Bank, a region marked by frequent clashes and disputes over land and security. The United States, alongside international actors, is likely to face increased pressure to mediate a resolution and prevent further escalation."
+    "summary": "The Israel Defense Forces (IDF) acknowledged a \"technical error\" caused a munition to deviate from its intended target, resulting in civilian casualties near a water distribution point. This incident, reported by health workers, underscores the risks of unintended harm in densely populated areas during military operations. The IDF's admission of error highlights the challenges of maintaining precision in conflict and raises concerns about adherence to international humanitarian law regarding the protection of civilians. The event occurred amidst ongoing conflict between Israel and Hamas, further straining the already dire humanitarian situation in the affected region."
   }
 ]
