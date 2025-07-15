@@ -1,42 +1,58 @@
 [
   {
-    "title": "Clashes in Southern Syria Result in At Least Thirty Deaths",
+    "title": "Trump's NATO Weapons Deal for Ukraine Draws Anger From MAGA Supporters",
+    "link": "https://www.bbc.com/news/articles/c14e2ydv4d6o",
+    "source": "BBC",
+    "pub_date": "Tue, 15 Jul 2025 09:38:38 GMT",
+    "summary": "Despite a NATO weapons deal for Ukraine, key Trump allies, including Marjorie Taylor Greene and Steve Bannon, voice strong opposition, highlighting a continued rift within the Republican party regarding U.S. foreign policy and the conflict in Ukraine. This criticism underscores the challenge Trump faces in maintaining party unity on international issues, particularly as it relates to his base's isolationist tendencies. The deal reignites the debate over U.S. involvement in the war, exposing divisions between traditional Republican foreign policy and the \"America First\" approach championed by some of Trump's most vocal supporters. These dissenting voices reveal potential obstacles to future bipartisan support for aid to Ukraine should Trump regain political power.",
+    "date_str": "July 15, 2025"
+  },
+  {
+    "title": "Israel Bombed Syrian Forces Entering Druze City After Sectarian Clashes",
+    "link": "https://www.bbc.com/news/articles/c89e3j4e911o",
+    "source": "BBC",
+    "pub_date": "Tue, 15 Jul 2025 11:12:19 GMT",
+    "summary": "Amidst escalating clashes between Druze militias and Bedouin tribes in Suweida, Syria, which have reportedly resulted in approximately 100 fatalities, Syrian forces entered the predominantly Druze city. Israel responded by bombing these Syrian forces, escalating regional tensions and raising concerns about the spillover of the Syrian conflict. The Israeli action underscores its continued interest in preventing specific actors' entrenchment near its borders, particularly given the complex dynamics of the Syrian civil war and the involvement of various factions. These events highlight the fragility of the region and the potential for further escalation involving state and non-state actors.",
+    "date_str": "July 15, 2025"
+  },
+  {
+    "title": "Gaza Father Expresses Outrage As Israeli Strike Kills Son Seeking Water",
+    "link": "https://www.bbc.com/news/articles/ckglpk9xjewo",
+    "source": "BBC",
+    "pub_date": "Mon, 14 Jul 2025 20:35:00 GMT",
+    "summary": "On Sunday, an Israeli strike in the Nuseirat refugee camp in central Gaza killed ten Palestinians, including six children, at a water distribution point, exacerbating the already dire humanitarian situation in the region. Mahmoud Abdul Rahman, a Gaza father, expressed outrage after his son was killed in the strike while seeking water. The incident highlights the ongoing challenges civilians face in accessing basic necessities amidst the Israel-Gaza conflict. This event occurs within the broader context of the ongoing Israeli-Palestinian conflict and raises concerns about the protection of civilians during military operations.",
+    "date_str": "July 15, 2025"
+  },
+  {
+    "title": "Dozens Died Amid Clashes Between Druze and Bedouin in Southern Syria",
     "link": "https://www.bbc.com/news/articles/cgmwp70pwmyo",
     "source": "BBC",
-    "pub_date": "Mon, 14 Jul 2025 09:52:36 GMT",
-    "summary": "Clashes erupted between Druze and Bedouin groups in southern Syria, specifically in Suweida and its surrounding areas, resulting in at least 30 fatalities. In response, the Syrian interior ministry deployed forces to intervene and stabilize the region. This violence underscores the fragility of security in southern Syria, where pre-existing tensions between communities often exacerbate the instability caused by the ongoing Syrian conflict. The Syrian government's intervention highlights its continued efforts to assert control over a region marked by a complex mix of local and external influences. These events could further complicate the already precarious humanitarian and political landscape within the country.",
-    "date_str": "July 14, 2025"
+    "pub_date": "Mon, 14 Jul 2025 16:08:41 GMT",
+    "summary": "Clashes between Druze and Bedouin tribes in Syria's southern Suweida province have resulted in dozens of fatalities, highlighting the ongoing instability and complex tribal dynamics within the country. The Syrian Interior Ministry has deployed forces to intervene and attempt to quell the violence, underscoring the government's effort to maintain control in a region with a history of autonomy. These clashes further complicate Syria's already fragile security situation, as the country continues to grapple with the aftermath of civil war and the presence of various armed groups. The fighting raises concerns about the potential for escalation and further displacement in the region, exacerbating the humanitarian crisis. Resolution of the conflict will likely require addressing long-standing grievances and power imbalances between the Druze and Bedouin communities, as well as broader efforts to stabilize the Syrian state.",
+    "date_str": "July 15, 2025"
   },
   {
-    "title": "Gaza Officials Report Children Killed in Strike, While Israeli Military Admits Error",
-    "link": "https://www.bbc.com/news/articles/c0rvxjnvv71o",
-    "source": "BBC",
-    "pub_date": "Sun, 13 Jul 2025 16:29:05 GMT",
-    "summary": "Amidst ongoing tensions, an Israeli military strike in Gaza killed six children who were waiting for water, prompting condemnation from Gaza officials. The Israeli military admitted the strike resulted from an \"error,\" a significant acknowledgment given the scrutiny of civilian casualties in the conflict. This incident occurs within the broader context of the ongoing Israel-Gaza conflict, where the targeting of civilians raises concerns about adherence to international law and further complicates efforts toward a lasting resolution. Rushdi Abualouf of BBC News reported on the incident.",
-    "date_str": "July 14, 2025"
-  },
-  {
-    "title": "Russians Shared Their Predictions With The BBC On How The Ukraine War Will Conclude",
-    "link": "https://www.bbc.com/news/videos/c1wp55wqq0lo",
-    "source": "BBC",
-    "pub_date": "Fri, 11 Jul 2025 16:24:19 GMT",
-    "summary": "At a \"Patriotic Festival\" near Moscow, Russia, the BBC gauged Russian sentiment on the war in Ukraine, finding that a key message promoted is the idea of Russian victory. The Russian government, along with media outlets, have consistently framed the conflict in this way, which likely influences public perception. This messaging occurs against the backdrop of ongoing military operations and international sanctions, and shapes how Russians perceive the war's potential outcomes and Russia's role in the conflict. Understanding these perspectives is crucial for analyzing the domestic implications of the war within Russia and its potential impact on the broader geopolitical landscape.",
-    "date_str": "July 14, 2025"
-  },
-  {
-    "title": "Trump Is Expected to Reveal New Weapons Aid for Ukraine",
-    "text": "Under the plan, other NATO countries would buy U.S.-made arms, then give them to Ukraine to defend itself against Russia. NATO’s secretary general was set to meet Mr. Trump on Monday.",
-    "link": "https://www.nytimes.com/2025/07/14/world/europe/ukraine-weapons-nato-patriots.html",
-    "date_str": "July 14, 2025",
+    "title": "We Know the Details of the U.S. Plan for Weapons to Ukraine",
+    "text": "NATO allies will buy arms, then give them to Ukraine, President Trump said.",
+    "link": "https://www.nytimes.com/2025/07/15/world/europe/ukraine-weapons-us-nato.html",
+    "date_str": "July 15, 2025",
     "source": "NYT",
-    "summary": "NATO allies are considering a plan to purchase U.S.-manufactured weapons and subsequently transfer them to Ukraine, aiming to bolster its defense capabilities against Russia; this initiative seeks to leverage American arms production to support Kyiv amid ongoing conflict. NATO Secretary General is scheduled to meet with Donald Trump to discuss this and related security matters. These discussions occur against the backdrop of continued Russian aggression in Ukraine and debates surrounding the level of Western military aid."
+    "summary": "Former President Trump stated that NATO allies would purchase weaponry and subsequently transfer it to Ukraine, signaling a shift in his previously skeptical stance towards direct US aid to the country. This approach places financial responsibility on European allies while still channeling vital resources to Ukraine's defense against Russian aggression. The proposal comes amid ongoing debates within the United States regarding the level and nature of its involvement in the conflict and aims to leverage NATO's collective capabilities in supporting Ukraine without directly committing US taxpayer dollars. The arrangement seeks to balance Trump's long-held reservations about foreign aid with the strategic imperative of bolstering Ukraine's resilience against Russian expansionism."
   },
   {
-    "title": "Officials Say an Israeli Strike in Central Gaza Killed at Least Ten, Including Children",
-    "text": "Israel’s military said a “technical error” had caused munition to land dozens of meters from its target. The victims were gathered near a water distribution point, health workers said.",
-    "link": "https://www.nytimes.com/2025/07/13/world/middleeast/gaza-israel-market.html",
-    "date_str": "July 13, 2025",
+    "title": "Israel Launched Airstrikes Against Syria and Lebanon",
+    "text": "In Syria, Israel launched rare attacks on forces of the new government, while in Lebanon it took aim at the Iran-backed militant group Hezbollah.",
+    "link": "https://www.nytimes.com/2025/07/15/world/middleeast/airstrikes-israel-syria-lebanon.html",
+    "date_str": "July 15, 2025",
     "source": "NYT",
-    "summary": "The Israel Defense Forces (IDF) acknowledged a \"technical error\" caused a munition to deviate from its intended target, resulting in civilian casualties near a water distribution point. This incident, reported by health workers, underscores the risks of unintended harm in densely populated areas during military operations. The IDF's admission of error highlights the challenges of maintaining precision in conflict and raises concerns about adherence to international humanitarian law regarding the protection of civilians. The event occurred amidst ongoing conflict between Israel and Hamas, further straining the already dire humanitarian situation in the affected region."
+    "summary": "Israel escalated its regional campaign by conducting strikes against Syrian government forces and Hezbollah in Lebanon. These actions mark a significant expansion of Israel's efforts to counter Iranian influence and prevent the entrenchment of hostile actors near its borders. The strikes come amid heightened tensions and signal Israel's determination to actively shape the security landscape in the region despite the risks of further destabilization. Israel, Syria, Lebanon, Iran, and Hezbollah are the key actors involved in these events."
+  },
+  {
+    "title": "Israel and Iran Have Started a New Phase of Psychological Warfare",
+    "text": "The 12-day conflict was marked by a flurry of propaganda, disinformation and covert operations aided by artificial intelligence and spread by social media.",
+    "link": "https://www.nytimes.com/2025/07/15/technology/israel-iran-psychological-warfare.html",
+    "date_str": "July 15, 2025",
+    "source": "NYT",
+    "summary": "The proliferation of AI-driven propaganda and disinformation via social media amplified tensions during the recent 12-day conflict, marking a new era in information warfare. Various state and non-state actors aggressively employed these tactics, significantly complicating efforts to assess the situation on the ground and potentially influencing public opinion. This highlights the increasing vulnerability of information ecosystems to manipulation, posing a challenge to international stability and requiring immediate analysis by policymakers and technology experts. Such tactics also emphasize the increasingly important role social media companies play in geopolitical conflicts."
   }
 ]
