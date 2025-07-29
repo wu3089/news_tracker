@@ -1,26 +1,42 @@
 [
   {
-    "title": "More Than 40 Killed in Democratic Republic of Congo Attack, Tied to Islamic State",
-    "link": "https://www.bbc.com/news/articles/c3ezjg34lw4o",
+    "title": "Russia Struck a Ukrainian Prison, Killing Seventeen and Injuring Many",
+    "link": "https://www.bbc.com/news/articles/cj0y45mdjp7o?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
-    "pub_date": "Mon, 28 Jul 2025 08:05:16 GMT",
-    "summary": "Islamist militants, allegedly linked to the Islamic State (IS), attacked Christian worshippers during a night vigil in Komanda, Democratic Republic of Congo, killing over forty people. The Allied Democratic Forces (ADF), a Ugandan armed group operating in the DRC and associated with IS, stands accused of perpetrating the massacre, further destabilizing the already volatile region. This incident underscores the persistent threat posed by armed groups and the expansion of IS-affiliated networks in Central Africa, exacerbating religious tensions and humanitarian concerns. The Congolese government faces mounting pressure to address the security vacuum that allows groups like the ADF to operate with impunity.",
-    "date_str": "July 28, 2025"
+    "pub_date": "Tue, 29 Jul 2025 09:07:30 GMT",
+    "summary": "Amidst ongoing conflict in the Zaporizhzhia region, Russia struck a prison in Ukraine, killing 17 and wounding dozens. This attack occurred as former U.S. President Donald Trump renewed calls for a ceasefire between the warring parties. The incident highlights the continued intensity of the conflict in eastern Ukraine and the complex geopolitical dynamics involving key international actors. The prison strike adds to a series of attacks in the frontline region, exacerbating humanitarian concerns and complicating efforts toward de-escalation.",
+    "date_str": "July 29, 2025"
   },
   {
-    "title": "School Leavers Are Dying for Russia in Putin's War in Ukraine",
-    "link": "https://www.bbc.com/news/articles/ce9xkg7dmd5o",
+    "title": "A Pro-Ukraine Hacker Group Claims Responsibility for Aeroflot Cyberattack",
+    "link": "https://www.bbc.com/news/articles/c87e0ydy3d4o?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
-    "pub_date": "Sat, 26 Jul 2025 00:54:03 GMT",
-    "summary": "Despite Russia's assurances that it would not deploy soldiers under 18, a BBC investigation reveals that recent school leavers have been killed in action in Ukraine, raising concerns about recruitment practices and potential violations of international law. The investigation uncovers this contradiction as the war continues under the leadership of Vladimir Putin. This challenges Moscow's claims and highlights the human cost of the conflict for young Russians. The findings add a new layer to the ongoing scrutiny of Russia's military conduct and its impact on the Ukrainian populace.",
-    "date_str": "July 28, 2025"
+    "pub_date": "Mon, 28 Jul 2025 14:40:32 GMT",
+    "summary": "A pro-Ukraine hacker group claimed responsibility for a cyber-attack targeting Aeroflot, Russia's national carrier. The Kremlin responded by expressing concern over the reports. This attack occurs amidst the ongoing Russia-Ukraine war, where cyber warfare has become an increasingly prominent tactic. The incident highlights the vulnerability of critical infrastructure and the potential for disruption by non-state actors amid geopolitical conflict.",
+    "date_str": "July 29, 2025"
   },
   {
-    "title": "Israelis Are Voicing Dissent Against the Gaza War, Saying \"Revenge Is Not a Policy.\"",
-    "text": "After a long silence, prominent Israelis and activists are increasingly raising alarms about potential war crimes being carried out by the government.",
-    "link": "https://www.nytimes.com/2025/07/28/world/middleeast/israel-dissent-war-gaza.html",
+    "title": "Trump Urges Putin to Agree to a Ukraine Ceasefire Within Ten to Twelve Days",
+    "link": "https://www.bbc.com/news/articles/c707zrrd7xqo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "pub_date": "Mon, 28 Jul 2025 15:12:56 GMT",
+    "summary": "Former U.S. President Donald Trump stated that Vladimir Putin must agree to a ceasefire in Ukraine within days, emphasizing the lack of progress toward peace. Trump, speaking from his Turnberry golfing resort in Scotland, believes there is \"no reason\" for further delay in ending the conflict. His comments come amid ongoing international efforts to mediate a resolution between Russia and Ukraine, though concrete advancements remain elusive. The statement highlights Trump's continued interest in the Russia-Ukraine conflict and his belief in his ability to negotiate a swift resolution, a position he has maintained since leaving office. The context involves a protracted war with stalled peace negotiations, indicating a potentially significant shift in approach were Trump to be involved.",
+    "date_str": "July 29, 2025"
+  },
+  {
+    "title": "Israel's Return to War in Gaza Caused Destruction and Limited Benefit",
+    "text": "Israel ended a truce in Gaza in March, hoping to break Hamas. The move has heightened suffering for Palestinians but achieved few, if any, Israeli goals.",
+    "link": "https://www.nytimes.com/2025/07/28/world/israel-gaza-hamas-all-out-war-failure.html",
     "date_str": "July 28, 2025",
     "source": "NYT",
-    "summary": "Mounting concerns are emerging in Israel as prominent figures and activists allege potential war crimes committed by the Israeli government. This development breaks a period of relative silence and suggests a growing divide within Israeli society regarding military conduct. The allegations, while unspecified in the original statement, likely stem from ongoing conflicts and carry significant implications for Israel's international standing and legal accountability. This internal dissent could prompt investigations and potentially reshape Israel's foreign policy approach."
+    "summary": "Following Israel's decision to end a truce in Gaza, the conflict intensified, exacerbating the humanitarian crisis for Palestinian civilians. Israel, aiming to weaken Hamas, has seen limited strategic gains from the renewed military operations. This resumption of hostilities, occurring against a backdrop of ongoing regional instability, underscores the complexities and challenges in achieving a lasting resolution to the Israeli-Palestinian conflict. The consequences of this action primarily impact civilian populations and prolong the cycle of violence."
+  },
+  {
+    "title": "Pro-Ukrainian Hackers Claim Responsibility After Aeroflot Grounds Flights Due to Cyberattack",
+    "text": "The hack may have been part of a campaign to disrupt the sense of normalcy Russians have mostly enjoyed since the start of the war.",
+    "link": "https://www.nytimes.com/2025/07/28/world/europe/aeroflot-hackers-ukraine.html",
+    "date_str": "July 28, 2025",
+    "source": "NYT",
+    "summary": "Cyber actors likely conducted a hacking operation in Russia, potentially aiming to undermine the perception of stability experienced by many Russian citizens since the onset of the war in Ukraine. While details remain scarce, this incident suggests a growing effort to leverage information warfare tactics within Russia itself. Such actions could signal increased domestic dissent or attempts by external actors to sow discord and challenge the Kremlin's narrative. The Kremlin, facing pressure from the ongoing conflict in Ukraine and its economic consequences, likely views this cyberattack as a direct threat to its authority and control over information."
   }
 ]
