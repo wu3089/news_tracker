@@ -1,26 +1,34 @@
 [
   {
-    "title": "Ukraine Drone Attack Causes Fire at Sochi Oil Depot, Russian Authorities Report",
+    "title": "Ukraine Drone Attack Reportedly Ignites Fire at Sochi Oil Depot, Russia Claims",
     "link": "https://www.bbc.com/news/articles/ckglyv396ppo?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
-    "pub_date": "Sun, 03 Aug 2025 07:21:03 GMT",
-    "summary": "Amidst the ongoing conflict, Ukraine reportedly launched a drone attack that ignited a fire at an oil depot in Sochi, Russia, according to Russian authorities. Simultaneously, Ukraine reported that Russian missiles struck Mykolaiv, resulting in injuries to at least seven people. These events highlight the continued escalation and geographic expansion of the conflict between Ukraine, led by Volodymyr Zelensky, and Russia, led by Vladimir Putin. This exchange of attacks underscores the vulnerability of both nations' infrastructure and the human cost of the war, further complicating diplomatic efforts to de-escalate the crisis. The attacks also emphasize the evolving nature of warfare with the increased use of drone technology.",
-    "date_str": "August 03, 2025"
+    "pub_date": "Sun, 03 Aug 2025 14:25:47 GMT",
+    "summary": "According to Russian sources, Ukraine launched a drone attack that ignited a fire at an oil depot near Sochi, Russia, highlighting the conflict's expansion beyond Ukraine's borders and its impact on Russian infrastructure. Simultaneously, Ukraine reported that Russian air strikes targeted the southern cities of Kherson and Mykolaiv, demonstrating the ongoing reciprocal nature of attacks. These events occur against the backdrop of the larger conflict between Russia, led by Vladimir Putin, and Ukraine, led by Volodymyr Zelensky, rooted in Russia's invasion and occupation of Ukrainian territory. This exchange of attacks suggests an escalation in the conflict, with both sides increasingly targeting strategic assets within each other's territory. The international community closely monitors these developments, as they could further destabilize the region and impact global energy markets.",
+    "date_str": "August 04, 2025"
   },
   {
-    "title": "Ukrainian Officials Are Detained in Military Drone Corruption Investigation",
-    "link": "https://www.bbc.com/news/articles/c4gq3xwr357o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "pub_date": "Sun, 03 Aug 2025 00:35:01 GMT",
-    "summary": "Ukrainian authorities detained officials amidst a military drone corruption probe, signaling an effort to combat graft within the defense sector. The arrests occurred just two days after Ukraine restored the independence of its anti-corruption agencies, highlighting the government's renewed commitment to transparency. These actions demonstrate Kyiv's resolve to address corruption concerns as it continues to rely on international aid and military assistance in its conflict. While the article does not name specific individuals, the move likely involves figures within the defense ministry or procurement agencies responsible for acquiring drone technology. This probe underscores the importance of accountability and effective resource management in Ukraine's ongoing war effort.",
-    "date_str": "August 03, 2025"
-  },
-  {
-    "title": "Aid Group Confirms Worker Death in Gaza HQ Attack by Israeli Military",
+    "title": "Aid Group Reports Worker Fatally Shot by Israeli Military in Gaza Headquarters Attack",
     "link": "https://www.bbc.com/news/articles/cx2x5eyl676o?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
-    "pub_date": "Sun, 03 Aug 2025 10:32:45 GMT",
-    "summary": "Amidst the ongoing Israel-Gaza conflict, the Palestine Red Crescent accuses the Israeli military of deliberately striking its Gaza headquarters, resulting in the death of one aid worker. Israel claims they possess no information regarding the incident. The event raises concerns about the protection of humanitarian personnel and infrastructure in conflict zones, adding to the complexities of the Israeli-Palestinian conflict. This comes as international organizations continue to call for de-escalation and adherence to international humanitarian law. The lack of clarity surrounding the attack underscores the need for independent investigations to determine the facts and ensure accountability.",
-    "date_str": "August 03, 2025"
+    "pub_date": "Sun, 03 Aug 2025 21:43:27 GMT",
+    "summary": "Amid ongoing tensions, the Palestine Red Crescent Society reports that an Israeli military strike killed one of their workers at the organization's headquarters in Gaza. The aid group alleges a \"direct\" strike by Israeli forces, while Israel states they are currently reviewing the claim. This incident occurs within the broader context of the Israel-Gaza conflict, raising concerns about the protection of humanitarian personnel and infrastructure. The event may further strain relations between Israel and international aid organizations operating in the region.",
+    "date_str": "August 04, 2025"
+  },
+  {
+    "title": "A Massive Explosion Devastated a Russian Oil Facility",
+    "link": "https://www.bbc.com/news/videos/c07pkyg22l8o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "pub_date": "Sun, 03 Aug 2025 02:53:22 GMT",
+    "summary": "Ukraine claimed responsibility for a series of strikes targeting Russian military infrastructure, including an explosion that struck a Russian oil facility. The attack signifies Ukraine's continued effort to degrade Russia's logistical capabilities and war-fighting capacity. The specific location of the oil facility remains unspecified, but the event underscores the ongoing conflict between Ukraine and Russia and the increasing frequency of Ukrainian strikes within Russian territory. This action, part of a broader strategy, aims to disrupt Russia's ability to supply its forces and finance the war.",
+    "date_str": "August 04, 2025"
+  },
+  {
+    "title": "Ukraine Announces Arrests Related to Corruption in Military Procurement",
+    "text": "The arrests came days after President Volodymyr Zelensky’s U-turn on an effort to neuter anticorruption agencies.",
+    "link": "https://www.nytimes.com/2025/08/03/world/europe/ukraine-corruption-zelensky.html",
+    "date_str": "August 03, 2025",
+    "source": "NYT",
+    "summary": "Ukraine's law enforcement agencies arrested several individuals on corruption charges, signaling a renewed commitment to fighting graft. These arrests follow President Zelensky's recent reversal of a controversial policy that would have weakened anti-corruption bodies, a decision made amidst pressure from international partners and domestic reformers. This crackdown attempts to reaffirm Ukraine's dedication to transparency and accountability, which is crucial for maintaining international support during the ongoing conflict with Russia and furthering its aspirations for European integration. The actions highlight the ongoing tension between wartime exigencies and the necessity for good governance in Ukraine."
   }
 ]
