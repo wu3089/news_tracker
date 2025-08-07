@@ -1,34 +1,42 @@
 [
   {
-    "title": "Russian Attacks in Ukraine Have Doubled Since Trump's Inauguration",
+    "title": "Russian Attacks on Ukraine Have Doubled Since Trump's Inauguration",
     "link": "https://www.bbc.com/news/articles/c5yl6eegv63o?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
     "pub_date": "Wed, 06 Aug 2025 07:46:45 GMT",
-    "summary": "Since Donald Trump's inauguration and his calls for peace, Russia has doubled its missile and drone attacks on Ukraine. This escalation occurs despite Trump's stated intention to end the war, highlighting a divergence between rhetoric and action. Russia, under the leadership of Vladimir Putin, continues its military campaign against Ukraine. The conflict, rooted in long-standing geopolitical tensions, underscores the complexities of achieving a resolution amidst competing strategic interests of key players like the United States, Russia and Ukraine.",
-    "date_str": "August 06, 2025"
+    "summary": "Since Donald Trump's inauguration, Russian missile and drone attacks against Ukraine have doubled, despite his stated intentions to de-escalate the conflict. This escalation underscores the complexities of the Russia-Ukraine war, where key actors like Trump and Vladimir Putin pursue divergent strategies. The increased attacks represent the highest levels of conflict seen thus far and contradict Trump's promises to seek peaceful resolutions. These developments challenge assumptions about potential shifts in U.S. foreign policy regarding the ongoing war, highlighting the persistent tensions in the region.",
+    "date_str": "August 07, 2025"
   },
   {
-    "title": "UN Warns Starvation Threatens Besieged Sudan City Residents",
-    "link": "https://www.bbc.com/news/articles/c776njyl74po?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "pub_date": "Tue, 05 Aug 2025 13:59:07 GMT",
-    "summary": "The UN warns that residents of El-Fasher, Sudan, face starvation as the Rapid Support Forces (RSF) have encircled the city, preventing food deliveries for over a year. This blockade exacerbates the already dire humanitarian situation stemming from the ongoing Sudanese civil war between the RSF and the Sudanese army. The conflict, which began in April 2023, has displaced millions and created a severe food crisis, particularly impacting vulnerable populations in the Darfur region. International actors are attempting to negotiate access and aid to the city.",
-    "date_str": "August 06, 2025"
-  },
-  {
-    "title": "A Truce Has Quieted the Syrian City Torn by Sectarian Clashes",
-    "text": "The fighting has stopped in the southern city of Sweida, three weeks after a deadly eruption of violence. But the area remains tense as clashes continue beyond the city.",
-    "link": "https://www.nytimes.com/2025/08/06/world/middleeast/syria-truce-sweida.html",
-    "date_str": "August 06, 2025",
+    "title": "Netanyahu Considers Expanding Gaza Military Operation Amid Warnings",
+    "text": "The Israeli security cabinet is to discuss the proposal on Thursday. Critics say that extending the offensive would endanger the lives of Israeli hostages and kill more Palestinian civilians.",
+    "link": "https://www.nytimes.com/2025/08/07/world/middleeast/israel-gaza-military-offensive.html",
+    "date_str": "August 07, 2025",
     "source": "NYT",
-    "summary": "Fighting initially erupted in Sweida, Syria, three weeks prior, but despite ceasing within the city limits, violence persists in the surrounding areas, signaling continued instability. Syrian government forces and various local armed groups remain key actors, vying for control and influence in the region. This persistent unrest underscores the fragility of the Assad regime's control in southern Syria and highlights the complex dynamics between the central government and local actors in a region marked by long-standing grievances and a history of autonomy."
+    "summary": "The Israeli security cabinet will debate a proposal on Thursday to extend the ongoing military offensive. This discussion occurs amidst escalating concerns about the safety of Israeli hostages held by Hamas and a rising Palestinian civilian death toll. Critics argue that prolonging the offensive risks further endangering hostages and exacerbating the humanitarian crisis in Gaza. The debate highlights the delicate balance Israel faces between pursuing its military objectives against Hamas and mitigating the potential for civilian casualties and hostage harm."
   },
   {
-    "title": "Sudan's Civil War Is Shifting Westward, Bringing Violence",
+    "title": "Woman Survived Nine-Story Fall Following Russian Missile Strike",
+    "text": "Veronika Osintseva’s story has captivated a war-weary Ukraine.",
+    "link": "https://www.nytimes.com/2025/08/07/world/europe/ukraine-russia-missile-attack-survivor.html",
+    "date_str": "August 07, 2025",
+    "source": "NYT",
+    "summary": "Veronika Osintseva, a Ukrainian teenager, has gained national attention amidst the ongoing war. Her story is resonating deeply with a Ukrainian population fatigued by conflict, highlighting the personal and emotional toll of the war. This increased visibility could serve as a rallying point, either boosting national morale or underscoring the widespread suffering experienced by ordinary Ukrainians during the conflict."
+  },
+  {
+    "title": "Civil War in Sudan Shifts Westward, Bringing Hardship",
     "text": "Since the Sudanese Army drove its paramilitary rival from the capital in March, the two sides are battling for territorial gains in the Kordofan region.",
     "link": "https://www.nytimes.com/2025/08/06/world/africa/sudan-war-kordofan-darfur.html",
     "date_str": "August 06, 2025",
     "source": "NYT",
-    "summary": "Fighting intensifies in Sudan's Kordofan region as the Sudanese Army and the paramilitary Rapid Support Forces (RSF) vie for control, marking a significant escalation since the army expelled the RSF from Khartoum in March. These territorial battles in Kordofan hold strategic importance due to the region's agricultural resources and its location bordering Darfur. The conflict between the army and the RSF, rooted in power struggles and disputes over integrating the paramilitary into the military, destabilizes Sudan's transition and threatens regional security. Ultimately, the conflict exacerbates the existing humanitarian crisis and hinders any potential path towards a stable, civilian-led government."
+    "summary": "Fighting intensifies in Sudan's Kordofan region as the Sudanese Army and a rival paramilitary group vie for control after the Army ousted the paramilitary from Khartoum in March. These clashes in Kordofan hold strategic importance, as the region acts as a vital transit point and controls key resources within the country. The conflict, ongoing since April 2023, has displaced millions and further destabilized Sudan following a period of political transition after the ouster of Omar al-Bashir. The power struggle between the Army and the paramilitary continues to exacerbate the humanitarian crisis and undermine stability across the country."
+  },
+  {
+    "title": "U Myint Swe, Myanmar's Military-Installed Acting President, Dies at Age 74",
+    "text": "A figurehead leader, he had little real power but did endorse measures that allowed the country’s generals to extend their rule after a 2021 coup.",
+    "link": "https://www.nytimes.com/2025/08/07/world/asia/u-myint-swe-dies-myanmar-president.html",
+    "date_str": "August 07, 2025",
+    "source": "NYT",
+    "summary": "Following the 2021 coup, a figurehead leader endorsed measures that consolidated the military's power, effectively prolonging their rule. While lacking genuine authority, this leader's actions provided legitimacy to the generals' seizure of control, signifying a critical step in their entrenchment. The military, seeking to formalize their dominance after ousting the elected government, benefitted immensely from this endorsement, reinforcing their grip on the nation. These events signal a troubling trend towards authoritarianism and undermine democratic processes within the country."
   }
 ]
