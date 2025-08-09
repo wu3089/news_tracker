@@ -1,34 +1,26 @@
 [
   {
-    "title": "Netanyahu's Gaza Plan Divides Israelis and Allies",
-    "link": "https://www.bbc.com/news/articles/cj4w2q9k4pjo?at_medium=RSS&at_campaign=rss",
+    "title": "Nagasaki's Mayor Warns of Nuclear War 80 Years After the Atomic Bombing",
+    "link": "https://www.bbc.com/news/articles/ckgej5vw0w7o?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
-    "pub_date": "Fri, 08 Aug 2025 08:56:16 GMT",
-    "summary": "Israeli Prime Minister Benjamin Netanyahu's proposals for a new military push and takeover of Gaza are creating divisions. The plan faces condemnation from key allies, including the UK, and international bodies such as the UN, signalling growing diplomatic challenges for Israel. This occurs against the backdrop of the ongoing Israel-Hamas conflict, further complicating regional stability and international relations. Netanyahu's actions risk isolating Israel and undermining efforts toward a lasting resolution in the region.",
-    "date_str": "August 08, 2025"
+    "pub_date": "Sat, 09 Aug 2025 05:02:32 GMT",
+    "summary": "On the 80th anniversary of the atomic bombing, Nagasaki Mayor Shiro Suzuki warned of the escalating risk of nuclear war and urged a halt to armed conflicts worldwide. Suzuki's statement underscores ongoing concerns about nuclear proliferation and the potential for catastrophic global conflict, particularly amidst current geopolitical tensions, including but not limited to the War in Ukraine and the Israel-Gaza war. His call for peace serves as a reminder of the devastating consequences of nuclear weapons and the imperative for international cooperation towards disarmament. This plea is set against the backdrop of Japan's unique history as the only nation to have experienced atomic attacks, lending significant weight to its calls for nuclear non-proliferation.",
+    "date_str": "August 09, 2025"
   },
   {
-    "title": "Trump-Putin Talks Are Unlikely to Quickly End the Ukraine War",
-    "link": "https://www.bbc.com/news/articles/c14gkkzvpx8o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "pub_date": "Thu, 07 Aug 2025 12:20:31 GMT",
-    "summary": "Despite potential talks between Donald Trump and Vladimir Putin, Moscow's preconditions for a ceasefire present significant obstacles to a swift resolution of the conflict in Ukraine. The article suggests that even with Trump's involvement, Russia's demands may be difficult to overcome, hindering any rapid de-escalation. The ongoing war in Ukraine serves as the backdrop, with the article focusing on the potential, but ultimately challenging, role of Trump and Putin in negotiating an end to the hostilities. The analysis underscores the complexities of the situation and the unlikelihood of a quick breakthrough.",
-    "date_str": "August 08, 2025"
+    "title": "Russia Launches Long-Range Strikes and Employs New Tactics in Ukraine",
+    "text": "Assaults on Ukraine have been intensifying even as President Trump has threatened new sanctions on Moscow, and now is preparing to meet with Russia’s leader.",
+    "link": "https://www.nytimes.com/2025/08/09/world/europe/russia-ukraine-frontline.html",
+    "date_str": "August 09, 2025",
+    "source": "NYT",
+    "summary": "Despite escalating assaults on Ukraine, President Trump maintains a course toward a summit with Russian President Putin, signaling a complex dynamic in U.S.-Russia relations. Trump's simultaneous threat of new sanctions against Moscow, coupled with preparations for a meeting with Putin, highlights the administration's dual approach of pressure and engagement. The ongoing conflict in Ukraine serves as a critical backdrop, potentially influencing the agenda and overall tone of the planned dialogue. The meeting could be used to deescalate the conflict or to demonstrate the United States resolve with respect to Russian aggression."
   },
   {
-    "title": "Netanyahu Pursues Risky Strategy to Capture Gaza City",
-    "text": "Time and again, Prime Minister Benjamin Netanyahu of Israel has pledged to defeat Hamas by force. His cabinet’s decision to capture Gaza City risks ending in a familiar deadlock.",
-    "link": "https://www.nytimes.com/2025/08/08/world/middleeast/israel-gaza-city-capture-netanyahu-hamas.html",
+    "title": "Netanyahu's Gaza Plan Faces Skepticism From Top Israeli Military Officials",
+    "text": "The military leadership has said it prefers a new cease-fire instead of renewed fighting, and the military’s chief of staff previously raised concerns about troop exhaustion.",
+    "link": "https://www.nytimes.com/2025/08/08/world/middleeast/israel-gaza-takeover-military-objection.html",
     "date_str": "August 08, 2025",
     "source": "NYT",
-    "summary": "Prime Minister Netanyahu's repeated pledges to defeat Hamas militarily drive Israel's current strategy in Gaza. The Israeli cabinet, attempting to achieve this goal, authorized the capture of Gaza City, a move that risks replicating past impasses in the Israeli-Palestinian conflict. This escalation follows decades of tension and intermittent conflict between Israel and Hamas, highlighting Netanyahu's determination to eradicate the militant group despite the potential for protracted urban warfare and international condemnation. The move is a gamble for Netanyahu, as it could either solidify his power or lead to a costly and inconclusive outcome, further destabilizing the region."
-  },
-  {
-    "title": "Russian Strikes in Ukraine Kill Three, Potentially Excluding the Nation from Peace Talks",
-    "text": "“Here on the ground, we don’t feel any real changes from all these high-level meetings and statements,” a soldier said.",
-    "link": "https://www.nytimes.com/2025/08/08/world/europe/ukraine-russia-trump-putin.html",
-    "date_str": "August 08, 2025",
-    "source": "NYT",
-    "summary": "Despite high-level diplomatic efforts and public statements, soldiers on the ground report experiencing no tangible improvements, highlighting a potential disconnect between policy and its impact in a conflict zone. This lack of perceived progress undermines the credibility and effectiveness of negotiations among key players, which remain unspecified in this report. The sentiment underscores a continuing challenge in translating international agreements into meaningful change for individuals directly affected by ongoing hostilities. The absence of specific names or details surrounding the location or nature of the conflict leaves the broader context unclear, yet the soldier's statement implies a prolonged state of instability."
+    "summary": "Facing troop exhaustion, the military leadership advocates for a new cease-fire, signaling a potential shift away from renewed combat. This preference arises in a context of previous concerns voiced by the chief of staff, highlighting potential limitations in military readiness. The decision pivots on the military's assessment of its operational capacity and the strategic advantage of de-escalation. These developments suggest the military leadership is prioritizing stability and resource management over prolonged conflict."
   }
 ]
