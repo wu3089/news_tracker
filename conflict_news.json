@@ -1,35 +1,35 @@
 [
   {
-    "title": "Residents Flee Donetsk Amid Attacks as Putin Seeks Control of Ukrainian Region",
-    "link": "https://www.bbc.com/news/articles/c209yn1ygz6o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "pub_date": "Sun, 24 Aug 2025 21:04:11 GMT",
-    "summary": "Amidst ongoing drone attacks, residents are fleeing Donetsk, a region in eastern Ukraine that Russia, under the leadership of Vladimir Putin, seeks to control. Volunteers are assisting with the evacuation of civilians from the area as the conflict intensifies. The situation underscores the continued human cost of the war in Ukraine and Russia's persistent territorial ambitions. This escalation occurs against the backdrop of a protracted conflict, further destabilizing the region and prompting international concern. Quentin Sommerville reports from the ground, highlighting the urgency of the evacuations.",
-    "date_str": "August 25, 2025"
-  },
-  {
-    "title": "Gaza Officials Report Twenty Killed, Including Five Journalists, in Israeli Hospital Strike",
+    "title": "Twenty People, Including Five Journalists, Died in Israeli Hospital Strike",
     "link": "https://www.bbc.com/news/articles/cp89rp48246o?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
-    "pub_date": "Mon, 25 Aug 2025 12:06:39 GMT",
-    "summary": "Gaza officials report that an Israeli strike on Nasser Hospital in Khan Younis killed fifteen people, including four journalists, raising concerns about the protection of civilians and press freedom in conflict zones. The Israeli military acknowledges conducting the strike and has launched an investigation, asserting that it does not intentionally target journalists. This incident occurs amidst ongoing conflict between Israel and Hamas, further complicating the humanitarian crisis and international scrutiny of military actions in the region. The events underscore the challenges of distinguishing between combatants and non-combatants in densely populated areas.",
-    "date_str": "August 25, 2025"
+    "pub_date": "Mon, 25 Aug 2025 18:31:54 GMT",
+    "summary": "An Israeli double strike on a hospital killed twenty people, including five journalists, amid ongoing conflict in the Middle East. Israeli Prime Minister Benjamin Netanyahu characterized the incident as a \"tragic mishap\" and pledged to conduct a thorough investigation. The strikes occurred against the backdrop of heightened tensions and ongoing conflict, raising concerns about the protection of civilians and press freedom in the region. The incident underscores the risks faced by journalists covering the conflict and adds to the complexities of the Israeli-Palestinian situation. This event may further inflame regional tensions and prompt international scrutiny of Israel's military actions.",
+    "date_str": "August 26, 2025"
   },
   {
-    "title": "Israel Pounds Gaza City Ahead of Planned Offensive",
-    "link": "https://www.bbc.com/news/articles/cvg478y8l09o?at_medium=RSS&at_campaign=rss",
+    "title": "Israeli Forces Struck Gaza Hospital in Two Separate Incidents",
+    "link": "https://www.bbc.com/news/articles/c80d2zrdj7vo?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
-    "pub_date": "Sun, 24 Aug 2025 12:18:44 GMT",
-    "summary": "In preparation for a planned offensive, Israel intensifies its attacks on Gaza City, resulting in 64 deaths in the past 24 hours according to the Hamas-run health ministry. These escalating strikes heighten tensions in the region, underscoring the ongoing conflict between Israel and Hamas. The Israeli government asserts its military actions aim to diminish threats, while Hamas continues to govern the Gaza Strip. This recent escalation further strains humanitarian conditions and increases regional instability.",
-    "date_str": "August 25, 2025"
+    "pub_date": "Tue, 26 Aug 2025 11:17:47 GMT",
+    "summary": "Amidst ongoing conflict, an Israeli strike hit a hospital in Gaza, killing twenty people, including journalists and health workers. The incident, characterized as a \"tragic mishap\" by Israeli Prime Minister Benjamin Netanyahu, raises concerns due to its apparent \"double-tap\" nature. This attack occurs within the broader context of heightened tensions between Israel and Gaza, further complicating regional dynamics and humanitarian efforts. Megan Fisher and Emir Nader are reporting on the situation. The \"double-tap\" nature of the attack, if confirmed, would violate international humanitarian law and exacerbate existing concerns about the proportionality and targeting of Israeli military operations.",
+    "date_str": "August 26, 2025"
   },
   {
-    "title": "Officials Report Israeli Strikes on Gaza Hospital Killed Four Journalists",
-    "text": "Gaza-based reporters said the four had worked for various international media outlets. The Israeli military confirmed its forces had struck the hospital area, without saying why.",
-    "link": "https://www.nytimes.com/2025/08/25/world/middleeast/gaza-hospital-journalists.html",
-    "date_str": "August 25, 2025",
+    "title": "A Ukraine Peace Deal May Challenge Germany's Troop Deployment Hesitancy",
+    "text": "The question of whether to send soldiers to a postwar Ukraine is the latest chapter in an evolving relationship between Germans and their military.",
+    "link": "https://www.nytimes.com/2025/08/26/world/europe/germany-ukraine-russia-peace-troops.html",
+    "date_str": "August 26, 2025",
     "source": "NYT",
-    "summary": "Following reports from Gaza, the Israeli military confirmed its forces struck an area near a hospital, marking an escalation in the ongoing conflict. This action raises serious concerns about the protection of civilians and medical facilities under international humanitarian law. International media outlets previously employed the journalists reportedly affected by the strike, underscoring the risks faced by reporters covering the conflict. The lack of transparency from the Israeli military regarding the rationale behind the strike intensifies international scrutiny and fuels further debate over the proportionality of military actions in densely populated areas. The backdrop of escalating tensions between Israel and Hamas underscores the precarious situation for civilians caught in the crossfire."
+    "summary": "Germany grapples with the potential deployment of soldiers to a postwar Ukraine, signaling a significant evolution in the nation's complex relationship with its military due to its history of aggression in Europe. This debate reflects internal divisions regarding Germany's role in European security and its commitment to supporting Ukraine's long-term stability, with implications for broader NATO strategy. Chancellor Olaf Scholz's government must navigate domestic sensitivities while addressing international pressure to contribute more directly to Ukraine's reconstruction and security guarantees. Ultimately, Germany's decision will reshape its identity as a major player in European foreign policy."
+  },
+  {
+    "title": "Israel Is Experiencing Increasing Pressure Regarding Hostages and the Gaza Offensive",
+    "text": "As rallies spread to demand action to free captives, the country’s security cabinet was to meet for the first time since Hamas agreed to a new cease-fire proposal, officials said.",
+    "link": "https://www.nytimes.com/2025/08/26/world/middleeast/israel-netanyahu-gaza-protests.html",
+    "date_str": "August 26, 2025",
+    "source": "NYT",
+    "summary": "Following widespread rallies demanding the release of captives, Israel's security cabinet convened to deliberate on the latest Hamas cease-fire proposal. This meeting, the first since Hamas's acceptance, signals a critical juncture in negotiations aimed at securing the freedom of those held captive. Prime Minister Benjamin Netanyahu's government now faces heightened domestic pressure to achieve a resolution, balancing the need for a sustainable cease-fire with its stated objectives regarding Hamas. The outcome of these deliberations will significantly impact regional stability and shape the future of the ongoing conflict."
   },
   {
     "title": "Ukrainian Military Sees Rise in Mothers Serving on the Front Lines",
@@ -37,22 +37,6 @@
     "link": "https://www.nytimes.com/2025/08/25/world/europe/ukraine-military-war-pregnancy.html",
     "date_str": "August 25, 2025",
     "source": "NYT",
-    "summary": "Pregnant Ukrainian soldiers are actively defending their nation against Russian aggression, highlighting the existential threat Russia poses to Ukraine's future. These women are motivated by a desire to safeguard their unborn children and ensure a sovereign and secure Ukraine for future generations. Their participation underscores the profound impact of the conflict on Ukrainian society, as mothers-to-be directly confront the challenges to national security. Russia's ongoing invasion, initiated in February 2022, serves as the critical context driving these soldiers' commitment to protecting their country."
-  },
-  {
-    "title": "Peace Talks Regarding Ukraine Focus on the Donbas Region",
-    "text": "The contested region is where Russia’s war in Ukraine began a decade ago. Scores of Ukrainian soldiers have died defending it. Would Ukraine give it up now?",
-    "link": "https://www.nytimes.com/2025/08/24/world/europe/russia-ukraine-donbas-peace-talks-putin-trump-zelensky.html",
-    "date_str": "August 24, 2025",
-    "source": "NYT",
-    "summary": "The ongoing war in Ukraine, which originated a decade ago in a contested region, has claimed the lives of numerous Ukrainian soldiers who defend the territory. The core question now facing Ukraine is whether it will concede this strategically significant area, potentially altering the trajectory of the conflict and any future negotiations with Russia. This decision holds immense geopolitical weight, as it could redefine Ukraine's territorial integrity and influence the broader European security landscape. Ultimately, Ukraine's choice on this matter will have ramifications for international relations and the future of the conflict."
-  },
-  {
-    "title": "The Israeli War Debate Centers on Mandatory Military Service",
-    "text": "Ultra-Orthodox Israelis, exempt for decades from military service, are now being drafted. Their rage is dividing Israel and threatening Prime Minister Benjamin Netanyahu’s coalition.",
-    "link": "https://www.nytimes.com/2025/08/24/world/middleeast/israel-gaza-ultra-orthodox.html",
-    "date_str": "August 24, 2025",
-    "source": "NYT",
-    "summary": "Israel's decision to draft ultra-Orthodox citizens, traditionally exempt from military service, sparks significant internal division and endangers Prime Minister Benjamin Netanyahu's governing coalition. For decades, these exemptions have been in place, granting the ultra-Orthodox community the ability to focus on religious studies instead. This policy change triggers anger within the ultra-Orthodox community, whose political parties are crucial to Netanyahu's fragile government, potentially destabilizing the existing political order. The long-standing exemptions and the subsequent draft orders place immense pressure on the government and the delicate balance within Israeli society."
+    "summary": "Ukrainian servicewomen, many of whom are pregnant, are actively defending their nation against Russian aggression, highlighting the profound impact of the conflict on Ukrainian society and its future. These soldiers are driven by a desire to secure a safe and sovereign homeland for their children and future generations, demonstrating their commitment to national defense despite facing unique personal challenges. Their participation underscores Ukraine's broad mobilization efforts and the willingness of its citizens to risk their lives to resist the Russian invasion, emphasizing the high stakes of the conflict for Ukraine's national identity and territorial integrity. This commitment underscores the depth of Ukrainian resolve in the face of Russian aggression."
   }
 ]
