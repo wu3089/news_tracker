@@ -1,42 +1,50 @@
 [
   {
-    "title": "Twenty People, Including Five Journalists, Died in Israeli Hospital Strike",
-    "link": "https://www.bbc.com/news/articles/cp89rp48246o?at_medium=RSS&at_campaign=rss",
+    "title": "Witness Recounts Experience During Israeli Attack on Iran's Evin Prison",
+    "link": "https://www.bbc.com/news/articles/czd0e23j9q8o?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
-    "pub_date": "Mon, 25 Aug 2025 18:31:54 GMT",
-    "summary": "An Israeli double strike on a hospital killed twenty people, including five journalists, amid ongoing conflict in the Middle East. Israeli Prime Minister Benjamin Netanyahu characterized the incident as a \"tragic mishap\" and pledged to conduct a thorough investigation. The strikes occurred against the backdrop of heightened tensions and ongoing conflict, raising concerns about the protection of civilians and press freedom in the region. The incident underscores the risks faced by journalists covering the conflict and adds to the complexities of the Israeli-Palestinian situation. This event may further inflame regional tensions and prompt international scrutiny of Israel's military actions.",
-    "date_str": "August 26, 2025"
+    "pub_date": "Tue, 26 Aug 2025 23:17:20 GMT",
+    "summary": "In a significant escalation of tensions, Israel struck Iran's notorious Evin Prison with missiles, marking the deadliest attack of its kind according to a BBC Persian exclusive based on a prisoner interview. This event highlights the ongoing shadow war between Israel and Iran. Evin Prison's symbolic importance as a holding place for political prisoners and dissidents amplifies the strike's impact on Iran's internal stability and international image. The attack occurs amid heightened concerns over Iran's nuclear program and regional activities, further complicating the already strained relationship between the two nations.",
+    "date_str": "August 27, 2025"
   },
   {
-    "title": "Israeli Forces Struck Gaza Hospital in Two Separate Incidents",
-    "link": "https://www.bbc.com/news/articles/c80d2zrdj7vo?at_medium=RSS&at_campaign=rss",
+    "title": "The United Nations Demands Justice for Israeli Airstrikes on Gaza Hospital",
+    "link": "https://www.bbc.com/news/articles/cd6n97gj1nqo?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
-    "pub_date": "Tue, 26 Aug 2025 11:17:47 GMT",
-    "summary": "Amidst ongoing conflict, an Israeli strike hit a hospital in Gaza, killing twenty people, including journalists and health workers. The incident, characterized as a \"tragic mishap\" by Israeli Prime Minister Benjamin Netanyahu, raises concerns due to its apparent \"double-tap\" nature. This attack occurs within the broader context of heightened tensions between Israel and Gaza, further complicating regional dynamics and humanitarian efforts. Megan Fisher and Emir Nader are reporting on the situation. The \"double-tap\" nature of the attack, if confirmed, would violate international humanitarian law and exacerbate existing concerns about the proportionality and targeting of Israeli military operations.",
-    "date_str": "August 26, 2025"
+    "pub_date": "Wed, 27 Aug 2025 02:16:49 GMT",
+    "summary": "Amidst ongoing conflict, a recent Israeli double strike on a Gaza hospital killed twenty people, prompting the UN to demand justice and accountability. The Israeli military claims the strikes targeted a Hamas camera and acknowledges \"gaps\" in their initial assessment, signaling a potential internal investigation. This incident occurs within the broader context of the Israel-Gaza conflict, exacerbating tensions and raising concerns about adherence to international humanitarian law. The event will likely fuel further debate regarding the targeting of civilian infrastructure and the protection of non-combatants during military operations, influencing diplomatic efforts to de-escalate the conflict.",
+    "date_str": "August 27, 2025"
   },
   {
-    "title": "A Ukraine Peace Deal May Challenge Germany's Troop Deployment Hesitancy",
-    "text": "The question of whether to send soldiers to a postwar Ukraine is the latest chapter in an evolving relationship between Germans and their military.",
-    "link": "https://www.nytimes.com/2025/08/26/world/europe/germany-ukraine-russia-peace-troops.html",
+    "title": "Australia Accuses Iran of Orchestrating Antisemitic Attacks on Cafe and Synagogue",
+    "link": "https://www.bbc.com/news/articles/c9d085n75q3o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "pub_date": "Tue, 26 Aug 2025 08:12:42 GMT",
+    "summary": "Following allegations from intelligence services, Australia expelled Iran's ambassador in response to antisemitic attacks purportedly directed by Iran. This action underscores escalating tensions between the two nations and highlights Australia's commitment to combating antisemitism. The expulsion may further strain diplomatic relations and impact future negotiations on regional security issues. Authorities accuse Iran of directing attacks on a cafe and synagogue. This expulsion demonstrates Australia's condemnation of Iran's alleged actions on Australian soil.",
+    "date_str": "August 27, 2025"
+  },
+  {
+    "title": "Israel Claims Hospital Strike Aimed to Eliminate Hamas Camera",
+    "text": "The Israeli military said, without providing evidence, that its initial inquiry found that militants had placed an observation camera in the area. It said the attack killed six militants.",
+    "link": "https://www.nytimes.com/2025/08/26/world/middleeast/israel-hospital-attack-gaza-camera-hamas.html",
     "date_str": "August 26, 2025",
     "source": "NYT",
-    "summary": "Germany grapples with the potential deployment of soldiers to a postwar Ukraine, signaling a significant evolution in the nation's complex relationship with its military due to its history of aggression in Europe. This debate reflects internal divisions regarding Germany's role in European security and its commitment to supporting Ukraine's long-term stability, with implications for broader NATO strategy. Chancellor Olaf Scholz's government must navigate domestic sensitivities while addressing international pressure to contribute more directly to Ukraine's reconstruction and security guarantees. Ultimately, Germany's decision will reshape its identity as a major player in European foreign policy."
+    "summary": "Following an attack, the Israeli military claimed that militants positioned an observation camera in the vicinity, suggesting hostile intent, although they did not present supporting evidence. The military reported the strike resulted in the deaths of six militants, underscoring the continued tensions and conflict dynamics in the region. This incident occurs within the broader context of ongoing security concerns and mutual accusations between Israel and militant groups, reflecting a volatile and contested security environment. The lack of evidence provided by the Israeli military creates questions surrounding the situation and adds complexity to the existing conflict."
   },
   {
-    "title": "Israel Is Experiencing Increasing Pressure Regarding Hostages and the Gaza Offensive",
-    "text": "As rallies spread to demand action to free captives, the country’s security cabinet was to meet for the first time since Hamas agreed to a new cease-fire proposal, officials said.",
+    "title": "Russian Forces Advance in Another Ukrainian Region",
+    "text": "For the first time, Russian forces seized villages in the Dnipropetrovsk region, a minor but symbolic gain that gives the Kremlin another bargaining chip.",
+    "link": "https://www.nytimes.com/2025/08/26/world/europe/russia-ukraine-villages-dnipropetrovsk.html",
+    "date_str": "August 26, 2025",
+    "source": "NYT",
+    "summary": "Russian forces seized villages in the Dnipropetrovsk region, marking their first incursion into this area and providing the Kremlin with a limited but symbolically important advantage. The Russian military's actions give Russia leverage in potential negotiations regarding the ongoing conflict in Ukraine. This advance occurs within the broader context of Russia's continued efforts to gain territory and destabilize Ukraine, and it represents a shift in the frontlines, potentially impacting future military strategy and diplomatic discussions."
+  },
+  {
+    "title": "Israeli Security Cabinet Meets as Gaza War Protests Intensify",
+    "text": "As rallies spread to demand action to free hostages, the security cabinet met for the first time since Hamas agreed to a new cease-fire proposal, officials said.",
     "link": "https://www.nytimes.com/2025/08/26/world/middleeast/israel-netanyahu-gaza-protests.html",
     "date_str": "August 26, 2025",
     "source": "NYT",
-    "summary": "Following widespread rallies demanding the release of captives, Israel's security cabinet convened to deliberate on the latest Hamas cease-fire proposal. This meeting, the first since Hamas's acceptance, signals a critical juncture in negotiations aimed at securing the freedom of those held captive. Prime Minister Benjamin Netanyahu's government now faces heightened domestic pressure to achieve a resolution, balancing the need for a sustainable cease-fire with its stated objectives regarding Hamas. The outcome of these deliberations will significantly impact regional stability and shape the future of the ongoing conflict."
-  },
-  {
-    "title": "Ukrainian Military Sees Rise in Mothers Serving on the Front Lines",
-    "text": "Pregnant Ukrainian soldiers say they are fighting for the future of their country and for their children.",
-    "link": "https://www.nytimes.com/2025/08/25/world/europe/ukraine-military-war-pregnancy.html",
-    "date_str": "August 25, 2025",
-    "source": "NYT",
-    "summary": "Ukrainian servicewomen, many of whom are pregnant, are actively defending their nation against Russian aggression, highlighting the profound impact of the conflict on Ukrainian society and its future. These soldiers are driven by a desire to secure a safe and sovereign homeland for their children and future generations, demonstrating their commitment to national defense despite facing unique personal challenges. Their participation underscores Ukraine's broad mobilization efforts and the willingness of its citizens to risk their lives to resist the Russian invasion, emphasizing the high stakes of the conflict for Ukraine's national identity and territorial integrity. This commitment underscores the depth of Ukrainian resolve in the face of Russian aggression."
+    "summary": "The Israeli security cabinet convened following widespread rallies pressuring the government to secure the release of hostages held by Hamas. This meeting, the first since Hamas accepted a new cease-fire proposal, signifies Israel's consideration of potential pathways towards a negotiated resolution to the conflict and hostage crisis. The key players involved are the Israeli security cabinet members responsible for national security decisions and Hamas leadership who agreed to the new cease-fire proposal. The backdrop to these events is the ongoing war between Israel and Hamas triggered by the October 7th attacks and the escalating domestic pressure on the Israeli government to prioritize the hostages' safe return."
   }
 ]
