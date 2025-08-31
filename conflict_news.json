@@ -1,42 +1,58 @@
 [
   {
-    "title": "Kim Jong Un Meets with Families of North Korean Soldiers Killed in Ukraine",
+    "title": "Houthis Confirm Prime Minister Was Killed in Israeli Strike",
+    "link": "https://www.bbc.com/news/articles/c620ykrxedwo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "pub_date": "Sat, 30 Aug 2025 20:39:24 GMT",
+    "summary": "The Houthis confirmed that an Israeli strike killed their prime minister, Ahmed Ghaleb Nasser al-Rahawi, along with several other officials. This event marks a significant escalation in the regional conflict, potentially inflaming tensions between Israel and the Iran-backed Houthi movement in Yemen. Israel has not yet commented on the strike. This comes amidst the Houthis persistent attacks on shipping lanes in the Red Sea, which they claim are in support of Palestine, raising concerns about freedom of navigation and regional stability.",
+    "date_str": "August 31, 2025"
+  },
+  {
+    "title": "Russia Launched a Massive Attack on Ukraine While Kyiv Targeted Oil Refineries",
+    "link": "https://www.bbc.com/news/articles/c4g614x9kqko?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "pub_date": "Sat, 30 Aug 2025 15:37:54 GMT",
+    "summary": "Amidst the ongoing conflict, Russia launched a large-scale attack targeting 14 regions across Ukraine, resulting in casualties and widespread damage. Concurrently, Ukraine struck oil refineries within Russia, demonstrating its continued capacity to strike strategically important targets. These actions represent a significant escalation in the conflict, highlighting the continued intensity of the war between Russia and Ukraine. The attacks come as both sides seek to gain strategic advantages, further endangering regional stability.",
+    "date_str": "August 31, 2025"
+  },
+  {
+    "title": "Kim Jong Un Meets With Families of North Korean Soldiers Killed in Ukraine",
     "link": "https://www.bbc.com/news/articles/cdj2v7n0101o?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
     "pub_date": "Sat, 30 Aug 2025 10:49:04 GMT",
-    "summary": "Kim Jong-Un met with families of North Korean soldiers who died fighting for Russia in the war against Ukraine, highlighting Pyongyang's deepening alignment with Moscow. The meeting underscores North Korea's support for Russia's military efforts in Ukraine, despite international sanctions and condemnation. This act takes place amid growing concerns about arms deals between North Korea and Russia, potentially providing Moscow with crucial resources for its ongoing conflict and further isolating North Korea on the global stage. The event signifies a concerning development in the geopolitical landscape, demonstrating a strengthening alliance between two nations often at odds with the international community.",
-    "date_str": "August 30, 2025"
+    "summary": "Kim Jong Un met with families of North Korean soldiers who died fighting for Russia in Ukraine, signaling Pyongyang's deepening involvement in the conflict. This meeting underscores North Korea's support for Russia, amid reports of arms and manpower transfers, despite international sanctions. The event highlights the growing alignment between North Korea and Russia, as both countries face increasing isolation from the West. These actions occur within the context of the ongoing war in Ukraine and strained relations between North Korea and the international community over its nuclear weapons program.",
+    "date_str": "August 31, 2025"
   },
   {
-    "title": "Zelensky Rejects Buffer Zone Proposals Intended to End Ukraine War",
+    "title": "Zelensky Rejects Buffer Zone Proposals to End the Ukraine War",
     "link": "https://www.bbc.com/news/articles/c04r0z1pr25o?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
     "pub_date": "Fri, 29 Aug 2025 17:49:18 GMT",
-    "summary": "Amidst the ongoing conflict, Ukrainian President Volodymyr Zelensky rejected proposals suggesting the creation of a buffer zone as a means to end fighting with Russia. Zelensky argues that proponents of such measures fail to grasp the realities of modern warfare. This decision occurs within the broader context of the Russia-Ukraine war, where differing strategies for de-escalation and resolution continue to be debated. The rejection signals Ukraine's commitment to maintaining its territorial integrity and potentially indicates a continued focus on military solutions.",
-    "date_str": "August 30, 2025"
+    "summary": "Amidst the ongoing conflict, Ukrainian President Volodymyr Zelensky rejected proposals for a buffer zone intended to halt fighting, arguing that proponents misunderstand modern warfare. Zelensky's stance underscores Ukraine's continued commitment to defending its territory against Russia, signaling a reluctance to accept compromises that could cede control. This decision occurs as Ukraine continues to seek international support and military aid to bolster its defense capabilities against Russian aggression, which has been ongoing since 2022. The rejection of a buffer zone highlights the complexities in finding a resolution to the conflict and the differing perspectives on the optimal path toward de-escalation.",
+    "date_str": "August 31, 2025"
   },
   {
-    "title": "Kyiv Mourns After Strikes While Allies Discuss Military Support",
-    "link": "https://www.bbc.com/news/articles/cy9834jp9qno?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "pub_date": "Fri, 29 Aug 2025 11:25:34 GMT",
-    "summary": "Following a large aerial attack on Kyiv, EU defense ministers convene to discuss bolstering military support for Ukraine. The strikes, which prompted mourning in Kyiv, underscore the ongoing conflict between Ukraine and Russia. The discussions among EU defense ministers highlight the international community's continued efforts to address the crisis and provide assistance to Ukraine amidst escalating tensions. The meeting occurs against the backdrop of the broader war in Ukraine, where Kyiv remains a key strategic and symbolic target.",
-    "date_str": "August 30, 2025"
-  },
-  {
-    "title": "Kyiv Residents Face Devastation After Russia's Intense Bombardment",
-    "link": "https://www.bbc.com/news/articles/cj3ld2r2206o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "pub_date": "Thu, 28 Aug 2025 15:14:43 GMT",
-    "summary": "On August 28, 2025, Russia launched its heaviest bombardment of Kyiv in weeks, striking a low-rise residential building with a missile. The attack, reported by Katy Watson, tore through the building's center, causing casualties and prompting a response from organizations like the Ukrainian Red Cross. This escalation occurs against the backdrop of the ongoing war in Ukraine, where Russia continues its military operations. The international community closely monitors these developments as they impact regional stability and humanitarian concerns.",
-    "date_str": "August 30, 2025"
-  },
-  {
-    "title": "Russia Continues Bombardment of Ukraine Despite Stalled Peace Talks",
-    "text": "It was the second massive assault in three days, as the Kremlin rebuffed peace talks sought by Ukraine and the United States.",
-    "link": "https://www.nytimes.com/2025/08/30/world/europe/russia-barrage-ukraine-peace-talks.html",
+    "title": "Croquet and Fun Activities Aim to Distract Moscow Residents From the War",
+    "text": "A festival known as Summer in Moscow showcases the city’s transformation into an ultramodern metropolis. But the feast can’t last forever.",
+    "link": "https://www.nytimes.com/2025/08/30/world/europe/russia-ukraine-war-summer-in-moscow.html",
     "date_str": "August 30, 2025",
     "source": "NYT",
-    "summary": "Russia escalated its military offensive in Ukraine with a second major assault in three days, signaling a significant rejection of diplomatic efforts initiated by Ukraine and the United States to pursue peace negotiations. The Kremlin's intensified aggression underscores its commitment to achieving territorial objectives through force, deepening the ongoing conflict and complicating prospects for a swift resolution. This escalation comes amidst heightened international pressure on Moscow and raises concerns about the potential for further humanitarian crises and geopolitical instability in the region. The refusal to engage in peace talks suggests a hardening of positions and a protracted conflict ahead."
+    "summary": "Moscow promotes its modern image through the \"Summer in Moscow\" festival, highlighting its urban development and technological advancements. The festival signals Russia's continued effort to present itself as a thriving, innovative nation despite international sanctions and geopolitical tensions. The Moscow city government orchestrates the event, aiming to attract both domestic and international attention while projecting a specific narrative about Russia's current state. This initiative takes place against a backdrop of ongoing conflict in Ukraine and Western efforts to isolate Russia economically and culturally. However, the article suggests that the festival's celebratory atmosphere may be unsustainable given broader economic and political realities."
+  },
+  {
+    "title": "More Than 15 People Died in Gaza City a Day After Israel Ended Aid Pauses",
+    "text": "One attack was an effort to assassinate Abu Obeida, one of Hamas’s best-known spokesmen, Israeli officials said. It was not immediately clear if that succeeded.",
+    "link": "https://www.nytimes.com/2025/08/30/world/middleeast/gaza-israel-deadly-strikes.html",
+    "date_str": "August 30, 2025",
+    "source": "NYT",
+    "summary": "Israeli forces reportedly attempted to assassinate Abu Obeida, a prominent Hamas spokesperson, marking a significant escalation in Israel's targeting of Hamas leadership. The attack underscores Israel's strategy to weaken Hamas's influence by eliminating key figures responsible for disseminating information and shaping public opinion. This action occurs within the broader context of the ongoing conflict between Israel and Hamas, fueled by long-standing tensions over territory and governance in the region. The outcome of the operation against Abu Obeida remains unconfirmed."
+  },
+  {
+    "title": "Houthis Claim Israeli Attack Killed Prime Minister",
+    "text": "Ahmed al-Rahawi had led the Houthi cabinet in Yemen since 2024. His killing is unlikely to halt the Iranian-backed group’s missile attacks on Israel.",
+    "link": "https://www.nytimes.com/2025/08/30/world/middleeast/houthi-prime-minister-killed-israel.html",
+    "date_str": "August 30, 2025",
+    "source": "NYT",
+    "summary": "The death of Ahmed al-Rahawi, the Houthi cabinet leader in Yemen since 2024, highlights the ongoing conflict in the region. Al-Rahawi's demise, while significant, likely won't deter the Houthi group from continuing its missile attacks on Israel. The Houthis, backed by Iran, demonstrate their continued influence in Yemen despite leadership changes. This situation underscores the complexity of the Yemeni conflict and the broader geopolitical tensions involving Iran, Israel, and regional actors."
   }
 ]
