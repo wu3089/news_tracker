@@ -1,57 +1,33 @@
 [
   {
-    "title": "Israeli Airstrike in Yemen Kills Houthi Rebel Leader Ahmed al-Rahawi",
+    "title": "Israeli Airstrike in Yemen Kills Houthi Official Ahmed al-Rahawi",
     "link": "https://apnews.com/article/yemen-houthis-israeli-strike-494d91b05e04a5dbaeda0205ef349a39",
     "source": "Associated Press",
     "date_str": "August 30, 2025",
     "summary": "No summary available"
   },
   {
-    "title": "Putin Claims Agreements Were Reached With Trump on Ending Ukraine War",
-    "link": "https://www.bbc.com/news/articles/c0qljy44553o?at_medium=RSS&at_campaign=rss",
+    "title": "BBC Reports on Deadly Russian Attack in Kyiv",
+    "link": "https://www.bbc.com/news/videos/c9wy42kjndzo?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
-    "pub_date": "Mon, 01 Sep 2025 08:32:33 GMT",
-    "summary": "Vladimir Putin claims he reached \"understandings\" with Donald Trump regarding a potential resolution to the war in Ukraine, though the specifics remain undisclosed. Putin continues to blame the West for instigating the conflict, defending Russia's invasion as a response to Western actions. This statement arrives amidst ongoing geopolitical tensions surrounding the war, as well as against the backdrop of Trump's previous statements about potentially ending the conflict quickly if elected. These claims could introduce new uncertainty regarding future negotiations, particularly concerning potential shifts in U.S. policy toward the conflict with the 2024 election on the horizon.",
-    "date_str": "September 01, 2025"
+    "pub_date": "Thu, 28 Aug 2025 19:20:44 GMT",
+    "summary": "Russia launched a major attack on Kyiv, Ukraine, resulting in at least 19 deaths, including four children. This recent escalation highlights the ongoing conflict between Russia and Ukraine, a situation that continues to draw international concern. The BBC reported from the scene, underscoring the severity of the attack and its impact on the civilian population. This event serves as a stark reminder of the human cost of the war. The international community closely monitors these developments as they significantly impact regional stability and geopolitical dynamics.",
+    "date_str": "September 02, 2025"
   },
   {
-    "title": "Israel Claims Hamas Spokesman Abu Obeida Was Killed in Gaza",
-    "link": "https://www.bbc.com/news/articles/cm214r5rd29o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "pub_date": "Sun, 31 Aug 2025 20:32:56 GMT",
-    "summary": "Amidst the ongoing Israel-Hamas conflict, Israel claims its forces killed Abu Obeida, the military spokesman for Hamas, during strikes in Gaza. Abu Obeida served as a key figure in conveying Hamas's messages and claims throughout the conflict, making his reported death a potential blow to the organization's communication strategy. However, Hamas has not yet confirmed the death, creating uncertainty about the veracity of Israel's claim. This event takes place against the backdrop of sustained fighting between Israel and Hamas in the Gaza Strip following the initial Hamas attacks, with each side seeking to degrade the other's capabilities and claim strategic victories.",
-    "date_str": "September 01, 2025"
+    "title": "Ukraine Is Building a Powerful Arsenal, Surpassing Security Guarantees",
+    "text": "Kyiv sees a well-equipped army as a stronger deterrent to Moscow than any Western pledges to defend it. It is working to attract billions to buy more arms.",
+    "link": "https://www.nytimes.com/2025/09/02/world/europe/ukraine-weapons-security.html",
+    "date_str": "September 02, 2025",
+    "source": "NYT",
+    "summary": "Ukraine prioritizes building a robust, domestically-equipped military as its primary defense against Russian aggression, believing tangible strength surpasses Western security guarantees. Kyiv actively seeks substantial foreign investment to modernize its armed forces and procure advanced weaponry. This push for self-reliance stems from the ongoing conflict with Russia and a desire to control its own security destiny, rather than relying solely on external actors. By strengthening its military, Ukraine aims to deter further Russian encroachment and assert its sovereignty."
   },
   {
-    "title": "Houthis Confirm Prime Minister Died in Israeli Strike",
-    "link": "https://www.bbc.com/news/articles/c620ykrxedwo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "pub_date": "Sat, 30 Aug 2025 20:39:24 GMT",
-    "summary": "The Houthis confirmed that an Israeli strike killed their prime minister, Ahmed Ghaleb Nasser al-Rahawi, along with several other Houthi officials, escalating tensions in the region. This event occurs against the backdrop of the ongoing conflict in Yemen, where the Iran-backed Houthi movement controls significant territory and has been engaged in hostilities with a Saudi-led coalition. Israel has not yet commented on the strike, but the death of a high-ranking Houthi official marks a significant development that could further destabilize the already volatile region and impact ongoing geopolitical dynamics involving Iran, Saudi Arabia, and Yemen. The assassination raises concerns about potential retaliatory actions from the Houthis and the wider implications for regional security.",
-    "date_str": "September 01, 2025"
-  },
-  {
-    "title": "Russia Launched a Massive Attack on Ukraine While Kyiv Struck Oil Refineries",
-    "link": "https://www.bbc.com/news/articles/c4g614x9kqko?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "pub_date": "Sat, 30 Aug 2025 15:37:54 GMT",
-    "summary": "Russia launched a large-scale attack across fourteen regions of Ukraine, resulting in casualties and demonstrating Moscow's continued aggression. Simultaneously, Ukraine targeted Russian oil refineries, signaling Kyiv's intent to disrupt Russia's war effort and energy infrastructure. These attacks represent a significant escalation in the ongoing conflict between Russia and Ukraine, highlighting the increasing intensity and broadening scope of their military actions. The reciprocal strikes underscore the challenges in de-escalating the conflict and raise concerns about further destabilization in the region.",
-    "date_str": "September 01, 2025"
-  },
-  {
-    "title": "Experts Say Israel's New Negotiating Stance Will Likely Prolong the Gaza War",
+    "title": "Experts Say Israel's Pursuit of a Gaza Deal Could Prolong the Conflict",
     "text": "A shift toward pressing for a permanent cease-fire deal, alongside plans for a new offensive in Gaza City, means the fighting is unlikely to end soon.",
     "link": "https://www.nytimes.com/2025/09/01/world/middleeast/israel-gaza-cease-fire-negotiations.html",
     "date_str": "September 01, 2025",
     "source": "NYT",
-    "summary": "Escalating tensions in the Gaza Strip suggest prolonged conflict as key players prioritize divergent strategies. While some parties advocate for a permanent cease-fire agreement, others prepare for a new offensive in Gaza City, signifying a complex and unstable dynamic. This strategic divergence between diplomatic efforts and military actions makes an immediate end to the fighting improbable. The ongoing conflict highlights the difficulty in reconciling competing interests and securing a lasting resolution in the region."
-  },
-  {
-    "title": "Houthis Promise Retaliation Following Israeli Strike That Killed Officials",
-    "text": "Israel’s assassination of top officials last week is likely to make the Iranian-backed militia even more hawkish, Yemen analysts say.",
-    "link": "https://www.nytimes.com/2025/08/31/world/middleeast/yemen-houthis-israel.html",
-    "date_str": "August 31, 2025",
-    "source": "NYT",
-    "summary": "Israel's recent assassination of high-ranking officials will likely embolden the Iranian-backed militia in Yemen, analysts predict. This action, attributed to Israel, significantly alters the calculus within the Yemeni conflict, potentially escalating regional tensions. The increased hawkishness of the militia, a key player in Yemen's ongoing civil war, could undermine diplomatic efforts and further destabilize the region. Given Iran's support for the militia and Israel's ongoing efforts to counter Iranian influence, this event occurs against a backdrop of intense regional competition."
+    "summary": "The ongoing conflict in Gaza intensifies as involved parties simultaneously pursue a permanent cease-fire agreement and prepare for a new offensive in Gaza City. These parallel strategies, while seemingly contradictory, highlight the complex geopolitical calculations at play, indicating that the fighting will likely continue. The pursuit of a permanent cease-fire, typically involving key international mediators and regional powers, contrasts sharply with the potential expansion of military operations, pointing to a prolonged and challenging path towards resolution. Ultimately, these developments indicate a struggle to achieve a lasting peace, leaving the region bracing for continued instability."
   }
 ]
