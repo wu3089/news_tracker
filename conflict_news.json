@@ -1,33 +1,34 @@
 [
   {
-    "title": "Israeli Airstrike in Yemen Kills Houthi Official Ahmed al-Rahawi",
-    "link": "https://apnews.com/article/yemen-houthis-israeli-strike-494d91b05e04a5dbaeda0205ef349a39",
-    "source": "Associated Press",
-    "date_str": "August 30, 2025",
-    "summary": "No summary available"
-  },
-  {
-    "title": "BBC Reports on Deadly Russian Attack in Kyiv",
-    "link": "https://www.bbc.com/news/videos/c9wy42kjndzo?at_medium=RSS&at_campaign=rss",
+    "title": "Xi, Putin, and Kim Attended a Chinese Military Parade, Displaying Unity",
+    "link": "https://www.bbc.com/news/articles/cp8z83np4xjo?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
-    "pub_date": "Thu, 28 Aug 2025 19:20:44 GMT",
-    "summary": "Russia launched a major attack on Kyiv, Ukraine, resulting in at least 19 deaths, including four children. This recent escalation highlights the ongoing conflict between Russia and Ukraine, a situation that continues to draw international concern. The BBC reported from the scene, underscoring the severity of the attack and its impact on the civilian population. This event serves as a stark reminder of the human cost of the war. The international community closely monitors these developments as they significantly impact regional stability and geopolitical dynamics.",
-    "date_str": "September 02, 2025"
+    "pub_date": "Wed, 03 Sep 2025 10:32:31 GMT",
+    "summary": "China held a military parade in Beijing where President Xi Jinping declared that the world faces a choice between peace and war. The parade showcased China's new weaponry and served as a display of unity with Russian President Vladimir Putin and North Korean leader Kim Jong Un in attendance. This event underscores the strengthening ties between China, Russia, and North Korea amid increasing geopolitical tensions with the West. The display of military might and the presence of these leaders signal a potential shift in the global balance of power and raise concerns about regional stability. It is important to note that military parades are often used to signal a nation's strength and resolve, and this one comes at a time of heightened international scrutiny of China's military expansion and its stance on global issues.",
+    "date_str": "September 03, 2025"
   },
   {
-    "title": "Ukraine Is Building a Powerful Arsenal, Surpassing Security Guarantees",
+    "title": "Putin Expresses Gratitude to Kim Jong Un for North Korean Fighters in Ukraine",
+    "link": "https://www.bbc.com/news/articles/cj9w9m1xz1go?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "pub_date": "Wed, 03 Sep 2025 08:14:39 GMT",
+    "summary": "Amidst the ongoing war in Ukraine, Vladimir Putin has thanked Kim Jong Un for North Korean soldiers fighting alongside Russian forces, despite reports suggesting thousands have died. This acknowledgement underscores the deepening military and political ties between Russia and North Korea, signaling a potential violation of international sanctions against North Korea related to military cooperation. Russia's reliance on North Korean support highlights the strain on its own military resources and its increasing isolation on the global stage, as well as the willingness of both leaders to defy international norms. Such cooperation may embolden further military assistance from North Korea in exchange for economic or technological aid from Russia.",
+    "date_str": "September 03, 2025"
+  },
+  {
+    "title": "France Wants Assad and His Aides for Deadly Attack on Journalists",
+    "text": "Judges issued arrest warrants for Bashar al-Assad and six officials of his regime in Syria for an attack that killed two journalists, including Marie Colvin.",
+    "link": "https://www.nytimes.com/2025/09/02/world/middleeast/assad-warrant-marie-colvin.html",
+    "date_str": "September 02, 2025",
+    "source": "NYT",
+    "summary": "Judges issued arrest warrants for Syrian President Bashar al-Assad and six regime officials, marking a significant step toward accountability for war crimes in Syria. The warrants, stemming from the death of journalists Marie Colvin and Rémi Ochlik in a 2012 bombing in Homs, highlight the ongoing efforts to prosecute the Syrian government for deliberate targeting of civilians. These actions build upon years of documentation of human rights abuses during the Syrian civil war and add to the growing legal pressure on Assad's government despite ongoing impunity. The move reflects continued international pursuit of justice for victims of the conflict, even as prospects for a political resolution remain uncertain."
+  },
+  {
+    "title": "Ukraine Is Pursuing a Weapons Buildup Exceeding Security Guarantees",
     "text": "Kyiv sees a well-equipped army as a stronger deterrent to Moscow than any Western pledges to defend it. It is working to attract billions to buy more arms.",
     "link": "https://www.nytimes.com/2025/09/02/world/europe/ukraine-weapons-security.html",
     "date_str": "September 02, 2025",
     "source": "NYT",
-    "summary": "Ukraine prioritizes building a robust, domestically-equipped military as its primary defense against Russian aggression, believing tangible strength surpasses Western security guarantees. Kyiv actively seeks substantial foreign investment to modernize its armed forces and procure advanced weaponry. This push for self-reliance stems from the ongoing conflict with Russia and a desire to control its own security destiny, rather than relying solely on external actors. By strengthening its military, Ukraine aims to deter further Russian encroachment and assert its sovereignty."
-  },
-  {
-    "title": "Experts Say Israel's Pursuit of a Gaza Deal Could Prolong the Conflict",
-    "text": "A shift toward pressing for a permanent cease-fire deal, alongside plans for a new offensive in Gaza City, means the fighting is unlikely to end soon.",
-    "link": "https://www.nytimes.com/2025/09/01/world/middleeast/israel-gaza-cease-fire-negotiations.html",
-    "date_str": "September 01, 2025",
-    "source": "NYT",
-    "summary": "The ongoing conflict in Gaza intensifies as involved parties simultaneously pursue a permanent cease-fire agreement and prepare for a new offensive in Gaza City. These parallel strategies, while seemingly contradictory, highlight the complex geopolitical calculations at play, indicating that the fighting will likely continue. The pursuit of a permanent cease-fire, typically involving key international mediators and regional powers, contrasts sharply with the potential expansion of military operations, pointing to a prolonged and challenging path towards resolution. Ultimately, these developments indicate a struggle to achieve a lasting peace, leaving the region bracing for continued instability."
+    "summary": "Kyiv prioritizes military strength over Western security guarantees as its primary defense against Moscow, signaling a shift in its deterrence strategy. The Ukrainian government actively seeks billions in foreign investment to modernize and expand its armed forces, believing a robust military will effectively deter Russian aggression. This drive for military self-reliance underscores Kyiv's skepticism about the dependability of external pledges and emphasizes a proactive approach to national security. By focusing on building a strong domestic defense, Ukraine aims to project strength and deter potential future incursions from Russia. The Ukrainian government's arms procurement strategy is a long-term plan to strengthen its security against future threats."
   }
 ]
