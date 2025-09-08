@@ -1,50 +1,42 @@
 [
   {
-    "title": "Ukraine Uses Inflatable Tanks and Flat-Pack Guns for Decoy Warfare",
-    "link": "https://www.bbc.com/news/articles/cr4e435x4kqo?at_medium=RSS&at_campaign=rss",
+    "title": "Six People Died in a Jerusalem Shooting",
+    "link": "https://www.bbc.com/news/articles/cr70ny0l7vgo?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
-    "pub_date": "Sat, 06 Sep 2025 23:52:52 GMT",
-    "summary": "In Ukraine, both Ukrainian and Russian forces are actively employing decoy warfare, utilizing inflatable tanks and flat-pack gun replicas to deceive the enemy. This strategy aims to mislead the opposition regarding troop deployment and equipment locations, thereby diverting resources and potentially influencing battlefield decisions. The use of such decoys highlights the ongoing adaptation and innovation in military tactics as the conflict continues, reflecting a broader trend of both sides seeking to gain an advantage through unconventional means. As the war develops, these deceptive practices are becoming an increasingly important element of the military strategy for both countries.",
-    "date_str": "September 07, 2025"
+    "pub_date": "Mon, 08 Sep 2025 11:46:09 GMT",
+    "summary": "On September 8, 2025, a shooting attack in Jerusalem killed six people and seriously wounded six others, prompting a response from Israeli police who neutralized two gunmen. The incident occurred at a bus stop on the outskirts of Jerusalem, heightening tensions amid ongoing Israeli-Palestinian conflict. This attack, taking place in a contested city, underscores the fragility of the security situation and the potential for escalation. The event may further complicate international efforts to mediate a lasting resolution to the Israeli-Palestinian conflict.",
+    "date_str": "September 08, 2025"
   },
   {
-    "title": "Russian Missile Strike Penetrated Heavily Defended Kyiv Zone",
-    "text": "The attack set a government building on fire in an area of the Ukrainian capital that is rarely damaged.",
+    "title": "Trump Threatens Stricter Sanctions Following Russia's Intense Attacks on Ukraine",
+    "link": "https://www.bbc.com/news/articles/cwyrx205dj2o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "pub_date": "Mon, 08 Sep 2025 09:29:55 GMT",
+    "summary": "Following Russia's most intense strikes on Ukraine during the ongoing war, former President Donald Trump threatened to impose harsher sanctions against Russia. These potential sanctions come amidst existing international efforts to penalize Russia for its invasion and continued military actions in Ukraine. The threat underscores the continued geopolitical tensions between Russia and the West, with key players like Trump signaling potential shifts in policy. The context of the conflict involves a complex history of regional disputes and power dynamics between Russia, Ukraine, and Western nations. This threat of increased sanctions represents a potential escalation of economic pressure aimed at altering Russia's behavior.",
+    "date_str": "September 08, 2025"
+  },
+  {
+    "title": "Ukraine's Tactics Transformed Warfare, Prompting Tank Advancements",
+    "text": "Tanks have been a mainstay in battle since the early 20th century. Drones made them evolve.",
+    "link": "https://www.nytimes.com/interactive/2025/09/08/world/europe/ukraine-russia-war-drones-tanks-military.html",
+    "date_str": "September 08, 2025",
+    "source": "NYT",
+    "summary": "Drones are compelling the evolution of tanks, a mainstay of 20th-century battlefields, as evidenced by recent conflicts. The integration of aerial surveillance and precision strike capabilities, primarily through drones, exposes tanks to vulnerabilities they previously did not face. Militaries worldwide are thus adapting tank design, deployment strategies, and supporting technologies to mitigate drone threats and maintain armored vehicle effectiveness in modern warfare. This shift necessitates rethinking conventional armored warfare doctrines and investments in counter-drone technology, potentially reshaping the balance of power on future battlefields."
+  },
+  {
+    "title": "Russia Launched Its Largest Drone Attack, Setting a Government Building on Fire",
+    "text": "Ukrainians said it was the first time a key building in Kyiv’s government district had been damaged since the war began. Russia has kept attacking despite Trump administration efforts at peace talks.",
     "link": "https://www.nytimes.com/2025/09/07/world/europe/russian-strike-kyiv-ukraine.html",
     "date_str": "September 07, 2025",
     "source": "NYT",
-    "summary": "A recent attack set a government building ablaze in Kyiv, marking a significant escalation due to its location in a relatively unscathed part of the Ukrainian capital. This incident, while limited in scale, raises concerns about potential shifts in Russian targeting strategy and Kyiv's vulnerability. Ukrainian authorities are investigating the attack, and international observers are closely monitoring the situation for further signs of escalation. The incident occurs against the backdrop of ongoing conflict and Russia's continued efforts to exert pressure on Ukraine's government."
+    "summary": "Russia escalated its attacks on Kyiv, damaging a key government building in the city's government district for the first time since the start of the war, demonstrating Moscow's continued aggression. Ukraine faces intensifying pressure as Russia disregards previous U.S.-led peace talks. The ongoing conflict highlights the breakdown of diplomatic efforts and Russia's persistent targeting of the Ukrainian capital. These actions underscore the fragility of peace initiatives and the worsening security situation."
   },
   {
-    "title": "Ukraine And Poland Resolve World War II Dispute",
-    "text": "The remains of people killed and left in mass graves in the waning days of the war are being given dignified burials.",
-    "link": "https://www.nytimes.com/2025/09/06/world/europe/ukraine-poland-reburial-worldwar.html",
-    "date_str": "September 06, 2025",
-    "source": "NYT",
-    "summary": "Following the war, unidentified remains recovered from mass graves are undergoing dignified burial processes, signifying a crucial step towards reconciliation and closure for affected communities. Governments and international organizations collaborate with local communities to exhume, identify, and properly inter the deceased, addressing a legacy of conflict and promoting healing. These burials aim to provide closure to families, foster accountability for war crimes, and contribute to long-term stability in the region. Recovering and identifying remains requires significant resources and expertise, highlighting the enduring consequences of armed conflict."
-  },
-  {
-    "title": "Egypt-Israel Tensions Increase Following Gaza City Attack",
-    "text": "A large-scale Israeli assault on the city in northern Gaza could push hundreds of thousands of Palestinians southward toward Egypt’s border.",
-    "link": "https://www.nytimes.com/2025/09/07/world/middleeast/egypt-israel-gaza-city.html",
-    "date_str": "September 07, 2025",
-    "source": "NYT",
-    "summary": "An impending large-scale Israeli assault on a northern Gaza city threatens to displace hundreds of thousands of Palestinians, potentially forcing them towards the Egyptian border. This military action, part of Israel's ongoing campaign against Hamas, raises concerns about a potential mass influx of refugees into Egypt. The displacement crisis could further destabilize the region and strain relations between Israel and Egypt, as Egypt seeks to avoid absorbing a large number of Palestinian refugees and potentially face security challenges. The events highlight the complex humanitarian and geopolitical consequences of the conflict."
-  },
-  {
-    "title": "Americans in Ukraine Face Opportunities While Also Considering Combat",
-    "text": "The profile of U.S. volunteers in the Ukrainian military has changed, shifting more toward people without military experience, and those who saw few prospects for them at home.",
+    "title": "Americans in Ukraine Face Opportunities and the Allure of Combat",
+    "text": "The profile of U.S. volunteers in the Ukrainian military has changed, shifting more toward people without military experience and those who saw few prospects for themselves at home.",
     "link": "https://www.nytimes.com/2025/09/07/world/europe/ukraine-american-volunteers.html",
     "date_str": "September 07, 2025",
     "source": "NYT",
-    "summary": "The profile of U.S. volunteers fighting in Ukraine is evolving, with a notable increase in individuals lacking prior military experience and driven by limited opportunities in the United States, highlighting the changing motivations and backgrounds of those joining the conflict. This shift signals a potential change in the skillsets and capabilities these volunteers bring to the war effort, impacting the dynamics of foreign fighters within the Ukrainian military. The Ukrainian military benefits from the infusion of motivated individuals but faces challenges in training and integrating inexperienced recruits. These volunteers, driven by personal circumstances and ideological commitments, play a role, albeit limited, in the ongoing conflict between Ukraine and Russia."
-  },
-  {
-    "title": "Israel Targeted More Buildings in Gaza City and Urged Residents to Evacuate",
-    "text": "The Israeli military issued evacuation orders for residents in the high-rise towers and urged Palestinians to move to the south of Gaza, as it intensifies its offensive on the city.",
-    "link": "https://www.nytimes.com/2025/09/06/world/middleeast/israel-gaza-humanitarian.html",
-    "date_str": "September 06, 2025",
-    "source": "NYT",
-    "summary": "The Israeli military escalates its offensive on Gaza by issuing evacuation orders for residents in high-rise towers, compelling them to move south. This action signals a significant intensification of Israeli military operations within Gaza City, potentially leading to further displacement and increased humanitarian challenges for Palestinian civilians. The Israel Defense Forces (IDF) are the primary actor directing this offensive, while the civilian population of Gaza bears the immediate brunt of the order. This development occurs against the backdrop of ongoing conflict between Israel and Hamas and highlights the vulnerability of civilians amidst the conflict."
+    "summary": "The profile of U.S. volunteers fighting for Ukraine has evolved, now including more individuals lacking prior military service and seeking opportunities unavailable in their home country. This shift reflects a broader pool of motivations driving foreign fighters to join the conflict, potentially impacting the overall effectiveness and training needs of the international legion within the Ukrainian armed forces. The changing demographics suggest a need for adjusted recruitment and integration strategies by Ukraine and supporting organizations, moving away from solely attracting experienced veterans. While precise numbers remain unclear, this trend indicates a new phase in the composition of foreign volunteers in the Russo-Ukrainian war."
   }
 ]
