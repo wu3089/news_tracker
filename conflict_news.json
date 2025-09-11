@@ -1,58 +1,40 @@
 [
   {
-    "title": "Hamas Confirms Six Deaths, Says Leadership Survived Israeli Attack in Doha",
-    "link": "https://www.bbc.com/news/articles/ced58zywdwno?at_medium=RSS&at_campaign=rss",
+    "title": "Russia-China Gas Pipeline Deal Remains Unclear on Specifics",
+    "link": "https://apnews.com/article/russia-china-gas-pipeline-siberia-b48dffa3b9527cbccfa7585a03ca3c17",
+    "source": "Associated Press",
+    "date_str": "September 10, 2025",
+    "summary": "Gazprom, Russia's state gas company, announced an agreement to construct the Power of Siberia 2 pipeline to China, highlighting the deepening energy partnership between Moscow and Beijing. While the deal underscores China's increasing dominance in the bilateral relationship given Russia's need for alternative markets following Western sanctions, details surrounding pricing and financing remain opaque. Vladimir Putin and Xi Jinping have cultivated closer ties, positioning China as a crucial economic lifeline for Russia amidst geopolitical tensions. This pipeline project signifies a strategic shift in Russian gas exports toward Asia, potentially reshaping the global energy landscape and challenging existing supply dynamics."
+  },
+  {
+    "title": "European Commission President Proposes Sanctions Against Israel Regarding Gaza War",
+    "link": "https://apnews.com/article/israel-palestinians-hamas-war-news-09-08-2025-6cf0f208f2e1e30d29b7deabaa05197e",
+    "source": "Associated Press",
+    "date_str": "September 10, 2025",
+    "summary": "Following escalating tensions, Israeli airstrikes targeted Houthi rebels in Yemen, reportedly killing at least 35 people and wounding over 130, according to Houthi officials. These strikes, occurring amidst the ongoing Israel-Hamas conflict and broader regional instability, signal a potential expansion of the conflict beyond the immediate Israeli-Palestinian arena. The Houthis, a Zaidi Shia Muslim group controlling much of Yemen, have a history of antagonism towards Israel and alignment with Iran, adding a layer of complexity to the already volatile situation. This action by Israel raises concerns about further destabilizing Yemen, which is already embroiled in a civil war, and risks drawing in other regional actors."
+  },
+  {
+    "title": "Israeli Airstrikes in Yemen Allegedly Kill 35, Houthis Report",
+    "link": "https://www.bbc.com/news/articles/c179e5v552ko?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
-    "pub_date": "Wed, 10 Sep 2025 02:06:16 GMT",
-    "summary": "Amidst ongoing conflict, Israel conducted an attack in Doha, Qatar, targeting senior Hamas leaders. While Hamas claims their leaders survived, they confirmed the deaths of six individuals. This action occurs within the broader context of the Israel-Gaza war, further complicating regional dynamics. The White House has stated that the Israeli strike undermines the goals of both Israel and the United States.",
-    "date_str": "September 10, 2025"
+    "pub_date": "Thu, 11 Sep 2025 11:00:49 GMT",
+    "summary": "Israeli strikes in Yemen reportedly killed 35 people, according to Houthi sources, raising concerns about escalating regional tensions. Israel claims it targeted military sites, while the Houthis maintain that the strikes hit civilian areas. This event occurs against the backdrop of ongoing conflict in Yemen and heightened tensions in the Middle East, potentially further destabilizing the region. The Houthis, a Zaidi Shia Muslim group, have been engaged in a civil war since 2014, primarily against the Yemeni government. The strikes, regardless of their intended target, exacerbate the humanitarian crisis and raise questions about the potential for wider international involvement.",
+    "date_str": "September 11, 2025"
   },
   {
-    "title": "Bowen Says Diplomacy Is Ruined After Israel Strikes Hamas Leaders in Qatar",
-    "link": "https://www.bbc.com/news/articles/cm2zepgp5neo?at_medium=RSS&at_campaign=rss",
+    "title": "Footage Reveals Another Alleged Attack on Greta Thunberg's Gaza Flotilla",
+    "link": "https://www.bbc.com/news/videos/cyv64eppj56o?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
-    "pub_date": "Tue, 09 Sep 2025 19:06:52 GMT",
-    "summary": "Following an Israeli strike against Hamas leaders in Doha, Qatar, Jeremy Bowen reports that diplomacy efforts have collapsed. Prime Minister Benjamin Netanyahu signals an intent to aggressively pursue objectives on all fronts. The attack, taking place in Qatar, a key mediator, significantly undermines prospects for negotiation between Israel and Hamas. This escalates regional tensions and suggests a hardening of stances amidst the ongoing conflict. The event occurs within the broader context of the Israel-Gaza war and continued efforts to find a resolution.",
-    "date_str": "September 10, 2025"
+    "pub_date": "Wed, 10 Sep 2025 16:33:01 GMT",
+    "summary": "BBC Verify analyzed footage showing a second claimed drone attack against the Greta Thunberg-led Gaza flotilla, which aims to deliver aid to Gaza. The analysis includes images of a device recovered after the incident. These attacks occurred against the backdrop of ongoing tensions related to the Israel-Gaza war and efforts to break the blockade. The incident raises concerns about the safety of humanitarian aid missions and potential escalation in the region involving various actors, although the perpetrators of the attacks remain unconfirmed. This follows previous incidents targeting similar aid efforts, highlighting the complexities of delivering assistance to Gaza.",
+    "date_str": "September 11, 2025"
   },
   {
-    "title": "Russian Airstrikes on Ukraine Intensify, Targeting Kyiv",
-    "link": "https://www.bbc.com/news/articles/cgrqwpee05ro?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "pub_date": "Tue, 09 Sep 2025 20:20:36 GMT",
-    "summary": "On September 7, 2025, Russia escalated its military campaign against Ukraine, launching increasingly deadly and expansive air strikes that directly targeted the Ukrainian government's main building in Kyiv. Ukraine accuses Russia of deliberately striking the government building, signifying a potential shift toward targeting the heart of Ukrainian governance. These actions occur within the broader context of the ongoing conflict between Russia, led by Vladimir Putin, and Ukraine, with Volodymyr Zelenskyy as president. The strikes mark a dangerous escalation in the war and raise concerns about the future stability and security of the region.",
-    "date_str": "September 10, 2025"
-  },
-  {
-    "title": "Israel Reportedly Targeted Hamas Leaders During Airstrike in Qatar, a Gaza War Mediator",
-    "text": "The Gulf nation of Qatar has been trying to negotiate a cease-fire in the conflict. The attack threatened to destabilize those peace efforts.",
-    "link": "https://www.nytimes.com/2025/09/09/world/middleeast/israel-hamas-doha-qatar-strike.html",
-    "date_str": "September 09, 2025",
+    "title": "What Drove Israel’s Attack on Hamas in Qatar?",
+    "text": "Israeli officials and analysts say that revenge for the Hamas-led 2023 attack on Israel, and frustration over moribund Gaza truce negotiations, informed the decision to strike in Doha.",
+    "link": "https://www.nytimes.com/2025/09/11/world/middleeast/israel-attack-qatar-hamas.html",
+    "date_str": "September 11, 2025",
     "source": "NYT",
-    "summary": "Qatar mediates cease-fire negotiations aiming to de-escalate a conflict, but a recent attack jeopardizes these delicate peace efforts. This diplomatic initiative highlights Qatar's increasing role as a regional mediator seeking to resolve ongoing disputes and promote stability in the area. The success or failure of these negotiations will significantly impact the broader geopolitical landscape and prospects for lasting peace. The attack undermines the international community's hope for a swift resolution."
-  },
-  {
-    "title": "Iran and UN Nuclear Watchdog Agree to Restart Inspections",
-    "text": "Iran has not allowed inspections since its nuclear sites were bombed by Israel and the United States in June, but it hopes to stave off Western economic sanctions.",
-    "link": "https://www.nytimes.com/2025/09/09/world/europe/iran-iaea-nuclear-inspections.html",
-    "date_str": "September 09, 2025",
-    "source": "NYT",
-    "summary": "Following a joint Israeli-U.S. bombing of its nuclear sites in June, Iran has barred international inspectors from accessing these facilities, escalating tensions surrounding its nuclear program. Iran's move aims to deter further military action and bolster its negotiating position amidst growing international scrutiny. Western powers are considering imposing more stringent economic sanctions in response to Iran's non-compliance with international monitoring agreements, raising the specter of further economic hardship for the Iranian regime. The ongoing standoff underscores the complex geopolitical dynamics in the region and highlights the challenges in preventing nuclear proliferation."
-  },
-  {
-    "title": "Nuclear Sites in Ukraine Now Risk a Radiation Disaster",
-    "text": "Each day of war risks a strike on sites that could scatter radioactive material. Officials say one laboratory near the front has been hit dozens of times.",
-    "link": "https://www.nytimes.com/2025/09/09/world/europe/nuclear-sites-ukraine-russia-war.html",
-    "date_str": "September 09, 2025",
-    "source": "NYT",
-    "summary": "The ongoing war elevates the risk of strikes on Ukrainian nuclear facilities, potentially releasing radioactive materials. Repeated shelling, particularly targeting laboratories near the front lines, increases the chances of a catastrophic incident. Ukrainian officials are raising alarms about the situation, emphasizing the vulnerability of these sites amidst active combat. This development underscores the urgent need for a ceasefire and international intervention to prevent a nuclear disaster."
-  },
-  {
-    "title": "Drones Forced Tanks to Evolve Their Designs and Tactics",
-    "text": "They’ve been a mainstay in battle since the early 20th century. But in just three years of war in Ukraine, tanks have evolved.",
-    "link": "https://www.nytimes.com/interactive/2025/09/08/world/europe/ukraine-russia-war-drones-tanks-military.html",
-    "date_str": "September 08, 2025",
-    "source": "NYT",
-    "summary": "Russia's war in Ukraine is rapidly accelerating tank evolution, demonstrating that the vehicles remain crucial but demand significant adaptation to modern warfare. The conflict highlights the vulnerability of traditional tank designs to new anti-tank weaponry and drone warfare, prompting urgent innovation in areas like active protection systems and electronic warfare capabilities. This battlefield crucible is reshaping the future of armored warfare, with implications for military procurement and strategic doctrine worldwide as nations grapple with the tank's enduring role. The Russian and Ukrainian militaries, along with Western arms manufacturers providing support, are key actors in driving this evolution."
+    "summary": "Israel conducted a military strike in Doha, Qatar, driven by a desire for retribution following the Hamas-led 2023 attack and fueled by stalled negotiations for a truce in Gaza. This action signals Israel's increasing impatience with diplomatic efforts and its willingness to pursue direct action, potentially undermining ongoing mediation efforts led by Qatar, a key player in regional diplomacy. Analysts suggest the strike demonstrates a shift in Israel's strategy, prioritizing military objectives over negotiation in the conflict with Hamas. The repercussions of this escalation could destabilize regional relations and complicate efforts to achieve a lasting ceasefire."
   }
 ]
