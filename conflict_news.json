@@ -1,64 +1,26 @@
 [
   {
-    "title": "Ukrainian Drones Struck a Russian Oil Refinery, Causing a Large Fire",
-    "link": "https://apnews.com/article/russia-ukraine-war-drone-attack-oil-e28542d48d095866f89a38c5046275d8",
-    "source": "Associated Press",
-    "date_str": "September 14, 2025",
-    "summary": "Ukrainian forces struck a major Russian oil refinery with drones, causing a fire and underscoring Kyiv's increasing ability to target strategic assets within Russia. This attack highlights the continued impact of the Russia-Ukraine war on critical infrastructure and global energy markets. Russian President Vladimir Putin and Leningrad Region Governor Alexander Drozdenko are key figures as they will likely respond to the attack and manage the fallout. The incident comes amid ongoing conflict and demonstrates Ukraine's evolving military strategy as it defends against Russian aggression."
-  },
-  {
-    "title": "Oscar-Winning Director Basel Adra Reports Israeli Soldiers Raided His West Bank Home",
-    "link": "https://apnews.com/article/israel-west-bank-basel-adra-home-raided-4241522d2aed9fd95b28eba361e45c38",
-    "source": "Associated Press",
-    "date_str": "September 13, 2025",
-    "summary": "Israeli soldiers raided the West Bank home of Basel Adra, an Oscar-winning Palestinian director, escalating tensions in the already volatile region. Adra, who recently won an Oscar for the documentary \"No Other Land,\" reported the raid to the Associated Press. The incident occurs amid ongoing conflict and heightened sensitivity surrounding the Israeli-Palestinian conflict. This action by Israeli forces underscores the continued security operations within the occupied West Bank and their impact on Palestinian residents."
-  },
-  {
-    "title": "Gaza City Palestinians Flee Israeli Assault Amid Intense Bombing",
-    "link": "https://www.bbc.com/news/articles/cly0qnnx5w5o?at_medium=RSS&at_campaign=rss",
+    "title": "Thousands of Palestinians Evacuate as Israeli Forces Advance Into Gaza City",
+    "link": "https://www.bbc.com/news/articles/cx270y1rgzeo?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
-    "pub_date": "Tue, 16 Sep 2025 11:17:33 GMT",
-    "summary": "Amidst an intensified Israeli military offensive, Palestinians in Gaza City are reportedly fleeing the area as entire residential blocks have been leveled. The Israeli army is escalating its assault, leading to widespread displacement and raising concerns about civilian casualties as reported by the BBC. This escalation occurs within the broader context of the ongoing conflict between Israel and Hamas, with Gaza remaining a central point of contention. The conflict has drawn international attention due to the dire humanitarian situation and the high density of the urban environment.",
-    "date_str": "September 16, 2025"
+    "pub_date": "Wed, 17 Sep 2025 11:28:56 GMT",
+    "summary": "As Israeli troops advance into Gaza City on September 17, 2025, thousands of Palestinians are fleeing the area. Israel aims to defeat the remaining 3,000 Hamas fighters, intensifying the ongoing conflict between Israel and Hamas. This offensive has drawn international condemnation, reflecting the complex geopolitical dynamics in the region. The situation underscores the continued humanitarian crisis and the challenges in achieving a lasting resolution to the Israeli-Palestinian conflict.",
+    "date_str": "September 17, 2025"
   },
   {
-    "title": "Israel Demolishes More Towers Amid Intensified Gaza City Offensive",
-    "link": "https://www.bbc.com/news/videos/cr5q8mj6nrvo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "pub_date": "Mon, 15 Sep 2025 15:40:30 GMT",
-    "summary": "Amidst its ongoing offensive, Israel escalated operations in Gaza City by demolishing more high-rise towers over the weekend. These strikes, as reported by BBC Verify's Merlyn Thomas, mark a continued intensification of the conflict between Israel and Hamas, impacting civilian infrastructure. The destruction of buildings raises concerns about the displacement of residents and further exacerbates the humanitarian crisis within Gaza, which faces continued challenges. This latest development underscores the complexities of the conflict and the dire conditions for civilians.",
-    "date_str": "September 16, 2025"
+    "title": "Israel's Gaza City Assault Diminishes Hopes for a Diplomatic End to the War",
+    "text": "A negotiated settlement to end the fighting remains distant, in part because of the maximalist positions of Israel’s leader, Benjamin Netanyahu, and of Hamas.",
+    "link": "https://www.nytimes.com/2025/09/17/world/middleeast/israel-assault-gaza-city-diplomacy.html",
+    "date_str": "September 17, 2025",
+    "source": "NYT",
+    "summary": "Benjamin Netanyahu and Hamas continue to obstruct progress toward a negotiated ceasefire with their inflexible demands. This intransigence prolongs the conflict and prevents de-escalation efforts from succeeding. Both sides' hardline stances highlight the deep-seated animosity and mistrust that fuel the ongoing violence. With no compromise from either party, the prospects for a peaceful resolution remain bleak and humanitarian suffering deepens."
   },
   {
-    "title": "Belarus and Russia Have Begun Joint Military Drills",
-    "link": "https://www.bbc.com/news/videos/cx2prn617nyo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "pub_date": "Mon, 15 Sep 2025 15:57:14 GMT",
-    "summary": "Russia and Belarus conduct joint military drills, dubbed Zapad 2025, amid heightened tensions in Eastern Europe. These exercises, as reported by the BBC's Steve Rosenberg, highlight the deepening military cooperation between Minsk and Moscow. The drills occur within the context of ongoing regional instability, particularly the war in Ukraine, raising concerns about potential escalatory actions. Belarus's alignment with Russia allows Moscow to project power and signals a unified front to NATO. These maneuvers demonstrate the evolving security landscape and the strategic calculations of both Russia and Belarus.",
-    "date_str": "September 16, 2025"
-  },
-  {
-    "title": "Israel Has Launched a Ground Offensive in Gaza City",
-    "text": "The ground operation and intensifying Israeli bombardment risk deepening the humanitarian crisis in a war that has already killed tens of thousands of Palestinians.",
-    "link": "https://www.nytimes.com/live/2025/09/16/world/gaza-israel",
+    "title": "Israeli Ground Forces Entered Gaza City, Creating Disruption",
+    "text": "The long-anticipated military assault is aimed, the Israelis said, at routing the militants of Hamas, but it deepened the humanitarian crisis in the Gaza Strip.",
+    "link": "https://www.nytimes.com/2025/09/16/world/middleeast/gaza-city-israel-invasion.html",
     "date_str": "September 16, 2025",
     "source": "NYT",
-    "summary": "Israel's ongoing ground operation and escalating bombardment in Gaza threaten to worsen the existing severe humanitarian crisis, exacerbating the already devastating impact of the conflict. The operation, involving Israeli forces, follows months of war that have resulted in the deaths of tens of thousands of Palestinians. This latest phase occurs against a backdrop of international concern over civilian casualties, limited access to essential resources, and the potential for further regional instability. The situation highlights the urgent need for diplomatic efforts aimed at de-escalation and the provision of humanitarian aid."
-  },
-  {
-    "title": "Arab Leaders Convene to Discuss Response After Israeli Attack in Qatar",
-    "text": "Some Arab officials are pushing for tangible, but not military, action against Israel, and Egypt’s president said the Israeli strike threatened diplomatic ties that Israel spent years cultivating.",
-    "link": "https://www.nytimes.com/2025/09/15/world/middleeast/qatar-arab-leaders-israel.html",
-    "date_str": "September 15, 2025",
-    "source": "NYT",
-    "summary": "Following an Israeli strike, Arab officials advocate for concrete, non-military measures against Israel, signaling rising frustration within the region. Egyptian President Abdel Fattah el-Sisi condemned the strike, warning it jeopardizes the diplomatic relations painstakingly built between Egypt and Israel. This development highlights the fragility of normalization efforts and underscores the potential for regional instability fueled by escalating tensions between Israel and its neighbors. The actions taken by Arab states will test the extent to which they are willing to challenge Israel's policies and potentially alter the regional diplomatic landscape."
-  },
-  {
-    "title": "Two American Observers Attended Belarus-Russia War Games Unexpectedly",
-    "text": "The invitation by Belarus came as its autocratic leader has been trying to improve relations with the Trump administration, which has been receptive.",
-    "link": "https://www.nytimes.com/2025/09/15/world/europe/russia-belarus-zapad-2025-war-games.html",
-    "date_str": "September 15, 2025",
-    "source": "NYT",
-    "summary": "Belarus extends an invitation, signaling its leader's ongoing efforts to improve relations with the United States. President Alexander Lukashenko seeks closer ties with the Trump administration, which has demonstrated openness to engagement, potentially shifting Belarus's foreign policy alignment. These developments occur against a backdrop of Lukashenko's long-standing authoritarian rule and strained relations with the West, suggesting a possible recalibration of geopolitical dynamics in Eastern Europe. This invitation highlights Belarus’s desire for increased diplomatic and economic opportunities amid regional tensions."
+    "summary": "Israel launched a military assault in the Gaza Strip aimed at dismantling Hamas militants, intensifying the already dire humanitarian crisis. This offensive, executed by the Israel Defense Forces, seeks to eliminate Hamas's presence within Gaza. However, it exacerbates the suffering of the civilian population by further restricting access to essential resources and disrupting aid delivery. The conflict highlights the ongoing tensions and complex geopolitical landscape between Israel and Hamas, with potentially far-reaching consequences for regional stability."
   }
 ]
