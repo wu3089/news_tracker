@@ -1,24 +1,47 @@
 [
   {
+    "title": "Iran Expresses Concern Over Impending UN Nuclear Sanctions",
+    "link": "https://apnews.com/article/iran-snapback-sanctions-nuclear-us-israel-war-5b13ed1781659c1a9871427881ef239b",
+    "source": "Associated Press",
+    "date_str": "September 27, 2025",
+    "summary": "The UN reimposed sanctions on Iran, a move that further constrains the nation's economy and exacerbates hardships for Iranian citizens. These sanctions, which several Security Council members dispute as illegitimate, compound existing economic pressures, leaving many Iranians struggling to afford basic necessities. The reimposition occurs amid escalating regional tensions involving Iran, the United States, and Israel, particularly following the deaths of Iranian-backed Hezbollah leaders in Israeli airstrikes. This action underscores the ongoing international efforts to curb Iran's nuclear program and regional influence, even as the country faces increased economic vulnerability and societal anxiety."
+  },
+  {
+    "title": "An American Nurse in Gaza City Documented a Hospital's Destruction on Film",
+    "link": "https://apnews.com/article/gaza-city-hospitals-health-care-israel-war-82b20da1d6308fc1b530bf1816288ea2",
+    "source": "Associated Press",
+    "date_str": "September 27, 2025",
+    "summary": "Amid the ongoing Israel-Hamas conflict, the healthcare system in Gaza City faces imminent collapse as Israeli forces encircle hospitals. An American nurse inside Gaza City documents the deteriorating conditions and operational failures at the Al-Quds Hospital due to the Israeli military's advancement. The conflict exacerbates existing challenges related to access to healthcare and medication, particularly impacting vulnerable populations. International organizations and aid workers are struggling to provide relief as the fighting intensifies and threatens the safety of medical facilities. The events underscore the broader humanitarian crisis unfolding in Gaza."
+  },
+  {
     "title": "Satellite Photos Suggest Iran Conducted an Undeclared Missile Test",
     "link": "https://apnews.com/article/iran-missile-test-israel-nuclear-20e455ff76632d7b67fe2633cf19e37b",
     "source": "Associated Press",
     "date_str": "September 25, 2025",
-    "summary": "Satellite imagery analyzed by the Associated Press indicates that Iran likely conducted an undeclared missile test at its Imam Khomeini Spaceport. This action, carried out by the Iranian government, raises concerns given the ongoing tensions in the region and Iran's nuclear ambitions. The launch site's scorched launchpad suggests a recent test, adding to scrutiny from international actors, particularly Israel. Such tests occur within the context of ongoing discussions surrounding Iran's missile program and its compliance with international agreements, further escalating regional instability."
+    "summary": "Satellite imagery analyzed by the Associated Press indicates that Iran likely conducted an undeclared missile test at its Imam Khomeini Spaceport, raising concerns about its compliance with international norms. The test, if confirmed, highlights Iran's continued development of missile technology despite ongoing tensions with Israel and other nations regarding its nuclear program. This event underscores the need for increased vigilance and diplomatic efforts to address Iran's missile activities, especially as they relate to regional stability and nuclear proliferation risks. The launch site is named after Ruhollah Khomeini."
   },
   {
-    "title": "AP and Reuters Seek Answers From Israel Regarding Journalist Deaths in Airstrike",
-    "link": "https://apnews.com/article/media-israel-gaza-press-deaths-9480fbada27a4ad15f4cde5b5cec7cb1",
-    "source": "Associated Press",
-    "date_str": "September 25, 2025",
-    "summary": "Amidst the ongoing Israel-Hamas war, the Associated Press and Reuters are pressing the Israeli government for explanations regarding an airstrike that occurred last month in Gaza, which resulted in the deaths of five journalists. These news agencies demand transparency and accountability from Israel concerning the circumstances surrounding the strike. The incident raises concerns about the protection of journalists in conflict zones and the potential targeting of media personnel during military operations. The Israeli government, led by Benjamin Netanyahu, has yet to provide a comprehensive response."
-  },
-  {
-    "title": "Netanyahu Criticized Palestinian Recognition As Dozens Walked Out of His UN Speech",
-    "link": "https://www.bbc.com/news/articles/cderxxylpzdo?at_medium=RSS&at_campaign=rss",
+    "title": "Zelensky Condemns Russia's Vile Strikes That Lasted Twelve Hours",
+    "link": "https://www.bbc.com/news/articles/c75qeqr5905o?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
-    "pub_date": "Fri, 26 Sep 2025 16:41:44 GMT",
-    "summary": "At the United Nations, Israeli Prime Minister Benjamin Netanyahu rebuked growing international recognition of Palestine, prompting dozens of officials and diplomats to walk out in protest as he began to speak. This display underscores the deep divisions persisting over the Israeli-Palestinian conflict, particularly regarding Palestinian statehood, despite ongoing international efforts toward a two-state solution. The walkout signifies strong opposition to Netanyahu's stance and highlights the continued sensitivity surrounding the issue within the international community. The event took place amidst long-standing tensions and stalled peace negotiations between Israel and the Palestinians.",
-    "date_str": "September 27, 2025"
+    "pub_date": "Sun, 28 Sep 2025 11:46:41 GMT",
+    "summary": "Volodymyr Zelenskyy condemned Russia for launching a twelve-hour-long series of strikes against Ukraine, predominantly targeting Kyiv. The assault involved over 600 drones and missiles, impacting factories and the Institute of Cardiology. This escalation reflects Russia's continued targeting of Ukrainian infrastructure, potentially aiming to degrade Ukraine's industrial capacity and healthcare system. The ongoing conflict between Russia and Ukraine underscores the fragility of European security and the devastating humanitarian consequences for Ukraine. The strikes, which occurred in late September of 2025, highlight the need for continued international attention and potential intervention.",
+    "date_str": "September 28, 2025"
+  },
+  {
+    "title": "Russia's Foreign Minister Says Russia Does Not Intend to Attack EU or NATO States",
+    "link": "https://www.bbc.com/news/articles/c5ygjv0r2myo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "pub_date": "Sun, 28 Sep 2025 07:54:06 GMT",
+    "summary": "Amidst ongoing tensions, Russian Foreign Minister Sergei Lavrov addressed the UN General Assembly, asserting that Russia has no intention of attacking EU or NATO member states. While making this declaration, Lavrov simultaneously criticized Western countries and Israel, highlighting Russia's continued grievances with the existing international order. These statements come against the backdrop of the war in Ukraine, where NATO support for Kyiv has significantly strained relations between Russia and the West, raising concerns about potential escalation. Despite Lavrov's assurances, skepticism persists given Russia's recent military actions and increasingly confrontational rhetoric. Therefore, analysts will scrutinize Russia's actions to determine whether they align with Lavrov's stated intent.",
+    "date_str": "September 28, 2025"
+  },
+  {
+    "title": "A Leading Medical Charity Has Closed in Gaza City Due to Intensifying Israeli Offensive",
+    "text": "Doctors Without Borders pulled its staff from Gaza City as the medical system buckled. The U.N. has warned that more hospitals may have to close.",
+    "link": "https://www.nytimes.com/2025/09/27/world/middleeast/gaza-hospitals-doctors-without-borders.html",
+    "date_str": "September 27, 2025",
+    "source": "NYT",
+    "summary": "Doctors Without Borders withdrew its personnel from Gaza City due to the collapse of the healthcare system, highlighting the severe strain on medical infrastructure. The United Nations cautioned that further hospital closures are imminent, signaling a critical humanitarian crisis. These actions underscore the devastating impact of ongoing conflict on civilian access to essential medical services within the region. The lack of medical professionals on the ground will significantly hamper the ability to provide treatment and aid to Gazan citizens."
   }
 ]
