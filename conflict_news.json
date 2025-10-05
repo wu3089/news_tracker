@@ -1,34 +1,57 @@
 [
   {
+    "title": "Trump Demands Israel Halt Gaza Bombing Following Hamas' Partial Peace Acceptance",
+    "link": "https://apnews.com/article/trump-hamas-israel-gaza-war-mideast-bba524e6ac9cc9877e71fefc804cb602",
+    "source": "Associated Press",
+    "date_str": "October 03, 2025",
+    "summary": "Following nearly two years of conflict, U.S. President Donald Trump directed Israel to cease bombing Gaza after Hamas accepted parts of Trump's proposed peace plan. Hamas's partial acceptance offered a potential pathway to ending the ongoing war that began with the October 7, 2023, attack and securing the release of remaining hostages. This move by the U.S. president represents a significant intervention in the conflict between Israel and Hamas and aims to de-escalate tensions in the region. The development occurs amid the broader context of sustained fighting and diplomatic efforts to resolve the long-standing Israeli-Palestinian conflict."
+  },
+  {
+    "title": "Zelensky Says Five Died in Major Russian Missile and Drone Attack",
+    "link": "https://www.bbc.com/news/articles/czjvlgzmp4wo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "pub_date": "Sun, 05 Oct 2025 12:22:35 GMT",
+    "summary": "Russia launched a significant missile and drone attack targeting Ukrainian military and infrastructure, resulting in at least five fatalities, according to Ukrainian President Zelensky. The overnight strike, which Russia claims focused on military assets, underscores the ongoing intensity of the conflict and the continued targeting of Ukrainian infrastructure. This escalation occurs within the broader context of the war in Ukraine, where both sides have consistently traded attacks, raising concerns about civilian casualties and the long-term stability of the region. The BBC reported that Alex Boyd, Stuart Lau, and Gary O'Donoghue contributed to this reporting.",
+    "date_str": "October 05, 2025"
+  },
+  {
+    "title": "At Least 30 People Were Injured in a Russian Railway Station Strike, According to Zelensky",
+    "link": "https://www.bbc.com/news/articles/czewkn06y1no?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "pub_date": "Sat, 04 Oct 2025 15:34:49 GMT",
+    "summary": "Russian forces struck a railway station in Ukraine, injuring at least 30 individuals, including train staff and passengers, according to Ukrainian President Volodymyr Zelensky. The attack highlights the continued vulnerability of civilian infrastructure amidst the ongoing conflict and raises concerns about the safety of transportation networks. This incident occurs within the broader context of Russia's invasion of Ukraine, which began in February 2022, and underscores the conflict's impact on Ukrainian citizens and infrastructure. The specific location and method of the attack remain under investigation, but the event will likely further strain diplomatic relations and fuel calls for increased international assistance to Ukraine.",
+    "date_str": "October 05, 2025"
+  },
+  {
     "title": "Italians Held a Strike to Show Support for Palestinians in Gaza",
     "link": "https://www.bbc.com/news/articles/cy8rdd5dzvro?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
     "pub_date": "Fri, 03 Oct 2025 22:36:42 GMT",
-    "summary": "Across Italy, pro-Palestinian demonstrators staged strikes and marches, challenging the right-wing government of Prime Minister Giorgia Meloni. The protests, organized by the USB union, voice opposition to Israel's actions in Gaza, specifically the interception of the Global Sumud Flotilla. These actions highlight a growing divide between popular sentiment regarding the Israeli-Palestinian conflict and the Italian government's stance. The strikes underscore the capacity for domestic political disruption stemming from international affairs. The events mirror broader European tensions concerning the ongoing conflict and its reverberations within national contexts.",
-    "date_str": "October 04, 2025"
+    "summary": "Across Italy, pro-Palestinian demonstrators staged marches and strikes, challenging the policies of Giorgia Meloni's right-wing government amid the ongoing Gaza conflict. The USB union organized the nationwide strike, condemning Israeli actions, particularly the interception of the Global Sumud Flotilla, which attempted to breach Israel's naval blockade of Gaza. These protests highlight domestic political tensions within Italy regarding foreign policy and the Israeli-Palestinian conflict. The actions signal growing public dissent towards Meloni's government and support for Palestinians. This occurs within the broader context of heightened global scrutiny of the Gaza situation.",
+    "date_str": "October 05, 2025"
   },
   {
-    "title": "Russia Is Targeting UK Military Satellites Weekly",
-    "link": "https://www.bbc.com/news/articles/c4gkyl1j6n9o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "pub_date": "Fri, 03 Oct 2025 02:31:57 GMT",
-    "summary": "According to the UK's Ministry of Defence, Russia is targeting UK military satellites on a weekly basis in an effort to gather sensitive information. These persistent attempts at espionage highlight the ongoing tensions between Russia and the UK, particularly within the context of the war in Ukraine and broader geopolitical competition. This activity underscores the increasing importance of space as a domain for both military operations and intelligence gathering, raising concerns about the vulnerability of satellite infrastructure. The UK government has yet to release specific details on the nature of the attacks or their impact, but the revelations signal a growing threat to national security interests in space.",
-    "date_str": "October 04, 2025"
-  },
-  {
-    "title": "Putin Expresses Skepticism About U.S. Supplying Tomahawk Missiles to Ukraine",
-    "text": "The Russian president warned against fulfilling a Ukrainian request for more powerful long-range missiles, while also suggesting President Trump would decide against the idea.",
-    "link": "https://www.nytimes.com/2025/10/03/world/europe/putin-trump-ukraine-tomahawk-missiles.html",
-    "date_str": "October 03, 2025",
+    "title": "Israel and Hamas Are Preparing to Discuss Trump's Plan to End the Gaza War",
+    "text": "Indirect negotiations through mediators are planned for Monday in Egypt and are expected to focus on one main issue, swapping hostages for Palestinian prisoners. That may leave talks on other obstacles to ending the war until later.",
+    "link": "https://www.nytimes.com/2025/10/05/world/middleeast/trump-israel-hamas-gaza.html",
+    "date_str": "October 05, 2025",
     "source": "NYT",
-    "summary": "Vladimir Putin cautioned the West against providing Ukraine with longer-range missiles, framing such escalation as a dangerous provocation. Putin implied that a potential future Trump administration would likely reject Ukraine's request, highlighting a possible shift in U.S. policy. This warning occurs as Ukraine seeks advanced weaponry to strike deeper into Russian-held territory, reflecting the ongoing debate within Western nations regarding the limits of military aid to Kyiv and the associated risks of escalation with Russia. The statement also serves to potentially influence Western decision-making processes regarding future military assistance."
+    "summary": "Mediators will facilitate indirect negotiations between Israeli and Palestinian representatives in Egypt on Monday, prioritizing a hostage-prisoner exchange. This initial focus postpones discussions on broader issues obstructing a ceasefire in the ongoing conflict. Egypt plays a key role in these talks, reflecting its history as a regional diplomatic leader and its proximity to the Israeli-Palestinian conflict. The outcome of these negotiations could significantly impact the trajectory of the war and future peace prospects."
   },
   {
-    "title": "Fury Over Israeli Attack in Qatar Prompted Netanyahu's Gaza Stance",
-    "text": "Hamas has agreed to some elements of the proposal by President Trump to end the war in Gaza, but it’s not clear if its conditions ultimately would satisfy the White House or Israel.",
-    "link": "https://www.nytimes.com/2025/10/03/us/politics/trump-israel-qatar-gaza.html",
-    "date_str": "October 03, 2025",
+    "title": "Russia Launched Deadly Bombardment Targeting Ukraine's Energy Infrastructure",
+    "text": "At least five people were killed before dawn in another large-scale and wide-ranging assault.",
+    "link": "https://www.nytimes.com/2025/10/05/world/europe/russia-ukraine-strikes-energy-lviv.html",
+    "date_str": "October 05, 2025",
     "source": "NYT",
-    "summary": "Hamas is engaging with President Trump's proposal to end the Gaza war, signaling a potential shift in the conflict. While Hamas has accepted parts of the deal, the group's conditions introduce uncertainty about its ultimate viability with the United States and Israel. The negotiation follows months of intense fighting and diplomatic efforts to secure a ceasefire. This development carries major significance as it could lead to a de-escalation of tensions and an opening for broader peace negotiations in the region, although substantial disagreements remain between the involved parties."
+    "summary": "An extensive assault claimed at least five lives in an early morning attack, highlighting ongoing instability. Perpetrators remain unnamed in the report, but their actions exacerbate existing tensions. This incident underscores the fragility of the current security situation and may trigger retaliatory actions, necessitating close monitoring by international observers. The attack itself serves as a stark reminder of the human cost of the conflict."
+  },
+  {
+    "title": "Synagogue Attack Puts Pressure on U.K.'s Starmer",
+    "text": "The prime minister vowed to rid the Labour Party of antisemitism. But a competing political reality, activist anger over the war in Gaza, has complicated that effort.",
+    "link": "https://www.nytimes.com/2025/10/04/world/europe/manchester-synagogue-palestine-antisemitism-starmer-labour-party.html",
+    "date_str": "October 04, 2025",
+    "source": "NYT",
+    "summary": "Amidst activist anger over the war in Gaza, the prime minister's pledge to eradicate antisemitism within the Labour Party faces significant obstacles. The prime minister struggles to reconcile his commitment with growing tensions surrounding the Israeli-Palestinian conflict, a challenge that could undermine his leadership and exacerbate divisions within the party. This situation highlights the intersection of domestic politics and international affairs, demonstrating the way that foreign policy issues can create major political divides within states. Successfully addressing antisemitism while navigating the complexities of the Gaza conflict represents a crucial test of the prime minister's leadership."
   }
 ]
