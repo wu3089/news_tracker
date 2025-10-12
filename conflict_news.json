@@ -1,40 +1,48 @@
 [
   {
-    "title": "Russian Strikes Cause Damage and Injuries in Kyiv",
+    "title": "Thousands of Palestinians Return Home Following Gaza Ceasefire",
+    "link": "https://apnews.com/article/gaza-shelling-ceasefire-israel-c832ff32cf332805ffb50bffa35e8220",
+    "source": "Associated Press",
+    "date_str": "October 10, 2025",
+    "summary": "Following a U.S.-brokered ceasefire, tens of thousands of Palestinians returned to the heavily devastated northern Gaza Strip. The ceasefire, agreed to by Israel and Hamas, halts fighting in the ongoing conflict and facilitates the return of displaced residents to their homes, many of which are destroyed. This pause in hostilities provides a temporary reprieve in the region, enabling civilians to assess damages and begin the process of rebuilding amidst the broader context of the Israel-Hamas war. The United States played a key role in mediating the agreement."
+  },
+  {
+    "title": "Russian Strikes Damage Kyiv, Causing Injuries",
     "link": "https://apnews.com/article/ukraine-russia-war-airstrikes-74c456c48b64e93300b4cf05bc60f6dd",
     "source": "Associated Press",
     "date_str": "October 10, 2025",
-    "summary": "Russian forces launched drone and missile strikes against Kyiv on October 10, 2025, wounding at least 20 people and damaging residential buildings, while a separate attack killed a child. Ukrainian authorities, including President Volodymyr Zelenskyy and Kyiv Mayor Vitali Klitschko, are responding to the damage and casualties caused by the strikes. These attacks by Russia, led by Vladimir Putin, mark a continued escalation in the Russia-Ukraine war, impacting civilian infrastructure and causing blackouts across Ukraine. The strikes underscore the ongoing vulnerability of Ukrainian cities and the human cost of the conflict."
+    "summary": "Russian forces launched drone and missile strikes against Kyiv, Ukraine, wounding at least 20 people and damaging residential buildings on October 10, 2025. The attacks, part of the ongoing Russia-Ukraine war, caused blackouts across swathes of Ukraine and resulted in the death of a child in a separate attack. Ukrainian authorities, including President Volodymyr Zelenskyy and Kyiv Mayor Vitali Klitschko, condemned the strikes, while Russia, led by President Vladimir Putin, has yet to comment. These attacks highlight the continued escalation of the conflict and the vulnerability of Ukrainian civilians, despite ongoing international condemnation and sanctions against Russia."
   },
   {
-    "title": "Israel and Hamas Agreed to Exchange Hostages and Prisoners During Gaza War Pause",
-    "link": "https://apnews.com/article/israel-hamas-hostages-trump-peace-plan-e3d0ce091be56cc29207e566ff1603af",
-    "source": "Associated Press",
-    "date_str": "October 09, 2025",
-    "summary": "In a significant step towards de-escalation, the Israeli Cabinet approved President Trump's plan for a ceasefire in Gaza and the release of hostages held by Hamas. This decision, reached after a devastating two-year war that destabilized the Middle East, signals a potential turning point in the conflict. The agreement, involving key players such as the Israeli government and Hamas, aims to halt hostilities and secure the freedom of remaining captives. The approval comes amidst ongoing international efforts to mediate a lasting resolution between Israel and Hamas."
-  },
-  {
-    "title": "Major Russian Strikes Sever Power in Kyiv and Ukraine",
-    "link": "https://www.bbc.com/news/articles/cvgq2vnxzlvo?at_medium=RSS&at_campaign=rss",
+    "title": "Afghan Taliban Claims Pakistani Troops Killed in Border Retaliation",
+    "link": "https://www.bbc.com/news/articles/cgmzmn4971zo?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
-    "pub_date": "Fri, 10 Oct 2025 21:12:11 GMT",
-    "summary": "Russian forces launched major strikes targeting Ukraine, causing widespread power outages, particularly in Kyiv where 380,000 consumers face electricity cuts. These attacks, part of Russia's ongoing war against Ukraine, cripple essential infrastructure and exacerbate the humanitarian crisis as winter approaches. The strikes, conducted by Russia, demonstrate a continued effort to weaken Ukraine's resolve and capacity to resist, impacting civilians across the country. This escalation occurs amidst stalled negotiations and signals a potential shift towards intensified targeting of civilian infrastructure by Russia.",
-    "date_str": "October 11, 2025"
+    "pub_date": "Sun, 12 Oct 2025 11:58:23 GMT",
+    "summary": "Amidst escalating tensions, the Afghan Taliban claims its forces conducted retaliatory attacks against Pakistani troops along the Afghanistan-Pakistan border, resulting in casualties. This action follows accusations that Pakistan bombed a market within Afghanistan, further straining the already fragile relationship between the two countries. The border region has long been a source of contention, with both sides alleging cross-border attacks and harboring of militants. These recent events underscore the ongoing instability and security challenges in the region, potentially exacerbating the humanitarian crisis within Afghanistan.",
+    "date_str": "October 12, 2025"
   },
   {
-    "title": "The United States Will Deploy 200 Troops to Israel to Oversee the Gaza Ceasefire",
-    "link": "https://www.bbc.com/news/articles/cpvl97r4e8jo?at_medium=RSS&at_campaign=rss",
+    "title": "Indian Student Joined Russian Army to Evade Drug Charges, His Mother Says",
+    "link": "https://www.bbc.com/news/articles/cwy870p96yjo?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
-    "pub_date": "Fri, 10 Oct 2025 09:58:12 GMT",
-    "summary": "The United States plans to deploy 200 troops to Israel as part of a multinational force to monitor the Gaza ceasefire. This force will likely include personnel from Egypt, Qatar, Turkey, and the UAE. The move underscores the U.S.'s commitment to de-escalating tensions between Israel and Palestine and fostering regional stability through international cooperation. The establishment of this multinational force is intended to provide a more stable and secure environment following recent conflicts.",
-    "date_str": "October 11, 2025"
+    "pub_date": "Sat, 11 Oct 2025 22:40:29 GMT",
+    "summary": "Ukrainian forces captured Sahil Majothi, an Indian student from Gujarat, who allegedly fought for the Russian army. Majothi reportedly joined the Russian military to evade jail time related to alleged drug charges in India, highlighting the complex and sometimes opaque recruitment practices of the Russian armed forces amid the ongoing war in Ukraine. This incident brings attention to the involvement of foreign nationals in the conflict and raises questions regarding the motivations and circumstances that lead individuals to fight for either side. The capture underscores the global implications and diverse actors involved in the Russia-Ukraine war.",
+    "date_str": "October 12, 2025"
   },
   {
-    "title": "North Korea Showcases New Missiles During Parade Attended by Chinese and Russian Officials",
-    "text": "The parade, held in North Korea’s capital to celebrate the 80th anniversary of the ruling Workers’ Party, ​gave its leader a chance to show off his growing power.",
-    "link": "https://www.nytimes.com/2025/10/11/world/asia/north-korea-military-parade-china-russia.html",
+    "title": "A Drone Strike in Besieged Sudan City Killed Dozens",
+    "link": "https://www.bbc.com/news/articles/c3rvrn8req4o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "pub_date": "Sat, 11 Oct 2025 20:25:59 GMT",
+    "summary": "A drone strike in El-Fasher, Sudan, killed dozens of people, highlighting the escalating violence in the besieged city. The Rapid Support Forces (RSF) have surrounded El-Fasher for 17 months, exacerbating a humanitarian crisis marked by widespread hunger and starvation among residents. This attack underscores the ongoing conflict between the RSF and the Sudanese Armed Forces, further destabilizing the region. The fighting in El-Fasher threatens to worsen the already dire situation for civilians trapped in the city. The international community expresses concerns about the escalating conflict and its impact on civilians.",
+    "date_str": "October 12, 2025"
+  },
+  {
+    "title": "Dozens Died After Strikes Hit a Shelter in Besieged Sudanese City",
+    "text": "Missiles struck as many people were asleep in classrooms converted into temporary shelters, a doctor said. Paramilitary forces have tightened their siege on El Fasher for over a year.",
+    "link": "https://www.nytimes.com/2025/10/11/world/africa/sudan-shelter-strike-rsf.html",
     "date_str": "October 11, 2025",
     "source": "NYT",
-    "summary": "North Korea celebrated the 80th anniversary of its ruling Workers' Party with a military parade showcasing leader Kim Jong-un's consolidation of power. The event, staged in Pyongyang, provided Kim a platform to display advancements in the nation's military capabilities, signaling defiance against international sanctions and highlighting his regime's focus on defense. This display occurred amidst ongoing economic challenges and stalled denuclearization talks, reinforcing North Korea's strategic posture in the region. The parade underscores Kim Jong-un’s resolve to strengthen his authority and project an image of national strength despite external pressures."
+    "summary": "Fighting intensified in El Fasher, Sudan, as missiles struck civilian shelters, highlighting the worsening humanitarian crisis amid a prolonged paramilitary siege. The Rapid Support Forces (RSF) have tightened their grip on El Fasher for over a year, a strategic city and vital humanitarian hub. This escalation threatens to destabilize the region further and severely impede aid delivery to vulnerable populations. The violence underscores the urgent need for international intervention to protect civilians and negotiate a ceasefire between the RSF and the Sudanese Armed Forces (SAF)."
   }
 ]
