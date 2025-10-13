@@ -1,48 +1,63 @@
 [
   {
-    "title": "Thousands of Palestinians Return Home Following Gaza Ceasefire",
+    "title": "Aid Preparations Increase in Gaza Following Ceasefire, Ending Two-Year Conflict",
+    "link": "https://apnews.com/article/gaza-ceasefire-aid-hostages-prisoners-trump-f4cbb40cb80452f3138a1b6b3725af1d",
+    "source": "Associated Press",
+    "date_str": "October 12, 2025",
+    "summary": "Israel anticipates the release of the remaining twenty living hostages held by Hamas in the Gaza Strip following a breakthrough ceasefire agreement between the two parties. This agreement, achieved after intense fighting during the 2024-2025 Israel-Hamas war, signifies a potential turning point in the conflict. Key players such as Israel, with Benjamin Netanyahu as Prime Minister, and Hamas, the governing body in Gaza, reached this accord after the devastating effects of the war and international pressure. The ceasefire and hostage release hold significant implications for regional stability and future negotiations between Israel and Palestinian factions."
+  },
+  {
+    "title": "Israel Refuses to Release Popular Palestinian Leader in Ceasefire Agreement",
+    "link": "https://apnews.com/article/palestinian-prisoners-israel-hamas-barghouti-5a4b1de8d7e314835c6106f3c7744fd7",
+    "source": "Associated Press",
+    "date_str": "October 11, 2025",
+    "summary": "Amid ongoing negotiations for a Gaza ceasefire and hostage release, Israel refuses to include Marwan Barghouti, a popular Palestinian leader imprisoned since 2002 for his role in orchestrating terrorist attacks, in the prisoner exchange with Hamas. This decision by Israel, influenced by right-wing factions within the government, occurs despite Barghouti's widespread support among Palestinians, where many view him as a potential unifying figure and successor to Mahmoud Abbas. Barghouti's continued imprisonment highlights the deep divisions and complexities surrounding the Israeli-Palestinian conflict and the challenges in achieving a lasting peace. The exclusion of Barghouti demonstrates the political constraints on Prime Minister Netanyahu's government and signals a hard-line stance towards Palestinian prisoners convicted of security offenses."
+  },
+  {
+    "title": "Thousands of Palestinians Are Returning Home After the Gaza Ceasefire",
     "link": "https://apnews.com/article/gaza-shelling-ceasefire-israel-c832ff32cf332805ffb50bffa35e8220",
     "source": "Associated Press",
     "date_str": "October 10, 2025",
-    "summary": "Following a U.S.-brokered ceasefire, tens of thousands of Palestinians returned to the heavily devastated northern Gaza Strip. The ceasefire, agreed to by Israel and Hamas, halts fighting in the ongoing conflict and facilitates the return of displaced residents to their homes, many of which are destroyed. This pause in hostilities provides a temporary reprieve in the region, enabling civilians to assess damages and begin the process of rebuilding amidst the broader context of the Israel-Hamas war. The United States played a key role in mediating the agreement."
+    "summary": "Following a U.S.-brokered ceasefire, tens of thousands of Palestinians returned to the heavily destroyed northern Gaza Strip. This occurred after an agreement between Israel, led by Benjamin Netanyahu, and Hamas took effect, pausing their ongoing war. The return signifies a potential shift in the conflict's dynamics and underscores the immense devastation suffered by Palestinian civilians. The ceasefire aims to de-escalate the conflict and allow for the release of remaining hostages held by Hamas. The international community closely monitors the situation, assessing the long-term implications for regional stability and humanitarian efforts."
   },
   {
-    "title": "Russian Strikes Damage Kyiv, Causing Injuries",
-    "link": "https://apnews.com/article/ukraine-russia-war-airstrikes-74c456c48b64e93300b4cf05bc60f6dd",
-    "source": "Associated Press",
-    "date_str": "October 10, 2025",
-    "summary": "Russian forces launched drone and missile strikes against Kyiv, Ukraine, wounding at least 20 people and damaging residential buildings on October 10, 2025. The attacks, part of the ongoing Russia-Ukraine war, caused blackouts across swathes of Ukraine and resulted in the death of a child in a separate attack. Ukrainian authorities, including President Volodymyr Zelenskyy and Kyiv Mayor Vitali Klitschko, condemned the strikes, while Russia, led by President Vladimir Putin, has yet to comment. These attacks highlight the continued escalation of the conflict and the vulnerability of Ukrainian civilians, despite ongoing international condemnation and sanctions against Russia."
+    "title": "Trump Suggests Possible Deployment of Tomahawk Missiles to Ukraine",
+    "link": "https://www.bbc.com/news/articles/c93xpqgzkv0o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "pub_date": "Mon, 13 Oct 2025 10:01:42 GMT",
+    "summary": "Amidst Ukraine's ongoing conflict with Russia, Donald Trump stated that he might consider sending Tomahawk missiles to Ukraine, fulfilling Kyiv's request for long-range weaponry to enhance its defense capabilities. This potential provision of advanced U.S. missile technology highlights the continued debate surrounding the appropriate level and type of external support for Ukraine, as it struggles to counter Russian aggression. The decision carries significant implications for escalating or de-escalating the conflict, and for the broader geopolitical balance in Eastern Europe. This consideration takes place within the larger context of international efforts to bolster Ukraine's military strength and pressure Russia to seek a resolution.",
+    "date_str": "October 13, 2025"
   },
   {
-    "title": "Afghan Taliban Claims Pakistani Troops Killed in Border Retaliation",
+    "title": "Afghan Taliban Claims Pakistani Troops Died in Border Retaliation",
     "link": "https://www.bbc.com/news/articles/cgmzmn4971zo?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
     "pub_date": "Sun, 12 Oct 2025 11:58:23 GMT",
-    "summary": "Amidst escalating tensions, the Afghan Taliban claims its forces conducted retaliatory attacks against Pakistani troops along the Afghanistan-Pakistan border, resulting in casualties. This action follows accusations that Pakistan bombed a market within Afghanistan, further straining the already fragile relationship between the two countries. The border region has long been a source of contention, with both sides alleging cross-border attacks and harboring of militants. These recent events underscore the ongoing instability and security challenges in the region, potentially exacerbating the humanitarian crisis within Afghanistan.",
-    "date_str": "October 12, 2025"
+    "summary": "The Afghan Taliban claims its forces conducted retaliatory attacks, resulting in casualties among Pakistani troops, following accusations that Pakistan bombed a market inside Afghanistan. These cross-border attacks exacerbate already strained relations between the Taliban-led Afghanistan and Pakistan, who disagree over border management and Pakistan's alleged support for anti-Taliban militants. The escalating tensions could further destabilize the region, impacting security and potentially leading to a broader conflict. This situation underscores the complex dynamics and unresolved issues along the Afghanistan-Pakistan border.",
+    "date_str": "October 13, 2025"
   },
   {
-    "title": "Indian Student Joined Russian Army to Evade Drug Charges, His Mother Says",
+    "title": "Indian Student in Ukraine Joined Russian Army to Avoid Drug Charges, His Mother Says",
     "link": "https://www.bbc.com/news/articles/cwy870p96yjo?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
     "pub_date": "Sat, 11 Oct 2025 22:40:29 GMT",
-    "summary": "Ukrainian forces captured Sahil Majothi, an Indian student from Gujarat, who allegedly fought for the Russian army. Majothi reportedly joined the Russian military to evade jail time related to alleged drug charges in India, highlighting the complex and sometimes opaque recruitment practices of the Russian armed forces amid the ongoing war in Ukraine. This incident brings attention to the involvement of foreign nationals in the conflict and raises questions regarding the motivations and circumstances that lead individuals to fight for either side. The capture underscores the global implications and diverse actors involved in the Russia-Ukraine war.",
-    "date_str": "October 12, 2025"
+    "summary": "Ukrainian forces captured an Indian student, Sahil Majothi from Gujarat, who allegedly fought for the Russian army. Majothi reportedly joined the Russian military to evade imprisonment on alleged drug charges in India, highlighting the desperation of some individuals seeking to avoid legal consequences. This incident occurs against the backdrop of the ongoing conflict in Ukraine, where Russia faces manpower shortages and has reportedly recruited foreign nationals. The capture raises concerns about the involvement of foreign citizens in the war and the potential exploitation of vulnerable individuals seeking alternatives to criminal prosecution in their home countries. Further investigation will likely focus on the circumstances of Majothi's recruitment and the extent of foreign involvement in the Russian military.",
+    "date_str": "October 13, 2025"
   },
   {
-    "title": "A Drone Strike in Besieged Sudan City Killed Dozens",
-    "link": "https://www.bbc.com/news/articles/c3rvrn8req4o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "pub_date": "Sat, 11 Oct 2025 20:25:59 GMT",
-    "summary": "A drone strike in El-Fasher, Sudan, killed dozens of people, highlighting the escalating violence in the besieged city. The Rapid Support Forces (RSF) have surrounded El-Fasher for 17 months, exacerbating a humanitarian crisis marked by widespread hunger and starvation among residents. This attack underscores the ongoing conflict between the RSF and the Sudanese Armed Forces, further destabilizing the region. The fighting in El-Fasher threatens to worsen the already dire situation for civilians trapped in the city. The international community expresses concerns about the escalating conflict and its impact on civilians.",
-    "date_str": "October 12, 2025"
-  },
-  {
-    "title": "Dozens Died After Strikes Hit a Shelter in Besieged Sudanese City",
-    "text": "Missiles struck as many people were asleep in classrooms converted into temporary shelters, a doctor said. Paramilitary forces have tightened their siege on El Fasher for over a year.",
-    "link": "https://www.nytimes.com/2025/10/11/world/africa/sudan-shelter-strike-rsf.html",
-    "date_str": "October 11, 2025",
+    "title": "Ukraine Is Relying on Strikes Within Russia's Borders",
+    "text": "The Kremlin will only negotiate if missiles and drones bring the pain of war home to Russians, Ukrainian officials say.",
+    "link": "https://www.nytimes.com/2025/10/13/world/europe/ukraine-long-range-strikes-russia.html",
+    "date_str": "October 13, 2025",
     "source": "NYT",
-    "summary": "Fighting intensified in El Fasher, Sudan, as missiles struck civilian shelters, highlighting the worsening humanitarian crisis amid a prolonged paramilitary siege. The Rapid Support Forces (RSF) have tightened their grip on El Fasher for over a year, a strategic city and vital humanitarian hub. This escalation threatens to destabilize the region further and severely impede aid delivery to vulnerable populations. The violence underscores the urgent need for international intervention to protect civilians and negotiate a ceasefire between the RSF and the Sudanese Armed Forces (SAF)."
+    "summary": "Ukrainian officials asserted that Russia will engage in meaningful negotiations to end the war only when its populace directly experiences the consequences of the conflict through missile and drone strikes within Russian territory, highlighting Kyiv's strategy of escalating domestic pressure on Moscow. This statement underscores Ukraine's shift towards targeting Russian infrastructure and strategic sites, aiming to undermine public support for the war effort and compel the Kremlin to reassess its objectives. By framing negotiations as a response to domestic pressure, Ukraine seeks to leverage battlefield realities to alter Russia's calculus and achieve more favorable outcomes at the negotiating table. Such claims follow increasing drone strikes within Russia which have caused considerable damage."
+  },
+  {
+    "title": "Border Clash Between Afghanistan and Pakistan Could Escalate Regional Conflict",
+    "text": "Isolated confrontations have intensified over the past week into the sharpest escalation of violence between the two countries in years.",
+    "link": "https://www.nytimes.com/2025/10/12/world/asia/afghanistan-pakistan-violence-conflict.html",
+    "date_str": "October 12, 2025",
+    "source": "NYT",
+    "summary": "Recent isolated confrontations have escalated into the most significant violence between the two nations in years, signaling a potential shift towards a more volatile relationship. These escalating clashes highlight the fragility of the existing peace and the ineffectiveness of current diplomatic efforts to de-escalate tensions. This surge in hostility challenges regional stability and demands immediate attention from international actors to prevent further conflict and foster dialogue between the involved parties."
   }
 ]
