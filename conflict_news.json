@@ -1,32 +1,47 @@
 [
   {
-    "title": "Israel Confirms Remains of Hostage Eliyah Margalit, Amidst Palestinian Reports of Gaza Deaths",
+    "title": "Israel Retaliates in Gaza Following Hamas Attack Across Ceasefire Line",
+    "link": "https://apnews.com/article/israel-palestinians-hamas-war-news-10-19-2025-f3d95cf76018541ff824853d1bcd3356",
+    "source": "Associated Press",
+    "date_str": "October 19, 2025",
+    "summary": "Following a fragile ceasefire, Israel launched deadly strikes in Gaza after Hamas militants allegedly killed two Israeli soldiers, prompting an initial halt to humanitarian aid. However, Israel decided to resume the ceasefire and restart aid deliveries to Gaza on Monday. This development occurs within the broader context of ongoing conflict between Israel and Hamas, with key players including Israeli leadership and Hamas figures like Khalil al-Haya. The resumption of aid aims to alleviate the humanitarian crisis in Gaza amid continued tensions and sporadic violence."
+  },
+  {
+    "title": "Israel Confirms Hostage Eliyah Margalit's Remains After Hamas Handover, Amid Reports of Nine Gazan Deaths",
     "link": "https://apnews.com/article/israel-palestinians-hamas-war-news-10-18-2025-4d13aaceec91c360449dd5fa737b192b",
     "source": "Associated Press",
     "date_str": "October 18, 2025",
-    "summary": "Amidst the ongoing conflict, Hamas transferred to Israel \"two coffins of deceased hostages\" from Gaza late Saturday, according to Israeli officials. This handover occurs within the broader context of the 2024-2025 Israel-Hamas war, where hostage situations remain a critical concern. The exchange highlights the complex dynamics between Israel and Hamas, with Benjamin Netanyahu's government continuing to navigate the crisis. The transfer underscores the dire humanitarian situation and the challenges facing both sides in the conflict."
+    "summary": "Amidst the ongoing Israel-Hamas conflict, Hamas transferred two coffins containing the remains of deceased hostages to Israel on Saturday. This development occurs within the context of heightened tensions and continued fighting between Israel and Hamas, following the initial Hamas attacks and hostage-taking. While the identities and circumstances surrounding the deaths of the hostages remain unclear, this handover represents a potential, albeit grim, step in hostage negotiations. The exchange highlights the complex dynamics between Israel and Hamas, with the return of deceased hostages potentially influencing future discussions and actions by both sides."
   },
   {
-    "title": "Putin's Forces Bypass Zelensky's Defenses",
+    "title": "Ukraine's Military Reportedly Outmaneuvered Zelensky",
     "link": "https://apnews.com/article/trump-zelenskyy-putin-ukraine-tomahawks-ce697e5eda6ce9793b4343499d105a8c",
     "source": "Associated Press",
     "date_str": "October 17, 2025",
-    "summary": "Following a meeting with Ukrainian President Volodymyr Zelenskyy, former President Donald Trump urged both Ukraine and Russia to halt their military advances and negotiate an end to the ongoing conflict. Trump's call for a ceasefire, advocating that both sides \"stop where they are,\" occurs amidst the protracted war, where territorial control remains a key issue. The meeting included Vice President JD Vance and Treasury Secretary Scott Bessent and signals potential shifts in U.S. policy toward the conflict, which has involved complex geopolitical considerations and substantial international support for Ukraine. This statement carries significance given Trump's potential return to the White House and his previously stated skepticism regarding continued aid to Ukraine. His stance adds a new dimension to the ongoing debate about how to resolve the conflict, as the war continues to cause global instability."
+    "summary": "Following a meeting with Ukrainian President Volodymyr Zelenskyy, U.S. President Donald Trump urged both Ukraine and Russia to de-escalate and halt their ongoing conflict at the current positions. Trump's call to \"stop where they are\" signifies a potential shift in U.S. strategy toward the war, amid continued fighting and complex geopolitical dynamics. The meeting, also attended by Vice President JD Vance and Treasury Secretary Scott Bessent, underscores the continued engagement of the U.S. government in seeking a resolution to the conflict. This appeal comes against the backdrop of the protracted Russia-Ukraine war which has significantly impacted global security and stability."
   },
   {
-    "title": "Israel Halts Aid to Gaza After Striking, Citing Hamas' Truce Violation",
-    "text": "Israel launched a wave of attacks on Gaza after accusing Palestinian militants of attacking its forces across cease-fire lines. Both sides say they are still committed to the truce.",
-    "link": "https://www.nytimes.com/2025/10/19/world/middleeast/israel-gaza-ceasefire.html",
-    "date_str": "October 19, 2025",
-    "source": "NYT",
-    "summary": "Following alleged cross-border attacks by Palestinian militants, Israel initiated retaliatory strikes on Gaza, threatening to unravel the existing ceasefire and raising concerns about renewed escalation. Both Israel and Palestinian factions maintain they are committed to upholding the truce, though this latest exchange of fire demonstrates its fragility. This renewed conflict occurs amidst ongoing tensions and stalled peace negotiations between Israel and Palestinian groups, further complicating regional stability. The actions of both the Israeli military and Palestinian militant groups influence the prospect of a lasting resolution."
+    "title": "A Drone Attack Targeted Sudan's Capital Before the Airport's Planned Reopening",
+    "link": "https://www.bbc.com/news/articles/cpq1lq1g431o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "pub_date": "Tue, 21 Oct 2025 08:52:25 GMT",
+    "summary": "Ahead of its planned reopening, a drone strike hit Khartoum's airport, which has been out of service for two years due to the ongoing conflict. The attack underscores the volatile security situation in Sudan, where fighting between the Sudanese army and the Rapid Support Forces continues to disrupt infrastructure and planned efforts towards normalization. The renewed violence poses challenges for humanitarian access and economic recovery in the war-torn nation. Basillioh Rukanga and Shingai Nyoka are the authors of the article.",
+    "date_str": "October 21, 2025"
   },
   {
-    "title": "As the Arctic Warms, Competition for the Northwest Passage Increases",
-    "text": "The Inuit of the far north helped solve the mystery of a doomed 19th-century expedition. Now Canada needs them to strengthen its claim to this newly contested region.",
-    "link": "https://www.nytimes.com/2025/10/20/world/canada/canada-arctic-northwest-passage.html",
-    "date_str": "October 20, 2025",
+    "title": "Deadly Gaza Flare-Up Challenges Israel-Hamas Ceasefire Agreement",
+    "link": "https://www.bbc.com/news/articles/czxk8k4xlv1o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "pub_date": "Mon, 20 Oct 2025 12:48:54 GMT",
+    "summary": "A recent flare-up of violence between Israel and Hamas is testing the ceasefire established on October 10th. The latest exchange marks the deadliest day of attacks since the truce began, raising concerns about the agreement's durability. Israel and Hamas, the primary actors in this conflict, have a history of volatile relations in the context of the ongoing Israeli-Palestinian conflict, influencing the prospects for long-term stability in the region. The international community closely monitors the situation, as a breakdown of the ceasefire could trigger a broader escalation and further destabilize the region.",
+    "date_str": "October 21, 2025"
+  },
+  {
+    "title": "Nations Are Hesitant to Deploy Troops to Gaza Due to Fear of Hamas Clashes",
+    "text": "The Trump peace plan calls for an international security force in the Gaza Strip, but countries that might send troops are wary of danger, an unclear mission and being seen as occupiers.",
+    "link": "https://www.nytimes.com/2025/10/21/world/middleeast/gaza-ceasefire-international-security-force-hamas.html",
+    "date_str": "October 21, 2025",
     "source": "NYT",
-    "summary": "Canada seeks to leverage Inuit knowledge to bolster its sovereignty claims in the Arctic as melting ice caps open up the region to resource exploitation and geopolitical competition. The Inuit, who possess generations of traditional ecological knowledge, played a crucial role in locating the wreckage of the Franklin Expedition, demonstrating their expertise in navigating and understanding the challenging Arctic environment. This recovered history and ongoing presence strengthens Canada's position amidst increasing interest from Russia, China, and other nations vying for access to the Arctic's strategic waterways and resources. By formally recognizing and incorporating Inuit insights into its Arctic policies, Canada hopes to reinforce its territorial claims and ensure responsible development in the face of growing external pressures."
+    "summary": "The Trump peace plan proposes an international security force for Gaza, aiming to stabilize the region, but faces significant obstacles. Potential troop-contributing nations express hesitation due to security risks, an undefined mission mandate, and concerns about being perceived as occupiers by the Palestinian population. This reluctance undermines the plan's implementation, highlighting the challenges in securing international buy-in for security arrangements in the complex Israeli-Palestinian conflict. Ultimately, the success of any peace initiative hinges on addressing these concerns and gaining support from key international actors."
   }
 ]
