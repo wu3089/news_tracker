@@ -1,48 +1,57 @@
 [
   {
-    "title": "Pump Prices May Increase Following Sanctions on Russian Oil and Price Spikes",
-    "link": "https://apnews.com/article/oil-prices-gas-prices-russia-santions-opec-92597dd411a86f770d373ba228bdbe91",
+    "title": "Zelensky Urges Air Defense Aid After Russian Attacks Kill Ukrainians",
+    "link": "https://apnews.com/article/russia-ukraine-zelenskyy-missile-ballistic-kyiv-4381b48b931d7ed32e44a6d671b97dd5",
     "source": "Associated Press",
-    "date_str": "October 23, 2025",
-    "summary": "In response to Russia's ongoing war in Ukraine, the United States and the European Union levied new sanctions against Russia's oil industry, causing oil prices to spike. The sanctions, aimed at pressuring Russian President Vladimir Putin to negotiate an end to the conflict, create uncertainty in the global energy market. These actions potentially could increase fuel prices for consumers, despite efforts by other actors like OPEC to manage supply and demand. The sanctions represent a significant escalation in the economic pressure on Russia amidst the broader geopolitical tensions."
+    "date_str": "October 25, 2025",
+    "summary": "Russian missile and drone attacks struck Ukraine overnight, killing at least four people and wounding twenty, prompting President Volodymyr Zelenskyy to renew calls for increased air defense support. The attacks, which occurred amidst the ongoing Russia-Ukraine war, highlight Russia's continued military pressure and Ukraine's urgent need for advanced defensive systems. The international community continues to monitor the conflict, balancing support for Ukraine with concerns about escalating tensions with Russia."
   },
   {
-    "title": "The European Union Agreed to New Sanctions Against Russia",
-    "link": "https://apnews.com/article/europe-ukraine-russia-sanctions-gaza-30a4a1ed77e8e59d0692d18c1252838b",
-    "source": "Associated Press",
-    "date_str": "October 23, 2025",
-    "summary": "The European Union agreed to a new package of sanctions targeting Russia's energy sector. The sanctions aim to impede Russia's ability to circumvent existing restrictions by targeting its \"shadow fleet\" of oil tankers and banning the import of Russian liquefied natural gas (LNG). This action by the EU intensifies economic pressure on Russia in response to its ongoing war in Ukraine. European Commission President Ursula von der Leyen and European Council President Antonio Costa were present when this action was taken in Brussels."
-  },
-  {
-    "title": "Warsaw Ghetto Survivor Who Fought Nazis Passes Away",
-    "link": "https://www.bbc.com/news/articles/cgkzg5zmmp8o?at_medium=RSS&at_campaign=rss",
+    "title": "Three People Died in Russian Strikes on Kyiv, Officials Report",
+    "link": "https://www.bbc.com/news/articles/czxnye07x2lo?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
-    "pub_date": "Fri, 24 Oct 2025 17:19:13 GMT",
-    "summary": "Michael Smuss, a survivor of the Warsaw Ghetto and participant in the uprising against Nazi forces during World War II, died in Israel at the age of 99. Smuss, an artist by trade, contributed to the resistance by helping to produce petrol bombs used against the German occupiers. The Warsaw Ghetto Uprising, a pivotal act of Jewish resistance, occurred in 1943 as a response to the ongoing deportations to extermination camps, highlighting the desperate struggle against Nazi persecution. Smuss's death marks the loss of a direct link to this historical event and underscores the importance of preserving the memory of the Holocaust and the acts of resistance undertaken by individuals like him. His life serves as a reminder of the human cost of war and the courage displayed in the face of unimaginable adversity.",
-    "date_str": "October 25, 2025"
+    "pub_date": "Sun, 26 Oct 2025 09:36:12 GMT",
+    "summary": "Russian strikes hit Kyiv, resulting in three fatalities and injuring at least 32 others, including six children, according to Ukrainian officials. These attacks, part of the ongoing conflict between Russia and Ukraine, continue to impact civilian populations and infrastructure in the capital city. Russia has intensified its attacks in recent months, targeting key areas in Kyiv, which underscores the escalating nature of the conflict and raises concerns about further humanitarian consequences. The BBC reports that Kyiv's mayor confirmed the casualties and injuries.",
+    "date_str": "October 26, 2025"
   },
   {
-    "title": "Trump's Russia Sanctions Now Target Energy in War's Dynamics",
+    "title": "Rebel Group Claims Victory, Seizing Sudan Army Headquarters in Key City",
+    "link": "https://www.bbc.com/news/articles/c78z025dze4o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "pub_date": "Sun, 26 Oct 2025 10:57:16 GMT",
+    "summary": "Rebel forces in Sudan claim to have seized the army headquarters in El-Fasher, a strategically important city. This takeover represents a significant gain for the rebels, moving them closer to consolidating control in western Sudan amidst the ongoing conflict. The Rapid Support Forces (RSF) and the Sudanese army are the primary actors in this power struggle, with the fall of El-Fasher potentially shifting the balance of power. The conflict stems from long-standing tensions between the military and the RSF, escalating into a full-blown crisis that threatens the stability of the region.",
+    "date_str": "October 26, 2025"
+  },
+  {
+    "title": "Trump Expresses Hope China Will Encourage Russia's Peace Talks with Ukraine",
+    "link": "https://www.bbc.com/news/articles/cn51yk9vgrko?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "pub_date": "Sat, 25 Oct 2025 13:07:30 GMT",
+    "summary": "Amidst stalled efforts to negotiate a peace settlement in Ukraine, former U.S. President Donald Trump expressed hope that Chinese President Xi Jinping could leverage his relationship with Russian President Vladimir Putin to facilitate an end to the conflict. Trump believes Xi possesses unique influence over Putin, potentially unlocking avenues for de-escalation. This appeal highlights the ongoing search for diplomatic solutions to the war, even as previous attempts have failed to yield substantial progress. The situation underscores the complex geopolitical dynamics at play, involving key players like the U.S., China, and Russia, in the search for resolution in Ukraine.",
+    "date_str": "October 26, 2025"
+  },
+  {
+    "title": "Sudanese Paramilitaries Reportedly Seized a Major Army Garrison in Darfur",
+    "text": "The Rapid Support Forces said it had seized the army headquarters in El Fasher, its last major obstacle to controlling the sprawling western region of Sudan.",
+    "link": "https://www.nytimes.com/2025/10/26/world/africa/sudan-army-base.html",
+    "date_str": "October 26, 2025",
+    "source": "NYT",
+    "summary": "The Rapid Support Forces (RSF) claimed to seize the Sudanese army headquarters in El Fasher, marking a potential turning point in Sudan's ongoing conflict. Control of El Fasher, the capital of North Darfur, provides the RSF with a strategic advantage in dominating western Sudan and consolidating power. This latest development significantly weakens the Sudanese Armed Forces (SAF) and endangers civilians in a region already facing a dire humanitarian crisis. The struggle for control of El Fasher directly impacts the balance of power between the RSF and SAF, further destabilizing Sudan and complicating regional peace efforts."
+  },
+  {
+    "title": "Turkey Offered Aid for Postwar Gaza, but Israel Declines",
+    "text": "As a guarantor of the cease-fire, Turkey is keen to play a role in Gaza’s future, seeing political and economic benefits. Israel is having none of it.",
+    "link": "https://www.nytimes.com/2025/10/26/world/middleeast/turkey-postwar-gaza-reconstruction-ceasefire.html",
+    "date_str": "October 26, 2025",
+    "source": "NYT",
+    "summary": "Turkey seeks to expand its influence in Gaza following the cease-fire, envisioning a guarantor role that could yield political and economic advantages. However, Israel firmly rejects Turkish involvement, creating a point of contention between the two regional powers. This disagreement underscores the complex dynamics at play as international actors vie to shape Gaza's future in the wake of renewed conflict. The situation highlights the ongoing tension between Turkey and Israel as they navigate their respective regional ambitions."
+  },
+  {
+    "title": "Trump's Russia Sanctions Now Target Energy Sector Warfare",
     "text": "As winter slows the pace of battlefield combat, Moscow and Kyiv are betting on campaigns against each other’s energy assets to break a stalemate in the conflict.",
     "link": "https://www.nytimes.com/2025/10/25/world/europe/trump-russia-sanctions-war-dynamics.html",
     "date_str": "October 25, 2025",
     "source": "NYT",
-    "summary": "Russia and Ukraine are currently engaging in targeted campaigns against each other's energy infrastructure, hoping to disrupt supply and shift the battlefield dynamic during the winter months. These actions represent a strategic escalation by both Moscow and Kyiv as they seek to break the current stalemate in the conflict. The attacks on energy assets highlight the vulnerability of critical infrastructure and the expanding scope of the war beyond direct combat zones. Such maneuvers demonstrate a shift in strategy as each side tries to exploit the others dependence on electricity."
-  },
-  {
-    "title": "Rubio Says U.S. Diplomats Will Collaborate With Troops to Preserve Gaza Ceasefire",
-    "text": "Secretary of State Marco Rubio said during a visit to Israel that the State Department would increase its presence at a center set up to monitor the peace deal.",
-    "link": "https://www.nytimes.com/2025/10/24/world/middleeast/gaza-ceasefire-israel-hamas-rubio-us.html",
-    "date_str": "October 24, 2025",
-    "source": "NYT",
-    "summary": "During a visit to Israel, Secretary of State Marco Rubio announced the State Department will bolster its personnel presence at a peace deal monitoring center, signaling increased U.S. commitment to the agreement's implementation. Rubio's pledge underscores U.S. support for regional stability amid ongoing tensions and reflects the importance Washington places on upholding diplomatic accords. The move occurs in the context of renewed efforts to solidify the peace deal and address lingering concerns among stakeholders. Increased U.S. oversight aims to foster trust and prevent potential violations that could destabilize the region."
-  },
-  {
-    "title": "British Man Receives Sentence for Planning Pro-Russian Attacks",
-    "text": "Dylan Earl recruited people to set fire to two London warehouses containing aid bound for Ukraine, the police said. He was also convicted of plotting against a dissident Russian restaurant owner.",
-    "link": "https://www.nytimes.com/2025/10/24/world/europe/britain-sentence-pro-russian-plots.html",
-    "date_str": "October 24, 2025",
-    "source": "NYT",
-    "summary": "Dylan Earl recruited individuals to commit arson at London warehouses storing aid intended for Ukraine, demonstrating a direct effort to disrupt humanitarian assistance efforts in the region. Earl also plotted against a Russian dissident restaurant owner, indicating a broader agenda targeting perceived enemies of the Russian state. These actions, revealed by London authorities, highlight potential efforts by foreign actors to undermine support for Ukraine and silence opposition within the UK. The investigation underscores the ongoing complexities of international relations and their potential spillover into domestic security concerns."
+    "summary": "Facing a battlefield stalemate, Russia and Ukraine are intensifying their campaigns against each other's energy infrastructure, seeking to gain leverage in the ongoing conflict. Moscow aims to cripple Ukraine's power grid and economy, while Kyiv targets Russian oil refineries to disrupt supply lines and revenue streams. This shift reflects a strategic pivot towards economic warfare as a means of weakening the opponent's capacity to sustain military operations amidst slowed ground offensives during the winter months. Ultimately, this escalation of attacks on critical infrastructure underscores both sides' determination to alter the dynamics of the conflict beyond the direct engagement of troops."
   }
 ]
