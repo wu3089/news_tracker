@@ -1,57 +1,48 @@
 [
   {
-    "title": "Zelensky Urges Air Defense Aid After Russian Attacks Kill Ukrainians",
+    "title": "Myanmar Military Shuts Down Cybercrime Center, Detaining Over 2,000",
+    "link": "https://apnews.com/article/scam-centers-cybercrime-myanmar-a2c9fda85187121e51bd0efdf29c81da",
+    "source": "Associated Press",
+    "date_str": "October 26, 2025",
+    "summary": "Myanmar's military junta dismantled a large-scale cybercrime operation located near the Thailand border, arresting over 2,000 individuals. The raid on the \"KK Park\" scam center in Myawaddy township also resulted in the seizure of dozens of Starlink satellite internet terminals. This action highlights the ongoing struggle against cybercrime in Southeast Asia and the military's efforts to assert control, particularly in border regions where such illicit activities often flourish, amid the broader context of political instability following the 2021 coup. The use of Starlink raises questions about the proliferation of technologies enabling illegal operations in conflict zones."
+  },
+  {
+    "title": "Zelensky Appeals for Air Defense Assistance After Russian Attacks Kill Ukrainians",
     "link": "https://apnews.com/article/russia-ukraine-zelenskyy-missile-ballistic-kyiv-4381b48b931d7ed32e44a6d671b97dd5",
     "source": "Associated Press",
     "date_str": "October 25, 2025",
-    "summary": "Russian missile and drone attacks struck Ukraine overnight, killing at least four people and wounding twenty others, prompting President Zelenskyy to urgently appeal for strengthened air defenses. The attacks, which occurred amidst the ongoing Russia-Ukraine war, highlight Russia's continued offensive capabilities and Ukraine's vulnerability without sufficient defensive systems. The international community closely monitors these developments as they impact the broader geopolitical landscape and stability in Europe."
+    "summary": "Russian forces launched missile and drone attacks on Ukraine, resulting in at least four fatalities and twenty injuries. Ukraine's President Zelenskyy responded by urgently appealing to international partners for enhanced air defense systems. The attacks represent a continued escalation of the conflict that began in 2022, highlighting the vulnerability of Ukrainian civilians and infrastructure to Russian aerial assaults. This incident underscores the ongoing need for advanced military aid to bolster Ukraine's defense capabilities amid the protracted war."
   },
   {
-    "title": "King of Jordan Says International Troops Won't Enforce Gaza Peace",
+    "title": "Sudanese Army Surrenders El-Fasher to RSF Paramilitary Forces After Intense Siege",
+    "link": "https://www.bbc.com/news/articles/clyld9w0283o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "pub_date": "Tue, 28 Oct 2025 11:32:34 GMT",
+    "summary": "Amidst ongoing conflict in Sudan, the Rapid Support Forces (RSF) gained control of the strategically significant city of El-Fasher after an 18-month siege, marking a setback for the Sudanese army, led by Abdel Fattah al-Burhan. This takeover raises concerns, as the UN reports the RSF committed atrocities, highlighting the deteriorating humanitarian situation. El-Fasher's fall could further destabilize the Darfur region and exacerbate the existing power struggle between the army and the RSF, who have been vying for control since clashes erupted in April 2023. The conflict stems from a power struggle between al-Burhan and RSF leader Mohamed Hamdan Dagalo, derailing Sudan's transition to civilian rule following the ouster of Omar al-Bashir in 2019.",
+    "date_str": "October 28, 2025"
+  },
+  {
+    "title": "King of Jordan States International Troops Won't Enforce Gaza Peace",
     "link": "https://www.bbc.com/news/articles/cge5ngz11xpo?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
     "pub_date": "Mon, 27 Oct 2025 06:01:02 GMT",
-    "summary": "King Abdullah of Jordan stated to the BBC that international troops would likely hesitate to enforce peace in Gaza without an existing ceasefire. He implied that peace must precede deployment to ensure the safety and effectiveness of any international force. Abdullah's comments come amid ongoing discussions about potential international involvement in maintaining stability in the region following the Israel-Gaza conflict, highlighting the complexities of peacekeeping operations in active conflict zones. The King's perspective underscores the need for diplomatic solutions and a stable environment before considering military deployments.",
-    "date_str": "October 27, 2025"
+    "summary": "King Abdullah of Jordan stated to the BBC that international troops would likely hesitate to enforce peace in Gaza without an existing ceasefire. His statement underscores the complexities of deploying international forces into active conflict zones and highlights the prerequisite of establishing peace before any such deployment. This perspective from a key regional player like Jordan is crucial given ongoing discussions surrounding potential international involvement in Gaza following recent escalations between Israel and Hamas. Abdullah's remarks serve as a cautionary note amid debates on the future security architecture of the region.",
+    "date_str": "October 28, 2025"
   },
   {
-    "title": "The UN Urges Safe Passage For Civilians Trapped In War-Torn Sudan",
-    "link": "https://www.bbc.com/news/articles/c4gw8w73lngo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "pub_date": "Mon, 27 Oct 2025 09:52:22 GMT",
-    "summary": "The UN urgently appeals for safe passage for civilians trapped in El-Fasher, Sudan, amidst escalating conflict. Control of El-Fasher by the Rapid Support Forces (RSF) would solidify their dominance in western Sudan and potentially formalize the country's division. The conflict pits the RSF against the Sudanese army, endangering vulnerable populations. The potential fall of El-Fasher represents a significant shift in the balance of power within Sudan's ongoing civil war.",
-    "date_str": "October 27, 2025"
+    "title": "Sudan's Military Has Withdrawn From a Key Darfur City After Months of Fighting",
+    "text": "Gen. Abdel Fattah al-Burhan confirmed that Sudan’s military had retreated from El Fasher, a decisive shift in control of the country’s sprawling Darfur region.",
+    "link": "https://www.nytimes.com/2025/10/28/world/africa/sudan-el-fasher-burhan-rsf.html",
+    "date_str": "October 28, 2025",
+    "source": "NYT",
+    "summary": "General Abdel Fattah al-Burhan announced the Sudanese military's withdrawal from El Fasher, signaling a significant power shift in Darfur. This retreat hands greater control of the strategic region to rival factions amidst the ongoing conflict. The Sudanese Armed Forces (SAF) and the Rapid Support Forces (RSF) battle for national dominance, making the fight for El Fasher crucial due to its location and resources. The withdrawal impacts the broader struggle for control within Sudan, potentially reshaping regional power dynamics and further destabilizing the country."
   },
   {
-    "title": "Three People Were Killed in Russian Strikes on Kyiv, Officials Report",
-    "link": "https://www.bbc.com/news/articles/czxnye07x2lo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "pub_date": "Sun, 26 Oct 2025 15:35:22 GMT",
-    "summary": "Russian strikes targeted Kyiv, resulting in the deaths of three people and injuries to at least 32 others, including six children, according to Ukrainian officials. This attack underscores the ongoing conflict between Russia and Ukraine, highlighting the continued targeting of civilian areas within Ukraine. The incident further exacerbates the humanitarian crisis and heightens tensions between the two nations amid stalled diplomatic efforts to de-escalate the conflict. These attacks continue to occur despite international condemnation and sanctions against Russia.",
-    "date_str": "October 27, 2025"
-  },
-  {
-    "title": "Three Key Points Emerge From Vietnam's Shifting Alliances With Russia and the U.S",
-    "text": "The Times examined weapons sales documents from a Russian arms supplier and interviewed dozens of officials from Vietnam, the United States and other countries in the region.",
-    "link": "https://www.nytimes.com/2025/10/27/world/asia/3-takeaways-from-vietnams-drift-toward-russia-and-away-from-america.html",
+    "title": "U.N. Inquiry: Russia's Drone Attacks on Civilians Constitute a War Crime",
+    "text": "In the city of Kherson, in southern Ukraine, small drones routinely target ordinary people by dropping hand grenades, and record video documenting their attacks, a U.N. commission reported.",
+    "link": "https://www.nytimes.com/2025/10/27/world/europe/russia-drones-target-civilians.html",
     "date_str": "October 27, 2025",
     "source": "NYT",
-    "summary": "Drawing from an investigation of Russian arms sales documents and interviews with officials, the investigation reveals Vietnam's increasing reliance on Russian weaponry despite growing international sanctions and pressure. This reliance, underscored by the purchase of advanced missile systems and fighter jets, sustains Russia's defense industry and potentially emboldens Moscow amidst its war in Ukraine. Vietnam's continued purchases highlight the complex geopolitical landscape in Southeast Asia and challenge Washington's efforts to isolate Russia economically. This situation also raises concerns about potential future sanctions and the overall security implications for the region."
-  },
-  {
-    "title": "Sudanese Paramilitaries Reportedly Seize Control of a Major Army Garrison in Darfur",
-    "text": "The Rapid Support Forces said it had seized the army headquarters in El Fasher, its last major obstacle to controlling the sprawling western region of Sudan.",
-    "link": "https://www.nytimes.com/2025/10/26/world/africa/sudan-army-base.html",
-    "date_str": "October 26, 2025",
-    "source": "NYT",
-    "summary": "The Rapid Support Forces (RSF) claimed control of the Sudanese army headquarters in El Fasher, marking a significant escalation in Sudan's ongoing conflict as El Fasher is the last major stronghold preventing the RSF from dominating western Sudan. The seizure follows months of intense fighting between the RSF and the Sudanese Armed Forces (SAF), threatening to destabilize the entire Darfur region, which is still recovering from past genocidal violence. This event significantly weakens the SAF's position in Darfur and strengthens the RSF's leverage in potential future negotiations, potentially reshaping the balance of power in Sudan."
-  },
-  {
-    "title": "Russia and Ukraine Are Facing an Energy War",
-    "text": "Both sides are targeting energy assets to try to break the deadlock on the battlefield.",
-    "link": "https://www.nytimes.com/2025/10/26/world/russia-ukraine-energy-war-louvre-arrest.html",
-    "date_str": "October 26, 2025",
-    "source": "NYT",
-    "summary": "Both sides in the conflict are increasingly targeting energy infrastructure to undermine each other's war efforts and disrupt supply lines, reflecting a shift toward strategic attrition. These actions, intended to pressure the opposing side into concessions, demonstrate a willingness to escalate attacks beyond purely military targets. This strategy represents a concerning development as it threatens essential civilian resources and risks broadening the conflict's impact on regional stability and energy markets. Ultimately, both combatants likely hope this tactic will create leverage that will force the other to capitulate to demands or agree to negotiate."
+    "summary": "A U.N. commission finds that actors routinely deploy small drones armed with hand grenades against civilians in Kherson, Ukraine, raising concerns about targeted attacks. These attacks, documented by video recordings made by the drones themselves, expose the vulnerability of ordinary people in the conflict zone and demonstrate a novel tactic. This report underscores the increasing use of readily available technology in modern warfare to inflict harm upon non-combatants. The incident also highlights the difficulty of attributing responsibility for the attacks."
   }
 ]
