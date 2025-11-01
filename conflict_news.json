@@ -1,10 +1,18 @@
 [
   {
-    "title": "Lukoil Will Sell International Assets Due to Trump Sanctions",
-    "link": "https://apnews.com/article/russia-sanctions-ukraine-war-oil-lukoil-rosneft-5601942ca5f92730ffc5ef9f4ec004cf",
+    "title": "Ukraine's Long-Range Drone Attacks on Russia Heighten War Risks and Market Concerns",
+    "link": "https://apnews.com/article/ukraine-russia-war-drones-economy-refineries-strikes-24fb93e0fab5dbba1a323b92510125bb",
     "source": "Associated Press",
-    "date_str": "October 28, 2025",
-    "summary": "In response to sanctions imposed by the Trump administration aimed at pressuring Russia toward a ceasefire in Ukraine, Lukoil, a Russian oil company, plans to sell its international assets. This strategic decision by Lukoil signifies the tangible economic impact of U.S. sanctions on Russian entities with international operations. These sanctions, a key tool in the U.S. foreign policy arsenal, seek to modify Russia's behavior in the ongoing conflict in Ukraine. The sale may affect energy markets and geopolitical dynamics in regions where Lukoil operates, potentially opening opportunities for other actors."
+    "date_str": "October 31, 2025",
+    "summary": "Ukraine has been secretly assembling and launching long-range drones, such as the An-196 Liutyi, targeting Russian oil refineries, fuel depots, and military hubs. These drone strikes aim to stretch Russia's air defenses and disrupt its war efforts. Ukrainian government officials, including Vasyl Maliuk, have overseen the development and deployment of these drones. The attacks demonstrate Ukraine's growing capacity to strike deep within Russia, despite facing challenges on the front lines."
+  },
+  {
+    "title": "Putin Displays Nuclear Arsenal Amidst Stalled U.S. Talks",
+    "text": "Touting new weapons tests, Moscow signals to Washington that it must contend with the Kremlin’s power and negotiate.",
+    "link": "https://www.nytimes.com/2025/11/01/world/europe/putin-trump-ukraine-russia-nuclear-weapons.html",
+    "date_str": "November 01, 2025",
+    "source": "NYT",
+    "summary": "Moscow is signaling its resolve to Washington by conducting new weapons tests, compelling the United States to acknowledge and negotiate with Russia's military strength. The Kremlin's actions represent an effort to reassert its geopolitical influence and force dialogue with the U.S. on security matters. Russia's demonstration of advanced weaponry underscores its strategic aims, particularly in the context of ongoing tensions over NATO expansion and regional conflicts. This posturing occurs as Moscow seeks to establish itself as a key player in global security affairs."
   },
   {
     "title": "Ukraine's Military Offers Points for Destroying Enemy Vehicles and Soldiers",
@@ -12,22 +20,6 @@
     "link": "https://www.nytimes.com/2025/10/31/world/europe/ukraine-war-drone-game.html",
     "date_str": "October 31, 2025",
     "source": "NYT",
-    "summary": "Ukraine has implemented drone competitions where teams strive to top a scoreboard by accurately targeting designated units, incentivizing proficiency in unmanned aerial vehicle warfare. The Ukrainian military hopes this gamified approach will sustain soldier morale amidst ongoing conflict. While details are limited, this initiative reflects Ukraine's strategic focus on leveraging drone technology and innovative tactics in its defense against Russian aggression. Ukraine's Ministry of Defense, and Ukrainian soldiers are the key players involved."
-  },
-  {
-    "title": "Videos Show Horrifying Executions and Mass Casualties Unfolding in Sudan",
-    "text": "Evidence of atrocities emerging from the city of El Fasher stoked fears that the Sudanese region of Darfur is plunging, once again, into a cycle of genocidal violence.",
-    "link": "https://www.nytimes.com/2025/10/30/world/africa/sudan-el-fasher-atrocities-executions-video.html",
-    "date_str": "October 30, 2025",
-    "source": "NYT",
-    "summary": "Emerging evidence of atrocities in El Fasher signals a potential resurgence of genocidal violence in Sudan's Darfur region, raising international alarm. This escalation threatens to destabilize the already fragile country and exacerbate the ongoing humanitarian crisis. Various factions, including the Sudanese Armed Forces and the Rapid Support Forces, contribute to the escalating violence and impede efforts to protect civilians. The specter of past atrocities in Darfur provides a grim reminder of the potential for mass violence and highlights the urgent need for international intervention to prevent further bloodshed."
-  },
-  {
-    "title": "He Survived the Invasion, But Longed for a Friend",
-    "text": "During the war, a Ukrainian boy lost his home, his father and his friends. Could he find new buddies at a camp in the mountains?",
-    "link": "https://www.nytimes.com/2025/10/30/world/europe/ukraine-russia-war-mountain-camp.html",
-    "date_str": "October 30, 2025",
-    "source": "NYT",
-    "summary": "Following the devastation of war in Ukraine, a young Ukrainian boy struggles with the loss of his home, father, and friends, highlighting the profound human cost of the conflict. A mountain camp attempts to offer him solace and camaraderie, illustrating the challenges of reintegration and healing for displaced children. This situation underscores the urgent need for comprehensive psychosocial support and stability for Ukrainian youth affected by the ongoing Russian invasion and its enduring consequences."
+    "summary": "Ukraine incentivizes drone operator effectiveness through competitive scoreboard challenges, rewarding units for successful strikes. These competitions, according to Ukrainian officials, serve to maintain high morale and motivation among drone operators engaged in combat. The emphasis on gamification reflects the crucial role of drones in the ongoing conflict and Ukraine's efforts to optimize their battlefield impact amidst a protracted war."
   }
 ]
