@@ -1,32 +1,33 @@
 [
   {
-    "title": "Gaza Health Officials Report Israel Returned Bodies of 45 Palestinians",
-    "link": "https://apnews.com/article/israel-hamas-hostages-gaza-5b6743d9791fcc271eb65b39e192726f",
+    "title": "Israel's Top Military Lawyer Resigned, Was Found, and Is Now In Jail",
+    "link": "https://apnews.com/article/israel-military-scandal-prisoners-abuse-7becb2de4079b76b656910cc3c640d0d",
     "source": "Associated Press",
-    "date_str": "November 03, 2025",
-    "summary": "Following the return of three Israeli soldiers' remains by Hamas, Israel handed over the bodies of 45 Palestinians in a reciprocal exchange. These actions occur amid ongoing tensions and conflict between Israel and Hamas, rooted in the Hamas-led attack in October 2023. The Red Cross facilitated the transfer of the remains between the two sides, highlighting the role of international organizations in mediating humanitarian aspects of the conflict. This exchange represents a limited instance of cooperation between the involved parties despite continuing hostilities, although its impact on broader de-escalation remains uncertain. The exchange may represent an attempt to address humanitarian concerns from both sides."
+    "date_str": "November 04, 2025",
+    "summary": "Israel faces a burgeoning political scandal after a leaked video surfaced, revealing alleged severe abuses of Palestinian prisoners within a military prison. The scandal intensified when a top military lawyer resigned, went missing, was found, and subsequently jailed; this sequence of events underscores the gravity of the situation and implicates high-ranking officials. Authorities are investigating the allegations, while the public and political figures respond to the disturbing revelations. This incident threatens to destabilize the region further, exacerbating existing tensions surrounding the Israeli-Palestinian conflict and potentially impacting Israel's international standing."
   },
   {
-    "title": "Billionaire Sylvan Adams Donates $100 Million to Rebuild Israeli Hospital Damaged by Iranian Missile",
-    "link": "https://apnews.com/article/israel-iran-soroka-missile-attack-negev-hospital-fcf6eee7a7796263179f593a83cbae7b",
-    "source": "Associated Press",
-    "date_str": "November 03, 2025",
-    "summary": "Amidst ongoing tensions, a missile fired by Iran struck the Soroka hospital complex in Beersheba, Israel, in June 2025, causing significant damage. In response to this attack, Canadian-Israeli billionaire Sylvan Adams pledged $100 million to rebuild the impacted Israeli hospital. This substantial donation aims to restore critical medical infrastructure following the Iranian missile strike, highlighting the geopolitical dynamics between Iran and Israel. The event underscores the vulnerability of civilian infrastructure in conflict zones and the role of private philanthropy in addressing such crises."
-  },
-  {
-    "title": "BBC Reports Total Devastation in Gaza After Two Years of War",
-    "link": "https://www.bbc.com/news/articles/c0rp4lrdv8ko?at_medium=RSS&at_campaign=rss",
+    "title": "Sudan's Brutal Militia Committed a Massacre, Claiming Their Job Was Only Killing",
+    "link": "https://www.bbc.com/news/articles/c8dr5e30m5ro?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
-    "pub_date": "Wed, 05 Nov 2025 18:24:16 GMT",
-    "summary": "After two years of war, the BBC reports widespread devastation in Gaza, observing endless rubble and destroyed streets that severely complicate future reconstruction efforts. Lucy Williamson of the BBC provides on-the-ground reporting, highlighting the stark contrast between current conditions and any plans for the region's recovery. The ongoing conflict between Israel and Hamas serves as critical context, contributing to the destruction and hindering progress. This widespread damage exacerbates the existing humanitarian crisis and poses significant challenges for long-term stability in the region.",
-    "date_str": "November 06, 2025"
+    "pub_date": "Fri, 07 Nov 2025 00:30:58 GMT",
+    "summary": "BBC Verify reports that Sudan's Rapid Support Forces (RSF) perpetrated a massacre in el-Fasher, allegedly killing around 2,000 unarmed people. The investigation details how the RSF targeted civilians, highlighting the militia's brutal tactics and exacerbating the ongoing conflict in Sudan. This incident underscores the continued instability and human rights concerns surrounding the power struggle between the RSF and the Sudanese army, which has caused a dire humanitarian crisis. The findings from BBC Verify contributes to the growing body of evidence needed to hold those responsible for the atrocities accountable.",
+    "date_str": "November 07, 2025"
   },
   {
-    "title": "Venezuela's Military Could React to Possible U.S. Attacks",
-    "text": "Venezuela has an arsenal of Russian weapons and armed civilian cells that could mount a guerrilla war. But a coup against President Nicolás Maduro? Don’t count on it.",
-    "link": "https://www.nytimes.com/2025/11/05/us/venezuela-military-maduro-coup.html",
-    "date_str": "November 05, 2025",
+    "title": "Sudan's RSF Paramilitaries Agreed to a Humanitarian Ceasefire",
+    "link": "https://www.bbc.com/news/articles/c74070y9e3go?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "pub_date": "Thu, 06 Nov 2025 17:23:03 GMT",
+    "summary": "The Rapid Support Forces (RSF) in Sudan have agreed to a humanitarian ceasefire following an 18-month siege of El Fasher in the Darfur region. This action follows prolonged conflict between the RSF and the Sudanese army, exacerbating the dire humanitarian situation in Darfur. The ceasefire aims to alleviate the suffering of civilians trapped in the besieged city and allow for the delivery of essential aid. This development occurs against the backdrop of ongoing instability in Sudan, where the RSF and the Sudanese military vie for control, significantly impacting the civilian population. The agreement's effectiveness remains uncertain given previous ceasefire violations by both sides.",
+    "date_str": "November 07, 2025"
+  },
+  {
+    "title": "Paramilitary Forces Agreed to Sudan Truce, While the Military Has Not Yet",
+    "text": "The R.S.F. paramilitary group, facing growing condemnation for atrocities in Darfur, said it had agreed to a cease-fire proposal, but it is not yet clear what the military will do.",
+    "link": "https://www.nytimes.com/2025/11/06/world/africa/sudan-rsf-truce.html",
+    "date_str": "November 06, 2025",
     "source": "NYT",
-    "summary": "Venezuela possesses Russian weaponry and armed civilian groups, which suggests a potential for guerrilla warfare; however, these factors do not necessarily indicate an imminent coup against President Nicolás Maduro. Nicolás Maduro's regime controls these resources and maintains a grip on power, despite internal tensions. The presence of Russian arms in Venezuela underscores the ongoing geopolitical competition in the region, while the armed civilian cells highlight the government's reliance on non-state actors. These elements increase the complexity of the security landscape."
+    "summary": "The Rapid Support Forces (RSF) paramilitary group, implicated in escalating violence and human rights abuses in Sudan's Darfur region, publicly accepted a proposed ceasefire, signaling a potential shift in the ongoing conflict. However, the Sudanese military's response remains uncertain, leaving the future of the truce and stability in the region in question. This development occurs amid increasing international pressure to address the deteriorating humanitarian situation and hold those responsible for the Darfur atrocities accountable. The Sudanese military and RSF are the main parties in the ongoing civil war in Sudan."
   }
 ]
