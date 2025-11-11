@@ -1,49 +1,32 @@
 [
   {
-    "title": "Russian Drone Strike on Ukrainian City Kills Three and Injures Twelve Residents",
+    "title": "Ukrainian Strikes Cause Power and Heating Disruptions in Major Russian Cities",
+    "link": "https://apnews.com/article/russia-ukraine-war-drones-blackout-731788c7974d2ddb63af41dc618ccb99",
+    "source": "Associated Press",
+    "date_str": "November 09, 2025",
+    "summary": "Amidst the ongoing Russia-Ukraine war, Ukrainian strikes reportedly disrupted power and heating in two major Russian cities near the border, according to local Russian officials. These strikes represent a continued escalation of the conflict and bring the war's impact closer to Russian citizens. While the specific cities and the extent of the damage remain unconfirmed, these events heighten tensions between Kyiv and Moscow, potentially influencing the broader geopolitical landscape involving actors such as Vladimir Putin and the international community. The strikes also point to Ukraine's evolving capabilities in striking targets within Russia."
+  },
+  {
+    "title": "Russian Drone Strike on Ukrainian City Kills Three and Injures Twelve Overnight",
     "link": "https://apnews.com/article/russia-ukraine-war-drone-strikes-attacks-civilians-74750e88cda59c26c7e56da6c5614bf2",
     "source": "Associated Press",
     "date_str": "November 08, 2025",
-    "summary": "Russian forces struck Ukraine, hitting an apartment building and energy infrastructure in eastern Ukraine, resulting in at least four deaths and a dozen injuries. Ukrainian authorities are responding to the attacks. These strikes continue Russia's pattern of targeting civilian areas and critical infrastructure during the ongoing conflict with Ukraine, exacerbating the humanitarian crisis and placing further strain on Ukraine's resources. The attacks come amid continued geopolitical tensions involving key players such as Vladimir Putin and Volodymyr Zelenskyy, with the broader conflict impacting international relations and security."
+    "summary": "Russian forces launched drone strikes targeting an apartment building and energy infrastructure in eastern Ukraine, resulting in at least four deaths and a dozen injuries. Ukrainian authorities reported the attacks, underscoring the continued vulnerability of civilian areas amid the ongoing conflict. These strikes highlight Russia's persistent strategy of targeting Ukrainian infrastructure, potentially impacting energy supplies as winter approaches and exacerbating humanitarian concerns. The attacks are part of the broader Russia-Ukraine war, where key leaders like Vladimir Putin and Volodymyr Zelenskyy are engaged in this ongoing conflict. The international community continues to monitor the situation, grappling with the implications of these strikes on the already strained geopolitical landscape."
   },
   {
-    "title": "Israel Received the Body of a Soldier Killed in Gaza in 2014",
-    "link": "https://www.bbc.com/news/articles/c2kp3yjy8q7o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "pub_date": "Sun, 09 Nov 2025 19:41:15 GMT",
-    "summary": "After eleven years, the Israeli military recovered the body of soldier Hadar Goldin from Gaza. Goldin died in 2014. The return of Goldin's body raises questions about ongoing tensions and potential negotiations between Israel and Hamas, the de facto governing authority in Gaza, regarding the exchange of prisoners and remains. This event underscores the persistent humanitarian concerns stemming from the Israeli-Palestinian conflict and the long-term consequences for families involved. Ultimately, this incident may influence future Israeli policy and security considerations concerning Gaza.",
-    "date_str": "November 10, 2025"
-  },
-  {
-    "title": "Ukrainians Prefer Comedies, Yet War Shapes Their Culture",
+    "title": "Ukrainians Prefer Comedies, Yet War Dominates Their Culture",
     "link": "https://www.bbc.com/news/articles/cr5e1me821go?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
     "pub_date": "Sat, 08 Nov 2025 01:47:49 GMT",
-    "summary": "Nearly four years after Russia's invasion, Ukraine's arts scene revives, yet the ongoing war fundamentally shapes its cultural expression. Ukrainian artists, including performers and musicians, grapple with reflecting the realities of conflict while audiences yearn for lighter, comedic content. Despite this desire for escapism, the war permeates artistic themes and narratives, influencing the work of cultural figures across the nation. This period highlights the struggle of maintaining cultural identity and expression amidst a major geopolitical conflict involving Russia and Ukraine. Sarah Rainsford reports on the challenges and adaptations within Ukraine's cultural landscape as it continues to navigate wartime realities.",
-    "date_str": "November 10, 2025"
+    "summary": "Nearly four years after Russia's invasion, Ukrainian arts and culture are resurfacing, yet the ongoing war significantly influences their themes and content. Despite Ukrainians' desire for lighter entertainment such as comedies, the conflict permeates artistic expression, reflecting the nation's wartime reality. Ukrainian artists and cultural institutions grapple with representing the current environment while aiming to preserve their cultural identity amidst Russian aggression. This cultural shift highlights the war's profound impact on Ukrainian society beyond the immediate conflict zone. Sarah Rainsford reports on this evolution within Ukraine.",
+    "date_str": "November 11, 2025"
   },
   {
-    "title": "Sudan's Brutal Militia Committed a Massacre, Killing Many",
-    "link": "https://www.bbc.com/news/articles/c8dr5e30m5ro?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "pub_date": "Fri, 07 Nov 2025 00:30:58 GMT",
-    "summary": "BBC Verify reports that Sudan's Rapid Support Forces (RSF) perpetrated a massacre in el-Fasher, allegedly killing around 2,000 unarmed civilians. The investigation highlights the RSF's brutal tactics in the ongoing conflict, further exacerbating the humanitarian crisis in the region. This violence occurs within the context of Sudan's civil war between the RSF and the Sudanese army, which has caused widespread displacement and instability. Ultimately, the massacre undermines peace efforts and raises concerns about the protection of civilians in the conflict zone.",
-    "date_str": "November 10, 2025"
-  },
-  {
-    "title": "The Stalled Iran Nuclear Program Creates a Dangerous Situation",
-    "text": "With no negotiations, no oversight and no clarity about Iran’s stock of nuclear material, many in the region fear another war with Israel is inevitable.",
-    "link": "https://www.nytimes.com/2025/11/09/world/middleeast/iran-nuclear-program-israel.html",
-    "date_str": "November 09, 2025",
+    "title": "Explosion in Pakistan's Capital City Claims at Least Twelve Lives",
+    "text": "A military official accused the Pakistani Taliban of staging the attack, which took place near a courthouse in Islamabad.",
+    "link": "https://www.nytimes.com/2025/11/11/world/africa/pakistan-explosion-islamabad.html",
+    "date_str": "November 11, 2025",
     "source": "NYT",
-    "summary": "The lack of negotiations and oversight regarding Iran's nuclear program intensifies regional anxieties about a potential military conflict with Israel. This absence of transparency surrounding Iran's nuclear material stockpile heightens concerns among regional actors. Israel, fearing a nuclear-armed Iran, could initiate preemptive strikes given the stalled diplomatic efforts and lack of international monitoring. The deterioration of the 2015 nuclear deal, coupled with escalating regional tensions, creates a precarious environment where miscalculation could trigger wider hostilities."
-  },
-  {
-    "title": "Russian Bombardment Has Caused Significant Power Outages in Major Ukrainian Cities",
-    "text": "The attack by Russian missiles and drones targeted the capital, Kyiv, and the large cities of Dnipro and Kharkiv, as well as several smaller municipalities.",
-    "link": "https://www.nytimes.com/2025/11/08/world/europe/ukraine-russia-war-energy.html",
-    "date_str": "November 08, 2025",
-    "source": "NYT",
-    "summary": "Russian forces launched a widespread missile and drone attack targeting major Ukrainian cities, including Kyiv, Dnipro, and Kharkiv, signaling an escalation in the conflict and aiming to degrade Ukraine's infrastructure and morale. This coordinated assault, impacting both urban centers and smaller municipalities, demonstrates Russia's continued capacity to strike deep within Ukrainian territory. The attacks intensified fears regarding civilian safety and further strained Ukraine's already-burdened defense systems and humanitarian resources. This development follows months of intensified fighting in eastern Ukraine, raising concerns about the war's trajectory and potential for further escalation."
+    "summary": "A Pakistani military official accused the Pakistani Taliban of perpetrating an attack near a courthouse in Islamabad, signaling a potential escalation in the ongoing conflict between the Pakistani state and the militant group. This accusation highlights the persistent security challenges Pakistan faces from internal extremist elements despite previous counterterrorism efforts. The attack underscores the Taliban's continued operational capacity and intent to destabilize the country, potentially complicating Pakistan's relations with neighboring Afghanistan and broader regional security. This action follows a period of increased Taliban activity, raising concerns about the group's resurgence and its potential impact on regional stability."
   }
 ]
