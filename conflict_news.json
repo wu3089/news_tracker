@@ -1,10 +1,55 @@
 [
   {
-    "title": "BBC Reports on Shocking Kyiv Strike's Lethality",
-    "link": "https://www.bbc.com/news/videos/c3w9je1d3jno?at_medium=RSS&at_campaign=rss",
+    "title": "Poland Suspects Two Ukrainians in Railway Track Blast Linked to Russia",
+    "link": "https://apnews.com/article/poland-railway-line-explosion-russia-535351075f436b6b8c168e69073644c2",
+    "source": "Associated Press",
+    "date_str": "November 18, 2025",
+    "summary": "Polish Prime Minister Donald Tusk announced that Polish authorities suspect two Ukrainian citizens of working for Russia to sabotage a railway line in Poland. The incident underscores ongoing security concerns and the potential for hybrid warfare tactics amid the broader context of the Russia-Ukraine war. This alleged act of sabotage highlights the vulnerability of critical infrastructure and the challenges Poland faces as a key transit country for Western military aid to Ukraine."
+  },
+  {
+    "title": "Ukraine Plans To Acquire 100 Rafale Warplanes From France",
+    "link": "https://apnews.com/article/france-ukraine-warplanes-rafale-1ac56c0377a9d40fd28462df1b1acd63",
+    "source": "Associated Press",
+    "date_str": "November 17, 2025",
+    "summary": "No summary available"
+  },
+  {
+    "title": "Germany Will Lift Restrictions on Military Equipment Exports to Israel",
+    "link": "https://apnews.com/article/germany-israel-military-export-restrictions-5dc988d1472099db3f06a2c3232b7f78",
+    "source": "Associated Press",
+    "date_str": "November 17, 2025",
+    "summary": "Following a recent ceasefire between Israel and Hamas, the German government, led by Chancellor Friedrich Merz, decides to lift restrictions on military equipment exports to Israel. This reversal occurs in the context of the 2024-2025 Mideast Wars and aims to strengthen Germany's ties with Israel. The decision signifies a shift in German policy regarding arms exports to the region. The move occurs despite ongoing concerns about regional stability and the potential impact on the Israeli-Palestinian conflict."
+  },
+  {
+    "title": "At Least Twenty People Died in a Deadly Russian Strike on Western Ukraine",
+    "link": "https://www.bbc.com/news/articles/cy0yere4k0zo?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
-    "pub_date": "Fri, 14 Nov 2025 14:04:30 GMT",
-    "summary": "Amidst the ongoing war in Ukraine, a recent Russian drone strike hit a multi-story residential building in Kyiv, prompting a report from BBC's James Landale at the scene. This attack highlights Russia's continued targeting of civilian areas within the Ukrainian capital, demonstrating an escalation in the conflict's intensity. The event underscores the vulnerability of Ukrainian cities to aerial attacks and raises concerns about the protection of civilian infrastructure. This strike occurs within the broader context of Russia's military campaign in Ukraine, which began in early 2022 and has significantly destabilized the region and impacted international relations.",
-    "date_str": "November 18, 2025"
+    "pub_date": "Wed, 19 Nov 2025 11:25:12 GMT",
+    "summary": "Russian forces launched a deadly attack on Ternopil in western Ukraine, resulting in at least 20 fatalities, including two children, marking one of the conflict's deadliest strikes in that region. The attack, targeting the city of Ternopil, underscores Russia's continued offensive operations and its devastating impact on civilian populations within Ukraine. This event occurs amid the ongoing war between Russia and Ukraine, with key figures like Volodymyr Zelensky leading Ukraine's defense against Russian aggression. The strike highlights the escalating humanitarian crisis and raises concerns about the protection of civilians in the face of intensifying military actions.",
+    "date_str": "November 19, 2025"
+  },
+  {
+    "title": "Lebanon Reports Thirteen Deaths Near Refugee Camp Due to Israeli Strike",
+    "link": "https://www.bbc.com/news/articles/c0l73j781y9o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "pub_date": "Tue, 18 Nov 2025 22:19:58 GMT",
+    "summary": "Tensions rise as Lebanon reports an Israeli strike killed thirteen individuals near a Palestinian refugee camp. The Israeli military claims it targeted Hamas members operating within a training compound, while Hamas leadership denies these allegations, labeling them as fabrications. This incident occurs within the broader context of ongoing regional instability and heightens concerns about the potential for escalation between Israel and groups operating in Lebanon. The strike further complicates the already precarious situation in Lebanon, which grapples with economic and political challenges.",
+    "date_str": "November 19, 2025"
+  },
+  {
+    "title": "Russia Continues Attacks on Ukraine Amid Zelensky's Peace Efforts",
+    "text": "At least 19 people were killed in the city of Ternopil when missiles hit a residential building, the authorities there said.",
+    "link": "https://www.nytimes.com/2025/11/19/world/europe/ukraine-russia-strikes-peace-talks.html",
+    "date_str": "November 19, 2025",
+    "source": "NYT",
+    "summary": "Russian missiles struck a residential building in Ternopil, Ukraine, killing at least 19 civilians and marking a significant escalation in the targeting of urban centers. The attack, which occurred during heightened tensions surrounding the ongoing war, demonstrates Russia's continued willingness to inflict civilian casualties despite international condemnation. Ukraine's government decried the strike as a war crime and called for increased international pressure on Moscow to end its aggression. The incident underscores the urgent need for further humanitarian aid and defensive support for Ukraine as it faces continued attacks."
+  },
+  {
+    "title": "Zelensky Faces Pressure Amid Corruption Probe Disrupting Ukraine's Unity",
+    "text": "An anti-Zelensky political coalition is coalescing as the president’s allies are accused of enriching themselves while the country’s soldiers die on the battlefield.",
+    "link": "https://www.nytimes.com/2025/11/19/world/europe/ukraine-zelensky-corruption.html",
+    "date_str": "November 19, 2025",
+    "source": "NYT",
+    "summary": "Mounting accusations of corruption against President Zelensky's allies, coinciding with battlefield casualties, fuel the rise of an anti-Zelensky political coalition within Ukraine, potentially destabilizing the country's leadership during wartime. This internal opposition exploits public discontent over perceived self-enrichment among the ruling elite while Ukrainian soldiers face ongoing conflict. The accusations, whether substantiated or not, threaten to undermine Zelensky's legitimacy and unity within the country, complicating the war effort and Ukraine's relationships with international partners. Such divisions could jeopardize continued support and aid necessary for Ukraine's defense against ongoing Russian aggression."
   }
 ]
