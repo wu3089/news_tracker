@@ -1,57 +1,65 @@
 [
   {
-    "title": "Zelensky Must Decide Between Dignity and a Key Ally",
-    "link": "https://apnews.com/article/russia-ukraine-war-bomb-apartment-block-zaporizhzhia-0f90db569cf222e80cfb2c1eb5ea07e1",
+    "title": "Israel Launched Strikes in Gaza, Testing the Ceasefire and Resulting in Twenty Deaths",
+    "link": "https://apnews.com/article/gaza-israel-palestinians-hamas-war-news-535e21d36eea41fb9bba645ee7db014c",
     "source": "Associated Press",
-    "date_str": "November 21, 2025",
-    "summary": "In November 2025, Ukrainian President Volodymyr Zelenskyy addressed his nation, emphasizing the difficult choice Ukraine faces regarding its sovereignty and the potential loss of crucial American support. This stark warning comes as leaders deliberate a U.S. peace proposal, which Zelenskyy suggests may favor Russia, thus putting Ukraine in a precarious position. The proposal forces Ukraine to weigh its territorial integrity against maintaining its alliance with the United States, a critical backer in its ongoing conflict. This situation unfolds against the backdrop of the continuing Russia-Ukraine war, where international support, particularly from the U.S., remains vital for Ukraine's defense."
+    "date_str": "November 22, 2025",
+    "summary": "In a test of the ceasefire established on October 10, Israel launched airstrikes targeting Hamas militants in Gaza, resulting in the reported deaths of 24 individuals according to local hospitals. These actions by the Israeli military against Hamas, the dominant militant group in the Gaza Strip, occurred amid ongoing tensions and attempts to maintain a fragile truce. The renewed violence threatens to destabilize the region further, potentially undermining international efforts to achieve a lasting resolution to the Israeli-Palestinian conflict. This latest escalation takes place against the backdrop of persistent conflict between Israel and Hamas, requiring continuous diplomatic intervention to prevent a return to full-scale warfare."
+  },
+  {
+    "title": "Five People Died in a Suicide Bombing in Pakistan",
+    "link": "https://www.bbc.com/news/articles/ckgkv47xqn5o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "pub_date": "Mon, 24 Nov 2025 11:33:00 GMT",
+    "summary": "A suicide bombing targeted a paramilitary headquarters in Peshawar, Pakistan, resulting in the deaths of five people. Pakistani authorities report that security forces successfully thwarted the terrorist plot by gunning down the attackers at the gate of the Federal Constabulary headquarters. This attack highlights the ongoing security challenges Pakistan faces from militant groups, particularly in the Khyber Pakhtunkhwa province bordering Afghanistan, where the Pakistani Taliban (TTP) is active. The incident underscores the persistent threat of terrorism and the efforts by Pakistani security forces to counter it amidst a complex regional security landscape.",
+    "date_str": "November 24, 2025"
+  },
+  {
+    "title": "Israel Killed a Top Hezbollah Official in Beirut Attack",
+    "link": "https://www.bbc.com/news/articles/cn81j54xjx1o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "pub_date": "Sun, 23 Nov 2025 19:31:39 GMT",
+    "summary": "Amidst escalating tensions, Israel targeted Beirut for the first time in months, killing a high-ranking Hezbollah official. This action marks an escalation in Israel's campaign against targets linked to Hezbollah, fueling concerns about a broader resumption of hostilities between the two actors. Israel claims it is targeting Hezbollah-linked sites. The attack occurs against a backdrop of ongoing tensions between Israel and Hezbollah.",
+    "date_str": "November 24, 2025"
   },
   {
     "title": "Israeli Strikes in Gaza Kill Twenty-Two Palestinians, Officials Report",
     "link": "https://www.bbc.com/news/articles/c20879zzqn8o?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
     "pub_date": "Sat, 22 Nov 2025 20:43:36 GMT",
-    "summary": "Following an incident where an armed individual crossed the \"yellow line\" and engaged Israeli soldiers, Israel launched strikes across Gaza, resulting in the deaths of 22 Palestinians, according to the Hamas-run health ministry and civil defense. This recent exchange occurs within the broader context of ongoing tensions and conflict between Israel and Hamas in the Gaza Strip. The Israeli military maintains that the strikes targeted militant infrastructure in response to the initial attack. These events underscore the fragility of the security situation and the potential for escalation between the involved parties.",
-    "date_str": "November 23, 2025"
+    "summary": "Following an incident where an armed individual crossed the \"yellow line\" and attacked soldiers, Israel launched strikes across Gaza. Palestinian officials, including the Hamas-run health ministry and civil defense, report that the strikes killed 22 Palestinians. The Israeli military maintains that they targeted militant infrastructure in response to the initial attack. This latest exchange occurs within the broader context of ongoing tensions and conflict between Israel and Hamas in the Gaza Strip.",
+    "date_str": "November 24, 2025"
   },
   {
-    "title": "Here's What's Known About the Leaked US Draft Plan for Ending the Russia-Ukraine War",
-    "link": "https://www.bbc.com/news/articles/cde6yld78d6o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "pub_date": "Fri, 21 Nov 2025 20:15:11 GMT",
-    "summary": "A leaked U.S. draft plan proposes a framework to end the Russia-Ukraine war, outlining 28 key points. While some of the proposals might be acceptable to Kyiv, others reportedly cross Ukraine's red lines, creating potential obstacles to a negotiated settlement. The plan, if accurate, highlights ongoing efforts by the U.S. to mediate and find a resolution to the conflict between Russia and Ukraine, involving key figures such as Volodymyr Zelensky and Vladimir Putin. This development arrives amidst a complex geopolitical landscape, where previous attempts at diplomatic solutions have failed to yield lasting peace.",
-    "date_str": "November 23, 2025"
+    "title": "Ukraine and the U.S. Announce Positive Developments in Discussions to End the War With Russia",
+    "text": "President Trump lashed out at Ukraine even as the talks on his peace proposal were still taking place, accusing the country’s leadership of being ungrateful for American support.",
+    "link": "https://www.nytimes.com/2025/11/23/world/europe/ukraine-switzerland-russia-peace-talks.html",
+    "date_str": "November 23, 2025",
+    "source": "NYT",
+    "summary": "Amidst ongoing discussions surrounding his administration's peace proposal, President Trump publicly criticized Ukraine's leadership, alleging ingratitude for U.S. assistance. These remarks, made even while negotiations continued, threatened to undermine delicate diplomatic efforts aimed at resolving the conflict and potentially signaling a shift in U.S. policy towards the Eastern European nation. This public rebuke follows a history of complex relations between the Trump administration and Ukraine, punctuated by earlier controversies over withheld military aid. The timing of the president's statement raises concerns about the future viability of the peace initiative and the stability of U.S.-Ukraine relations."
   },
   {
-    "title": "Ukrainians Wait in Pain as Hope to Find Strike Survivors Fades",
+    "title": "Ukrainians Endure Pain While Hope of Finding Survivors Diminishes",
     "text": "Russian missiles hit apartment buildings in Ternopil this week, far from the war’s front line. Dozens of civilians, including children, were killed.",
     "link": "https://www.nytimes.com/2025/11/22/world/europe/russia-ukraine.html",
     "date_str": "November 22, 2025",
     "source": "NYT",
-    "summary": "Russian forces struck apartment buildings in Ternopil this week, causing significant civilian casualties, including children, and marking a concerning escalation of attacks against civilian areas away from the front lines. This action highlights Russia's continued willingness to disregard civilian safety in pursuit of its military objectives in Ukraine. The attacks occurred amidst the ongoing conflict initiated by Russia, demonstrating the Kremlin's persistent strategy of targeting Ukrainian infrastructure and cities. These developments underscore the deepening humanitarian crisis and the urgent need for international efforts to protect civilians and de-escalate the conflict."
+    "summary": "Russian forces escalated attacks this week, targeting apartment buildings in Ternopil, a western Ukrainian city previously considered relatively safe from the war's direct impact, signaling a potential shift in Russian strategy. These missile strikes, resulting in the deaths of dozens of civilians including children, represent a significant escalation and potential war crime. The Russian military, under the direction of the Kremlin, executed these attacks. This deliberate targeting of civilian infrastructure deviates from stated goals of \"demilitarizing\" Ukraine and raises further concerns about adherence to international humanitarian law amid the ongoing conflict."
   },
   {
-    "title": "20 Killed in Israeli Strikes as Israel and Hamas Trade Blame Over Truce",
+    "title": "Israeli Military Commanders May Be Removed Following October 7th Failures",
+    "text": "About a dozen people were told they face dismissal or discipline for mistakes tied to the deadly Hamas-led attack that set off the war in Gaza.",
+    "link": "https://www.nytimes.com/2025/11/23/world/middleeast/israel-punishes-commanders-hamas-attack.html",
+    "date_str": "November 23, 2025",
+    "source": "NYT",
+    "summary": "Following internal investigations, the Israel Defense Forces (IDF) intends to discipline or dismiss approximately twelve personnel for failures related to the October 7 Hamas-led attack, marking a formal acknowledgement of systemic shortcomings in preparedness and response. This move comes amid widespread public criticism of Israel's intelligence and military leadership in the lead-up to the assault, which triggered the ongoing conflict in Gaza. The IDF's actions signal an effort to address accountability concerns and potentially restore public trust amidst a broader national reckoning with the intelligence and operational failures that enabled the devastating incursion."
+  },
+  {
+    "title": "Israeli Strikes Kill Twenty, While Israel and Hamas Exchange Blame for Truce Violation",
     "text": "Violence has repeatedly flared up in the weeks since a cease-fire was reached, killing hundreds of Palestinians and at least three Israeli soldiers.",
     "link": "https://www.nytimes.com/2025/11/22/world/middleeast/israeli-strikes-gaza.html",
     "date_str": "November 22, 2025",
     "source": "NYT",
-    "summary": "Renewed violence jeopardizes the fragile ceasefire between Israelis and Palestinians, threatening regional stability. Hundreds of Palestinians and at least three Israeli soldiers have died in recent flare-ups, highlighting the deep-seated tensions and the ceasefire's tenuous nature. This surge in hostilities underscores the difficulty in achieving a lasting peace and may prompt international actors to re-engage in mediation efforts. The inability to maintain calm threatens to unravel any progress made toward a resolution."
-  },
-  {
-    "title": "What Is Trump’s 28-Point Plan to End Russia’s War in Ukraine?",
-    "text": "President Trump is pressing Kyiv to accept an outcome that yields to President Vladimir V. Putin’s demands.",
-    "link": "https://www.nytimes.com/2025/11/22/world/europe/trump-russia-ukraine-peace-plan.html",
-    "date_str": "November 22, 2025",
-    "source": "NYT",
-    "summary": "President Trump is exerting pressure on Kyiv to concede to Vladimir Putin's demands, signaling a potential shift in U.S. policy towards the conflict in Ukraine. This pressure comes amidst ongoing tensions between Russia and Ukraine, with Russia seeking territorial and security concessions. The move highlights a divergence in approach between the U.S. and its allies regarding the resolution of the conflict, potentially undermining international efforts to support Ukrainian sovereignty. The situation is unfolding against the backdrop of continued fighting and diplomatic efforts to find a peaceful resolution."
-  },
-  {
-    "title": "Ukrainian and U.S. Officials Convene to Discuss Trump's Proposed War-Ending Plan",
-    "text": "The talks, which Ukraine said would include European officials, come as the Trump administration’s pushes Kyiv to accept a 28-point peace plan.",
-    "link": "https://www.nytimes.com/2025/11/23/world/europe/ukraine-switzerland-russia-peace-talks.html",
-    "date_str": "November 23, 2025",
-    "source": "NYT",
-    "summary": "Ukraine is scheduled to hold discussions with European officials amid escalating pressure from the Trump administration. The United States is actively encouraging Kyiv to consider a 28-point peace plan. This pressure comes as the Trump administration seeks to resolve the conflict, potentially reshaping geopolitical dynamics in Eastern Europe. These negotiations are particularly significant as they represent a concerted effort to implement a specific peace framework amidst ongoing tensions."
+    "summary": "Renewed violence threatens the fragile cease-fire between Israel and Palestinian factions after weeks of escalating tensions. Hundreds of Palestinians and at least three Israeli soldiers have died in the renewed clashes, jeopardizing stability in the region. The ongoing conflict underscores the deeply entrenched grievances and lack of trust between the involved parties. Without sustained diplomatic efforts, the violence risks escalating further and undermining prospects for a lasting peace."
   }
 ]
