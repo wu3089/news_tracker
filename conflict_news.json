@@ -1,26 +1,41 @@
 [
   {
-    "title": "Von Der Leyen Claims Moscow Lacks Genuine Interest in Peace Talks",
-    "link": "https://www.bbc.com/news/articles/c208wjpv4r9o?at_medium=RSS&at_campaign=rss",
+    "title": "The European Union Proposes Stronger Defense Industry Ties with Ukraine",
+    "link": "https://apnews.com/article/europe-ukraine-defense-industry-eu-russia-war-82b65d0a00637afa0630c48680223065",
+    "source": "Associated Press",
+    "date_str": "November 25, 2025",
+    "summary": "Amidst a stalled U.S. peace plan and ongoing Russian unconventional warfare, the European Union voted to deepen its defense industry ties with Ukraine. European lawmakers are acting to integrate the EU's defense sector more closely with Ukraine's. This decision comes as the 27-nation bloc seeks to bolster Ukraine's defense capabilities in the face of continued Russian aggression. The EU's move signifies a commitment to Ukraine's security as the conflict with Russia persists."
+  },
+  {
+    "title": "One Year After Ceasefire, Israeli Strikes Continue to Hinder Peace in South Lebanon",
+    "link": "https://www.bbc.com/news/articles/cdd560nvqqdo?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
-    "pub_date": "Wed, 26 Nov 2025 11:33:24 GMT",
-    "summary": "European Commission President Ursula von der Leyen asserted that Moscow demonstrates no genuine intention to engage in peace negotiations regarding the conflict in Ukraine. Von der Leyen affirmed the European Union's commitment to stand by Ukraine and provide unwavering support. This statement occurs amidst the ongoing war in Ukraine, where diplomatic efforts to de-escalate the conflict have thus far failed to yield substantial progress, highlighting the continued impasse between Russia and the international community. The EU's continued support signals a resolve to counter Russian aggression and uphold Ukrainian sovereignty.",
-    "date_str": "November 26, 2025"
+    "pub_date": "Thu, 27 Nov 2025 06:00:14 GMT",
+    "summary": "One year after a ceasefire, peace remains elusive in South Lebanon as Israel continues to launch strikes. Israel asserts these attacks target Hezbollah's efforts to rebuild its capabilities following previous conflicts. These ongoing strikes occur within a context of persistent tensions between Israel and Hezbollah, with each side closely monitoring the other's activities along the border. The situation underscores the fragility of the ceasefire and the potential for renewed escalation between the two actors.",
+    "date_str": "November 27, 2025"
   },
   {
-    "title": "As Trump Seeks to End Ukraine War, Europe Strives for Influence",
-    "text": "Initially cut out of development of the 28-point peace plan, European leaders are now trying to recast its pro-Russia slant. So far, it seems to be working.",
-    "link": "https://www.nytimes.com/2025/11/25/world/europe/trump-ukraine-war-peace-plan-merz-macron-starmer.html",
-    "date_str": "November 25, 2025",
+    "title": "The Critical Question in Peace Talks Remains: What Will Putin Agree To?",
+    "text": "A U.S. proposal may cross a number of red lines for the Russian leader, who sees little to lose and much potentially to gain from continuing to fight.",
+    "link": "https://www.nytimes.com/2025/11/26/world/europe/russia-putin-ukraine-peace-talks.html",
+    "date_str": "November 26, 2025",
     "source": "NYT",
-    "summary": "European leaders are actively working to revise a 28-point peace plan initially perceived as pro-Russia. Their efforts aim to reframe the plan's perspective, suggesting a shift away from its original pro-Russia bias. This intervention highlights the ongoing geopolitical maneuvering surrounding the peace initiative and its potential impact on the conflict's resolution. The successful recalibration signifies Europe's growing influence and its desire to play a more central role in mediating the situation."
+    "summary": "The United States has offered a proposal to Russia, attempting to de-escalate the ongoing conflict. This proposal, however, potentially challenges core tenets held by Russian President Vladimir Putin, who currently perceives strategic advantages in maintaining military operations. Putin's calculus, influenced by factors such as domestic political considerations and perceived geopolitical leverage, suggests he may be disinclined to accept terms viewed as unfavorable to Russian interests. The situation unfolds against a backdrop of strained U.S.-Russia relations and divergent perspectives on the regional security architecture."
   },
   {
-    "title": "Russia Launched Attacks on Ukraine, Signaling Opposition to Peace Plan Changes",
-    "text": "The attack killed at least seven people in Kyiv, the authorities said, as Moscow suggested it would resist changes negotiated by Ukraine.",
-    "link": "https://www.nytimes.com/2025/11/25/world/europe/ukraine-russia-strike-peace-plan.html",
-    "date_str": "November 25, 2025",
+    "title": "Top U.S. Negotiator Warned Europeans About Russia's Missile Stockpiling",
+    "text": "Daniel P. Driscoll, the U.S. Army secretary, used the growing threat from Moscow as a way to sell a quick peace deal unfavorable to Ukraine.",
+    "link": "https://www.nytimes.com/2025/11/26/world/europe/ukraine-peace-talks-russia-missiles.html",
+    "date_str": "November 26, 2025",
     "source": "NYT",
-    "summary": "Russian forces attacked Kyiv, killing at least seven individuals, escalating tensions amidst ongoing negotiations. This attack underscores Moscow's apparent resistance to Ukrainian-negotiated changes, signaling a potential breakdown in diplomatic efforts. The Kremlin's actions risk further destabilizing the region and undermining prospects for a peaceful resolution to the conflict. This event occurs against the backdrop of protracted conflict and international efforts to mediate a ceasefire."
+    "summary": "Amid escalating tensions with Moscow, U.S. Army Secretary Daniel P. Driscoll leverages the perceived Russian threat to advocate for a swift peace agreement between Ukraine and Russia. Driscoll's actions are significant as they suggest a willingness within the U.S. to prioritize de-escalation with Russia, potentially at the expense of Ukrainian interests and territorial integrity. This push for a rapid resolution highlights differing perspectives within the U.S. government regarding the optimal approach to the ongoing conflict and the extent of support for Ukraine. The situation unfolds against the backdrop of a complex geopolitical landscape where the U.S. balances its commitment to allies with strategic considerations concerning Russia."
+  },
+  {
+    "title": "Eli Zeira, A Former Israeli Official, Died at 97 After Dismissing War Warnings",
+    "text": "As Israel’s head of military intelligence, he disregarded signs Egypt and Syria were about to attack in 1973. A commission blamed him for the lack of preparation.",
+    "link": "https://www.nytimes.com/2025/11/26/world/middleeast/eli-zeira-dead.html",
+    "date_str": "November 26, 2025",
+    "source": "NYT",
+    "summary": "In 1973, Israel's head of military intelligence gravely misjudged intelligence indicating an impending assault by Egypt and Syria, leading to a critical failure in preparedness. Consequently, a formal commission investigated and held him responsible for the significant intelligence oversight. This intelligence failure, impacting Israel's initial response in the Yom Kippur War, demonstrates the vital importance of effective intelligence assessment and preparation in national security strategy. The incident serves as a stark reminder of the consequences of dismissing credible warnings."
   }
 ]
