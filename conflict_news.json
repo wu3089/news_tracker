@@ -1,17 +1,57 @@
 [
   {
-    "title": "Rubio Reports US-Ukraine Talks on Russia's War Were Successful, Yet More Work Is Needed",
-    "link": "https://apnews.com/article/trump-ukraine-russia-rubio-witkoff-de0fe08a5f472e130f46aa0bf3338b43",
+    "title": "Putin Accuses Europeans of Undermining Peace Efforts in Ukraine",
+    "link": "https://apnews.com/article/russia-ukraine-war-envoy-witkoff-zelenskyy-ireland-91d8a82058a80521f0f9491105fba8e1",
     "source": "Associated Press",
-    "date_str": "November 30, 2025",
-    "summary": "U.S. and Ukrainian officials convened for four hours in Florida, led by Secretary of State Marco Rubio, Special Envoy Steve Witkoff, and Jared Kushner, to discuss potential resolutions to the ongoing Russia-Ukraine war. The talks, while deemed productive by Rubio, indicate that substantial obstacles remain in reaching a comprehensive agreement. These discussions occur against the backdrop of a protracted conflict involving key players such as Vladimir Putin and Volodymyr Zelenskyy, necessitating diplomatic engagement from the United States. The meeting underscores the continued efforts to find a path toward de-escalation and stability in the region."
+    "date_str": "December 02, 2025",
+    "summary": "U.S. Special Envoy Steve Witkoff met with Russian President Vladimir Putin and his foreign policy advisor Yuri Ushakov in Moscow to discuss the ongoing conflict in Ukraine. Ushakov characterized the talks as \"constructive,\" but indicated that significant work remains to resolve the nearly four-year war. The meeting highlights diplomatic efforts to address the protracted conflict, though the path to a resolution remains uncertain. This comes amid continued geopolitical tensions and underscores the complex dynamics between the U.S. and Russia in the region."
   },
   {
-    "title": "Recruiting Ads Reflect War's Evolution, Shifting From Zombies to Dogs",
-    "text": "Early Ukrainian military recruitment ads were a call to arms in an existential fight. Now, they frame joining as cool, a good career move or a point of pride.",
-    "link": "https://www.nytimes.com/interactive/2025/12/02/world/europe/ukraine-russia-war-recruitment-campaign.html",
-    "date_str": "December 02, 2025",
+    "title": "Medics Report Five Deaths After Israeli Airstrikes Hit Tents Near Khan Younis",
+    "link": "https://www.bbc.com/news/articles/cnv21m0zpjmo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "pub_date": "Wed, 03 Dec 2025 22:09:36 GMT",
+    "summary": "Israeli forces conducted air strikes near Khan Younis, Gaza, resulting in the deaths of five individuals, according to medical personnel. Rescue workers recovered the bodies from a camp for displaced people. The Israel Defense Forces (IDF) stated that they targeted a Hamas operative during the operation. This event occurs amid ongoing conflict between Israel and Hamas, further exacerbating the humanitarian crisis and raising concerns about the protection of civilians in the region.",
+    "date_str": "December 04, 2025"
+  },
+  {
+    "title": "A Crisis Is Brewing in Israel Regarding the Ultra-Orthodox Conscription Bill",
+    "link": "https://www.bbc.com/news/articles/cly580gkd9ro?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "pub_date": "Wed, 03 Dec 2025 06:06:49 GMT",
+    "summary": "Israeli lawmakers are currently considering a draft bill that would end the longstanding exemption from mandatory military service for ultra-Orthodox men engaged in full-time religious study. This legislative effort threatens to destabilize Israel's governing coalition, as it directly challenges the interests of key ultra-Orthodox political parties who have historically maintained this exemption. The debate over conscription reflects deeper tensions within Israeli society regarding the balance between religious observance, civic duties, and national security, and could precipitate a governmental crisis if coalition members cannot reach a consensus. Historically, these exemptions have been a point of contention, highlighting the delicate relationship between religious and secular elements within Israel's political landscape.",
+    "date_str": "December 04, 2025"
+  },
+  {
+    "title": "Ukrainians in war-ravaged Donbas weigh prospects of peace deal",
+    "link": "https://www.bbc.com/news/articles/cpq47derx2vo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "pub_date": "Tue, 02 Dec 2025 17:00:23 GMT",
+    "summary": "In war-ravaged Donbas, Ukrainians are currently evaluating the potential for a peace agreement with Russia, revealing a divide in sentiment. While some Ukrainians feel they have already sacrificed too much to cede territory, others express a strong desire for the conflict to cease. These differing opinions underscore the complex and emotional considerations surrounding any potential resolution to the ongoing war. The BBC news article highlights the impact of the conflict on the Donbas region and the difficult choices facing its residents amidst continued geopolitical tensions between Ukraine and Russia. International actors closely monitor these local perspectives as they could influence future negotiations and the overall trajectory of the conflict.",
+    "date_str": "December 04, 2025"
+  },
+  {
+    "title": "Trump Will Host Congo and Rwanda Leaders to Discuss Peace in Ongoing Conflict",
+    "text": "The president will meet with the leaders of Rwanda and the Democratic Republic of Congo to advance a deal meant to end a long war in eastern Congo.",
+    "link": "https://www.nytimes.com/2025/12/04/us/politics/trump-congo-rwanda-leaders-peace-talks.html",
+    "date_str": "December 04, 2025",
     "source": "NYT",
-    "summary": "Faced with evolving war realities, Ukraine shifts its military recruitment strategy from appeals to patriotism to portray service as a viable and appealing career path. This transition aims to attract new recruits by highlighting the benefits and social cachet of military service, addressing a potential decline in volunteers as the war prolongs. The Ukrainian military and government are spearheading this campaign, adapting their messaging to resonate with a wider segment of the population. This recalibration marks a significant effort to sustain its fighting force amid the ongoing conflict with Russia, acknowledging the need for a more pragmatic approach to personnel acquisition."
+    "summary": "To address the ongoing conflict in eastern Congo, the president is convening a summit with the leaders of Rwanda and the Democratic Republic of Congo. This meeting aims to solidify an existing agreement intended to resolve the protracted war, which has destabilized the region for years and caused immense human suffering. The president's direct involvement underscores the importance the US places on regional stability and its willingness to mediate between these key African players. Successful negotiations could de-escalate tensions, potentially paving the way for lasting peace and improved humanitarian conditions."
+  },
+  {
+    "title": "Macron Asks Xi to Assist in Ceasing Ukraine War",
+    "text": "As President Emmanuel Macron of France visited China, its leader, Xi Jinping, said his country would play a constructive role in ending the fighting.",
+    "link": "https://www.nytimes.com/2025/12/04/world/asia/china-france-macron-ukraine.html",
+    "date_str": "December 04, 2025",
+    "source": "NYT",
+    "summary": "During French President Emmanuel Macron's visit to China, President Xi Jinping pledged China will play a constructive role in resolving the conflict. Xi's statement carries significant weight, as China maintains close ties with Russia, a key party in the conflict, and possesses considerable diplomatic leverage. The meeting occurred amidst international pressure for China to use its influence to promote a peaceful resolution, reflecting a broader effort to engage China in global security matters. Macron's visit underscored Europe's continued engagement with China on issues of global security and economic cooperation."
+  },
+  {
+    "title": "Separatist Forces Supported by U.A.E. Have Entered Yemen's Oil-Rich Region",
+    "text": "The separatists were battling to secure the region’s oil fields, residents and the group’s officials said. Their swift advance could be a turning point in Yemen’s decade-long civil war.",
+    "link": "https://www.nytimes.com/2025/12/03/world/middleeast/yemen-militias-attack-oil-uae.html",
+    "date_str": "December 03, 2025",
+    "source": "NYT",
+    "summary": "Separatist forces in Yemen intensified their efforts to seize control of the nation's oil fields, a strategic maneuver potentially reshaping the dynamics of the decade-long civil conflict. These separatists aim to consolidate power in southern Yemen. This escalation occurs within the broader context of Yemen's complex civil war, involving various factions vying for control and outside actors with competing interests."
   }
 ]
