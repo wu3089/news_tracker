@@ -1,57 +1,34 @@
 [
   {
-    "title": "Putin Accuses Europeans of Undermining Peace Efforts in Ukraine",
-    "link": "https://apnews.com/article/russia-ukraine-war-envoy-witkoff-zelenskyy-ireland-91d8a82058a80521f0f9491105fba8e1",
-    "source": "Associated Press",
-    "date_str": "December 02, 2025",
-    "summary": "U.S. Special Envoy Steve Witkoff met with Russian President Vladimir Putin and his foreign policy advisor Yuri Ushakov in Moscow to discuss the ongoing conflict in Ukraine. Ushakov characterized the talks as \"constructive,\" but indicated that significant work remains to resolve the nearly four-year war. The meeting highlights diplomatic efforts to address the protracted conflict, though the path to a resolution remains uncertain. This comes amid continued geopolitical tensions and underscores the complex dynamics between the U.S. and Russia in the region."
-  },
-  {
-    "title": "Medics Report Five Deaths After Israeli Airstrikes Hit Tents Near Khan Younis",
-    "link": "https://www.bbc.com/news/articles/cnv21m0zpjmo?at_medium=RSS&at_campaign=rss",
+    "title": "Putin says Russia will take Donbas by force or Ukraine's troops will withdraw",
+    "link": "https://www.bbc.com/news/articles/cgexgwr1wrro?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
-    "pub_date": "Wed, 03 Dec 2025 22:09:36 GMT",
-    "summary": "Israeli forces conducted air strikes near Khan Younis, Gaza, resulting in the deaths of five individuals, according to medical personnel. Rescue workers recovered the bodies from a camp for displaced people. The Israel Defense Forces (IDF) stated that they targeted a Hamas operative during the operation. This event occurs amid ongoing conflict between Israel and Hamas, further exacerbating the humanitarian crisis and raising concerns about the protection of civilians in the region.",
-    "date_str": "December 04, 2025"
+    "pub_date": "Fri, 05 Dec 2025 06:12:19 GMT",
+    "summary": "Amidst ongoing negotiations between U.S. and Ukrainian officials, Vladimir Putin declared that Russia will seize the Donbas region by force if Ukrainian troops do not withdraw. Putin's statement escalates tensions, representing a potential shift towards intensified conflict in the region. The ultimatum comes as the U.S. and Ukraine seek diplomatic solutions. The threat underscores Russia's continued strategic focus on controlling the Donbas, a region with a significant Russian-speaking population and a history of separatist conflict.",
+    "date_str": "December 05, 2025"
   },
   {
-    "title": "A Crisis Is Brewing in Israel Regarding the Ultra-Orthodox Conscription Bill",
-    "link": "https://www.bbc.com/news/articles/cly580gkd9ro?at_medium=RSS&at_campaign=rss",
+    "title": "Anti-Hamas Militia Leader Yasser Abu Shabab Was Killed in Gaza",
+    "link": "https://www.bbc.com/news/articles/cz0nd088e09o?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
-    "pub_date": "Wed, 03 Dec 2025 06:06:49 GMT",
-    "summary": "Israeli lawmakers are currently considering a draft bill that would end the longstanding exemption from mandatory military service for ultra-Orthodox men engaged in full-time religious study. This legislative effort threatens to destabilize Israel's governing coalition, as it directly challenges the interests of key ultra-Orthodox political parties who have historically maintained this exemption. The debate over conscription reflects deeper tensions within Israeli society regarding the balance between religious observance, civic duties, and national security, and could precipitate a governmental crisis if coalition members cannot reach a consensus. Historically, these exemptions have been a point of contention, highlighting the delicate relationship between religious and secular elements within Israel's political landscape.",
-    "date_str": "December 04, 2025"
+    "pub_date": "Thu, 04 Dec 2025 21:45:33 GMT",
+    "summary": "Yasser Abu Shabab, a leader of an anti-Hamas militia group called the Popular Forces, died in Gaza. Abu Shabab's own group reports he was shot while attempting to resolve a family dispute, dispelling initial speculation that Hamas orchestrated the killing. This event occurs against the backdrop of ongoing tensions between Hamas, which controls Gaza, and various other factions vying for power and influence within the territory. The incident underscores the complex and volatile security situation in Gaza, where internal conflicts and power struggles often complicate the broader Israeli-Palestinian dynamic.",
+    "date_str": "December 05, 2025"
   },
   {
-    "title": "Ukrainians in war-ravaged Donbas weigh prospects of peace deal",
-    "link": "https://www.bbc.com/news/articles/cpq47derx2vo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "pub_date": "Tue, 02 Dec 2025 17:00:23 GMT",
-    "summary": "In war-ravaged Donbas, Ukrainians are currently evaluating the potential for a peace agreement with Russia, revealing a divide in sentiment. While some Ukrainians feel they have already sacrificed too much to cede territory, others express a strong desire for the conflict to cease. These differing opinions underscore the complex and emotional considerations surrounding any potential resolution to the ongoing war. The BBC news article highlights the impact of the conflict on the Donbas region and the difficult choices facing its residents amidst continued geopolitical tensions between Ukraine and Russia. International actors closely monitor these local perspectives as they could influence future negotiations and the overall trajectory of the conflict.",
-    "date_str": "December 04, 2025"
+    "title": "Yemen's Civil War May Escalate, and Here's a Summary of the Situation",
+    "text": "An armed group backed by the United Arab Emirates has pushed into the oil-rich province of Hadramout, a move that could reignite conflict in Yemen after years of a stalemate.",
+    "link": "https://www.nytimes.com/2025/12/05/world/middleeast/yemen-separatism.html",
+    "date_str": "December 05, 2025",
+    "source": "NYT",
+    "summary": "An Emirati-backed armed group recently advanced into Yemen's Hadramout province, threatening to destabilize the fragile, long-standing stalemate in the country's civil war. The move by forces aligned with the UAE could trigger renewed fighting with other factions vying for control in Yemen. Key players in this escalation include the UAE, its proxy forces, and various Yemeni groups with competing regional and international backing. This development underscores the continued foreign interference and complex power dynamics that fuel instability in Yemen, despite ongoing efforts to achieve a lasting peace agreement."
   },
   {
-    "title": "Trump Will Host Congo and Rwanda Leaders to Discuss Peace in Ongoing Conflict",
-    "text": "The president will meet with the leaders of Rwanda and the Democratic Republic of Congo to advance a deal meant to end a long war in eastern Congo.",
-    "link": "https://www.nytimes.com/2025/12/04/us/politics/trump-congo-rwanda-leaders-peace-talks.html",
+    "title": "Deadly Attacks in Gaza Test Cease-Fire as Body of Another Captive Is Returned",
+    "text": "Israel launched a military strike after it said Hamas militants attacked its soldiers, the latest clashes in the two months since a truce was signed.",
+    "link": "https://www.nytimes.com/2025/12/04/world/middleeast/gaza-strikes-ceasefire.html",
     "date_str": "December 04, 2025",
     "source": "NYT",
-    "summary": "To address the ongoing conflict in eastern Congo, the president is convening a summit with the leaders of Rwanda and the Democratic Republic of Congo. This meeting aims to solidify an existing agreement intended to resolve the protracted war, which has destabilized the region for years and caused immense human suffering. The president's direct involvement underscores the importance the US places on regional stability and its willingness to mediate between these key African players. Successful negotiations could de-escalate tensions, potentially paving the way for lasting peace and improved humanitarian conditions."
-  },
-  {
-    "title": "Macron Asks Xi to Assist in Ceasing Ukraine War",
-    "text": "As President Emmanuel Macron of France visited China, its leader, Xi Jinping, said his country would play a constructive role in ending the fighting.",
-    "link": "https://www.nytimes.com/2025/12/04/world/asia/china-france-macron-ukraine.html",
-    "date_str": "December 04, 2025",
-    "source": "NYT",
-    "summary": "During French President Emmanuel Macron's visit to China, President Xi Jinping pledged China will play a constructive role in resolving the conflict. Xi's statement carries significant weight, as China maintains close ties with Russia, a key party in the conflict, and possesses considerable diplomatic leverage. The meeting occurred amidst international pressure for China to use its influence to promote a peaceful resolution, reflecting a broader effort to engage China in global security matters. Macron's visit underscored Europe's continued engagement with China on issues of global security and economic cooperation."
-  },
-  {
-    "title": "Separatist Forces Supported by U.A.E. Have Entered Yemen's Oil-Rich Region",
-    "text": "The separatists were battling to secure the region’s oil fields, residents and the group’s officials said. Their swift advance could be a turning point in Yemen’s decade-long civil war.",
-    "link": "https://www.nytimes.com/2025/12/03/world/middleeast/yemen-militias-attack-oil-uae.html",
-    "date_str": "December 03, 2025",
-    "source": "NYT",
-    "summary": "Separatist forces in Yemen intensified their efforts to seize control of the nation's oil fields, a strategic maneuver potentially reshaping the dynamics of the decade-long civil conflict. These separatists aim to consolidate power in southern Yemen. This escalation occurs within the broader context of Yemen's complex civil war, involving various factions vying for control and outside actors with competing interests."
+    "summary": "Following a two-month truce, Israeli forces initiated a military operation in response to alleged Hamas attacks on its soldiers, reigniting tensions in the region. The Israeli government asserts that Hamas militants violated the ceasefire agreement, prompting the retaliatory strike and threatening the fragile peace. This renewed conflict underscores the persistent instability and unresolved issues between Israel and Hamas, jeopardizing ongoing diplomatic efforts to achieve a lasting resolution. The international community closely monitors the evolving situation, fearing further escalation and humanitarian consequences."
   }
 ]
