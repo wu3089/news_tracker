@@ -1,19 +1,11 @@
 [
   {
-    "title": "Putin says Russia will take Donbas by force or Ukraine's troops will withdraw",
-    "link": "https://www.bbc.com/news/articles/cgexgwr1wrro?at_medium=RSS&at_campaign=rss",
+    "title": "Deadly Border Fighting Has Broken Out Between Pakistan and Afghanistan",
+    "link": "https://www.bbc.com/news/articles/cn09zp87pz8o?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
-    "pub_date": "Fri, 05 Dec 2025 06:12:19 GMT",
-    "summary": "Amidst ongoing negotiations between U.S. and Ukrainian officials, Vladimir Putin declared that Russia will seize the Donbas region by force if Ukrainian troops do not withdraw. Putin's statement escalates tensions, representing a potential shift towards intensified conflict in the region. The ultimatum comes as the U.S. and Ukraine seek diplomatic solutions. The threat underscores Russia's continued strategic focus on controlling the Donbas, a region with a significant Russian-speaking population and a history of separatist conflict.",
-    "date_str": "December 05, 2025"
-  },
-  {
-    "title": "Anti-Hamas Militia Leader Yasser Abu Shabab Was Killed in Gaza",
-    "link": "https://www.bbc.com/news/articles/cz0nd088e09o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC",
-    "pub_date": "Thu, 04 Dec 2025 21:45:33 GMT",
-    "summary": "Yasser Abu Shabab, a leader of an anti-Hamas militia group called the Popular Forces, died in Gaza. Abu Shabab's own group reports he was shot while attempting to resolve a family dispute, dispelling initial speculation that Hamas orchestrated the killing. This event occurs against the backdrop of ongoing tensions between Hamas, which controls Gaza, and various other factions vying for power and influence within the territory. The incident underscores the complex and volatile security situation in Gaza, where internal conflicts and power struggles often complicate the broader Israeli-Palestinian dynamic.",
-    "date_str": "December 05, 2025"
+    "pub_date": "Sat, 06 Dec 2025 08:23:37 GMT",
+    "summary": "New clashes erupted between Pakistani and Afghan forces, jeopardizing a fragile ceasefire agreement established in October. Both sides, including the Taliban, trade accusations regarding who initiated the overnight fighting and violated the established truce. These renewed hostilities exacerbate already strained relations between the two countries, fueled by ongoing disputes over border demarcation and Pakistan's concerns about the presence of anti-Pakistan militants within Afghanistan. The fighting underscores the persistent instability in the region and the challenges in maintaining peace along the Afghanistan-Pakistan border. Hafizullah Maroof reported on the events.",
+    "date_str": "December 06, 2025"
   },
   {
     "title": "Yemen's Civil War May Escalate, and Here's a Summary of the Situation",
@@ -21,14 +13,30 @@
     "link": "https://www.nytimes.com/2025/12/05/world/middleeast/yemen-separatism.html",
     "date_str": "December 05, 2025",
     "source": "NYT",
-    "summary": "An Emirati-backed armed group recently advanced into Yemen's Hadramout province, threatening to destabilize the fragile, long-standing stalemate in the country's civil war. The move by forces aligned with the UAE could trigger renewed fighting with other factions vying for control in Yemen. Key players in this escalation include the UAE, its proxy forces, and various Yemeni groups with competing regional and international backing. This development underscores the continued foreign interference and complex power dynamics that fuel instability in Yemen, despite ongoing efforts to achieve a lasting peace agreement."
+    "summary": "An armed group with UAE backing advanced into Yemen's Hadramout province, threatening to destabilize the fragile status quo after years of conflict. This incursion by forces allied with the UAE challenges the existing power dynamics in the oil-rich region and risks reigniting broader fighting. Hadramout's strategic importance and resources make it a key battleground, with this UAE-backed move potentially undermining efforts to find a peaceful resolution to the Yemeni civil war. Ultimately, this escalation highlights the continued involvement of external actors and the enduring complexities of the conflict."
   },
   {
-    "title": "Deadly Attacks in Gaza Test Cease-Fire as Body of Another Captive Is Returned",
-    "text": "Israel launched a military strike after it said Hamas militants attacked its soldiers, the latest clashes in the two months since a truce was signed.",
-    "link": "https://www.nytimes.com/2025/12/04/world/middleeast/gaza-strikes-ceasefire.html",
+    "title": "Germany Has Constrained Its Army Since 1945, but He Seeks to Revive It",
+    "text": "Boris Pistorius, Germany’s defense minister, is pushing to expand its military in case tensions with Russia escalate. That’s tricky in a country where the Nazi era casts a long shadow.",
+    "link": "https://www.nytimes.com/2025/12/05/world/europe/germany-military-boris-pistorius-defense-minister.html",
+    "date_str": "December 05, 2025",
+    "source": "NYT",
+    "summary": "Germany's Defense Minister Boris Pistorius advocates for military expansion amidst escalating tensions with Russia, signaling a potential shift in the nation's security posture. This effort, however, faces internal resistance due to the historical burden of Germany's Nazi past and its enduring impact on public opinion regarding military strength. Pistorius aims to overcome this legacy and modernize the Bundeswehr to deter potential Russian aggression, a move reflecting growing concerns about European security. The success of Pistorius's plan hinges on navigating Germany's complex relationship with its military history while addressing the urgent need for credible defense capabilities."
+  },
+  {
+    "title": "Trump's Washington Experienced Cognitive Dissonance Amidst War and Peace",
+    "text": "President Trump presided over a Congo-Rwanda peace deal on the same day his administration was being questioned about potential war crimes.",
+    "link": "https://www.nytimes.com/2025/12/04/us/politics/trump-congo-rwanda-boat-strikes.html",
     "date_str": "December 04, 2025",
     "source": "NYT",
-    "summary": "Following a two-month truce, Israeli forces initiated a military operation in response to alleged Hamas attacks on its soldiers, reigniting tensions in the region. The Israeli government asserts that Hamas militants violated the ceasefire agreement, prompting the retaliatory strike and threatening the fragile peace. This renewed conflict underscores the persistent instability and unresolved issues between Israel and Hamas, jeopardizing ongoing diplomatic efforts to achieve a lasting resolution. The international community closely monitors the evolving situation, fearing further escalation and humanitarian consequences."
+    "summary": "The Trump administration brokered a peace agreement between the Democratic Republic of Congo and Rwanda, aiming to de-escalate tensions and foster regional stability in the Great Lakes region of Africa. This diplomatic effort coincided with scrutiny directed at the administration regarding alleged war crimes, creating a complex juxtaposition of foreign policy engagement and accountability concerns. The timing of the deal potentially offered a strategic distraction amidst growing domestic and international criticism. While Rwanda's Paul Kagame and the DRC's leadership engaged in the peace talks, President Trump's direct involvement sought to elevate the U.S.'s role as a facilitator in resolving long-standing regional conflicts."
+  },
+  {
+    "title": "The U.N. Warns of Impending Atrocities Amidst Sudan's Civil War",
+    "text": "Paramilitary groups have intensified an offensive on a crucial region bordering Darfur, prompting fears of another massacre.",
+    "link": "https://www.nytimes.com/2025/12/04/world/africa/sudan-civil-war-kordofan.html",
+    "date_str": "December 04, 2025",
+    "source": "NYT",
+    "summary": "Paramilitary groups escalate attacks on a region bordering Darfur, raising concerns of a potential large-scale massacre reminiscent of past atrocities in the Darfur conflict. This offensive threatens to destabilize an already fragile area and exacerbate the humanitarian crisis, potentially displacing further populations. The paramilitary groups, whose actions are a key driver of instability, pursue territorial gains, thereby undermining peace efforts. Their actions come against the backdrop of ongoing political instability in Sudan and the legacy of the Darfur conflict, where violence and displacement continue to plague the region."
   }
 ]
