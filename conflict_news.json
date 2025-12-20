@@ -1,9 +1,17 @@
 [
   {
-    "title": "No Articles Found",
-    "summary": "No conflict-related articles were found.",
-    "source": "system",
-    "date_str": "December 19, 2025",
-    "link": ""
+    "title": "Over 1,600 killed in attacks on health centers in Sudan in 2025: UN health chief",
+    "link": "https://apnews.com/article/sudan-war-military-rsf-498505b85e5a83aa03ce42daca89c2e0",
+    "source": "Associated Press",
+    "date_str": "December 18, 2025",
+    "summary": "No summary available"
+  },
+  {
+    "title": "With Attacks on Oil Tankers, Ukraine Takes Aim at Russia’s War Financing",
+    "text": "Strikes on four vessels signal that Kyiv is willing to expand the maritime theater of the conflict in an effort to crimp Moscow’s military funding.",
+    "link": "https://www.nytimes.com/2025/12/20/world/europe/russia-ukraine-oil-tanker-attacks-shadow-fleet.html",
+    "date_str": "December 20, 2025",
+    "source": "NYT",
+    "summary": "No summary available"
   }
 ]
