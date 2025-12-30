@@ -1,9 +1,26 @@
 [
   {
-    "title": "No Articles Found",
-    "summary": "No conflict-related articles were found.",
-    "source": "system",
-    "date_str": "December 29, 2025",
-    "link": ""
+    "title": "Ukraine denies drone attack on Putin's residence",
+    "link": "https://www.bbc.com/news/articles/c4g4g5lgngvo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "pub_date": "Tue, 30 Dec 2025 11:43:26 GMT",
+    "summary": "No summary available",
+    "date_str": "December 30, 2025"
+  },
+  {
+    "title": "Saudi-Led Airstrike in Yemen Threatens to Worsen Rift With U.A.E.",
+    "text": "The Saudi-led coalition said a strike on a port in southern Yemen was targeting weapons bound for a separatist group that is backed by the United Arab Emirates.",
+    "link": "https://www.nytimes.com/2025/12/30/world/middleeast/yemen-saudi-strike-uae.html",
+    "date_str": "December 30, 2025",
+    "source": "NYT",
+    "summary": "No summary available"
+  },
+  {
+    "title": "How Russia and Ukraine Are Fighting to Shape President Trump’s View of the War",
+    "text": "Off the battlefield, each side is trying to influence the American leader’s perception as they look to negotiate a peace settlement in their favor.",
+    "link": "https://www.nytimes.com/2025/12/30/world/europe/russia-ukraine-trump-influence.html",
+    "date_str": "December 30, 2025",
+    "source": "NYT",
+    "summary": "No summary available"
   }
 ]
