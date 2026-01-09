@@ -1,9 +1,18 @@
 [
   {
-    "title": "No Articles Found",
-    "summary": "No conflict-related articles were found.",
-    "source": "system",
+    "title": "Russia hits Ukraine with rarely used Oreshnik missile in fresh strikes",
+    "link": "https://www.bbc.com/news/articles/cgqe9kv9xxvo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "pub_date": "Fri, 09 Jan 2026 11:26:38 GMT",
+    "summary": "No summary available",
+    "date_str": "January 09, 2026"
+  },
+  {
+    "title": "Russia Says It Used Nuclear-Capable Missile to Strike Western Ukraine",
+    "text": "The attack seemed intended to send a message to Europe as it strongly backs Kyiv in the peace talks.",
+    "link": "https://www.nytimes.com/2026/01/08/world/europe/russia-ukraine-nuclear-capable-missile.html",
     "date_str": "January 08, 2026",
-    "link": ""
+    "source": "NYT",
+    "summary": "No summary available"
   }
 ]
