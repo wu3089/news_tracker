@@ -1,9 +1,18 @@
 [
   {
-    "title": "No Articles Found",
-    "summary": "No conflict-related articles were found.",
-    "source": "system",
+    "title": "Israeli strikes kill 20 in Gaza, hospitals say, after soldier wounded by gunfire",
+    "link": "https://www.bbc.com/news/articles/cpqyg0g5r0po?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "pub_date": "Wed, 04 Feb 2026 12:28:39 GMT",
+    "summary": "No summary available",
+    "date_str": "February 04, 2026"
+  },
+  {
+    "title": "Seif al-Islam el-Qaddafi, Son of Libyan Dictator, Is Killed in Attack, Lawyer Says",
+    "text": "Mr. el-Qaddafi, 53, a politician and a son of Col. Muammar el-Qaddafi, was killed after four men stormed his house, the lawyer said. No other details were released.",
+    "link": "https://www.nytimes.com/2026/02/03/world/middleeast/libya-seif-al-islam-el-qaddafi-killed.html",
     "date_str": "February 03, 2026",
-    "link": ""
+    "source": "NYT",
+    "summary": "No summary available"
   }
 ]
