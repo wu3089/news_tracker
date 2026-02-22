@@ -1,9 +1,25 @@
 [
   {
-    "title": "No Articles Found",
-    "summary": "No conflict-related articles were found.",
-    "source": "system",
+    "title": "Ukrainian drones strike deep inside Russia, targeting key missile factory",
+    "link": "https://apnews.com/article/russia-ukraine-war-drone-missile-factory-bdbce412526d3f9b32bedb8092cd642f",
+    "source": "Associated Press",
     "date_str": "February 21, 2026",
-    "link": ""
+    "summary": "No summary available"
+  },
+  {
+    "title": "Russia Attacks Ukraine Ahead of Invasion’s 4th Anniversary",
+    "text": "At least one man was killed in Kyiv as Moscow launched a wave of drones and missiles, days after the latest round of U.S.-mediated talks to end the war.",
+    "link": "https://www.nytimes.com/2026/02/22/world/europe/ukraine-russia-attacks-lviv.html",
+    "date_str": "February 22, 2026",
+    "source": "NYT",
+    "summary": "No summary available"
+  },
+  {
+    "title": "At Least 10 Killed in Lebanon, Officials Say, After Israel Strikes Hezbollah",
+    "text": "The Lebanese militant group said eight of its members were among those killed late Friday. The attacks threaten to further destabilize an already tenuous cease-fire.",
+    "link": "https://www.nytimes.com/2026/02/21/world/middleeast/israel-strikes-lebanon-hezbollah.html",
+    "date_str": "February 21, 2026",
+    "source": "NYT",
+    "summary": "No summary available"
   }
 ]
