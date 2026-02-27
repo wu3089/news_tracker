@@ -1,9 +1,26 @@
 [
   {
-    "title": "No Articles Found",
-    "summary": "No conflict-related articles were found.",
-    "source": "system",
+    "title": "At least 55 Ghanaians killed in Russia-Ukraine war, minister says",
+    "link": "https://www.bbc.com/news/articles/cgl5gxg3zj9o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "pub_date": "Fri, 27 Feb 2026 10:56:45 GMT",
+    "summary": "No summary available",
+    "date_str": "February 27, 2026"
+  },
+  {
+    "title": "Pakistan Strikes Afghanistan in ‘Open War’ Against Taliban Government",
+    "text": "The airstrikes came hours after Afghan troops had attacked Pakistani border positions and follow months of worsening relations between the neighboring countries.",
+    "link": "https://www.nytimes.com/2026/02/26/world/asia/pakistan-afghanistan-taliban.html",
     "date_str": "February 26, 2026",
-    "link": ""
+    "source": "NYT",
+    "summary": "No summary available"
+  },
+  {
+    "title": "In a New War, Would Israel Run Out of Missile Interceptors?",
+    "text": "The June 2025 conflict with Iran depleted Israeli and U.S. stocks of antiballistic missiles. If there is another war, the pressure will be on to destroy Iranian missiles before they can be launched.",
+    "link": "https://www.nytimes.com/2026/02/27/world/middleeast/israel-stockpile-missile-interceptors.html",
+    "date_str": "February 27, 2026",
+    "source": "NYT",
+    "summary": "No summary available"
   }
 ]
