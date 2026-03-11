@@ -1,9 +1,18 @@
 [
   {
-    "title": "No Articles Found",
-    "summary": "No conflict-related articles were found.",
-    "source": "system",
-    "date_str": "March 10, 2026",
-    "link": ""
+    "title": "War expands to central Beirut as Israeli strike kills Iranians in luxury hotel",
+    "link": "https://www.bbc.com/news/articles/c2k8y7vy78no?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "pub_date": "Tue, 10 Mar 2026 18:33:03 GMT",
+    "summary": "No summary available",
+    "date_str": "March 11, 2026"
+  },
+  {
+    "title": "New Iranian Leader Was Wounded Early in the War, Iranian and Israeli Officials Say",
+    "text": "Officials say Mojtaba Khamenei’s legs were hurt, but the circumstances as well as the extent of his injuries were unclear. He has remained out of view since being announced as leader three days ago.",
+    "link": "https://www.nytimes.com/2026/03/11/world/middleeast/khamenei-iran-leader-injured.html",
+    "date_str": "March 11, 2026",
+    "source": "NYT",
+    "summary": "No summary available"
   }
 ]
