@@ -5,5 +5,21 @@
     "source": "Associated Press",
     "date_str": "March 22, 2026",
     "summary": "No summary available"
+  },
+  {
+    "title": "At least five killed in massive wave of Russian strikes across Ukraine, officials say",
+    "link": "https://www.bbc.com/news/articles/c87wxvn0z3vo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "pub_date": "Tue, 24 Mar 2026 11:09:21 GMT",
+    "summary": "No summary available",
+    "date_str": "March 24, 2026"
+  },
+  {
+    "title": "Iran War Live Updates: Tehran Fires Missile Barrage at Israel After U.S. Claims Progress on Talks",
+    "text": "Israeli officials said missiles launched from Iran had hit Tel Aviv and other parts of the country. President Trump said there had been “very strong talks” with Iran to end the war, though Iranian officials did not confirm that.",
+    "link": "https://www.nytimes.com/live/2026/03/24/world/iran-war-trump-oil",
+    "date_str": "March 24, 2026",
+    "source": "NYT",
+    "summary": "No summary available"
   }
 ]
