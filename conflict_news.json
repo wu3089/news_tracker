@@ -1,10 +1,17 @@
 [
   {
-    "title": "29 Killed in Russian Military Plane Crash in Crimea",
-    "text": "Investigators cited a possible technical malfunction.",
-    "link": "https://www.nytimes.com/2026/04/01/world/europe/russia-military-plane-crash-crimea.html",
+    "title": "Iran hits tanker off coast of Qatar, Kuwait airport and Israel kills 5 in Beirut attack",
+    "link": "https://apnews.com/article/iran-us-israel-trump-lebanon-april-1-2026-19cf516c2d2c614eb182dbad7a6592ef",
+    "source": "Associated Press",
     "date_str": "April 01, 2026",
-    "source": "NYT",
     "summary": "No summary available"
+  },
+  {
+    "title": "Hundreds in Beirut mourn journalists killed in Israeli strike",
+    "link": "https://www.bbc.com/news/videos/ce354d73v2ko?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "pub_date": "Sun, 29 Mar 2026 15:20:44 GMT",
+    "summary": "No summary available",
+    "date_str": "April 02, 2026"
   }
 ]
