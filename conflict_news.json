@@ -1,9 +1,25 @@
 [
   {
-    "title": "No Articles Found",
-    "summary": "No conflict-related articles were found.",
-    "source": "system",
+    "title": "For many, Israeli attacks in Lebanon evoke its war in Gaza",
+    "link": "https://apnews.com/article/lebanon-israel-hezbollah-gaza-palestinians-hospital-attacks-2324ed88a4d95513093d427167335c6e",
+    "source": "Associated Press",
     "date_str": "April 06, 2026",
-    "link": ""
+    "summary": "No summary available"
+  },
+  {
+    "title": "Ten killed in Israeli strikes and clashes between Hamas and militia in Gaza, local sources say",
+    "link": "https://www.bbc.com/news/articles/c77md512n71o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "pub_date": "Mon, 06 Apr 2026 19:11:20 GMT",
+    "summary": "No summary available",
+    "date_str": "April 07, 2026"
+  },
+  {
+    "title": "Ukraine Ramps Up Attacks on Russian Oil, Aiming to Curb Iran War Windfall",
+    "text": "As the Persian Gulf conflict boosts the oil revenue that finances Moscow’s war against Ukraine, Kyiv’s forces are striking at Russia’s ability to refine and ship its crude.",
+    "link": "https://www.nytimes.com/2026/04/07/world/europe/ukraine-attacks-russian-oil-exports.html",
+    "date_str": "April 07, 2026",
+    "source": "NYT",
+    "summary": "No summary available"
   }
 ]
