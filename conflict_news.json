@@ -1,9 +1,18 @@
 [
   {
-    "title": "No Articles Found",
-    "summary": "No conflict-related articles were found.",
-    "source": "system",
-    "date_str": "April 26, 2026",
-    "link": ""
+    "title": "Kim Jong Un opens memorial for N Korean soldiers killed in Ukraine war",
+    "link": "https://www.bbc.com/news/articles/cql7l707244o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "pub_date": "Mon, 27 Apr 2026 06:52:59 GMT",
+    "summary": "No summary available",
+    "date_str": "April 27, 2026"
+  },
+  {
+    "title": "Fighting ‘Sacred’ War in Ukraine, North Korea and Russia Pledge to Deepen Ties",
+    "text": "The two countries discussed long-term military cooperation, as they opened a memorial for North Korean troops killed in Russia’s war in Ukraine.",
+    "link": "https://www.nytimes.com/2026/04/27/world/asia/north-korea-memorial-russia-ukraine.html",
+    "date_str": "April 27, 2026",
+    "source": "NYT",
+    "summary": "No summary available"
   }
 ]
