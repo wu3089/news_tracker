@@ -1,9 +1,18 @@
 [
   {
-    "title": "No Articles Found",
-    "summary": "No conflict-related articles were found.",
-    "source": "system",
-    "date_str": "May 12, 2026",
-    "link": ""
+    "title": "Russian drone attacks kill nine in Ukraine after ceasefire expires",
+    "link": "https://www.bbc.com/news/articles/ce3pj85depzo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "pub_date": "Wed, 13 May 2026 10:21:57 GMT",
+    "summary": "No summary available",
+    "date_str": "May 13, 2026"
+  },
+  {
+    "title": "Lebanon says two paramedics among 13 killed in Israeli strikes",
+    "link": "https://www.bbc.com/news/articles/cx21j3xl72zo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "pub_date": "Tue, 12 May 2026 20:00:05 GMT",
+    "summary": "No summary available",
+    "date_str": "May 13, 2026"
   }
 ]
