@@ -1,10 +1,17 @@
 [
   {
-    "title": "British Forces Seize Russian Shadow Fleet Oil Tanker",
-    "text": "Britain’s Defense Ministry said it was the first time that British forces had acted alone to stop a ship in the fleet, a collection of vessels that Russia uses to move fuel and evade sanctions.",
-    "link": "https://www.nytimes.com/2026/06/14/world/europe/uk-russia-shadow-fleet-oil-tanker-channel.html",
+    "title": "Palestinian death toll from Israel-Hamas war surpasses 73,000, Gaza health officials say",
+    "link": "https://apnews.com/6c2a19be999a0f6b69a7dd43ed337f53",
+    "source": "Associated Press",
     "date_str": "June 14, 2026",
-    "source": "NYT",
     "summary": "No summary available"
+  },
+  {
+    "title": "UK investigating reports Russian warship fired warning shots near yacht in English Channel",
+    "link": "https://www.bbc.com/news/articles/c20yzm84r7lo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "pub_date": "Tue, 16 Jun 2026 16:19:05 GMT",
+    "summary": "No summary available",
+    "date_str": "June 16, 2026"
   }
 ]
