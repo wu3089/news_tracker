@@ -1,10 +1,33 @@
 [
   {
-    "title": "Moscow hit by largest Ukrainian attack since start of Russia's full-scale war",
-    "link": "https://www.bbc.com/news/articles/c98291g5rr1o?at_medium=RSS&at_campaign=rss",
+    "title": "Ukraine hits Moscow oil refinery, disrupting commercial flights in major drone attack",
+    "link": "https://apnews.com/article/russia-ukraine-war-moscow-refinery-attack-oil-0ee97c720e770c392067418f9cabcbba",
+    "source": "Associated Press",
+    "date_str": "June 18, 2026",
+    "summary": "No summary available"
+  },
+  {
+    "title": "Thousands killed in US-Israeli war on Iran - but experts say true total may never be known",
+    "link": "https://www.bbc.com/news/articles/cy735xlv50ko?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
-    "pub_date": "Thu, 18 Jun 2026 09:47:47 GMT",
+    "pub_date": "Fri, 19 Jun 2026 05:33:59 GMT",
     "summary": "No summary available",
-    "date_str": "June 18, 2026"
+    "date_str": "June 19, 2026"
+  },
+  {
+    "title": "Ukraine Bombards Moscow With One of the Biggest Drone Attacks of the War",
+    "text": "The attack, which shut down the capital’s airports for several hours, was part of an escalating campaign to bring the conflict home to Russians.",
+    "link": "https://www.nytimes.com/2026/06/18/world/europe/moscow-ukraine-drone-attack-fire.html",
+    "date_str": "June 18, 2026",
+    "source": "NYT",
+    "summary": "No summary available"
+  },
+  {
+    "title": "Israel Launches Airstrikes in Lebanon After 4 Soldiers Are Killed",
+    "text": "The violence involving Israel and Iran-backed Hezbollah militants added to pressure on the U.S.-Iran deal, which calls for fighting to stop on all fronts, including in Lebanon.",
+    "link": "https://www.nytimes.com/2026/06/19/world/middleeast/lebanon-israel-attacks.html",
+    "date_str": "June 19, 2026",
+    "source": "NYT",
+    "summary": "No summary available"
   }
 ]
