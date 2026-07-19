@@ -1,10 +1,18 @@
 [
   {
-    "title": "Russian online retail warehouses hit by deadly Ukrainian strikes",
-    "link": "https://www.bbc.co.uk/news/articles/clyxlm877p2o?at_medium=RSS&at_campaign=rss",
+    "title": "Russia launches major ballistic missile attack on Ukrainian cities",
+    "link": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss",
     "source": "BBC",
-    "pub_date": "Sat, 18 Jul 2026 11:55:54 GMT",
+    "pub_date": "Sun, 19 Jul 2026 11:28:24 GMT",
     "summary": "No summary available",
-    "date_str": "July 18, 2026"
+    "date_str": "July 19, 2026"
+  },
+  {
+    "title": "Russia Batters Kyiv in One of the Largest Missile Assaults of the War",
+    "text": "On Saturday, Ukraine hit two warehouses in Russia in strikes that killed at least eight people and injured 62.",
+    "link": "https://www.nytimes.com/2026/07/19/world/europe/russia-ukraine-strikes.html",
+    "date_str": "July 19, 2026",
+    "source": "NYT",
+    "summary": "No summary available"
   }
 ]
