@@ -1,9 +1,25 @@
 [
   {
-    "title": "Russian Strike Destroyed Millions of H.I.V. Prevention Supplies in Ukraine",
-    "text": "No medications were affected, but if new prevention items are not procured, aid groups fear a surge in new infections next year.",
-    "link": "https://www.nytimes.com/2026/08/03/health/ukraine-war-hiv-aids.html",
-    "date_str": "August 03, 2026",
+    "title": "Russia strike kills 21 as Ukraine says it needs more missile interceptors",
+    "link": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "pub_date": "Wed, 05 Aug 2026 12:26:26 GMT",
+    "summary": "No summary available",
+    "date_str": "August 05, 2026"
+  },
+  {
+    "title": "Houthis Threaten to Expand Red Sea Attacks, and Claim Strike on Saudi Tanker",
+    "text": "Saudi Arabia has not commented on the claim by the Houthis, who are backed by Iran and have vowed to close “all access routes” to Saudi oil shipments.",
+    "link": "https://www.nytimes.com/2026/08/05/world/middleeast/houthis-claim-attack-saudi-arabia-tanker.html",
+    "date_str": "August 05, 2026",
+    "source": "NYT",
+    "summary": "No summary available"
+  },
+  {
+    "title": "Deadly Missile Attack on Kyiv Exploits Ukraine’s Depleted Air Defenses",
+    "text": "At least 17 people were killed, officials said, as the country runs desperately low on interceptor missiles that could fend off Russian bombardments.",
+    "link": "https://www.nytimes.com/2026/08/05/world/europe/ukraine-war-kyiv-russia-missile-attack.html",
+    "date_str": "August 05, 2026",
     "source": "NYT",
     "summary": "No summary available"
   }
