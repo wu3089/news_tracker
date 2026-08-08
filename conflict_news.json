@@ -1,9 +1,24 @@
 [
   {
-    "title": "Houthi Strikes on Yemeni Military Threaten to Reignite Civil War",
-    "text": "The Iranian-backed militia said it had targeted the armed forces in two resource-rich provinces, as escalating violence in Yemen imperils a fragile truce.",
-    "link": "https://www.nytimes.com/2026/08/06/world/middleeast/houthi-yemen-strikes.html",
-    "date_str": "August 06, 2026",
+    "title": "Ukrainian drones strike another warehouse of Russia’s top online retailer",
+    "link": "https://apnews.com/article/russia-ukraine-war-wildberries-ballistic-missiles-6101ca4702e1f66e8cb8a15819cd5931",
+    "source": "Associated Press",
+    "date_str": "August 07, 2026",
+    "summary": "No summary available"
+  },
+  {
+    "title": "Child among three killed in Russian missile attacks near Kyiv",
+    "link": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "pub_date": "Sat, 08 Aug 2026 06:12:56 GMT",
+    "summary": "No summary available",
+    "date_str": "August 08, 2026"
+  },
+  {
+    "title": "Houthis Claim Attack on Yemeni Military Camp",
+    "text": "Recent escalating tensions between the Iran-backed group and the Yemeni government have prompted fears that a truce in place since 2022 is nearing collapse.",
+    "link": "https://www.nytimes.com/2026/08/07/world/middleeast/yemen-houthis-attack-military-camp.html",
+    "date_str": "August 07, 2026",
     "source": "NYT",
     "summary": "No summary available"
   }
